@@ -78,15 +78,15 @@ def main() -> int:
     except Exception as e:
         rep["steps"]["books"] = {"error": str(e)[-1500:]}
         ok = False
-    try:
-        sh(["git", "add", "-A"], REPO)
-        out = sh(["git", "commit", "-m", f"evening batch {today}"], REPO, check=False)
-        rep["steps"]["git"] = "committed" if "nothing to commit" not in out else "nothing to commit"
-    except Exception as e:
-        rep["steps"]["git"] = f"error: {e}"
     rep["ok"] = ok
     (HERE / "ledgers").mkdir(exist_ok=True)
     (HERE / "ledgers" / f"evening_{today}.json").write_text(json.dumps(rep, indent=1, default=str))
+    try:                                         # commit last, so the run log itself is versioned
+        sh(["git", "add", "-A"], REPO)
+        out = sh(["git", "commit", "-m", f"evening batch {today}"], REPO, check=False)
+        rep["steps"]["git"] = "nothing to commit" if "nothing to commit" in out else "committed"
+    except Exception as e:
+        rep["steps"]["git"] = f"error: {e}"
     print(json.dumps(rep, indent=1, default=str))
     return 0 if ok else 1
 
