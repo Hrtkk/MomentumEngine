@@ -1,0 +1,15 @@
+# environment
+.venv/
+__pycache__/
+*.pyc
+.DS_Store
+# large, re-downloadable market data (sources, hashes and checks: data/raw/manifest.csv, experiments/SPEC*.md)
+data/history/*.parquet
+data/raw/bhav/
+data/raw/index/
+data/codex/*.html
+data/codex/*flight*.txt
+data/codex/*_parsed.json
+data/codex/et_retrieval_log.json
+experiments/data/
+experiments/results*/books.pkl

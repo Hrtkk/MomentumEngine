@@ -1,0 +1,136 @@
+{
+  "picks": [
+    {
+      "symbol": "LAURUSLABS",
+      "severity": "medium",
+      "bear_case": "Only 0.12% below the preceding 52-week high, with 0.99x volume; failed breakout could surrender gains before the active stop, 9.73% below close.",
+      "key_numbers": "Source: picks_2026-10-07.csv; close ₹2052.80; day +0.1%; SMA20 ₹1986.030 (+3.36%); RSI 66.82; preceding-252-session high ₹2055.30; ret21 +5.4%; ret63 +33.5%; volume 0.992x; delivery 44.53%; persistence 3/7; CSV signal stop ₹1960.927 (4.48% below close); active frozen stop from ledgers/state.json ₹1852.998 (9.73% below close)"
+    },
+    {
+      "symbol": "DIVISLAB",
+      "severity": "medium",
+      "bear_case": "The 40.3% 63-session advance has stalled to 0.1% over 21 sessions; 0.86x volume weakens conviction near overhead resistance at ₹9,740.",
+      "key_numbers": "Source: picks_2026-10-07.csv; close ₹9588.00; day +0.4%; SMA20 ₹9392.450 (+2.08%); RSI 62.01; preceding-252-session high ₹9740.00; ret21 +0.1%; ret63 +40.3%; volume 0.859x; delivery 62.50%; persistence 1/7; CSV signal stop ₹9206.738 (3.98% below close); active frozen stop from ledgers/state.json ₹8933.576 (6.83% below close)"
+    },
+    {
+      "symbol": "AUROPHARMA",
+      "severity": "medium",
+      "bear_case": "Close is 0.44% below SMA20; RSI 51.08 and negative 21-session return suggest fading momentum, with only 3.98% to the active stop.",
+      "key_numbers": "Source: picks_2026-10-07.csv; close ₹1682.00; day -0.6%; SMA20 ₹1689.420 (-0.44%); RSI 51.08; preceding-252-session high ₹1740.00; ret21 -0.6%; ret63 +7.5%; volume 0.519x; delivery 49.35%; persistence 1/7; CSV signal stop ₹1613.448 (4.08% below close); active frozen stop from ledgers/state.json ₹1615.051 (3.98% below close)"
+    },
+    {
+      "symbol": "CASTROLIND",
+      "severity": "high",
+      "bear_case": "A 1.5% daily decline leaves only 0.83% to the active stop; zero discovery appearances suggest fading leadership. Replacement exit is queued, exposing next-open gap risk.",
+      "key_numbers": "Source: picks_2026-10-07.csv; close ₹197.15; day -1.5%; SMA20 ₹195.239 (+0.98%); RSI 56.03; preceding-252-session high ₹207.20; ret21 +4.1%; ret63 +7.2%; volume 0.604x; delivery 62.39%; persistence 0/7; CSV signal stop ₹190.779 (3.23% below close); active frozen stop from ledgers/state.json ₹195.518 (0.83% below close)"
+    },
+    {
+      "symbol": "WELSPUNLIV",
+      "severity": "high",
+      "bear_case": "Price remains 6.53% above SMA20 after a 41.9% 63-session advance; RSI 68.39 and a 9.65% active-stop cushion expose substantial mean-reversion giveback.",
+      "key_numbers": "Source: picks_2026-10-07.csv; close ₹235.86; day -0.8%; SMA20 ₹221.410 (+6.53%); RSI 68.39; preceding-252-session high ₹244.89; ret21 +13.5%; ret63 +41.9%; volume 1.244x; delivery 40.74%; persistence 3/7; CSV signal stop ₹219.306 (7.02% below close); active frozen stop from ledgers/state.json ₹213.104 (9.65% below close)"
+    },
+    {
+      "symbol": "LALPATHLAB",
+      "severity": "medium",
+      "bear_case": "Only 0.49% above SMA20 after a 1.0% daily fall; RSI 52.70 suggests weak continuation, with the preceding high still 4.59% overhead by close/high measure.",
+      "key_numbers": "Source: picks_2026-10-07.csv; close ₹1945.10; day -1.0%; SMA20 ₹1935.570 (+0.49%); RSI 52.70; preceding-252-session high ₹2038.60; ret21 +2.3%; ret63 +15.5%; volume 1.003x; delivery 62.22%; persistence 2/7; CSV signal stop ₹1826.827 (6.08% below close); active frozen stop from ledgers/state.json ₹1842.971 (5.25% below close)"
+    },
+    {
+      "symbol": "MANKIND",
+      "severity": "medium",
+      "bear_case": "The 8.3% 21-session rebound lacks volume confirmation at 0.54x; 63-session return remains negative, and the active stop is only 2.86% below close.",
+      "key_numbers": "Source: picks_2026-10-07.csv; close ₹2500.00; day +0.0%; SMA20 ₹2415.835 (+3.48%); RSI 57.31; preceding-252-session high ₹2642.00; ret21 +8.3%; ret63 -1.0%; volume 0.542x; delivery 42.52%; persistence 2/7; CSV signal stop ₹2386.068 (4.56% below close); active frozen stop from ledgers/state.json ₹2428.431 (2.86% below close)"
+    },
+    {
+      "symbol": "KOTAKBANK",
+      "severity": "medium",
+      "bear_case": "RSI 70.79 and price 5.93% above SMA20 invite a pullback; the active stop permits 8.74% giveback despite strong 2.80x volume and 70.73% delivery.",
+      "key_numbers": "Source: picks_2026-10-07.csv; close ₹440.00; day +1.9%; SMA20 ₹415.360 (+5.93%); RSI 70.78; preceding-252-session high ₹453.20; ret21 +4.9%; ret63 +16.5%; volume 2.795x; delivery 70.73%; persistence 4/7; CSV signal stop ₹422.404 (4.00% below close); active frozen stop from ledgers/state.json ₹401.551 (8.74% below close)"
+    },
+    {
+      "symbol": "IPCALAB",
+      "severity": "high",
+      "bear_case": "RSI 49.21, close 1.12% below SMA20 and a negative 1.5% 21-session return show deterioration; healthcare crowding could amplify another leg lower.",
+      "key_numbers": "Source: picks_2026-10-07.csv; close ₹1938.50; day -0.4%; SMA20 ₹1960.405 (-1.12%); RSI 49.21; preceding-252-session high ₹2038.00; ret21 -1.5%; ret63 +8.4%; volume 0.594x; delivery 67.01%; persistence 2/7; CSV signal stop ₹1833.808 (5.40% below close); active frozen stop from ledgers/state.json ₹1828.948 (5.65% below close)"
+    },
+    {
+      "symbol": "PETRONET",
+      "severity": "medium",
+      "bear_case": "A 0.2% decline despite 1.94x volume suggests possible selling pressure; SMA20 barely exceeds SMA50, and the active stop allows 7.82% downside.",
+      "key_numbers": "Source: picks_2026-10-07.csv; close ₹297.00; day -0.2%; SMA20 ₹287.330 (+3.37%); RSI 60.75; preceding-252-session high ₹326.40; ret21 +2.1%; ret63 +7.2%; volume 1.937x; delivery 61.60%; persistence 3/7; CSV signal stop ₹284.910 (4.07% below close); active frozen stop from ledgers/state.json ₹273.788 (7.82% below close)"
+    },
+    {
+      "symbol": "GESHIP",
+      "severity": "medium",
+      "bear_case": "A 2.3% rise on just 0.56x volume lacks participation; price is 5.84% above SMA20 with RSI 68.64, increasing reversal vulnerability.",
+      "key_numbers": "Source: picks_2026-10-07.csv; close ₹1567.90; day +2.3%; SMA20 ₹1481.330 (+5.84%); RSI 68.64; preceding-252-session high ₹1798.00; ret21 +13.3%; ret63 +10.3%; volume 0.562x; delivery 53.63%; persistence 3/7; CSV signal stop ₹1488.323 (5.08% below close); active frozen stop from ledgers/state.json ₹1480.102 (5.60% below close)"
+    },
+    {
+      "symbol": "GLAND",
+      "severity": "high",
+      "bear_case": "A 4.8% jump leaves price 7.59% above SMA20 and 3.57% beyond the preceding 52-week high; failed breakout risks 9.79% giveback to the active stop.",
+      "key_numbers": "Source: picks_2026-10-07.csv; close ₹3150.60; day +4.8%; SMA20 ₹2928.350 (+7.59%); RSI 68.83; preceding-252-session high ₹3042.00; ret21 +6.5%; ret63 +27.1%; volume 3.516x; delivery 42.04%; persistence 3/7; CSV signal stop ₹2978.462 (5.46% below close); active frozen stop from ledgers/state.json ₹2842.260 (9.79% below close)"
+    },
+    {
+      "symbol": "AJANTPHARM",
+      "severity": "medium",
+      "bear_case": "SMA20 remains below SMA50 despite positive returns; RSI 52.64 and price only 0.79% above SMA20 suggest fragile continuation within the crowded healthcare sleeve.",
+      "key_numbers": "Source: picks_2026-10-07.csv; close ₹3569.80; day -0.1%; SMA20 ₹3541.755 (+0.79%); RSI 52.64; preceding-252-session high ₹3796.00; ret21 +1.6%; ret63 +7.9%; volume 1.022x; delivery 52.65%; persistence 3/7; CSV signal stop ₹3383.689 (5.21% below close); active frozen stop from ledgers/state.json ₹3386.094 (5.15% below close)"
+    },
+    {
+      "symbol": "MCX",
+      "severity": "medium",
+      "bear_case": "Queued entry follows only 0.6% return over 21 sessions despite 21.4% over 63; overhead ₹3,481.40 resistance and a 6.20% signal-stop distance expose stalled momentum.",
+      "key_numbers": "Source: picks_2026-10-07.csv; close ₹3362.60; day +1.6%; SMA20 ₹3270.915 (+2.80%); RSI 57.84; preceding-252-session high ₹3481.40; ret21 +0.6%; ret63 +21.4%; volume 1.303x; delivery 46.04%; persistence 3/7; CSV signal stop ₹3154.166 (6.20% below close); queued stop, next-open entry price unknown"
+    }
+  ],
+  "portfolio": {
+    "concentration": "Primary c0.006 book: Healthcare 8/13 holdings (61.54% by count), ₹34,045.20/₹54,854.64 invested (62.06%; 58.51% of ₹58,183.39 equity). Oil Gas & Consumable Fuels 2/13; Financial Services, Textiles and Services 1 each. MCX is a linked replacement for CASTROLIND, not a fourteenth concurrent holding; if both fill, healthcare remains 8/13 and Financial Services becomes 2/13. Shared healthcare exposure implies correlated reversal risk, but return correlations are not estimated from these snapshots. No pick has delivery below the 25% flag threshold. CSV stops are current signal calculations, not held-position frozen stops; active stops are cited separately from ledgers/state.json.",
+    "regime": "Risk-off in ledgers/run_2026-10-07.json: breadth 23.65%, below the 30% threshold; Nifty 500 close 22,059.90. Narrow participation makes leadership reversals a common portfolio risk. Index SMA50/SMA200 are not supplied in the run summary; breadth alone establishes this classification. Analysis is anchored to 07-Oct close. No ET event verification was performed; earnings dates and event risks remain unassessed, not absent.",
+    "shadow_variant_proposal": "Propose separate, uncombined SHADOW tests under §9, with no live rule changes: (1) SECTOR_CAP3, the already-proposed MQS10 cohort capped at three names per industry, scanning MQS order and leaving unfilled slots in cash; (2) NO_DISCRETIONARY_SWAPS, retaining all mechanical stop/ineligibility/MQS<50 exits and normal vacancy fills but disabling score-driven replacements, isolating replacement churn; (3) RISK_OFF_ENTRY_PAUSE, blocking new entries/replacements when the recorded regime is Risk-off while retaining mandatory exits. Keep existing five-session stop cooldown unchanged. Record turnover, stop-outs, exposure and returns at 0.30/0.60/1.00% round-trip costs; portfolio diagnostics cannot replace paired 10-session cohort evidence. Proposals only, not registered or executed here. Thirteen replay sessions cannot support the 20-date bootstrap; §9 requires at least 120 matured dates and positive development and subsequent 60-date prospective intervals before a model change."
+  },
+  "near_miss": [
+    {
+      "symbol": "BHEL",
+      "comment": "Reasonable CHURN_GUARD, though MQS 80.20 and 2.07x volume make this a credible false-negative candidate; high remains nearby."
+    },
+    {
+      "symbol": "RADICO",
+      "comment": "Reasonable CHURN_GUARD: 21-session return only +0.2%, and ₹4,495 close remains below SMA50 ₹4,497.33 despite 1.91x volume."
+    },
+    {
+      "symbol": "PVRINOX",
+      "comment": "Reasonable CHURN_GUARD: +7.6% spike on 10.76x volume, only 25.91% delivery and 7.1% signal-stop distance increase reversal exposure."
+    },
+    {
+      "symbol": "SAILIFE",
+      "comment": "Reasonable CHURN_GUARD: 21-session return -5.2%, close below SMA20, and another healthcare name would compound concentration."
+    },
+    {
+      "symbol": "BALRAMCHIN",
+      "comment": "Reasonable CHURN_GUARD: 7.8% signal-stop distance approaches the 8% limit; delivery is 28.28% and 21-session return -0.7%."
+    },
+    {
+      "symbol": "ABDL",
+      "comment": "Reasonable CHURN_GUARD: -2.9% day on 0.74x volume and 7.1% signal-stop distance weaken the continuation case."
+    },
+    {
+      "symbol": "PTCIL",
+      "comment": "Reasonable NOT_AFFORDABLE: ₹24,685 exceeds 20% of ₹58,183 equity; +6.7% day and 28.15% delivery also suggest reversal exposure."
+    },
+    {
+      "symbol": "KARURVYSYA",
+      "comment": "Reasonable CHURN_GUARD: RSI 51.02, 21-session return -3.2%, and close ₹330.10 below SMA50 ₹335.24 show weak momentum."
+    },
+    {
+      "symbol": "MOTILALOFS",
+      "comment": "Reasonable CHURN_GUARD: MQS 75.22 offers limited replacement advantage; -1.2% day and 33.05% delivery temper the trend."
+    },
+    {
+      "symbol": "TBOTEK",
+      "comment": "Reasonable CHURN_GUARD: 16.06x volume produced only +0.7%; flat 21-session performance warrants checking the surge before inferring accumulation."
+    }
+  ],
+  "overall": "Replay lost 3.03% versus 2.63% for Nifty 500: 0.40pp underperformance. Twenty closures, three winners, mean -2.72%, six stop-outs and ₹2.03 lakh turnover (3.4× capital) flag costly churn. Thirteen sessions cannot establish causality or edge. Propose separate SHADOW sector-cap, replacement-disabled and Risk-off entry-pause tests. Rule output stands; no buy/sell advice."
+}

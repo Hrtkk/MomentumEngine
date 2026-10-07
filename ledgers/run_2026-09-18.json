@@ -1,0 +1,320 @@
+{
+ "t": "2026-09-18",
+ "version": "0.2.1",
+ "regime": "Neutral",
+ "breadth": 0.3527054108216433,
+ "nifty500": 22840.55,
+ "equity": {
+  "c0.003": 60496.8626,
+  "c0.006": 60414.015200000016,
+  "c0.010": 60303.55200000002,
+  "frac0.006": 60578.159025571
+ },
+ "exec_notes": [],
+ "n_disc": 100,
+ "n_cand": 339,
+ "primary": "c0.006",
+ "orders": [],
+ "decisions": [
+  {
+   "symbol": "LAURUSLABS",
+   "action": "KEEP",
+   "code": "",
+   "mqs": 81.40595492886817
+  },
+  {
+   "symbol": "REDINGTON",
+   "action": "KEEP",
+   "code": "",
+   "mqs": 76.0614017733494
+  },
+  {
+   "symbol": "GLAND",
+   "action": "KEEP",
+   "code": "",
+   "mqs": 76.19145788744807
+  },
+  {
+   "symbol": "DIVISLAB",
+   "action": "KEEP",
+   "code": "",
+   "mqs": 76.44702303973878
+  },
+  {
+   "symbol": "AUROPHARMA",
+   "action": "KEEP",
+   "code": "",
+   "mqs": 81.60565907088001
+  },
+  {
+   "symbol": "PAYTM",
+   "action": "KEEP",
+   "code": "",
+   "mqs": 77.03768817107606
+  },
+  {
+   "symbol": "ACE",
+   "action": "KEEP",
+   "code": "",
+   "mqs": 74.49483822233412
+  },
+  {
+   "symbol": "GRANULES",
+   "action": "KEEP",
+   "code": "",
+   "mqs": 71.59086617147173
+  },
+  {
+   "symbol": "EMCURE",
+   "action": "KEEP",
+   "code": "",
+   "mqs": 83.75802593478535
+  },
+  {
+   "symbol": "SAILIFE",
+   "action": "KEEP",
+   "code": "",
+   "mqs": 74.66039279869068
+  },
+  {
+   "symbol": "ANANDRATHI",
+   "action": "KEEP",
+   "code": "",
+   "mqs": 76.19449290480387
+  },
+  {
+   "symbol": "ANTHEM",
+   "action": "KEEP",
+   "code": "",
+   "mqs": 81.37636913005161
+  },
+  {
+   "symbol": "IDFCFIRSTB",
+   "action": "KEEP",
+   "code": "",
+   "mqs": 71.15751065628315
+  },
+  {
+   "symbol": "ACMESOLAR",
+   "action": "WATCH",
+   "code": "NO_SLOT",
+   "mqs": 83.56333519181311
+  },
+  {
+   "symbol": "SHYAMMETL",
+   "action": "WATCH",
+   "code": "NO_SLOT",
+   "mqs": 80.46377313357672
+  },
+  {
+   "symbol": "RADICO",
+   "action": "WATCH",
+   "code": "NO_SLOT",
+   "mqs": 77.91845020773007
+  },
+  {
+   "symbol": "ABBOTINDIA",
+   "action": "WATCH",
+   "code": "NOT_AFFORDABLE",
+   "mqs": 77.50802593478535
+  },
+  {
+   "symbol": "RBLBANK",
+   "action": "WATCH",
+   "code": "NO_SLOT",
+   "mqs": 77.14863491663819
+  },
+  {
+   "symbol": "APLAPOLLO",
+   "action": "WATCH",
+   "code": "NO_SLOT",
+   "mqs": 76.5140689915649
+  },
+  {
+   "symbol": "PVRINOX",
+   "action": "WATCH",
+   "code": "NO_SLOT",
+   "mqs": 75.97864696678117
+  },
+  {
+   "symbol": "MEDANTA",
+   "action": "WATCH",
+   "code": "NO_SLOT",
+   "mqs": 75.89559989928239
+  },
+  {
+   "symbol": "AEGISVOPAK",
+   "action": "WATCH",
+   "code": "STOP_TOO_WIDE",
+   "mqs": 75.88197604359635
+  },
+  {
+   "symbol": "GLENMARK",
+   "action": "WATCH",
+   "code": "NO_SLOT",
+   "mqs": 75.44441646732972
+  },
+  {
+   "symbol": "APARINDS",
+   "action": "WATCH",
+   "code": "NOT_AFFORDABLE",
+   "mqs": 75.2640689915649
+  },
+  {
+   "symbol": "ADANIPORTS",
+   "action": "WATCH",
+   "code": "NO_SLOT",
+   "mqs": 74.88536627039082
+  },
+  {
+   "symbol": "WELCORP",
+   "action": "WATCH",
+   "code": "STOP_TOO_WIDE",
+   "mqs": 74.78329976079566
+  },
+  {
+   "symbol": "VIJAYA",
+   "action": "WATCH",
+   "code": "NO_SLOT",
+   "mqs": 74.76394309454865
+  },
+  {
+   "symbol": "PFOCUS",
+   "action": "WATCH",
+   "code": "NO_SLOT",
+   "mqs": 74.41799607920721
+  }
+ ],
+ "fills_today": [
+  {
+   "date": "2026-09-18",
+   "book": "c0.006",
+   "symbol": "LAURUSLABS",
+   "side": "buy",
+   "qty": 2,
+   "price": 1962.0,
+   "reason": "ADD",
+   "entry": 1962.0
+  },
+  {
+   "date": "2026-09-18",
+   "book": "c0.006",
+   "symbol": "REDINGTON",
+   "side": "buy",
+   "qty": 11,
+   "price": 405.0,
+   "reason": "ADD",
+   "entry": 405.0
+  },
+  {
+   "date": "2026-09-18",
+   "book": "c0.006",
+   "symbol": "GLAND",
+   "side": "buy",
+   "qty": 1,
+   "price": 2907.2,
+   "reason": "ADD",
+   "entry": 2907.2
+  },
+  {
+   "date": "2026-09-18",
+   "book": "c0.006",
+   "symbol": "DIVISLAB",
+   "side": "buy",
+   "qty": 1,
+   "price": 9346.5,
+   "reason": "ADD",
+   "entry": 9346.5
+  },
+  {
+   "date": "2026-09-18",
+   "book": "c0.006",
+   "symbol": "AUROPHARMA",
+   "side": "buy",
+   "qty": 2,
+   "price": 1683.2,
+   "reason": "ADD",
+   "entry": 1683.2
+  },
+  {
+   "date": "2026-09-18",
+   "book": "c0.006",
+   "symbol": "PAYTM",
+   "side": "buy",
+   "qty": 2,
+   "price": 1795.4,
+   "reason": "ADD",
+   "entry": 1795.4
+  },
+  {
+   "date": "2026-09-18",
+   "book": "c0.006",
+   "symbol": "ACE",
+   "side": "buy",
+   "qty": 3,
+   "price": 1212.3,
+   "reason": "ADD",
+   "entry": 1212.3
+  },
+  {
+   "date": "2026-09-18",
+   "book": "c0.006",
+   "symbol": "GRANULES",
+   "side": "buy",
+   "qty": 5,
+   "price": 874.0,
+   "reason": "ADD",
+   "entry": 874.0
+  },
+  {
+   "date": "2026-09-18",
+   "book": "c0.006",
+   "symbol": "EMCURE",
+   "side": "buy",
+   "qty": 2,
+   "price": 1915.9,
+   "reason": "ADD",
+   "entry": 1915.9
+  },
+  {
+   "date": "2026-09-18",
+   "book": "c0.006",
+   "symbol": "SAILIFE",
+   "side": "buy",
+   "qty": 2,
+   "price": 1553.4,
+   "reason": "ADD",
+   "entry": 1553.4
+  },
+  {
+   "date": "2026-09-18",
+   "book": "c0.006",
+   "symbol": "ANANDRATHI",
+   "side": "buy",
+   "qty": 2,
+   "price": 2201.1,
+   "reason": "ADD",
+   "entry": 2201.1
+  },
+  {
+   "date": "2026-09-18",
+   "book": "c0.006",
+   "symbol": "ANTHEM",
+   "side": "buy",
+   "qty": 4,
+   "price": 934.0,
+   "reason": "ADD",
+   "entry": 934.0
+  },
+  {
+   "date": "2026-09-18",
+   "book": "c0.006",
+   "symbol": "IDFCFIRSTB",
+   "side": "buy",
+   "qty": 53,
+   "price": 86.0,
+   "reason": "ADD",
+   "entry": 86.0
+  }
+ ]
+}

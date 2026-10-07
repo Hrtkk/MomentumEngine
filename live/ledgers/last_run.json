@@ -1,0 +1,82 @@
+{
+ "last_session": "2026-10-07",
+ "books": {
+  "M11": {
+   "equity": 60000.0,
+   "positions": 0,
+   "buys_next_open": [
+    "CUPID",
+    "IOLCP",
+    "TFCILTD",
+    "SHREEJISPG",
+    "GLAND",
+    "PTCIL"
+   ],
+   "sells_next_open": []
+  },
+  "M10": {
+   "equity": 60000.0,
+   "positions": 0,
+   "buys_next_open": [],
+   "sells_next_open": []
+  },
+  "M2": {
+   "equity": 60000.0,
+   "positions": 0,
+   "buys_next_open": [
+    "CUPID",
+    "MOREPENLAB",
+    "RAYMOND",
+    "SETL",
+    "CYIENTDLM",
+    "WELCORP",
+    "INDSWFTLAB",
+    "IOLCP",
+    "SHILPAMED",
+    "MARINE",
+    "FILATEX",
+    "SBCL",
+    "FCL",
+    "RPTECH",
+    "MANINDS",
+    "AVALON",
+    "UNIMECH",
+    "AEGISLOG",
+    "SKYGOLD",
+    "RATNAVEER",
+    "TFCILTD",
+    "GANDHAR",
+    "PAISALO",
+    "SHREEJISPG",
+    "LLOYDSENGG",
+    "CPPLUS",
+    "SSWL",
+    "EMIL",
+    "AEROFLEX",
+    "ROSSTECH",
+    "SYRMA",
+    "GCSL",
+    "APOLLO",
+    "BALAMINES",
+    "CEMPRO",
+    "RRKABEL",
+    "NEOGEN",
+    "SBC",
+    "WELSPUNLIV",
+    "PARAS",
+    "EBGNG",
+    "SANSERA",
+    "RAIN",
+    "SHANTIGOLD",
+    "REDINGTON",
+    "MARKSANS",
+    "AZAD",
+    "BLUESTONE",
+    "LAURUSLABS",
+    "TDPOWERSYS"
+   ],
+   "sells_next_open": []
+  }
+ },
+ "exceptions": []
+}

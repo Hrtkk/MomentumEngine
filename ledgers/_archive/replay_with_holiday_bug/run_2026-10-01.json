@@ -1,0 +1,281 @@
+{
+ "t": "2026-10-01",
+ "version": "0.2.1",
+ "regime": "Risk-off",
+ "breadth": 0.17234468937875752,
+ "nifty500": 21857.75,
+ "equity": {
+  "c0.003": 57699.396970966074,
+  "c0.006": 57438.56886334822,
+  "c0.010": 57090.79805319105,
+  "frac0.006": 57028.0799242599
+ },
+ "exec_notes": [
+  "RADICO: stop hit at \u20b94,337.57",
+  "DIVISLAB: stop hit at \u20b99,245.19",
+  "ZYDUSLIFE: stop hit at \u20b91,124.91"
+ ],
+ "n_disc": 100,
+ "n_cand": 332,
+ "primary": "c0.006",
+ "orders": [
+  {
+   "symbol": "IPCALAB",
+   "side": "buy",
+   "reason": "ADD",
+   "link": null,
+   "stop": 1828.9477778484313,
+   "qty": 2,
+   "ref_close": 1943.2,
+   "equity_t": 57438.56886334822,
+   "target_w": 0.07692307692307693,
+   "mqs": 82.1070176420126
+  },
+  {
+   "symbol": "PETRONET",
+   "side": "buy",
+   "reason": "ADD",
+   "link": null,
+   "stop": 273.78753281206673,
+   "qty": 15,
+   "ref_close": 285.5,
+   "equity_t": 57438.56886334822,
+   "target_w": 0.07692307692307693,
+   "mqs": 76.99395770392749
+  },
+  {
+   "symbol": "MCX",
+   "side": "buy",
+   "reason": "ADD",
+   "link": null,
+   "stop": 2989.735308456634,
+   "qty": 1,
+   "ref_close": 3204.0,
+   "equity_t": 57438.56886334822,
+   "target_w": 0.07692307692307693,
+   "mqs": 76.22757450300251
+  }
+ ],
+ "decisions": [
+  {
+   "symbol": "IPCALAB",
+   "action": "ADD",
+   "code": "FREE_SLOT",
+   "mqs": 82.1070176420126
+  },
+  {
+   "symbol": "PETRONET",
+   "action": "ADD",
+   "code": "FREE_SLOT",
+   "mqs": 76.99395770392749
+  },
+  {
+   "symbol": "MCX",
+   "action": "ADD",
+   "code": "FREE_SLOT",
+   "mqs": 76.22757450300251
+  },
+  {
+   "symbol": "LAURUSLABS",
+   "action": "KEEP",
+   "code": "",
+   "mqs": 81.04206295923315
+  },
+  {
+   "symbol": "REDINGTON",
+   "action": "KEEP",
+   "code": "",
+   "mqs": 70.2794095706986
+  },
+  {
+   "symbol": "CASTROLIND",
+   "action": "KEEP",
+   "code": "",
+   "mqs": 79.35800604229607
+  },
+  {
+   "symbol": "SONACOMS",
+   "action": "KEEP",
+   "code": "",
+   "mqs": 75.53685987094848
+  },
+  {
+   "symbol": "WELSPUNLIV",
+   "action": "KEEP",
+   "code": "",
+   "mqs": 78.9501510574018
+  },
+  {
+   "symbol": "SYRMA",
+   "action": "KEEP",
+   "code": "",
+   "mqs": 71.36110178658014
+  },
+  {
+   "symbol": "MANKIND",
+   "action": "KEEP",
+   "code": "",
+   "mqs": 78.29281824624222
+  },
+  {
+   "symbol": "LALPATHLAB",
+   "action": "KEEP",
+   "code": "",
+   "mqs": 83.31547685651411
+  },
+  {
+   "symbol": "KOTAKBANK",
+   "action": "KEEP",
+   "code": "",
+   "mqs": 84.07500652717168
+  },
+  {
+   "symbol": "AJANTPHARM",
+   "action": "KEEP",
+   "code": "",
+   "mqs": 76.19312036104584
+  },
+  {
+   "symbol": "ZYDUSLIFE",
+   "action": "WATCH",
+   "code": "COOLDOWN",
+   "mqs": 81.56321099548694
+  },
+  {
+   "symbol": "DIVISLAB",
+   "action": "WATCH",
+   "code": "COOLDOWN",
+   "mqs": 79.66744060273768
+  },
+  {
+   "symbol": "AUROPHARMA",
+   "action": "WATCH",
+   "code": "COOLDOWN",
+   "mqs": 76.88043153929357
+  },
+  {
+   "symbol": "CUPID",
+   "action": "WATCH",
+   "code": "STOP_TOO_WIDE",
+   "mqs": 76.85889187273881
+  },
+  {
+   "symbol": "KAJARIACER",
+   "action": "WATCH",
+   "code": "NO_SLOT",
+   "mqs": 75.77477527880347
+  },
+  {
+   "symbol": "ABDL",
+   "action": "WATCH",
+   "code": "NO_SLOT",
+   "mqs": 74.31357465219499
+  },
+  {
+   "symbol": "PRIVISCL",
+   "action": "WATCH",
+   "code": "NO_SLOT",
+   "mqs": 73.60975905411958
+  },
+  {
+   "symbol": "KARURVYSYA",
+   "action": "WATCH",
+   "code": "NO_SLOT",
+   "mqs": 73.49343553019283
+  },
+  {
+   "symbol": "FINCABLES",
+   "action": "WATCH",
+   "code": "NO_SLOT",
+   "mqs": 73.36261236059828
+  },
+  {
+   "symbol": "ENGINERSIN",
+   "action": "WATCH",
+   "code": "NO_SLOT",
+   "mqs": 73.24223266569692
+  },
+  {
+   "symbol": "AETHER",
+   "action": "WATCH",
+   "code": "NO_SLOT",
+   "mqs": 72.97531796650628
+  },
+  {
+   "symbol": "DRREDDY",
+   "action": "WATCH",
+   "code": "NO_SLOT",
+   "mqs": 72.72635298944463
+  },
+  {
+   "symbol": "CYIENT",
+   "action": "WATCH",
+   "code": "NO_SLOT",
+   "mqs": 72.7123195703256
+  },
+  {
+   "symbol": "GLAND",
+   "action": "WATCH",
+   "code": "NO_SLOT",
+   "mqs": 72.49221401663496
+  },
+  {
+   "symbol": "TDPOWERSYS",
+   "action": "WATCH",
+   "code": "STOP_TOO_WIDE",
+   "mqs": 72.48647943008466
+  }
+ ],
+ "fills_today": [
+  {
+   "date": "2026-10-01",
+   "book": "c0.006",
+   "symbol": "KOTAKBANK",
+   "side": "buy",
+   "qty": 10,
+   "price": 426.0,
+   "reason": "ADD",
+   "entry": 426.0
+  },
+  {
+   "date": "2026-10-01",
+   "book": "c0.006",
+   "symbol": "AJANTPHARM",
+   "side": "buy",
+   "qty": 1,
+   "price": 3588.0,
+   "reason": "ADD",
+   "entry": 3588.0
+  },
+  {
+   "date": "2026-10-01",
+   "book": "c0.006",
+   "symbol": "RADICO",
+   "side": "sell",
+   "qty": 1,
+   "price": 4337.5706,
+   "reason": "STOP",
+   "entry": 4475.0
+  },
+  {
+   "date": "2026-10-01",
+   "book": "c0.006",
+   "symbol": "DIVISLAB",
+   "side": "sell",
+   "qty": 1,
+   "price": 9245.188,
+   "reason": "STOP",
+   "entry": 9540.5
+  },
+  {
+   "date": "2026-10-01",
+   "book": "c0.006",
+   "symbol": "ZYDUSLIFE",
+   "side": "sell",
+   "qty": 3,
+   "price": 1124.9058,
+   "reason": "STOP",
+   "entry": 1185.5
+  }
+ ]
+}

@@ -1,0 +1,303 @@
+{
+ "t": "2026-09-24",
+ "version": "0.2.1",
+ "regime": "Neutral",
+ "breadth": 0.30060120240480964,
+ "nifty500": 22552.6,
+ "equity": {
+  "c0.003": 59145.55072753397,
+  "c0.006": 59029.659689886204,
+  "c0.010": 58875.138306355846,
+  "frac0.006": 58824.560286505766
+ },
+ "exec_notes": [
+  "PAYTM: stop hit at \u20b91,730.55"
+ ],
+ "n_disc": 69,
+ "n_cand": 347,
+ "primary": "c0.006",
+ "orders": [
+  {
+   "symbol": "ANANDRATHI",
+   "side": "sell",
+   "reason": "REPLACED_BY_VIJAYA",
+   "link": "2026-09-24:ANANDRATHI->VIJAYA"
+  },
+  {
+   "symbol": "EMCURE",
+   "side": "sell",
+   "reason": "REPLACED_BY_CASTROLIND",
+   "link": "2026-09-24:EMCURE->CASTROLIND"
+  },
+  {
+   "symbol": "ZYDUSLIFE",
+   "side": "buy",
+   "reason": "ADD",
+   "link": null,
+   "stop": 1124.905793854104,
+   "qty": 3,
+   "ref_close": 1180.3,
+   "equity_t": 59029.659689886204,
+   "target_w": 0.07692307692307693,
+   "mqs": 79.87896329992817
+  },
+  {
+   "symbol": "VIJAYA",
+   "side": "buy",
+   "reason": "REPLACE",
+   "link": "2026-09-24:ANANDRATHI->VIJAYA",
+   "stop": 1419.602665975135,
+   "qty": 2,
+   "ref_close": 1526.5,
+   "equity_t": 59029.659689886204,
+   "target_w": 0.07692307692307693,
+   "mqs": 79.87173786640216
+  },
+  {
+   "symbol": "CASTROLIND",
+   "side": "buy",
+   "reason": "REPLACE",
+   "link": "2026-09-24:EMCURE->CASTROLIND",
+   "stop": 189.15270039324224,
+   "qty": 23,
+   "ref_close": 194.8,
+   "equity_t": 59029.659689886204,
+   "target_w": 0.07692307692307693,
+   "mqs": 79.32487088278552
+  }
+ ],
+ "decisions": [
+  {
+   "symbol": "ZYDUSLIFE",
+   "action": "ADD",
+   "code": "FREE_SLOT",
+   "mqs": 79.87896329992817
+  },
+  {
+   "symbol": "ANANDRATHI",
+   "action": "REPLACED",
+   "code": "BY_VIJAYA",
+   "mqs": 60.85479016468359
+  },
+  {
+   "symbol": "VIJAYA",
+   "action": "ADD",
+   "code": "REPLACES_ANANDRATHI",
+   "mqs": 79.87173786640216
+  },
+  {
+   "symbol": "EMCURE",
+   "action": "REPLACED",
+   "code": "BY_CASTROLIND",
+   "mqs": 65.29803844443684
+  },
+  {
+   "symbol": "CASTROLIND",
+   "action": "ADD",
+   "code": "REPLACES_EMCURE",
+   "mqs": 79.32487088278552
+  },
+  {
+   "symbol": "AUROPHARMA",
+   "action": "KEEP",
+   "code": "",
+   "mqs": 77.53792283750043
+  },
+  {
+   "symbol": "ACMESOLAR",
+   "action": "KEEP",
+   "code": "",
+   "mqs": 76.2189178096248
+  },
+  {
+   "symbol": "LAURUSLABS",
+   "action": "KEEP",
+   "code": "",
+   "mqs": 81.8948592536854
+  },
+  {
+   "symbol": "RBLBANK",
+   "action": "KEEP",
+   "code": "",
+   "mqs": 69.77934637616718
+  },
+  {
+   "symbol": "SHYAMMETL",
+   "action": "KEEP",
+   "code": "",
+   "mqs": 72.45724595546739
+  },
+  {
+   "symbol": "RADICO",
+   "action": "KEEP",
+   "code": "",
+   "mqs": 79.11482026199678
+  },
+  {
+   "symbol": "REDINGTON",
+   "action": "KEEP",
+   "code": "",
+   "mqs": 78.83054861989945
+  },
+  {
+   "symbol": "PVRINOX",
+   "action": "KEEP",
+   "code": "",
+   "mqs": 78.2418681807299
+  },
+  {
+   "symbol": "DIVISLAB",
+   "action": "KEEP",
+   "code": "",
+   "mqs": 82.79803844443684
+  },
+  {
+   "symbol": "GLENMARK",
+   "action": "KEEP",
+   "code": "",
+   "mqs": 73.9613332421247
+  },
+  {
+   "symbol": "ACE",
+   "action": "WATCH",
+   "code": "CHURN_GUARD",
+   "mqs": 79.21302630228818
+  },
+  {
+   "symbol": "MEDANTA",
+   "action": "WATCH",
+   "code": "CHURN_GUARD",
+   "mqs": 79.06248931148886
+  },
+  {
+   "symbol": "FINCABLES",
+   "action": "WATCH",
+   "code": "CHURN_GUARD",
+   "mqs": 78.14366214043848
+  },
+  {
+   "symbol": "LALPATHLAB",
+   "action": "WATCH",
+   "code": "CHURN_GUARD",
+   "mqs": 78.0870557854773
+  },
+  {
+   "symbol": "SONACOMS",
+   "action": "WATCH",
+   "code": "CHURN_GUARD",
+   "mqs": 78.05836782159592
+  },
+  {
+   "symbol": "ABDL",
+   "action": "WATCH",
+   "code": "CHURN_GUARD",
+   "mqs": 77.64083182269043
+  },
+  {
+   "symbol": "CAPLIPOINT",
+   "action": "WATCH",
+   "code": "CHURN_GUARD",
+   "mqs": 76.85873208605535
+  },
+  {
+   "symbol": "WOCKPHARMA",
+   "action": "WATCH",
+   "code": "CHURN_GUARD",
+   "mqs": 76.76480145021719
+  },
+  {
+   "symbol": "WELSPUNLIV",
+   "action": "WATCH",
+   "code": "CHURN_GUARD",
+   "mqs": 76.18497109826589
+  },
+  {
+   "symbol": "MCX",
+   "action": "WATCH",
+   "code": "CHURN_GUARD",
+   "mqs": 75.95709204090709
+  },
+  {
+   "symbol": "MANKIND",
+   "action": "WATCH",
+   "code": "CHURN_GUARD",
+   "mqs": 75.46422341553512
+  },
+  {
+   "symbol": "IPCALAB",
+   "action": "WATCH",
+   "code": "CHURN_GUARD",
+   "mqs": 75.31971474501488
+  },
+  {
+   "symbol": "WELCORP",
+   "action": "WATCH",
+   "code": "STOP_TOO_WIDE",
+   "mqs": 75.18845982829976
+  },
+  {
+   "symbol": "PAYTM",
+   "action": "WATCH",
+   "code": "COOLDOWN",
+   "mqs": 74.99610938194755
+  },
+  {
+   "symbol": "ETERNAL",
+   "action": "WATCH",
+   "code": "CHURN_GUARD",
+   "mqs": 74.79499435646612
+  }
+ ],
+ "fills_today": [
+  {
+   "date": "2026-09-24",
+   "book": "c0.006",
+   "symbol": "ANTHEM",
+   "side": "sell",
+   "qty": 4,
+   "price": 877.0,
+   "reason": "REPLACED_BY_DIVISLAB",
+   "entry": 939.7
+  },
+  {
+   "date": "2026-09-24",
+   "book": "c0.006",
+   "symbol": "APLAPOLLO",
+   "side": "sell",
+   "qty": 2,
+   "price": 2177.0,
+   "reason": "REPLACED_BY_GLENMARK",
+   "entry": 2224.2
+  },
+  {
+   "date": "2026-09-24",
+   "book": "c0.006",
+   "symbol": "DIVISLAB",
+   "side": "buy",
+   "qty": 1,
+   "price": 9540.5,
+   "reason": "REPLACE",
+   "entry": 9540.5
+  },
+  {
+   "date": "2026-09-24",
+   "book": "c0.006",
+   "symbol": "GLENMARK",
+   "side": "buy",
+   "qty": 1,
+   "price": 2460.0,
+   "reason": "REPLACE",
+   "entry": 2460.0
+  },
+  {
+   "date": "2026-09-24",
+   "book": "c0.006",
+   "symbol": "PAYTM",
+   "side": "sell",
+   "qty": 2,
+   "price": 1730.5459,
+   "reason": "STOP",
+   "entry": 1823.0
+  }
+ ]
+}

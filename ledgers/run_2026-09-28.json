@@ -1,0 +1,279 @@
+{
+ "t": "2026-09-28",
+ "version": "0.2.1",
+ "regime": "Risk-off",
+ "breadth": 0.2124248496993988,
+ "nifty500": 22232.15,
+ "equity": {
+  "c0.003": 58862.165167846164,
+  "c0.006": 58678.15492472974,
+  "c0.010": 58467.04793390781,
+  "frac0.006": 58305.62152228031
+ },
+ "exec_notes": [],
+ "n_disc": 62,
+ "n_cand": 331,
+ "primary": "c0.006",
+ "orders": [
+  {
+   "symbol": "ACE",
+   "side": "sell",
+   "reason": "REPLACED_BY_WELSPUNLIV",
+   "link": "2026-09-28:ACE->WELSPUNLIV"
+  },
+  {
+   "symbol": "SAILIFE",
+   "side": "sell",
+   "reason": "REPLACED_BY_SYRMA",
+   "link": "2026-09-28:SAILIFE->SYRMA"
+  },
+  {
+   "symbol": "WELSPUNLIV",
+   "side": "buy",
+   "reason": "REPLACE",
+   "link": "2026-09-28:ACE->WELSPUNLIV",
+   "stop": 213.10406424987085,
+   "qty": 19,
+   "ref_close": 227.95,
+   "equity_t": 58678.15492472974,
+   "target_w": 0.07692307692307693,
+   "mqs": 83.09848484848484
+  },
+  {
+   "symbol": "SYRMA",
+   "side": "buy",
+   "reason": "REPLACE",
+   "link": "2026-09-28:SAILIFE->SYRMA",
+   "stop": 1617.1169277212334,
+   "qty": 2,
+   "ref_close": 1746.4,
+   "equity_t": 58678.15492472974,
+   "target_w": 0.07692307692307693,
+   "mqs": 81.45156675110233
+  }
+ ],
+ "decisions": [
+  {
+   "symbol": "ACE",
+   "action": "REPLACED",
+   "code": "BY_WELSPUNLIV",
+   "mqs": 68.86065766019327
+  },
+  {
+   "symbol": "WELSPUNLIV",
+   "action": "ADD",
+   "code": "REPLACES_ACE",
+   "mqs": 83.09848484848484
+  },
+  {
+   "symbol": "SAILIFE",
+   "action": "REPLACED",
+   "code": "BY_SYRMA",
+   "mqs": 70.25431560183883
+  },
+  {
+   "symbol": "SYRMA",
+   "action": "ADD",
+   "code": "REPLACES_SAILIFE",
+   "mqs": 81.45156675110233
+  },
+  {
+   "symbol": "LAURUSLABS",
+   "action": "KEEP",
+   "code": "",
+   "mqs": 81.20128529880853
+  },
+  {
+   "symbol": "REDINGTON",
+   "action": "KEEP",
+   "code": "",
+   "mqs": 79.17907402195328
+  },
+  {
+   "symbol": "DIVISLAB",
+   "action": "KEEP",
+   "code": "",
+   "mqs": 80.53461863214186
+  },
+  {
+   "symbol": "AUROPHARMA",
+   "action": "KEEP",
+   "code": "",
+   "mqs": 78.02797932267946
+  },
+  {
+   "symbol": "ACMESOLAR",
+   "action": "KEEP",
+   "code": "",
+   "mqs": 74.15294586734214
+  },
+  {
+   "symbol": "WOCKPHARMA",
+   "action": "KEEP",
+   "code": "",
+   "mqs": 73.62552772305095
+  },
+  {
+   "symbol": "VIJAYA",
+   "action": "KEEP",
+   "code": "",
+   "mqs": 76.23158832911156
+  },
+  {
+   "symbol": "ZYDUSLIFE",
+   "action": "KEEP",
+   "code": "",
+   "mqs": 84.436133783657
+  },
+  {
+   "symbol": "CASTROLIND",
+   "action": "KEEP",
+   "code": "",
+   "mqs": 86.28171029177223
+  },
+  {
+   "symbol": "SONACOMS",
+   "action": "KEEP",
+   "code": "",
+   "mqs": 79.56848672483346
+  },
+  {
+   "symbol": "ETERNAL",
+   "action": "KEEP",
+   "code": "",
+   "mqs": 80.04109203490007
+  },
+  {
+   "symbol": "ENGINERSIN",
+   "action": "WATCH",
+   "code": "CHURN_GUARD",
+   "mqs": 78.8292522750727
+  },
+  {
+   "symbol": "ABDL",
+   "action": "WATCH",
+   "code": "CHURN_GUARD",
+   "mqs": 78.41615067079464
+  },
+  {
+   "symbol": "PETRONET",
+   "action": "WATCH",
+   "code": "CHURN_GUARD",
+   "mqs": 78.28928604934796
+  },
+  {
+   "symbol": "CAPLIPOINT",
+   "action": "WATCH",
+   "code": "CHURN_GUARD",
+   "mqs": 77.57249742002064
+  },
+  {
+   "symbol": "APOLLOHOSP",
+   "action": "WATCH",
+   "code": "CHURN_GUARD",
+   "mqs": 76.9891640866873
+  },
+  {
+   "symbol": "APLAPOLLO",
+   "action": "WATCH",
+   "code": "CHURN_GUARD",
+   "mqs": 76.45914250867811
+  },
+  {
+   "symbol": "WELCORP",
+   "action": "WATCH",
+   "code": "STOP_TOO_WIDE",
+   "mqs": 76.37580917534477
+  },
+  {
+   "symbol": "MANKIND",
+   "action": "WATCH",
+   "code": "CHURN_GUARD",
+   "mqs": 76.11037620789942
+  },
+  {
+   "symbol": "GESHIP",
+   "action": "WATCH",
+   "code": "CHURN_GUARD",
+   "mqs": 75.67907402195326
+  },
+  {
+   "symbol": "LALPATHLAB",
+   "action": "WATCH",
+   "code": "CHURN_GUARD",
+   "mqs": 75.07249742002065
+  },
+  {
+   "symbol": "JSL",
+   "action": "WATCH",
+   "code": "CHURN_GUARD",
+   "mqs": 74.54892579041187
+  },
+  {
+   "symbol": "CARBORUNIV",
+   "action": "WATCH",
+   "code": "CHURN_GUARD",
+   "mqs": 73.46671826625386
+  },
+  {
+   "symbol": "TORNTPHARM",
+   "action": "WATCH",
+   "code": "CHURN_GUARD",
+   "mqs": 73.1709822685055
+  },
+  {
+   "symbol": "RADICO",
+   "action": "WATCH",
+   "code": "CHURN_GUARD",
+   "mqs": 72.94645370109765
+  },
+  {
+   "symbol": "NAVINFLUOR",
+   "action": "WATCH",
+   "code": "CHURN_GUARD",
+   "mqs": 72.81593019983113
+  }
+ ],
+ "fills_today": [
+  {
+   "date": "2026-09-28",
+   "book": "c0.006",
+   "symbol": "PAYTM",
+   "side": "sell",
+   "qty": 2,
+   "price": 1668.0,
+   "reason": "REPLACED_BY_ETERNAL",
+   "entry": 1795.4
+  },
+  {
+   "date": "2026-09-28",
+   "book": "c0.006",
+   "symbol": "CASTROLIND",
+   "side": "buy",
+   "qty": 22,
+   "price": 201.9,
+   "reason": "ADD",
+   "entry": 201.9
+  },
+  {
+   "date": "2026-09-28",
+   "book": "c0.006",
+   "symbol": "SONACOMS",
+   "side": "buy",
+   "qty": 5,
+   "price": 824.5,
+   "reason": "ADD",
+   "entry": 824.5
+  },
+  {
+   "date": "2026-09-28",
+   "book": "c0.006",
+   "symbol": "ETERNAL",
+   "side": "buy",
+   "qty": 13,
+   "price": 335.05,
+   "reason": "REPLACE",
+   "entry": 335.05
+  }
+ ]
+}

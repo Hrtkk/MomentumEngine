@@ -1,0 +1,292 @@
+{
+ "t": "2026-10-06",
+ "version": "0.2",
+ "regime": "Risk-off",
+ "breadth": 0.23647294589178355,
+ "nifty500": 22202.85,
+ "equity": {
+  "c0.003": 30000.0,
+  "c0.006": 30000.0,
+  "c0.010": 30000.0,
+  "frac0.006": 30000.0
+ },
+ "exec_notes": [],
+ "n_disc": 100,
+ "n_cand": 315,
+ "primary": "c0.006",
+ "orders": [
+  {
+   "symbol": "LAURUSLABS",
+   "side": "buy",
+   "reason": "ADD",
+   "link": null,
+   "stop": 1956.4072063634803,
+   "qty": 1,
+   "ref_close": 2050.0,
+   "equity_t": 30000.0,
+   "target_w": 0.1,
+   "mqs": 91.33089694058683
+  },
+  {
+   "symbol": "KOTAKBANK",
+   "side": "buy",
+   "reason": "ADD",
+   "link": null,
+   "stop": 414.69362971631386,
+   "qty": 6,
+   "ref_close": 431.9,
+   "equity_t": 30000.0,
+   "target_w": 0.1,
+   "mqs": 84.859193902057
+  },
+  {
+   "symbol": "PETRONET",
+   "side": "buy",
+   "reason": "ADD",
+   "link": null,
+   "stop": 285.33699775253865,
+   "qty": 10,
+   "ref_close": 297.5,
+   "equity_t": 30000.0,
+   "target_w": 0.1,
+   "mqs": 83.28777278897358
+  },
+  {
+   "symbol": "AUROPHARMA",
+   "side": "buy",
+   "reason": "ADD",
+   "link": null,
+   "stop": 1623.6299113034204,
+   "qty": 1,
+   "ref_close": 1692.8,
+   "equity_t": 30000.0,
+   "target_w": 0.1,
+   "mqs": 82.98694789600084
+  },
+  {
+   "symbol": "GLAND",
+   "side": "buy",
+   "reason": "ADD",
+   "link": null,
+   "stop": 2842.2604084441755,
+   "qty": 1,
+   "ref_close": 3006.1,
+   "equity_t": 30000.0,
+   "target_w": 0.1,
+   "mqs": 81.21943197243397
+  },
+  {
+   "symbol": "AJANTPHARM",
+   "side": "buy",
+   "reason": "ADD",
+   "link": null,
+   "stop": 3386.0937882358458,
+   "qty": 1,
+   "ref_close": 3573.4,
+   "equity_t": 30000.0,
+   "target_w": 0.1,
+   "mqs": 80.16847655842122
+  },
+  {
+   "symbol": "IPCALAB",
+   "side": "buy",
+   "reason": "ADD",
+   "link": null,
+   "stop": 1839.0560452161483,
+   "qty": 1,
+   "ref_close": 1945.5,
+   "equity_t": 30000.0,
+   "target_w": 0.1,
+   "mqs": 79.73057846924925
+  },
+  {
+   "symbol": "GRAPHITE",
+   "side": "buy",
+   "reason": "ADD",
+   "link": null,
+   "stop": 789.4759666726732,
+   "qty": 3,
+   "ref_close": 851.2,
+   "equity_t": 30000.0,
+   "target_w": 0.1,
+   "mqs": 78.75031325049598
+  },
+  {
+   "symbol": "BHEL",
+   "side": "buy",
+   "reason": "ADD",
+   "link": null,
+   "stop": 427.4265041588704,
+   "qty": 6,
+   "ref_close": 452.0,
+   "equity_t": 30000.0,
+   "target_w": 0.1,
+   "mqs": 77.93024955622846
+  },
+  {
+   "symbol": "ABDL",
+   "side": "buy",
+   "reason": "ADD",
+   "link": null,
+   "stop": 666.1929641844354,
+   "qty": 4,
+   "ref_close": 714.65,
+   "equity_t": 30000.0,
+   "target_w": 0.1,
+   "mqs": 77.72569698235355
+  }
+ ],
+ "decisions": [
+  {
+   "symbol": "LAURUSLABS",
+   "action": "ADD",
+   "code": "FREE_SLOT",
+   "mqs": 91.33089694058683
+  },
+  {
+   "symbol": "KOTAKBANK",
+   "action": "ADD",
+   "code": "FREE_SLOT",
+   "mqs": 84.859193902057
+  },
+  {
+   "symbol": "PETRONET",
+   "action": "ADD",
+   "code": "FREE_SLOT",
+   "mqs": 83.28777278897358
+  },
+  {
+   "symbol": "AUROPHARMA",
+   "action": "ADD",
+   "code": "FREE_SLOT",
+   "mqs": 82.98694789600084
+  },
+  {
+   "symbol": "GLAND",
+   "action": "ADD",
+   "code": "FREE_SLOT",
+   "mqs": 81.21943197243397
+  },
+  {
+   "symbol": "AJANTPHARM",
+   "action": "ADD",
+   "code": "FREE_SLOT",
+   "mqs": 80.16847655842122
+  },
+  {
+   "symbol": "IPCALAB",
+   "action": "ADD",
+   "code": "FREE_SLOT",
+   "mqs": 79.73057846924925
+  },
+  {
+   "symbol": "GRAPHITE",
+   "action": "ADD",
+   "code": "FREE_SLOT",
+   "mqs": 78.75031325049598
+  },
+  {
+   "symbol": "BHEL",
+   "action": "ADD",
+   "code": "FREE_SLOT",
+   "mqs": 77.93024955622846
+  },
+  {
+   "symbol": "ABDL",
+   "action": "ADD",
+   "code": "FREE_SLOT",
+   "mqs": 77.72569698235355
+  },
+  {
+   "symbol": "DIVISLAB",
+   "action": "WATCH",
+   "code": "NOT_AFFORDABLE",
+   "mqs": 78.74331732275243
+  },
+  {
+   "symbol": "CUPID",
+   "action": "WATCH",
+   "code": "STOP_TOO_WIDE",
+   "mqs": 78.49798997598413
+  },
+  {
+   "symbol": "RBLBANK",
+   "action": "WATCH",
+   "code": "NO_SLOT",
+   "mqs": 77.66174167275766
+  },
+  {
+   "symbol": "WELSPUNLIV",
+   "action": "WATCH",
+   "code": "NO_SLOT",
+   "mqs": 76.99044585987262
+  },
+  {
+   "symbol": "MOTILALOFS",
+   "action": "WATCH",
+   "code": "NO_SLOT",
+   "mqs": 76.96906651352198
+  },
+  {
+   "symbol": "PTCIL",
+   "action": "WATCH",
+   "code": "NOT_AFFORDABLE",
+   "mqs": 76.41751070272527
+  },
+  {
+   "symbol": "LALPATHLAB",
+   "action": "WATCH",
+   "code": "NO_SLOT",
+   "mqs": 75.91688420173332
+  },
+  {
+   "symbol": "ENGINERSIN",
+   "action": "WATCH",
+   "code": "NO_SLOT",
+   "mqs": 75.41445651038948
+  },
+  {
+   "symbol": "ETERNAL",
+   "action": "WATCH",
+   "code": "NO_SLOT",
+   "mqs": 74.9905763809126
+  },
+  {
+   "symbol": "JSWINFRA",
+   "action": "WATCH",
+   "code": "NO_SLOT",
+   "mqs": 74.21230552365041
+  },
+  {
+   "symbol": "HAL",
+   "action": "WATCH",
+   "code": "NO_SLOT",
+   "mqs": 73.61496293202464
+  },
+  {
+   "symbol": "FINCABLES",
+   "action": "WATCH",
+   "code": "NO_SLOT",
+   "mqs": 73.28852981100553
+  },
+  {
+   "symbol": "RADICO",
+   "action": "WATCH",
+   "code": "NO_SLOT",
+   "mqs": 73.21932755560196
+  },
+  {
+   "symbol": "GESHIP",
+   "action": "WATCH",
+   "code": "NO_SLOT",
+   "mqs": 72.7234520204657
+  },
+  {
+   "symbol": "AZAD",
+   "action": "WATCH",
+   "code": "NO_SLOT",
+   "mqs": 72.4764279001775
+  }
+ ],
+ "fills_today": []
+}

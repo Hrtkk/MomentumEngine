@@ -1,0 +1,33 @@
+{
+ "selected": [
+  "M10",
+  "M2",
+  "M8",
+  "M11",
+  "M5"
+ ],
+ "ensemble": [
+  "M10",
+  "M2",
+  "M8",
+  "M11"
+ ],
+ "verdict_dev": {
+  "M1": "FAIL: MDD > B2 + 10pp",
+  "M2": "PASS",
+  "M3": "PASS",
+  "M4": "FAIL: dev excess \u2264 0; <3 of 4 dev blocks positive; excess \u2264 0 at 1.0% cost",
+  "M5": "PASS",
+  "M6": "FAIL: dev excess \u2264 0; <3 of 4 dev blocks positive; excess \u2264 0 at 1.0% cost",
+  "M7": "FAIL: <3 of 4 dev blocks positive",
+  "M8": "PASS",
+  "M9": "FAIL: <3 of 4 dev blocks positive",
+  "M10": "PASS",
+  "M11": "PASS",
+  "C0": "control",
+  "C1": "control"
+ },
+ "n_trials": 14,
+ "written_before_holdout": true,
+ "spec": "SPEC_E2.md"
+}

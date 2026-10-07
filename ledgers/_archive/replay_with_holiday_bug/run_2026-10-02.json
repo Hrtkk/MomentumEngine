@@ -1,0 +1,236 @@
+{
+ "t": "2026-10-02",
+ "version": "0.2.1",
+ "regime": "Risk-off",
+ "breadth": 0.1743486973947896,
+ "nifty500": 21857.75,
+ "equity": {
+  "c0.003": 57627.85602096608,
+  "c0.006": 57349.88696334822,
+  "c0.010": 56979.261553191056,
+  "frac0.006": 56869.12228443959
+ },
+ "exec_notes": [],
+ "n_disc": 100,
+ "n_cand": 234,
+ "primary": "c0.006",
+ "orders": [
+  {
+   "symbol": "LALPATHLAB",
+   "side": "sell",
+   "reason": "INELIGIBLE"
+  },
+  {
+   "symbol": "AJANTPHARM",
+   "side": "sell",
+   "reason": "INELIGIBLE"
+  },
+  {
+   "symbol": "PETRONET",
+   "side": "sell",
+   "reason": "INELIGIBLE"
+  }
+ ],
+ "decisions": [
+  {
+   "symbol": "LALPATHLAB",
+   "action": "REMOVE",
+   "code": "INELIGIBLE",
+   "mqs": NaN
+  },
+  {
+   "symbol": "AJANTPHARM",
+   "action": "REMOVE",
+   "code": "INELIGIBLE",
+   "mqs": NaN
+  },
+  {
+   "symbol": "PETRONET",
+   "action": "REMOVE",
+   "code": "INELIGIBLE",
+   "mqs": NaN
+  },
+  {
+   "symbol": "LAURUSLABS",
+   "action": "KEEP",
+   "code": "",
+   "mqs": 82.99111512687297
+  },
+  {
+   "symbol": "REDINGTON",
+   "action": "KEEP",
+   "code": "",
+   "mqs": 70.14146148633387
+  },
+  {
+   "symbol": "CASTROLIND",
+   "action": "KEEP",
+   "code": "",
+   "mqs": 79.14586627512989
+  },
+  {
+   "symbol": "SONACOMS",
+   "action": "KEEP",
+   "code": "",
+   "mqs": 72.42169264362623
+  },
+  {
+   "symbol": "WELSPUNLIV",
+   "action": "KEEP",
+   "code": "",
+   "mqs": 79.27038626609442
+  },
+  {
+   "symbol": "SYRMA",
+   "action": "KEEP",
+   "code": "",
+   "mqs": 71.1831752127099
+  },
+  {
+   "symbol": "MANKIND",
+   "action": "KEEP",
+   "code": "",
+   "mqs": 78.46321813116484
+  },
+  {
+   "symbol": "KOTAKBANK",
+   "action": "KEEP",
+   "code": "",
+   "mqs": 84.17984338528726
+  },
+  {
+   "symbol": "IPCALAB",
+   "action": "KEEP",
+   "code": "",
+   "mqs": 81.38167306678714
+  },
+  {
+   "symbol": "MCX",
+   "action": "KEEP",
+   "code": "",
+   "mqs": 74.08327686168211
+  },
+  {
+   "symbol": "AUROPHARMA",
+   "action": "WATCH",
+   "code": "COOLDOWN",
+   "mqs": 80.75935547022061
+  },
+  {
+   "symbol": "CUPID",
+   "action": "WATCH",
+   "code": "STOP_TOO_WIDE",
+   "mqs": 76.73885626082374
+  },
+  {
+   "symbol": "ENGINERSIN",
+   "action": "WATCH",
+   "code": "NO_SLOT",
+   "mqs": 75.10908440629471
+  },
+  {
+   "symbol": "RBLBANK",
+   "action": "WATCH",
+   "code": "NO_SLOT",
+   "mqs": 74.36224681876365
+  },
+  {
+   "symbol": "ABDL",
+   "action": "WATCH",
+   "code": "NO_SLOT",
+   "mqs": 73.70237557412844
+  },
+  {
+   "symbol": "SAILIFE",
+   "action": "WATCH",
+   "code": "NO_SLOT",
+   "mqs": 73.68854001957685
+  },
+  {
+   "symbol": "TDPOWERSYS",
+   "action": "WATCH",
+   "code": "STOP_TOO_WIDE",
+   "mqs": 73.49004216549959
+  },
+  {
+   "symbol": "JSWINFRA",
+   "action": "WATCH",
+   "code": "NO_SLOT",
+   "mqs": 73.32815676530382
+  },
+  {
+   "symbol": "KARURVYSYA",
+   "action": "WATCH",
+   "code": "NO_SLOT",
+   "mqs": 72.96739703335591
+  },
+  {
+   "symbol": "DRREDDY",
+   "action": "WATCH",
+   "code": "NO_SLOT",
+   "mqs": 72.21858293803177
+  },
+  {
+   "symbol": "AETHER",
+   "action": "WATCH",
+   "code": "NO_SLOT",
+   "mqs": 72.14949928469242
+  },
+  {
+   "symbol": "GLAND",
+   "action": "WATCH",
+   "code": "NO_SLOT",
+   "mqs": 71.38167306678714
+  },
+  {
+   "symbol": "EMCURE",
+   "action": "WATCH",
+   "code": "NO_SLOT",
+   "mqs": 71.23145847451246
+  },
+  {
+   "symbol": "KAJARIACER",
+   "action": "WATCH",
+   "code": "NO_SLOT",
+   "mqs": 70.82043897296892
+  },
+  {
+   "symbol": "GLENMARK",
+   "action": "WATCH",
+   "code": "NO_SLOT",
+   "mqs": 70.79154431142234
+  }
+ ],
+ "fills_today": [
+  {
+   "date": "2026-10-02",
+   "book": "c0.006",
+   "symbol": "IPCALAB",
+   "side": "buy",
+   "qty": 2,
+   "price": 1929.9,
+   "reason": "ADD",
+   "entry": 1929.9
+  },
+  {
+   "date": "2026-10-02",
+   "book": "c0.006",
+   "symbol": "PETRONET",
+   "side": "buy",
+   "qty": 15,
+   "price": 284.5,
+   "reason": "ADD",
+   "entry": 284.5
+  },
+  {
+   "date": "2026-10-02",
+   "book": "c0.006",
+   "symbol": "MCX",
+   "side": "buy",
+   "qty": 1,
+   "price": 3300.0,
+   "reason": "ADD",
+   "entry": 3300.0
+  }
+ ]
+}

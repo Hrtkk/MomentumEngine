@@ -1,0 +1,259 @@
+{
+ "t": "2026-10-06",
+ "version": "0.2.1",
+ "regime": "Risk-off",
+ "breadth": 0.23647294589178355,
+ "nifty500": 22202.85,
+ "equity": {
+  "c0.003": 58365.848814794546,
+  "c0.006": 58082.42890170274,
+  "c0.010": 57761.307184246965,
+  "frac0.006": 57468.57635846194
+ },
+ "exec_notes": [],
+ "n_disc": 100,
+ "n_cand": 340,
+ "primary": "c0.006",
+ "orders": [
+  {
+   "symbol": "SYRMA",
+   "side": "sell",
+   "reason": "REPLACED_BY_GLAND",
+   "link": "2026-10-06:SYRMA->GLAND"
+  },
+  {
+   "symbol": "REDINGTON",
+   "side": "sell",
+   "reason": "REPLACED_BY_AJANTPHARM",
+   "link": "2026-10-06:REDINGTON->AJANTPHARM"
+  },
+  {
+   "symbol": "GLAND",
+   "side": "buy",
+   "reason": "REPLACE",
+   "link": "2026-10-06:SYRMA->GLAND",
+   "stop": 2842.2604084441755,
+   "qty": 1,
+   "ref_close": 3006.1,
+   "equity_t": 58082.42890170274,
+   "target_w": 0.07692307692307693,
+   "mqs": 81.29324215607403
+  },
+  {
+   "symbol": "AJANTPHARM",
+   "side": "buy",
+   "reason": "REPLACE",
+   "link": "2026-10-06:REDINGTON->AJANTPHARM",
+   "stop": 3386.0937882358458,
+   "qty": 1,
+   "ref_close": 3573.4,
+   "equity_t": 58082.42890170274,
+   "target_w": 0.07692307692307693,
+   "mqs": 80.09117725931885
+  }
+ ],
+ "decisions": [
+  {
+   "symbol": "SYRMA",
+   "action": "REPLACED",
+   "code": "BY_GLAND",
+   "mqs": 67.76092786269777
+  },
+  {
+   "symbol": "GLAND",
+   "action": "ADD",
+   "code": "REPLACES_SYRMA",
+   "mqs": 81.29324215607403
+  },
+  {
+   "symbol": "REDINGTON",
+   "action": "REPLACED",
+   "code": "BY_AJANTPHARM",
+   "mqs": 69.83293108071868
+  },
+  {
+   "symbol": "AJANTPHARM",
+   "action": "ADD",
+   "code": "REPLACES_REDINGTON",
+   "mqs": 80.09117725931885
+  },
+  {
+   "symbol": "LAURUSLABS",
+   "action": "KEEP",
+   "code": "",
+   "mqs": 90.34191472244571
+  },
+  {
+   "symbol": "DIVISLAB",
+   "action": "KEEP",
+   "code": "",
+   "mqs": 79.86256368999732
+  },
+  {
+   "symbol": "AUROPHARMA",
+   "action": "KEEP",
+   "code": "",
+   "mqs": 79.64869938321266
+  },
+  {
+   "symbol": "CASTROLIND",
+   "action": "KEEP",
+   "code": "",
+   "mqs": 71.85250737463127
+  },
+  {
+   "symbol": "WELSPUNLIV",
+   "action": "KEEP",
+   "code": "",
+   "mqs": 76.08407079646018
+  },
+  {
+   "symbol": "LALPATHLAB",
+   "action": "KEEP",
+   "code": "",
+   "mqs": 74.9363100026817
+  },
+  {
+   "symbol": "MANKIND",
+   "action": "KEEP",
+   "code": "",
+   "mqs": 70.78439259855189
+  },
+  {
+   "symbol": "KOTAKBANK",
+   "action": "KEEP",
+   "code": "",
+   "mqs": 85.52762134620542
+  },
+  {
+   "symbol": "IPCALAB",
+   "action": "KEEP",
+   "code": "",
+   "mqs": 78.41713596138375
+  },
+  {
+   "symbol": "PETRONET",
+   "action": "KEEP",
+   "code": "",
+   "mqs": 82.75221238938053
+  },
+  {
+   "symbol": "GESHIP",
+   "action": "KEEP",
+   "code": "",
+   "mqs": 73.3801287208367
+  },
+  {
+   "symbol": "CUPID",
+   "action": "WATCH",
+   "code": "STOP_TOO_WIDE",
+   "mqs": 80.18744971842318
+  },
+  {
+   "symbol": "ABDL",
+   "action": "WATCH",
+   "code": "CHURN_GUARD",
+   "mqs": 78.75677125234647
+  },
+  {
+   "symbol": "GRAPHITE",
+   "action": "WATCH",
+   "code": "CHURN_GUARD",
+   "mqs": 78.58688656476266
+  },
+  {
+   "symbol": "MOTILALOFS",
+   "action": "WATCH",
+   "code": "CHURN_GUARD",
+   "mqs": 77.75475998927325
+  },
+  {
+   "symbol": "BHEL",
+   "action": "WATCH",
+   "code": "CHURN_GUARD",
+   "mqs": 77.50281576830248
+  },
+  {
+   "symbol": "RADICO",
+   "action": "WATCH",
+   "code": "CHURN_GUARD",
+   "mqs": 77.17860016090104
+  },
+  {
+   "symbol": "PTCIL",
+   "action": "WATCH",
+   "code": "NOT_AFFORDABLE",
+   "mqs": 76.47774202198983
+  },
+  {
+   "symbol": "ETERNAL",
+   "action": "WATCH",
+   "code": "COOLDOWN",
+   "mqs": 76.2322338428533
+  },
+  {
+   "symbol": "ZYDUSLIFE",
+   "action": "WATCH",
+   "code": "COOLDOWN",
+   "mqs": 75.38616251005632
+  },
+  {
+   "symbol": "ENGINERSIN",
+   "action": "WATCH",
+   "code": "CHURN_GUARD",
+   "mqs": 75.25288281040493
+  },
+  {
+   "symbol": "HAL",
+   "action": "WATCH",
+   "code": "CHURN_GUARD",
+   "mqs": 74.70783051756503
+  },
+  {
+   "symbol": "RBLBANK",
+   "action": "WATCH",
+   "code": "CHURN_GUARD",
+   "mqs": 74.11906677393404
+  },
+  {
+   "symbol": "AEGISLOG",
+   "action": "WATCH",
+   "code": "STOP_TOO_WIDE",
+   "mqs": 73.10619469026548
+  },
+  {
+   "symbol": "AZAD",
+   "action": "WATCH",
+   "code": "CHURN_GUARD",
+   "mqs": 73.08541163850899
+  },
+  {
+   "symbol": "BALRAMCHIN",
+   "action": "WATCH",
+   "code": "STOP_TOO_WIDE",
+   "mqs": 72.88656476267096
+  }
+ ],
+ "fills_today": [
+  {
+   "date": "2026-10-06",
+   "book": "c0.006",
+   "symbol": "SONACOMS",
+   "side": "sell",
+   "qty": 5,
+   "price": 799.7,
+   "reason": "REPLACED_BY_GESHIP",
+   "entry": 824.5
+  },
+  {
+   "date": "2026-10-06",
+   "book": "c0.006",
+   "symbol": "GESHIP",
+   "side": "buy",
+   "qty": 2,
+   "price": 1565.0,
+   "reason": "REPLACE",
+   "entry": 1565.0
+  }
+ ]
+}

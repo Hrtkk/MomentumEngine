@@ -1,0 +1,281 @@
+{
+ "t": "2026-10-05",
+ "version": "0.2.1",
+ "regime": "Risk-off",
+ "breadth": 0.18837675350701402,
+ "nifty500": 21971.6,
+ "equity": {
+  "c0.003": 57460.70747096607,
+  "c0.006": 57164.87986334821,
+  "c0.010": 56770.44305319104,
+  "frac0.006": 56631.127437650546
+ },
+ "exec_notes": [],
+ "n_disc": 100,
+ "n_cand": 311,
+ "primary": "c0.006",
+ "orders": [
+  {
+   "symbol": "SONACOMS",
+   "side": "sell",
+   "reason": "REPLACED_BY_ADANIPORTS",
+   "link": "2026-10-05:SONACOMS->ADANIPORTS"
+  },
+  {
+   "symbol": "LALPATHLAB",
+   "side": "buy",
+   "reason": "ADD",
+   "link": null,
+   "stop": 1852.2674178039838,
+   "qty": 2,
+   "ref_close": 1971.3,
+   "equity_t": 57164.87986334821,
+   "target_w": 0.07692307692307693,
+   "mqs": 84.09326093899712
+  },
+  {
+   "symbol": "GESHIP",
+   "side": "buy",
+   "reason": "ADD",
+   "link": null,
+   "stop": 1480.1024661197441,
+   "qty": 2,
+   "ref_close": 1559.3,
+   "equity_t": 57164.87986334821,
+   "target_w": 0.07692307692307693,
+   "mqs": 77.63438198658575
+  },
+  {
+   "symbol": "RBLBANK",
+   "side": "buy",
+   "reason": "ADD",
+   "link": null,
+   "stop": 397.3435480777338,
+   "qty": 10,
+   "ref_close": 416.55,
+   "equity_t": 57164.87986334821,
+   "target_w": 0.07692307692307693,
+   "mqs": 77.0494251038007
+  },
+  {
+   "symbol": "ADANIPORTS",
+   "side": "buy",
+   "reason": "REPLACE",
+   "link": "2026-10-05:SONACOMS->ADANIPORTS",
+   "stop": 1692.989670177173,
+   "qty": 2,
+   "ref_close": 1774.0,
+   "equity_t": 57164.87986334821,
+   "target_w": 0.07692307692307693,
+   "mqs": 76.30373682529543
+  }
+ ],
+ "decisions": [
+  {
+   "symbol": "LALPATHLAB",
+   "action": "ADD",
+   "code": "FREE_SLOT",
+   "mqs": 84.09326093899712
+  },
+  {
+   "symbol": "GESHIP",
+   "action": "ADD",
+   "code": "FREE_SLOT",
+   "mqs": 77.63438198658575
+  },
+  {
+   "symbol": "RBLBANK",
+   "action": "ADD",
+   "code": "FREE_SLOT",
+   "mqs": 77.0494251038007
+  },
+  {
+   "symbol": "SONACOMS",
+   "action": "REPLACED",
+   "code": "BY_ADANIPORTS",
+   "mqs": 66.20137336314276
+  },
+  {
+   "symbol": "ADANIPORTS",
+   "action": "ADD",
+   "code": "REPLACES_SONACOMS",
+   "mqs": 76.30373682529543
+  },
+  {
+   "symbol": "LAURUSLABS",
+   "action": "KEEP",
+   "code": "",
+   "mqs": 81.77874480996486
+  },
+  {
+   "symbol": "REDINGTON",
+   "action": "KEEP",
+   "code": "",
+   "mqs": 78.59405940594058
+  },
+  {
+   "symbol": "CASTROLIND",
+   "action": "KEEP",
+   "code": "",
+   "mqs": 71.32840945384862
+  },
+  {
+   "symbol": "WELSPUNLIV",
+   "action": "KEEP",
+   "code": "",
+   "mqs": 79.84677419354838
+  },
+  {
+   "symbol": "SYRMA",
+   "action": "KEEP",
+   "code": "",
+   "mqs": 71.68420632385819
+  },
+  {
+   "symbol": "MANKIND",
+   "action": "KEEP",
+   "code": "",
+   "mqs": 78.64971255190035
+  },
+  {
+   "symbol": "KOTAKBANK",
+   "action": "KEEP",
+   "code": "",
+   "mqs": 83.5978122005749
+  },
+  {
+   "symbol": "IPCALAB",
+   "action": "KEEP",
+   "code": "",
+   "mqs": 78.07713190673906
+  },
+  {
+   "symbol": "MCX",
+   "action": "KEEP",
+   "code": "",
+   "mqs": 66.2752315554136
+  },
+  {
+   "symbol": "AUROPHARMA",
+   "action": "WATCH",
+   "code": "COOLDOWN",
+   "mqs": 81.2142286809326
+  },
+  {
+   "symbol": "CUPID",
+   "action": "WATCH",
+   "code": "STOP_TOO_WIDE",
+   "mqs": 77.692297455552
+  },
+  {
+   "symbol": "CPPLUS",
+   "action": "WATCH",
+   "code": "CHURN_GUARD",
+   "mqs": 75.99872245289045
+  },
+  {
+   "symbol": "ENGINERSIN",
+   "action": "WATCH",
+   "code": "CHURN_GUARD",
+   "mqs": 75.9872245289045
+  },
+  {
+   "symbol": "PETRONET",
+   "action": "WATCH",
+   "code": "CHURN_GUARD",
+   "mqs": 75.9735707441712
+  },
+  {
+   "symbol": "BHEL",
+   "action": "WATCH",
+   "code": "CHURN_GUARD",
+   "mqs": 75.75678696901947
+  },
+  {
+   "symbol": "NYKAA",
+   "action": "WATCH",
+   "code": "CHURN_GUARD",
+   "mqs": 75.20142659427233
+  },
+  {
+   "symbol": "TDPOWERSYS",
+   "action": "WATCH",
+   "code": "STOP_TOO_WIDE",
+   "mqs": 74.92614180772915
+  },
+  {
+   "symbol": "APARINDS",
+   "action": "WATCH",
+   "code": "NOT_AFFORDABLE",
+   "mqs": 73.93420632385819
+  },
+  {
+   "symbol": "GLAND",
+   "action": "WATCH",
+   "code": "CHURN_GUARD",
+   "mqs": 73.48035771319068
+  },
+  {
+   "symbol": "FINCABLES",
+   "action": "WATCH",
+   "code": "CHURN_GUARD",
+   "mqs": 73.3132385819227
+  },
+  {
+   "symbol": "JSWINFRA",
+   "action": "WATCH",
+   "code": "CHURN_GUARD",
+   "mqs": 73.0940594059406
+  },
+  {
+   "symbol": "NEULANDLAB",
+   "action": "WATCH",
+   "code": "NOT_AFFORDABLE",
+   "mqs": 72.1093899712552
+  },
+  {
+   "symbol": "GRAPHITE",
+   "action": "WATCH",
+   "code": "CHURN_GUARD",
+   "mqs": 72.09549664643885
+  },
+  {
+   "symbol": "AJANTPHARM",
+   "action": "WATCH",
+   "code": "CHURN_GUARD",
+   "mqs": 71.97229319706165
+  }
+ ],
+ "fills_today": [
+  {
+   "date": "2026-10-05",
+   "book": "c0.006",
+   "symbol": "LALPATHLAB",
+   "side": "sell",
+   "qty": 2,
+   "price": 2005.9,
+   "reason": "INELIGIBLE",
+   "entry": 1946.0
+  },
+  {
+   "date": "2026-10-05",
+   "book": "c0.006",
+   "symbol": "AJANTPHARM",
+   "side": "sell",
+   "qty": 1,
+   "price": 3581.4,
+   "reason": "INELIGIBLE",
+   "entry": 3588.0
+  },
+  {
+   "date": "2026-10-05",
+   "book": "c0.006",
+   "symbol": "PETRONET",
+   "side": "sell",
+   "qty": 15,
+   "price": 287.5,
+   "reason": "INELIGIBLE",
+   "entry": 284.5
+  }
+ ]
+}

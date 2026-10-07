@@ -1,0 +1,346 @@
+{
+ "t": "2026-09-18",
+ "version": "0.2.1",
+ "regime": "Neutral",
+ "breadth": 0.3527054108216433,
+ "nifty500": 22840.55,
+ "equity": {
+  "c0.003": 60000.0,
+  "c0.006": 60000.0,
+  "c0.010": 60000.0,
+  "frac0.006": 60000.0
+ },
+ "exec_notes": [],
+ "n_disc": 100,
+ "n_cand": 317,
+ "primary": "c0.006",
+ "orders": [
+  {
+   "symbol": "AUROPHARMA",
+   "side": "buy",
+   "reason": "ADD",
+   "link": null,
+   "stop": 1657.0081169328816,
+   "qty": 2,
+   "ref_close": 1734.0,
+   "equity_t": 60000.0,
+   "target_w": 0.07692307692307693,
+   "mqs": 83.95713932297035
+  },
+  {
+   "symbol": "ACMESOLAR",
+   "side": "buy",
+   "reason": "ADD",
+   "link": null,
+   "stop": 403.4979126666779,
+   "qty": 10,
+   "ref_close": 435.25,
+   "equity_t": 60000.0,
+   "target_w": 0.07692307692307693,
+   "mqs": 83.864624994846
+  },
+  {
+   "symbol": "EMCURE",
+   "side": "buy",
+   "reason": "ADD",
+   "link": null,
+   "stop": 1886.768429414678,
+   "qty": 2,
+   "ref_close": 2003.8,
+   "equity_t": 60000.0,
+   "target_w": 0.07692307692307693,
+   "mqs": 83.78308869005896
+  },
+  {
+   "symbol": "LAURUSLABS",
+   "side": "buy",
+   "reason": "ADD",
+   "link": null,
+   "stop": 1860.2629502842433,
+   "qty": 2,
+   "ref_close": 1954.0,
+   "equity_t": 60000.0,
+   "target_w": 0.07692307692307693,
+   "mqs": 83.64068362676782
+  },
+  {
+   "symbol": "ANTHEM",
+   "side": "buy",
+   "reason": "ADD",
+   "link": null,
+   "stop": 872.729833092584,
+   "qty": 4,
+   "ref_close": 928.5,
+   "equity_t": 60000.0,
+   "target_w": 0.07692307692307693,
+   "mqs": 81.06156970271718
+  },
+  {
+   "symbol": "RBLBANK",
+   "side": "buy",
+   "reason": "ADD",
+   "link": null,
+   "stop": 398.1515952950196,
+   "qty": 11,
+   "ref_close": 415.9,
+   "equity_t": 60000.0,
+   "target_w": 0.07692307692307693,
+   "mqs": 80.86491877293531
+  },
+  {
+   "symbol": "SHYAMMETL",
+   "side": "buy",
+   "reason": "ADD",
+   "link": null,
+   "stop": 1041.4972836453846,
+   "qty": 4,
+   "ref_close": 1100.0,
+   "equity_t": 60000.0,
+   "target_w": 0.07692307692307693,
+   "mqs": 80.60363666350554
+  },
+  {
+   "symbol": "RADICO",
+   "side": "buy",
+   "reason": "ADD",
+   "link": null,
+   "stop": 4337.5705770210625,
+   "qty": 1,
+   "ref_close": 4535.4,
+   "equity_t": 60000.0,
+   "target_w": 0.07692307692307693,
+   "mqs": 77.50765369232673
+  },
+  {
+   "symbol": "PAYTM",
+   "side": "buy",
+   "reason": "ADD",
+   "link": null,
+   "stop": 1730.545882590874,
+   "qty": 2,
+   "ref_close": 1849.9,
+   "equity_t": 60000.0,
+   "target_w": 0.07692307692307693,
+   "mqs": 77.36017193749227
+  },
+  {
+   "symbol": "APLAPOLLO",
+   "side": "buy",
+   "reason": "ADD",
+   "link": null,
+   "stop": 2155.343485936137,
+   "qty": 2,
+   "ref_close": 2270.1,
+   "equity_t": 60000.0,
+   "target_w": 0.07692307692307693,
+   "mqs": 76.9723075495815
+  },
+  {
+   "symbol": "ANANDRATHI",
+   "side": "buy",
+   "reason": "ADD",
+   "link": null,
+   "stop": 2142.1598295289496,
+   "qty": 2,
+   "ref_close": 2229.4,
+   "equity_t": 60000.0,
+   "target_w": 0.07692307692307693,
+   "mqs": 76.18137446913784
+  },
+  {
+   "symbol": "REDINGTON",
+   "side": "buy",
+   "reason": "ADD",
+   "link": null,
+   "stop": 370.71890666156025,
+   "qty": 11,
+   "ref_close": 399.85,
+   "equity_t": 60000.0,
+   "target_w": 0.07692307692307693,
+   "mqs": 76.05303983012409
+  },
+  {
+   "symbol": "PVRINOX",
+   "side": "buy",
+   "reason": "ADD",
+   "link": null,
+   "stop": 1237.2170061963566,
+   "qty": 3,
+   "ref_close": 1324.7,
+   "equity_t": 60000.0,
+   "target_w": 0.07692307692307693,
+   "mqs": 75.6812559271018
+  }
+ ],
+ "decisions": [
+  {
+   "symbol": "AUROPHARMA",
+   "action": "ADD",
+   "code": "FREE_SLOT",
+   "mqs": 83.95713932297035
+  },
+  {
+   "symbol": "ACMESOLAR",
+   "action": "ADD",
+   "code": "FREE_SLOT",
+   "mqs": 83.864624994846
+  },
+  {
+   "symbol": "EMCURE",
+   "action": "ADD",
+   "code": "FREE_SLOT",
+   "mqs": 83.78308869005896
+  },
+  {
+   "symbol": "LAURUSLABS",
+   "action": "ADD",
+   "code": "FREE_SLOT",
+   "mqs": 83.64068362676782
+  },
+  {
+   "symbol": "ANTHEM",
+   "action": "ADD",
+   "code": "FREE_SLOT",
+   "mqs": 81.06156970271718
+  },
+  {
+   "symbol": "RBLBANK",
+   "action": "ADD",
+   "code": "FREE_SLOT",
+   "mqs": 80.86491877293531
+  },
+  {
+   "symbol": "SHYAMMETL",
+   "action": "ADD",
+   "code": "FREE_SLOT",
+   "mqs": 80.60363666350554
+  },
+  {
+   "symbol": "RADICO",
+   "action": "ADD",
+   "code": "FREE_SLOT",
+   "mqs": 77.50765369232673
+  },
+  {
+   "symbol": "PAYTM",
+   "action": "ADD",
+   "code": "FREE_SLOT",
+   "mqs": 77.36017193749227
+  },
+  {
+   "symbol": "APLAPOLLO",
+   "action": "ADD",
+   "code": "FREE_SLOT",
+   "mqs": 76.9723075495815
+  },
+  {
+   "symbol": "ANANDRATHI",
+   "action": "ADD",
+   "code": "FREE_SLOT",
+   "mqs": 76.18137446913784
+  },
+  {
+   "symbol": "REDINGTON",
+   "action": "ADD",
+   "code": "FREE_SLOT",
+   "mqs": 76.05303983012409
+  },
+  {
+   "symbol": "PVRINOX",
+   "action": "ADD",
+   "code": "FREE_SLOT",
+   "mqs": 75.6812559271018
+  },
+  {
+   "symbol": "ABBOTINDIA",
+   "action": "WATCH",
+   "code": "NOT_AFFORDABLE",
+   "mqs": 77.69131653816022
+  },
+  {
+   "symbol": "AEGISVOPAK",
+   "action": "WATCH",
+   "code": "STOP_TOO_WIDE",
+   "mqs": 75.5769904754051
+  },
+  {
+   "symbol": "GLENMARK",
+   "action": "WATCH",
+   "code": "NO_SLOT",
+   "mqs": 75.3258102090463
+  },
+  {
+   "symbol": "APARINDS",
+   "action": "WATCH",
+   "code": "NOT_AFFORDABLE",
+   "mqs": 75.26344679008783
+  },
+  {
+   "symbol": "VIJAYA",
+   "action": "WATCH",
+   "code": "NO_SLOT",
+   "mqs": 74.53467096853998
+  },
+  {
+   "symbol": "WELCORP",
+   "action": "WATCH",
+   "code": "STOP_TOO_WIDE",
+   "mqs": 74.41692780274606
+  },
+  {
+   "symbol": "ACE",
+   "action": "WATCH",
+   "code": "NO_SLOT",
+   "mqs": 74.40901641034098
+  },
+  {
+   "symbol": "GLAND",
+   "action": "WATCH",
+   "code": "NO_SLOT",
+   "mqs": 73.37169628499568
+  },
+  {
+   "symbol": "PETRONET",
+   "action": "WATCH",
+   "code": "NO_SLOT",
+   "mqs": 72.85547148806333
+  },
+  {
+   "symbol": "PFOCUS",
+   "action": "WATCH",
+   "code": "NO_SLOT",
+   "mqs": 71.99454706634232
+  },
+  {
+   "symbol": "SYRMA",
+   "action": "WATCH",
+   "code": "NO_SLOT",
+   "mqs": 71.89319362553087
+  },
+  {
+   "symbol": "MEDANTA",
+   "action": "WATCH",
+   "code": "NO_SLOT",
+   "mqs": 71.62327856347669
+  },
+  {
+   "symbol": "PNB",
+   "action": "WATCH",
+   "code": "NO_SLOT",
+   "mqs": 71.40289345647962
+  },
+  {
+   "symbol": "ABCAPITAL",
+   "action": "WATCH",
+   "code": "NO_SLOT",
+   "mqs": 71.34751370964418
+  },
+  {
+   "symbol": "KOTAKBANK",
+   "action": "WATCH",
+   "code": "NO_SLOT",
+   "mqs": 71.32377953242897
+  }
+ ],
+ "fills_today": []
+}

@@ -1,0 +1,134 @@
+{
+ "signal_date": "2026-10-07",
+ "equity": 60000.0,
+ "cash": 60000.0,
+ "positions": {},
+ "orders_next_open": [
+  {
+   "side": "buy",
+   "sym": "CUPID",
+   "stop": 301.087,
+   "qty": 17.4444,
+   "signal": {
+    "close": 343.95,
+    "day_ret": 0.0609,
+    "R3": 0.7461,
+    "R6": 2.8842,
+    "R12_1": 5.569,
+    "vs_52w_high": 1.0585,
+    "vol_x_median20": 2.07,
+    "vs_sma20": 0.2079,
+    "rsi14": 74.5062,
+    "atr20": 14.2877,
+    "rank": 1,
+    "industry": "Fast Moving Consumer Goods",
+    "nifty500_vs_200dma": -0.0382
+   }
+  },
+  {
+   "side": "buy",
+   "sym": "IOLCP",
+   "stop": 188.015,
+   "qty": 27.2455,
+   "signal": {
+    "close": 220.22,
+    "day_ret": 0.0248,
+    "R3": 0.3178,
+    "R6": 1.7722,
+    "R12_1": 0.925,
+    "vs_52w_high": 1.0054,
+    "vol_x_median20": 1.8,
+    "vs_sma20": 0.0813,
+    "rsi14": 65.3446,
+    "atr20": 10.735,
+    "rank": 8,
+    "industry": "Unknown",
+    "nifty500_vs_200dma": -0.0382
+   }
+  },
+  {
+   "side": "buy",
+   "sym": "TFCILTD",
+   "stop": 136.3833,
+   "qty": 39.4115,
+   "signal": {
+    "close": 152.24,
+    "day_ret": 0.0824,
+    "R3": 1.0207,
+    "R6": 1.3541,
+    "R12_1": 0.9733,
+    "vs_52w_high": 1.0252,
+    "vol_x_median20": 1.89,
+    "vs_sma20": 0.0801,
+    "rsi14": 71.7244,
+    "atr20": 5.2856,
+    "rank": 21,
+    "industry": "Unknown",
+    "nifty500_vs_200dma": -0.0382
+   }
+  },
+  {
+   "side": "buy",
+   "sym": "SHREEJISPG",
+   "stop": 736.2978,
+   "qty": 7.4804,
+   "signal": {
+    "close": 802.1,
+    "day_ret": 0.007,
+    "R3": 0.6007,
+    "R6": 1.3155,
+    "R12_1": 1.7615,
+    "vs_52w_high": 1.0033,
+    "vol_x_median20": 2.12,
+    "vs_sma20": 0.0943,
+    "rsi14": 81.9927,
+    "atr20": 21.9341,
+    "rank": 24,
+    "industry": "Unknown",
+    "nifty500_vs_200dma": -0.0382
+   }
+  },
+  {
+   "side": "buy",
+   "sym": "GLAND",
+   "stop": 2875.0486,
+   "qty": 1.9044,
+   "signal": {
+    "close": 3150.6,
+    "day_ret": 0.0481,
+    "R3": 0.2624,
+    "R6": 0.8533,
+    "R12_1": 0.4976,
+    "vs_52w_high": 1.0357,
+    "vol_x_median20": 3.52,
+    "vs_sma20": 0.0724,
+    "rsi14": 67.7865,
+    "atr20": 91.8505,
+    "rank": 54,
+    "industry": "Healthcare",
+    "nifty500_vs_200dma": -0.0382
+   }
+  },
+  {
+   "side": "buy",
+   "sym": "PTCIL",
+   "stop": 22125.0262,
+   "qty": 0.2431,
+   "signal": {
+    "close": 24685.0,
+    "day_ret": 0.0675,
+    "R3": 0.4522,
+    "R6": 0.5871,
+    "R12_1": 0.5627,
+    "vs_52w_high": 1.0232,
+    "vol_x_median20": 6.12,
+    "vs_sma20": 0.0917,
+    "rsi14": 69.0618,
+    "atr20": 853.3246,
+    "rank": 90,
+    "industry": "Capital Goods",
+    "nifty500_vs_200dma": -0.0382
+   }
+  }
+ ]
+}

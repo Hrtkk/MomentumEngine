@@ -1,0 +1,235 @@
+{
+ "t": "2026-10-05",
+ "version": "0.2.1",
+ "regime": "Risk-off",
+ "breadth": 0.18837675350701402,
+ "nifty500": 21971.6,
+ "equity": {
+  "c0.003": 57562.90156479455,
+  "c0.006": 57290.17440170274,
+  "c0.010": 56983.30968424697,
+  "frac0.006": 56879.18590474174
+ },
+ "exec_notes": [],
+ "n_disc": 100,
+ "n_cand": 324,
+ "primary": "c0.006",
+ "orders": [
+  {
+   "symbol": "SONACOMS",
+   "side": "sell",
+   "reason": "REPLACED_BY_GESHIP",
+   "link": "2026-10-05:SONACOMS->GESHIP"
+  },
+  {
+   "symbol": "GESHIP",
+   "side": "buy",
+   "reason": "REPLACE",
+   "link": "2026-10-05:SONACOMS->GESHIP",
+   "stop": 1480.1024661197441,
+   "qty": 2,
+   "ref_close": 1559.3,
+   "equity_t": 57290.17440170274,
+   "target_w": 0.07692307692307693,
+   "mqs": 78.00990220649662
+  }
+ ],
+ "decisions": [
+  {
+   "symbol": "SONACOMS",
+   "action": "REPLACED",
+   "code": "BY_GESHIP",
+   "mqs": 67.19944469015677
+  },
+  {
+   "symbol": "GESHIP",
+   "action": "ADD",
+   "code": "REPLACES_SONACOMS",
+   "mqs": 78.00990220649662
+  },
+  {
+   "symbol": "LAURUSLABS",
+   "action": "KEEP",
+   "code": "",
+   "mqs": 79.24782544596786
+  },
+  {
+   "symbol": "REDINGTON",
+   "action": "KEEP",
+   "code": "",
+   "mqs": 82.83188363064524
+  },
+  {
+   "symbol": "DIVISLAB",
+   "action": "KEEP",
+   "code": "",
+   "mqs": 77.00801559772393
+  },
+  {
+   "symbol": "AUROPHARMA",
+   "action": "KEEP",
+   "code": "",
+   "mqs": 77.81593690107623
+  },
+  {
+   "symbol": "CASTROLIND",
+   "action": "KEEP",
+   "code": "",
+   "mqs": 75.51543073369699
+  },
+  {
+   "symbol": "WELSPUNLIV",
+   "action": "KEEP",
+   "code": "",
+   "mqs": 78.94736842105264
+  },
+  {
+   "symbol": "SYRMA",
+   "action": "KEEP",
+   "code": "",
+   "mqs": 72.56405720182809
+  },
+  {
+   "symbol": "LALPATHLAB",
+   "action": "KEEP",
+   "code": "",
+   "mqs": 84.48002358838272
+  },
+  {
+   "symbol": "MANKIND",
+   "action": "KEEP",
+   "code": "",
+   "mqs": 79.843800678166
+  },
+  {
+   "symbol": "KOTAKBANK",
+   "action": "KEEP",
+   "code": "",
+   "mqs": 82.99334119612757
+  },
+  {
+   "symbol": "IPCALAB",
+   "action": "KEEP",
+   "code": "",
+   "mqs": 78.52027126640131
+  },
+  {
+   "symbol": "PETRONET",
+   "action": "KEEP",
+   "code": "",
+   "mqs": 76.52162268416139
+  },
+  {
+   "symbol": "CUPID",
+   "action": "WATCH",
+   "code": "STOP_TOO_WIDE",
+   "mqs": 79.66470096810656
+  },
+  {
+   "symbol": "ADANIPORTS",
+   "action": "WATCH",
+   "code": "COOLDOWN",
+   "mqs": 77.47584647894246
+  },
+  {
+   "symbol": "CPPLUS",
+   "action": "WATCH",
+   "code": "CHURN_GUARD",
+   "mqs": 76.077989090373
+  },
+  {
+   "symbol": "TDPOWERSYS",
+   "action": "WATCH",
+   "code": "STOP_TOO_WIDE",
+   "mqs": 75.19563614919652
+  },
+  {
+   "symbol": "ABDL",
+   "action": "WATCH",
+   "code": "CHURN_GUARD",
+   "mqs": 74.34736350680622
+  },
+  {
+   "symbol": "BHEL",
+   "action": "WATCH",
+   "code": "CHURN_GUARD",
+   "mqs": 74.02690549904172
+  },
+  {
+   "symbol": "GLAND",
+   "action": "WATCH",
+   "code": "CHURN_GUARD",
+   "mqs": 73.6982898422527
+  },
+  {
+   "symbol": "ENGINERSIN",
+   "action": "WATCH",
+   "code": "CHURN_GUARD",
+   "mqs": 73.62582927908005
+  },
+  {
+   "symbol": "NYKAA",
+   "action": "WATCH",
+   "code": "CHURN_GUARD",
+   "mqs": 73.56174750601996
+  },
+  {
+   "symbol": "FINCABLES",
+   "action": "WATCH",
+   "code": "CHURN_GUARD",
+   "mqs": 73.50058970956803
+  },
+  {
+   "symbol": "NAVINFLUOR",
+   "action": "WATCH",
+   "code": "CHURN_GUARD",
+   "mqs": 73.45707405769326
+  },
+  {
+   "symbol": "RBLBANK",
+   "action": "WATCH",
+   "code": "CHURN_GUARD",
+   "mqs": 73.32615853358888
+  },
+  {
+   "symbol": "APARINDS",
+   "action": "WATCH",
+   "code": "NOT_AFFORDABLE",
+   "mqs": 73.20647206250922
+  },
+  {
+   "symbol": "CARBORUNIV",
+   "action": "WATCH",
+   "code": "STOP_TOO_WIDE",
+   "mqs": 72.8891346012089
+  },
+  {
+   "symbol": "AJANTPHARM",
+   "action": "WATCH",
+   "code": "CHURN_GUARD",
+   "mqs": 72.79271708683474
+  }
+ ],
+ "fills_today": [
+  {
+   "date": "2026-10-05",
+   "book": "c0.006",
+   "symbol": "IPCALAB",
+   "side": "buy",
+   "qty": 2,
+   "price": 1973.7,
+   "reason": "ADD",
+   "entry": 1973.7
+  },
+  {
+   "date": "2026-10-05",
+   "book": "c0.006",
+   "symbol": "PETRONET",
+   "side": "buy",
+   "qty": 15,
+   "price": 287.5,
+   "reason": "ADD",
+   "entry": 287.5
+  }
+ ]
+}

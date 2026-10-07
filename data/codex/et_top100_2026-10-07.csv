@@ -1,0 +1,101 @@
+rank,symbol,name,close,pct_change,volume,sma20,sma50,sma200,rsi14,high52w,low52w,source_url
+1,CHENNPETRO,Chennai Petroleum Corporation Ltd.,1612.3,14.7,20027812,1448.6,1389.58,1098.82,,1677.5,716.8,https://economictimes.indiatimes.com/chennai-petroleum-corporation-ltd/stocks/companyid-11661.cms
+2,PVRINOX,PVR INOX Ltd.,1343.8,7.56,5065408,1257.13,1215.68,1053.78,,1374.8,907.4,https://economictimes.indiatimes.com/pvr-inox-ltd/stocks/companyid-16320.cms
+3,PTCIL,PTC Industries Ltd.,24685.0,6.75,117090,22612.5,21120.28,18311.12,,24800,14499,https://economictimes.indiatimes.com/ptc-industries-ltd/stocks/companyid-7565.cms
+4,BHARTIHEXA,Bharti Hexacom Ltd.,1477.9,6.57,1512589,1482.11,1535.36,1574.63,,1955.6,1359.2,https://economictimes.indiatimes.com/bharti-hexacom-ltd/stocks/companyid-18654.cms
+5,CUPID,Cupid Ltd.,343.95,6.1,41373811,284.75,275.57,157.62,,345,41.81,https://economictimes.indiatimes.com/cupid-ltd/stocks/companyid-7772.cms
+6,PWL,Physicswallah Ltd.,139.57,5.85,34917953,130.56,126.08,116.16,,161.99,77.72,https://economictimes.indiatimes.com/physicswallah-ltd/stocks/companyid-2282824.cms
+7,BBOX,Black Box Ltd.,884.85,5.35,2262486,796.83,770.5,702.56,,1103,444.3,https://economictimes.indiatimes.com/black-box-ltd/stocks/companyid-12930.cms
+8,GLAND,Gland Pharma Ltd.,3150.6,4.81,1341221,2937.79,2841.38,2168.22,,3171,1573.6,https://economictimes.indiatimes.com/gland-pharma-ltd/stocks/companyid-1996493.cms
+9,MRPL,Mangalore Refinery And Petrochemicals Ltd.,182.86,4.66,23675207,170.45,171.29,168.05,,212.31,136.02,https://economictimes.indiatimes.com/mangalore-refinery-and-petrochemicals-ltd/stocks/companyid-11391.cms
+10,AEGISLOG,Aegis Logistics Ltd.,1460.2,4.61,1713087,1370.07,1333.95,934.49,,1528.7,576.1,https://economictimes.indiatimes.com/aegis-logistics-ltd/stocks/companyid-23.cms
+11,MAHABANK,Bank of Maharashtra,84.15,4.15,20883267,82.19,81.62,75.19,,94.5,54.66,https://economictimes.indiatimes.com/bank-of-maharashtra/stocks/companyid-12283.cms
+12,BELRISE,Belrise Industries Ltd.,246.31,4.02,3749664,237.34,237.81,210.38,,268.2,142.59,https://economictimes.indiatimes.com/belrise-industries-ltd/stocks/companyid-2239238.cms
+13,KALYANKJIL,Kalyan Jewellers India Ltd.,569.0,3.81,18559247,578.44,593.37,461.69,,648.95,327.05,https://economictimes.indiatimes.com/kalyan-jewellers-india-ltd/stocks/companyid-2002614.cms
+14,SYRMA,Syrma SGS Technology Ltd.,1746.7,3.66,1814188,1674.64,1538.66,1114.06,,1822.6,634.5,https://economictimes.indiatimes.com/syrma-sgs-technology-ltd/stocks/companyid-2077325.cms
+15,IGL,Indraprastha Gas Ltd.,146.35,3.52,3700426,147.27,149.77,162.41,,223.5,139.2,https://economictimes.indiatimes.com/indraprastha-gas-ltd/stocks/companyid-751.cms
+16,HFCL,HFCL Ltd.,271.9,3.48,12439455,228.52,224.08,143.81,,275.91,59.82,https://economictimes.indiatimes.com/hfcl-ltd/stocks/companyid-13649.cms
+17,EMMVEE,Emmvee Photovoltaic Power Ltd.,305.8,3.14,3016282,322.8,322.73,270.42,,371.55,171.51,https://economictimes.indiatimes.com/emmvee-photovoltaic-power-ltd/stocks/companyid-2270215.cms
+18,PINELABS,Pine Labs Ltd.,177.67,2.86,40833328,180.65,167.52,180.0,,284,134.73,https://economictimes.indiatimes.com/pine-labs-ltd/stocks/companyid-2269153.cms
+19,UNIONBANK,Union Bank of India,173.15,2.8,13484976,175.69,179.8,174.39,,205.49,135.3,https://economictimes.indiatimes.com/union-bank-of-india/stocks/companyid-12261.cms
+20,LICHSGFIN,LIC Housing Finance Ltd.,515.4,2.67,2958457,546.11,530.47,533.04,,598.2,458.9,https://economictimes.indiatimes.com/lic-housing-finance-ltd/stocks/companyid-10823.cms
+21,INDIACEM,India Cements Ltd.,303.05,2.65,252820,327.82,357.96,395.0,,485.8,289.2,https://economictimes.indiatimes.com/india-cements-ltd/stocks/companyid-13550.cms
+22,KEI,KEI Industries Ltd.,4677.7,2.64,220874,4590.59,5091.28,4829.86,,5899,3728.7,https://economictimes.indiatimes.com/kei-industries-ltd/stocks/companyid-8311.cms
+23,PNBHOUSING,PNB Housing Finance Ltd.,1131.0,2.63,1125058,1125.57,1134.07,992.78,,1211.5,729.6,https://economictimes.indiatimes.com/pnb-housing-finance-ltd/stocks/companyid-4749.cms
+24,RAINBOW,Rainbow Childrens Medicare Ltd.,1270.7,2.51,409464,1391.15,1446.03,1329.04,,1610,1084,https://economictimes.indiatimes.com/rainbow-childrens-medicare-ltd/stocks/companyid-42272.cms
+25,LTFOODS,LT Foods Ltd.,418.2,2.47,487332,422.22,424.64,400.43,,490.7,333.15,https://economictimes.indiatimes.com/lt-foods-ltd/stocks/companyid-18545.cms
+26,JUBLFOOD,Jubilant Foodworks Ltd.,460.6,2.42,2597754,472.02,479.66,477.01,,635,408.55,https://economictimes.indiatimes.com/jubilant-foodworks-ltd/stocks/companyid-16224.cms
+27,PNB,Punjab National Bank,114.59,2.39,18275848,115.17,115.25,114.31,,135.15,98.5,https://economictimes.indiatimes.com/punjab-national-bank/stocks/companyid-11585.cms
+28,ANGELONE,Angel One Ltd.,302.0,2.38,13538340,292.01,292.94,287.3,,360.45,208.63,https://economictimes.indiatimes.com/angel-one-ltd/stocks/companyid-31183.cms
+29,GROWW,Billionbrains Garage Ventures Ltd.,197.75,2.37,42404060,190.17,192.63,184.05,,227.2,112,https://economictimes.indiatimes.com/billionbrains-garage-ventures-ltd/stocks/companyid-2282831.cms
+30,GILLETTE,Gillette India Ltd.,7223.5,2.36,26580,7149.78,7385.0,7843.27,,9664,6860,https://economictimes.indiatimes.com/gillette-india-ltd/stocks/companyid-13567.cms
+31,GESHIP,Great Eastern Shipping Company Ltd.,1567.9,2.31,464716,1473.05,1391.04,1369.7,,1798,1002.55,https://economictimes.indiatimes.com/great-eastern-shipping-company-ltd/stocks/companyid-13697.cms
+32,PAYTM,One97 Communications Ltd.,1732.0,2.25,5016093,1733.63,1628.24,1280.71,,1855.5,930.6,https://economictimes.indiatimes.com/one97-communications-ltd/stocks/companyid-2017785.cms
+33,CPPLUS,Aditya Infotech Ltd.,4064.9,2.24,208910,3742.15,3631.91,2607.32,,4188.9,1304,https://economictimes.indiatimes.com/aditya-infotech-ltd/stocks/companyid-46238.cms
+34,BALRAMCHIN,Balrampur Chini Mills Ltd.,706.6,2.22,1646549,679.86,665.3,540.01,,780.95,393.55,https://economictimes.indiatimes.com/balrampur-chini-mills-ltd/stocks/companyid-12477.cms
+35,LEMONTREE,Lemon Tree Hotels Ltd.,112.52,2.18,6232616,106.17,107.84,118.29,,174.2,99.61,https://economictimes.indiatimes.com/lemon-tree-hotels-ltd/stocks/companyid-33652.cms
+36,ADANIGREEN,Adani Green Energy Ltd.,1341.4,2.17,6420423,1289.7,1314.07,1200.48,,1631.5,765,https://economictimes.indiatimes.com/adani-green-energy-ltd/stocks/companyid-64847.cms
+37,DEEPAKFERT,Deepak Fertilisers & Petrochemicals Corporation Ltd.,1415.4,2.16,423588,1342.75,1430.04,1292.95,,1681,866.4,https://economictimes.indiatimes.com/deepak-fertilisers-petrochemicals-corporation-ltd/stocks/companyid-13837.cms
+38,AARTIIND,Aarti Industries Ltd.,491.25,2.1,570690,485.12,501.5,454.06,,551.75,338.05,https://economictimes.indiatimes.com/aarti-industries-ltd/stocks/companyid-11400.cms
+39,BAJAJHFL,Bajaj Housing Finance Ltd.,84.08,2.09,4604045,83.26,84.28,86.67,,113.45,72.65,https://economictimes.indiatimes.com/bajaj-housing-finance-ltd/stocks/companyid-60813.cms
+40,CANHLIFE,Canara HSBC Life Insurance Company Ltd.,146.06,2.05,2983478,150.2,150.82,145.4,,166.69,106,https://economictimes.indiatimes.com/canara-hsbc-life-insurance-company-ltd/stocks/companyid-21875.cms
+41,ASAHIINDIA,Asahi India Glass Ltd.,976.25,2.02,142786,959.71,940.58,907.56,,1074,775.1,https://economictimes.indiatimes.com/asahi-india-glass-ltd/stocks/companyid-14039.cms
+42,POLYCAB,Polycab India Ltd.,8310.0,2.01,531310,8247.9,8738.6,8394.19,,10126,6663,https://economictimes.indiatimes.com/polycab-india-ltd/stocks/companyid-33820.cms
+43,FORTIS,Fortis Healthcare Ltd.,779.1,1.98,1858360,852.48,895.15,908.12,,1104.3,745.35,https://economictimes.indiatimes.com/fortis-healthcare-ltd/stocks/companyid-16648.cms
+44,TARIL,Transformers & Rectifiers (India) Ltd.,289.15,1.94,3041176,282.09,291.98,297.81,,501.2,224.05,https://economictimes.indiatimes.com/transformers-rectifiers-india-ltd/stocks/companyid-20444.cms
+45,MTARTECH,MTAR Technologies Ltd.,7864.5,1.9,111087,7333.82,6985.24,5411.38,,8714,1866.2,https://economictimes.indiatimes.com/mtar-technologies-ltd/stocks/companyid-46140.cms
+46,INDIANB,Indian Bank,828.3,1.89,1140038,830.87,855.64,862.14,,1000.9,754.9,https://economictimes.indiatimes.com/indian-bank/stocks/companyid-8614.cms
+47,KOTAKBANK,Kotak Mahindra Bank Ltd.,440.0,1.88,37972097,415.16,407.46,399.85,,453.2,345.5,https://economictimes.indiatimes.com/kotak-mahindra-bank-ltd/stocks/companyid-12161.cms
+48,ASTRAL,Astral Ltd.,1427.7,1.82,759824,1402.75,1458.57,1502.39,,1768.7,1311.6,https://economictimes.indiatimes.com/astral-ltd/stocks/companyid-15686.cms
+49,JKCEMENT,JK Cement Ltd.,5047.0,1.76,39360,4979.43,5179.65,5396.59,,6764.5,4671.5,https://economictimes.indiatimes.com/jk-cement-ltd/stocks/companyid-16847.cms
+50,JAINREC,Jain Resource Recycling Ltd.,295.15,1.73,1303023,286.67,296.44,375.77,,593.95,271,https://economictimes.indiatimes.com/jain-resource-recycling-ltd/stocks/companyid-2260247.cms
+51,GVT&D,GE Vernova T&D India Ltd.,4316.3,1.68,660155,4352.49,4312.96,4075.2,,5650,2523.2,https://economictimes.indiatimes.com/ge-vernova-td-india-ltd/stocks/companyid-13800.cms
+52,WELCORP,Welspun Corp Ltd.,2704.6,1.65,1200738,2660.14,2305.75,1387.13,,2900,710,https://economictimes.indiatimes.com/welspun-corp-ltd/stocks/companyid-5032.cms
+53,MCX,Multi Commodity Exchange of India Ltd.,3362.6,1.59,2369566,3281.52,3113.2,2761.72,,3481.4,1626,https://economictimes.indiatimes.com/multi-commodity-exchange-of-india-ltd/stocks/companyid-16571.cms
+54,CGCL,Capri Global Capital Ltd.,250.74,1.57,1754021,259.05,247.21,204.97,,287.45,151.1,https://economictimes.indiatimes.com/capri-global-capital-ltd/stocks/companyid-6183.cms
+55,BSE,BSE Ltd.,3356.0,1.55,6608257,3238.37,3345.86,3311.62,,4446.8,2102,https://economictimes.indiatimes.com/bse-ltd/stocks/companyid-2809.cms
+56,DMART,Avenue Supermarts Ltd.,3636.0,1.52,406908,3734.05,3844.13,3992.62,,4644,3521,https://economictimes.indiatimes.com/avenue-supermarts-ltd/stocks/companyid-45987.cms
+57,KARURVYSYA,Karur Vysya Bank Ltd.,330.1,1.51,2515356,328.32,335.63,302.72,,358.65,209.51,https://economictimes.indiatimes.com/karur-vysya-bank-ltd/stocks/companyid-12258.cms
+58,APOLLOTYRE,Apollo Tyres Ltd.,407.6,1.51,546102,407.13,425.28,440.07,,540.5,365.3,https://economictimes.indiatimes.com/apollo-tyres-ltd/stocks/companyid-63.cms
+59,TEGA,Tega Industries Ltd.,2123.6,1.49,488724,1949.77,1752.78,1738.04,,2198,1473,https://economictimes.indiatimes.com/tega-industries-ltd/stocks/companyid-43277.cms
+60,SUPREMEIND,Supreme Industries Ltd.,3550.0,1.49,381975,3456.7,3502.36,3573.7,,4293.9,3140,https://economictimes.indiatimes.com/supreme-industries-ltd/stocks/companyid-12969.cms
+61,AAVAS,Aavas Financiers Ltd.,1231.7,1.37,44345,1265.92,1316.66,1352.74,,1771.9,1060.4,https://economictimes.indiatimes.com/aavas-financiers-ltd/stocks/companyid-35834.cms
+62,OIL,Oil India Ltd.,453.75,1.32,1445019,472.42,470.44,461.18,,531,395.6,https://economictimes.indiatimes.com/oil-india-ltd/stocks/companyid-4547.cms
+63,BHARTIARTL,Bharti Airtel Ltd.,1833.9,1.3,13920833,1812.52,1879.3,1906.91,,2174.5,1726.3,https://economictimes.indiatimes.com/bharti-airtel-ltd/stocks/companyid-2718.cms
+64,SHYAMMETL,Shyam Metalics and Energy Ltd.,1067.3,1.27,514924,1073.49,1044.82,921.88,,1148,746,https://economictimes.indiatimes.com/shyam-metalics-and-energy-ltd/stocks/companyid-2011527.cms
+65,PPLPHARMA,Piramal Pharma Ltd.,203.01,1.25,2298287,207.98,208.67,174.69,,231.93,132.3,https://economictimes.indiatimes.com/piramal-pharma-ltd/stocks/companyid-2094561.cms
+66,LGEINDIA,LG Electronics India Ltd.,1780.3,1.24,371600,1693.83,1647.39,1553.31,,1825,1304.1,https://economictimes.indiatimes.com/lg-electronics-india-ltd/stocks/companyid-4476.cms
+67,AVANTIFEED,Avanti Feeds Ltd.,722.3,1.15,237908,760.1,822.82,1038.58,,1593.8,636,https://economictimes.indiatimes.com/avanti-feeds-ltd/stocks/companyid-6724.cms
+68,CANBK,Canara Bank,119.15,1.13,17756429,122.38,125.85,135.98,,162.89,116.51,https://economictimes.indiatimes.com/canara-bank/stocks/companyid-9218.cms
+69,SWANCORP,Swan Corp Ltd.,271.85,1.12,1528441,287.21,296.18,345.59,,493.6,261.7,https://economictimes.indiatimes.com/swan-corp-ltd/stocks/companyid-11965.cms
+70,ALKEM,Alkem Laboratories Ltd.,5350.5,1.11,205152,5252.65,5375.81,5481.18,,5933.5,5051,https://economictimes.indiatimes.com/alkem-laboratories-ltd/stocks/companyid-15059.cms
+71,ENRIN,Siemens Energy India Ltd.,3344.0,1.11,426581,3210.29,3292.5,3085.01,,3968,2115,https://economictimes.indiatimes.com/siemens-energy-india-ltd/stocks/companyid-2258438.cms
+72,ICICIBANK,ICICI Bank Ltd.,1357.5,1.1,14774121,1344.63,1395.69,1353.27,,1480,1187.6,https://economictimes.indiatimes.com/icici-bank-ltd/stocks/companyid-9194.cms
+73,FEDERALBNK,Federal Bank Ltd.,323.5,1.1,8632011,331.17,344.83,304.99,,371.7,191.8,https://economictimes.indiatimes.com/federal-bank-ltd/stocks/companyid-9211.cms
+74,GRANULES,Granules India Ltd.,845.3,1.07,1224602,862.47,852.75,721.32,,923.65,529.85,https://economictimes.indiatimes.com/granules-india-ltd/stocks/companyid-6991.cms
+75,BANKINDIA,Bank of India,133.55,1.06,9853574,136.33,139.93,146.93,,178.36,122.2,https://economictimes.indiatimes.com/bank-of-india/stocks/companyid-11964.cms
+76,HEXT,Hexaware Technologies Ltd.,505.5,1.04,146911,504.62,537.08,549.77,,807.75,400.2,https://economictimes.indiatimes.com/hexaware-technologies-ltd/stocks/companyid-2254981.cms
+77,KAJARIACER,Kajaria Ceramics Ltd.,1226.2,1.03,238403,1217.2,1217.74,1096.06,,1293.8,869.6,https://economictimes.indiatimes.com/kajaria-ceramics-ltd/stocks/companyid-13489.cms
+78,ZYDUSWELL,Zydus Wellness Ltd.,507.55,1.03,147985,527.69,528.32,487.58,,611.85,367.55,https://economictimes.indiatimes.com/zydus-wellness-ltd/stocks/companyid-6816.cms
+79,OLAELEC,Ola Electric Mobility Ltd.,36.32,1.01,61427676,37.85,38.41,35.93,,57.95,22.25,https://economictimes.indiatimes.com/ola-electric-mobility-ltd/stocks/companyid-2206544.cms
+80,IEX,Indian Energy Exchange Ltd.,105.85,0.95,7531830,111.37,119.51,125.05,,160.27,103.94,https://economictimes.indiatimes.com/indian-energy-exchange-ltd/stocks/companyid-20870.cms
+81,THANGAMAYL,Thangamayil Jewellery Ltd.,4803.0,0.94,51777,5021.62,5268.23,4516.37,,7430,1939.5,https://economictimes.indiatimes.com/thangamayil-jewellery-ltd/stocks/companyid-30963.cms
+82,SUMICHEM,Sumitomo Chemical India Ltd.,421.95,0.94,221961,449.54,496.12,456.43,,572.05,362.6,https://economictimes.indiatimes.com/sumitomo-chemical-india-ltd/stocks/companyid-49672.cms
+83,AFCONS,Afcons Infrastructure Ltd.,244.38,0.93,230744,255.85,269.95,310.0,,479.4,225.35,https://economictimes.indiatimes.com/afcons-infrastructure-ltd/stocks/companyid-11878.cms
+84,PFC,Power Finance Corporation Ltd.,325.55,0.92,15838626,338.63,364.02,399.46,,486.5,313.35,https://economictimes.indiatimes.com/power-finance-corporation-ltd/stocks/companyid-4519.cms
+85,CDSL,Central Depository Services (India) Ltd.,1275.0,0.92,1021744,1318.84,1345.3,1321.05,,1673.7,1116.3,https://economictimes.indiatimes.com/central-depository-services-india-ltd/stocks/companyid-4259.cms
+86,NYKAA,FSN E-Commerce Ventures Ltd.,341.25,0.91,6078112,334.22,333.53,285.42,,349.55,232,https://economictimes.indiatimes.com/fsn-e-commerce-ventures-ltd/stocks/companyid-2017563.cms
+87,OFSS,Oracle Financial Services Software Ltd.,10576.0,0.9,201807,11097.75,11494.98,9266.43,,12540,6234.5,https://economictimes.indiatimes.com/oracle-financial-services-software-ltd/stocks/companyid-3160.cms
+88,CENTRALBK,Central Bank of India,30.44,0.83,3892597,30.75,30.91,33.97,,40.92,29.32,https://economictimes.indiatimes.com/central-bank-of-india/stocks/companyid-11944.cms
+89,AMBER,Amber Enterprises India Ltd.,6925.0,0.82,91287,6966.27,7210.52,7233.4,,8974,5400.5,https://economictimes.indiatimes.com/amber-enterprises-india-ltd/stocks/companyid-67404.cms
+90,APARINDS,Apar Industries Ltd.,18160.0,0.8,106708,17760.95,16991.48,12696.02,,19265,6801,https://economictimes.indiatimes.com/apar-industries-ltd/stocks/companyid-12150.cms
+91,BANKBARODA,Bank of Baroda,234.55,0.79,6320157,233.62,239.78,269.22,,325.5,223.82,https://economictimes.indiatimes.com/bank-of-baroda/stocks/companyid-12040.cms
+92,RADICO,Radico Khaitan Ltd.,4495.0,0.79,460029,4436.36,4498.5,3544.46,,4747,2500,https://economictimes.indiatimes.com/radico-khaitan-ltd/stocks/companyid-12315.cms
+93,MSUMI,Motherson Sumi Wiring India Ltd.,33.57,0.79,9270659,34.97,37.57,40.43,,53.59,32.7,https://economictimes.indiatimes.com/motherson-sumi-wiring-india-ltd/stocks/companyid-2024281.cms
+94,INDIAMART,IndiaMART InterMESH Ltd.,1605.3,0.78,58405,1642.49,1712.63,1992.36,,2525.9,1565.1,https://economictimes.indiatimes.com/indiamart-intermesh-ltd/stocks/companyid-50224.cms
+95,JMFINANCIL,JM Financial Ltd.,124.92,0.75,1531478,125.38,126.72,129.73,,182.5,112,https://economictimes.indiatimes.com/jm-financial-ltd/stocks/companyid-12633.cms
+96,GICRE,General Insurance Corporation of India,316.55,0.74,681917,336.03,347.84,369.56,,417.95,311.5,https://economictimes.indiatimes.com/general-insurance-corporation-of-india/stocks/companyid-12266.cms
+97,SWIGGY,Swiggy Ltd.,246.0,0.74,16172713,265.25,274.63,290.04,,459.95,235.5,https://economictimes.indiatimes.com/swiggy-ltd/stocks/companyid-2232501.cms
+98,SUNTV,Sun TV Network Ltd.,636.5,0.7,1153473,515.92,495.21,541.1,,663.9,447.2,https://economictimes.indiatimes.com/sun-tv-network-ltd/stocks/companyid-17994.cms
+99,COALINDIA,Coal India Ltd.,414.5,0.7,6400277,421.93,414.69,433.19,,491.25,369.6,https://economictimes.indiatimes.com/coal-india-ltd/stocks/companyid-11822.cms
+100,SANSERA,Sansera Engineering Ltd.,4261.7,0.69,125963,4285.99,3964.08,2788.89,,4743.5,1382.7,https://economictimes.indiatimes.com/sansera-engineering-ltd/stocks/companyid-49492.cms

@@ -1,0 +1,802 @@
+{
+ "version": "0.2.1",
+ "last_t": "2026-10-07",
+ "books": {
+  "c0.003": {
+   "cost": 0.003,
+   "fractional": false,
+   "cash": 3633.838614794552,
+   "positions": {
+    "LAURUSLABS": {
+     "qty": 2,
+     "entry": 1962.0,
+     "entry_date": "2026-09-18",
+     "stop": 1852.9978205603054,
+     "last": 2052.8,
+     "mqs_entry": 86.85096279743719
+    },
+    "DIVISLAB": {
+     "qty": 1,
+     "entry": 9346.5,
+     "entry_date": "2026-09-18",
+     "stop": 8933.57647136368,
+     "last": 9588.0,
+     "mqs_entry": 84.53317854087742
+    },
+    "AUROPHARMA": {
+     "qty": 2,
+     "entry": 1683.2,
+     "entry_date": "2026-09-18",
+     "stop": 1615.0506519729347,
+     "last": 1682.0,
+     "mqs_entry": 84.39469457586286
+    },
+    "CASTROLIND": {
+     "qty": 22,
+     "entry": 201.9,
+     "entry_date": "2026-09-28",
+     "stop": 195.51805960575786,
+     "last": 197.15,
+     "mqs_entry": 85.55731776664177
+    },
+    "WELSPUNLIV": {
+     "qty": 19,
+     "entry": 226.21,
+     "entry_date": "2026-09-29",
+     "stop": 213.10406424987085,
+     "last": 235.86,
+     "mqs_entry": 83.09848484848484
+    },
+    "LALPATHLAB": {
+     "qty": 2,
+     "entry": 1946.0,
+     "entry_date": "2026-09-30",
+     "stop": 1842.9705114182261,
+     "last": 1945.1,
+     "mqs_entry": 80.9984639016897
+    },
+    "MANKIND": {
+     "qty": 1,
+     "entry": 2545.0,
+     "entry_date": "2026-09-30",
+     "stop": 2428.431390342821,
+     "last": 2500.0,
+     "mqs_entry": 80.81592421915003
+    },
+    "KOTAKBANK": {
+     "qty": 10,
+     "entry": 426.0,
+     "entry_date": "2026-10-01",
+     "stop": 401.55052426386516,
+     "last": 440.0,
+     "mqs_entry": 79.45074914701082
+    },
+    "IPCALAB": {
+     "qty": 2,
+     "entry": 1973.7,
+     "entry_date": "2026-10-05",
+     "stop": 1828.9477778484313,
+     "last": 1938.5,
+     "mqs_entry": 82.1609592215014
+    },
+    "PETRONET": {
+     "qty": 15,
+     "entry": 287.5,
+     "entry_date": "2026-10-05",
+     "stop": 273.78753281206673,
+     "last": 297.0,
+     "mqs_entry": 76.38586654309546
+    },
+    "GESHIP": {
+     "qty": 2,
+     "entry": 1565.0,
+     "entry_date": "2026-10-06",
+     "stop": 1480.1024661197441,
+     "last": 1567.9,
+     "mqs_entry": 78.00990220649662
+    },
+    "GLAND": {
+     "qty": 1,
+     "entry": 3026.0,
+     "entry_date": "2026-10-07",
+     "stop": 2842.2604084441755,
+     "last": 3150.6,
+     "mqs_entry": 81.29324215607403
+    },
+    "AJANTPHARM": {
+     "qty": 1,
+     "entry": 3573.4,
+     "entry_date": "2026-10-07",
+     "stop": 3386.0937882358458,
+     "last": 3569.8,
+     "mqs_entry": 80.09117725931885
+    }
+   },
+   "roster": {
+    "LAURUSLABS": {
+     "since": "2026-09-17",
+     "sessions": 13
+    },
+    "DIVISLAB": {
+     "since": "2026-09-17",
+     "sessions": 13
+    },
+    "AUROPHARMA": {
+     "since": "2026-09-17",
+     "sessions": 13
+    },
+    "CASTROLIND": {
+     "since": "2026-09-25",
+     "sessions": 7,
+     "exiting": true,
+     "link": "2026-10-07:CASTROLIND->MCX"
+    },
+    "WELSPUNLIV": {
+     "since": "2026-09-28",
+     "sessions": 6
+    },
+    "LALPATHLAB": {
+     "since": "2026-09-29",
+     "sessions": 5
+    },
+    "MANKIND": {
+     "since": "2026-09-29",
+     "sessions": 5
+    },
+    "KOTAKBANK": {
+     "since": "2026-09-30",
+     "sessions": 4
+    },
+    "IPCALAB": {
+     "since": "2026-10-01",
+     "sessions": 3
+    },
+    "PETRONET": {
+     "since": "2026-10-01",
+     "sessions": 3
+    },
+    "GESHIP": {
+     "since": "2026-10-05",
+     "sessions": 2
+    },
+    "GLAND": {
+     "since": "2026-10-06",
+     "sessions": 1
+    },
+    "AJANTPHARM": {
+     "since": "2026-10-06",
+     "sessions": 1
+    },
+    "MCX": {
+     "since": "2026-10-07",
+     "sessions": 0
+    }
+   },
+   "pending": [
+    {
+     "symbol": "CASTROLIND",
+     "side": "sell",
+     "reason": "REPLACED_BY_MCX",
+     "link": "2026-10-07:CASTROLIND->MCX"
+    },
+    {
+     "symbol": "MCX",
+     "side": "buy",
+     "reason": "REPLACE",
+     "link": "2026-10-07:CASTROLIND->MCX",
+     "stop": 3154.16648712511,
+     "qty": 1,
+     "ref_close": 3362.6,
+     "equity_t": 58488.478614794556,
+     "target_w": 0.07692307692307693,
+     "mqs": 81.49910199805431
+    }
+   ],
+   "cooldown": {
+    "PVRINOX": "2026-09-25",
+    "GLENMARK": "2026-09-25",
+    "WOCKPHARMA": "2026-09-29",
+    "ETERNAL": "2026-09-30",
+    "ZYDUSLIFE": "2026-10-01",
+    "ADANIPORTS": "2026-10-01"
+   }
+  },
+  "c0.006": {
+   "cost": 0.006,
+   "fractional": false,
+   "cash": 3328.7485017027425,
+   "positions": {
+    "LAURUSLABS": {
+     "qty": 2,
+     "entry": 1962.0,
+     "entry_date": "2026-09-18",
+     "stop": 1852.9978205603054,
+     "last": 2052.8,
+     "mqs_entry": 86.85096279743719
+    },
+    "DIVISLAB": {
+     "qty": 1,
+     "entry": 9346.5,
+     "entry_date": "2026-09-18",
+     "stop": 8933.57647136368,
+     "last": 9588.0,
+     "mqs_entry": 84.53317854087742
+    },
+    "AUROPHARMA": {
+     "qty": 2,
+     "entry": 1683.2,
+     "entry_date": "2026-09-18",
+     "stop": 1615.0506519729347,
+     "last": 1682.0,
+     "mqs_entry": 84.39469457586286
+    },
+    "CASTROLIND": {
+     "qty": 22,
+     "entry": 201.9,
+     "entry_date": "2026-09-28",
+     "stop": 195.51805960575786,
+     "last": 197.15,
+     "mqs_entry": 85.55731776664177
+    },
+    "WELSPUNLIV": {
+     "qty": 19,
+     "entry": 226.21,
+     "entry_date": "2026-09-29",
+     "stop": 213.10406424987085,
+     "last": 235.86,
+     "mqs_entry": 83.09848484848484
+    },
+    "LALPATHLAB": {
+     "qty": 2,
+     "entry": 1946.0,
+     "entry_date": "2026-09-30",
+     "stop": 1842.9705114182261,
+     "last": 1945.1,
+     "mqs_entry": 80.9984639016897
+    },
+    "MANKIND": {
+     "qty": 1,
+     "entry": 2545.0,
+     "entry_date": "2026-09-30",
+     "stop": 2428.431390342821,
+     "last": 2500.0,
+     "mqs_entry": 80.81592421915003
+    },
+    "KOTAKBANK": {
+     "qty": 10,
+     "entry": 426.0,
+     "entry_date": "2026-10-01",
+     "stop": 401.55052426386516,
+     "last": 440.0,
+     "mqs_entry": 79.45074914701082
+    },
+    "IPCALAB": {
+     "qty": 2,
+     "entry": 1973.7,
+     "entry_date": "2026-10-05",
+     "stop": 1828.9477778484313,
+     "last": 1938.5,
+     "mqs_entry": 82.1609592215014
+    },
+    "PETRONET": {
+     "qty": 15,
+     "entry": 287.5,
+     "entry_date": "2026-10-05",
+     "stop": 273.78753281206673,
+     "last": 297.0,
+     "mqs_entry": 76.38586654309546
+    },
+    "GESHIP": {
+     "qty": 2,
+     "entry": 1565.0,
+     "entry_date": "2026-10-06",
+     "stop": 1480.1024661197441,
+     "last": 1567.9,
+     "mqs_entry": 78.00990220649662
+    },
+    "GLAND": {
+     "qty": 1,
+     "entry": 3026.0,
+     "entry_date": "2026-10-07",
+     "stop": 2842.2604084441755,
+     "last": 3150.6,
+     "mqs_entry": 81.29324215607403
+    },
+    "AJANTPHARM": {
+     "qty": 1,
+     "entry": 3573.4,
+     "entry_date": "2026-10-07",
+     "stop": 3386.0937882358458,
+     "last": 3569.8,
+     "mqs_entry": 80.09117725931885
+    }
+   },
+   "roster": {
+    "LAURUSLABS": {
+     "since": "2026-09-17",
+     "sessions": 13
+    },
+    "DIVISLAB": {
+     "since": "2026-09-17",
+     "sessions": 13
+    },
+    "AUROPHARMA": {
+     "since": "2026-09-17",
+     "sessions": 13
+    },
+    "CASTROLIND": {
+     "since": "2026-09-25",
+     "sessions": 7,
+     "exiting": true,
+     "link": "2026-10-07:CASTROLIND->MCX"
+    },
+    "WELSPUNLIV": {
+     "since": "2026-09-28",
+     "sessions": 6
+    },
+    "LALPATHLAB": {
+     "since": "2026-09-29",
+     "sessions": 5
+    },
+    "MANKIND": {
+     "since": "2026-09-29",
+     "sessions": 5
+    },
+    "KOTAKBANK": {
+     "since": "2026-09-30",
+     "sessions": 4
+    },
+    "IPCALAB": {
+     "since": "2026-10-01",
+     "sessions": 3
+    },
+    "PETRONET": {
+     "since": "2026-10-01",
+     "sessions": 3
+    },
+    "GESHIP": {
+     "since": "2026-10-05",
+     "sessions": 2
+    },
+    "GLAND": {
+     "since": "2026-10-06",
+     "sessions": 1
+    },
+    "AJANTPHARM": {
+     "since": "2026-10-06",
+     "sessions": 1
+    },
+    "MCX": {
+     "since": "2026-10-07",
+     "sessions": 0
+    }
+   },
+   "pending": [
+    {
+     "symbol": "CASTROLIND",
+     "side": "sell",
+     "reason": "REPLACED_BY_MCX",
+     "link": "2026-10-07:CASTROLIND->MCX"
+    },
+    {
+     "symbol": "MCX",
+     "side": "buy",
+     "reason": "REPLACE",
+     "link": "2026-10-07:CASTROLIND->MCX",
+     "stop": 3154.16648712511,
+     "qty": 1,
+     "ref_close": 3362.6,
+     "equity_t": 58183.38850170275,
+     "target_w": 0.07692307692307693,
+     "mqs": 81.49910199805431
+    }
+   ],
+   "cooldown": {
+    "PVRINOX": "2026-09-25",
+    "GLENMARK": "2026-09-25",
+    "WOCKPHARMA": "2026-09-29",
+    "ETERNAL": "2026-09-30",
+    "ZYDUSLIFE": "2026-10-01",
+    "ADANIPORTS": "2026-10-01"
+   }
+  },
+  "c0.010": {
+   "cost": 0.01,
+   "fractional": false,
+   "cash": 2978.733184246974,
+   "positions": {
+    "LAURUSLABS": {
+     "qty": 2,
+     "entry": 1962.0,
+     "entry_date": "2026-09-18",
+     "stop": 1852.9978205603054,
+     "last": 2052.8,
+     "mqs_entry": 86.85096279743719
+    },
+    "DIVISLAB": {
+     "qty": 1,
+     "entry": 9346.5,
+     "entry_date": "2026-09-18",
+     "stop": 8933.57647136368,
+     "last": 9588.0,
+     "mqs_entry": 84.53317854087742
+    },
+    "AUROPHARMA": {
+     "qty": 2,
+     "entry": 1683.2,
+     "entry_date": "2026-09-18",
+     "stop": 1615.0506519729347,
+     "last": 1682.0,
+     "mqs_entry": 84.39469457586286
+    },
+    "CASTROLIND": {
+     "qty": 22,
+     "entry": 201.9,
+     "entry_date": "2026-09-28",
+     "stop": 195.51805960575786,
+     "last": 197.15,
+     "mqs_entry": 85.55731776664177
+    },
+    "WELSPUNLIV": {
+     "qty": 19,
+     "entry": 226.21,
+     "entry_date": "2026-09-29",
+     "stop": 213.10406424987085,
+     "last": 235.86,
+     "mqs_entry": 83.09848484848484
+    },
+    "LALPATHLAB": {
+     "qty": 2,
+     "entry": 1946.0,
+     "entry_date": "2026-09-30",
+     "stop": 1842.9705114182261,
+     "last": 1945.1,
+     "mqs_entry": 80.9984639016897
+    },
+    "MANKIND": {
+     "qty": 1,
+     "entry": 2545.0,
+     "entry_date": "2026-09-30",
+     "stop": 2428.431390342821,
+     "last": 2500.0,
+     "mqs_entry": 80.81592421915003
+    },
+    "KOTAKBANK": {
+     "qty": 10,
+     "entry": 426.0,
+     "entry_date": "2026-10-01",
+     "stop": 401.55052426386516,
+     "last": 440.0,
+     "mqs_entry": 79.45074914701082
+    },
+    "IPCALAB": {
+     "qty": 2,
+     "entry": 1973.7,
+     "entry_date": "2026-10-05",
+     "stop": 1828.9477778484313,
+     "last": 1938.5,
+     "mqs_entry": 82.1609592215014
+    },
+    "PETRONET": {
+     "qty": 15,
+     "entry": 287.5,
+     "entry_date": "2026-10-05",
+     "stop": 273.78753281206673,
+     "last": 297.0,
+     "mqs_entry": 76.38586654309546
+    },
+    "GESHIP": {
+     "qty": 2,
+     "entry": 1565.0,
+     "entry_date": "2026-10-06",
+     "stop": 1480.1024661197441,
+     "last": 1567.9,
+     "mqs_entry": 78.00990220649662
+    },
+    "GLAND": {
+     "qty": 1,
+     "entry": 3026.0,
+     "entry_date": "2026-10-07",
+     "stop": 2842.2604084441755,
+     "last": 3150.6,
+     "mqs_entry": 81.29324215607403
+    },
+    "AJANTPHARM": {
+     "qty": 1,
+     "entry": 3573.4,
+     "entry_date": "2026-10-07",
+     "stop": 3386.0937882358458,
+     "last": 3569.8,
+     "mqs_entry": 80.09117725931885
+    }
+   },
+   "roster": {
+    "LAURUSLABS": {
+     "since": "2026-09-17",
+     "sessions": 13
+    },
+    "DIVISLAB": {
+     "since": "2026-09-17",
+     "sessions": 13
+    },
+    "AUROPHARMA": {
+     "since": "2026-09-17",
+     "sessions": 13
+    },
+    "CASTROLIND": {
+     "since": "2026-09-25",
+     "sessions": 7,
+     "exiting": true,
+     "link": "2026-10-07:CASTROLIND->MCX"
+    },
+    "WELSPUNLIV": {
+     "since": "2026-09-28",
+     "sessions": 6
+    },
+    "LALPATHLAB": {
+     "since": "2026-09-29",
+     "sessions": 5
+    },
+    "MANKIND": {
+     "since": "2026-09-29",
+     "sessions": 5
+    },
+    "KOTAKBANK": {
+     "since": "2026-09-30",
+     "sessions": 4
+    },
+    "IPCALAB": {
+     "since": "2026-10-01",
+     "sessions": 3
+    },
+    "PETRONET": {
+     "since": "2026-10-01",
+     "sessions": 3
+    },
+    "GESHIP": {
+     "since": "2026-10-05",
+     "sessions": 2
+    },
+    "GLAND": {
+     "since": "2026-10-06",
+     "sessions": 1
+    },
+    "AJANTPHARM": {
+     "since": "2026-10-06",
+     "sessions": 1
+    },
+    "MCX": {
+     "since": "2026-10-07",
+     "sessions": 0
+    }
+   },
+   "pending": [
+    {
+     "symbol": "CASTROLIND",
+     "side": "sell",
+     "reason": "REPLACED_BY_MCX",
+     "link": "2026-10-07:CASTROLIND->MCX"
+    },
+    {
+     "symbol": "MCX",
+     "side": "buy",
+     "reason": "REPLACE",
+     "link": "2026-10-07:CASTROLIND->MCX",
+     "stop": 3154.16648712511,
+     "qty": 1,
+     "ref_close": 3362.6,
+     "equity_t": 57833.37318424698,
+     "target_w": 0.07692307692307693,
+     "mqs": 81.49910199805431
+    }
+   ],
+   "cooldown": {
+    "PVRINOX": "2026-09-25",
+    "GLENMARK": "2026-09-25",
+    "WOCKPHARMA": "2026-09-29",
+    "ETERNAL": "2026-09-30",
+    "ZYDUSLIFE": "2026-10-01",
+    "ADANIPORTS": "2026-10-01"
+   }
+  },
+  "frac0.006": {
+   "cost": 0.006,
+   "fractional": true,
+   "cash": 101.1736678619327,
+   "positions": {
+    "LAURUSLABS": {
+     "qty": 2.369172329646638,
+     "entry": 1962.0,
+     "entry_date": "2026-09-18",
+     "stop": 1852.9978205603054,
+     "last": 2052.8,
+     "mqs_entry": 86.85096279743719
+    },
+    "DIVISLAB": {
+     "qty": 0.4950535895510689,
+     "entry": 9346.5,
+     "entry_date": "2026-09-18",
+     "stop": 8933.57647136368,
+     "last": 9588.0,
+     "mqs_entry": 84.53317854087742
+    },
+    "AUROPHARMA": {
+     "qty": 2.7309968138370504,
+     "entry": 1683.2,
+     "entry_date": "2026-09-18",
+     "stop": 1615.0506519729347,
+     "last": 1682.0,
+     "mqs_entry": 84.39469457586286
+    },
+    "CASTROLIND": {
+     "qty": 22.463336820923548,
+     "entry": 201.9,
+     "entry_date": "2026-09-28",
+     "stop": 195.51805960575786,
+     "last": 197.15,
+     "mqs_entry": 85.55731776664177
+    },
+    "WELSPUNLIV": {
+     "qty": 19.6755771415055,
+     "entry": 226.21,
+     "entry_date": "2026-09-29",
+     "stop": 213.10406424987085,
+     "last": 235.86,
+     "mqs_entry": 83.09848484848484
+    },
+    "LALPATHLAB": {
+     "qty": 2.2757544924393835,
+     "entry": 1946.0,
+     "entry_date": "2026-09-30",
+     "stop": 1842.9705114182261,
+     "last": 1945.1,
+     "mqs_entry": 80.9984639016897
+    },
+    "MANKIND": {
+     "qty": 1.7440595528698521,
+     "entry": 2545.0,
+     "entry_date": "2026-09-30",
+     "stop": 2428.431390342821,
+     "last": 2500.0,
+     "mqs_entry": 80.81592421915003
+    },
+    "KOTAKBANK": {
+     "qty": 7.742611159733214,
+     "entry": 426.0,
+     "entry_date": "2026-10-01",
+     "stop": 401.55052426386516,
+     "last": 440.0,
+     "mqs_entry": 79.45074914701082
+    },
+    "IPCALAB": {
+     "qty": 2.2665612839892337,
+     "entry": 1973.7,
+     "entry_date": "2026-10-05",
+     "stop": 1828.9477778484313,
+     "last": 1938.5,
+     "mqs_entry": 82.1609592215014
+    },
+    "PETRONET": {
+     "qty": 14.16859891718273,
+     "entry": 287.5,
+     "entry_date": "2026-10-05",
+     "stop": 273.78753281206673,
+     "last": 297.0,
+     "mqs_entry": 76.38586654309546
+    },
+    "GESHIP": {
+     "qty": 2.790820386811728,
+     "entry": 1565.0,
+     "entry_date": "2026-10-06",
+     "stop": 1480.1024661197441,
+     "last": 1567.9,
+     "mqs_entry": 78.00990220649662
+    },
+    "GLAND": {
+     "qty": 1.470563095000728,
+     "entry": 3026.0,
+     "entry_date": "2026-10-07",
+     "stop": 2842.2604084441755,
+     "last": 3150.6,
+     "mqs_entry": 81.29324215607403
+    },
+    "AJANTPHARM": {
+     "qty": 1.237101841350447,
+     "entry": 3573.4,
+     "entry_date": "2026-10-07",
+     "stop": 3386.0937882358458,
+     "last": 3569.8,
+     "mqs_entry": 80.09117725931885
+    }
+   },
+   "roster": {
+    "LAURUSLABS": {
+     "since": "2026-09-17",
+     "sessions": 13
+    },
+    "DIVISLAB": {
+     "since": "2026-09-17",
+     "sessions": 13
+    },
+    "AUROPHARMA": {
+     "since": "2026-09-17",
+     "sessions": 13
+    },
+    "CASTROLIND": {
+     "since": "2026-09-25",
+     "sessions": 7,
+     "exiting": true,
+     "link": "2026-10-07:CASTROLIND->MCX"
+    },
+    "WELSPUNLIV": {
+     "since": "2026-09-28",
+     "sessions": 6
+    },
+    "LALPATHLAB": {
+     "since": "2026-09-29",
+     "sessions": 5
+    },
+    "MANKIND": {
+     "since": "2026-09-29",
+     "sessions": 5
+    },
+    "KOTAKBANK": {
+     "since": "2026-09-30",
+     "sessions": 4
+    },
+    "IPCALAB": {
+     "since": "2026-10-01",
+     "sessions": 3
+    },
+    "PETRONET": {
+     "since": "2026-10-01",
+     "sessions": 3
+    },
+    "GESHIP": {
+     "since": "2026-10-05",
+     "sessions": 2
+    },
+    "GLAND": {
+     "since": "2026-10-06",
+     "sessions": 1
+    },
+    "AJANTPHARM": {
+     "since": "2026-10-06",
+     "sessions": 1
+    },
+    "MCX": {
+     "since": "2026-10-07",
+     "sessions": 0
+    }
+   },
+   "pending": [
+    {
+     "symbol": "CASTROLIND",
+     "side": "sell",
+     "reason": "REPLACED_BY_MCX",
+     "link": "2026-10-07:CASTROLIND->MCX"
+    },
+    {
+     "symbol": "MCX",
+     "side": "buy",
+     "reason": "REPLACE",
+     "link": "2026-10-07:CASTROLIND->MCX",
+     "stop": 3154.16648712511,
+     "qty": 1.317533819307688,
+     "ref_close": 3362.6,
+     "equity_t": 57594.4098704524,
+     "target_w": 0.07692307692307693,
+     "mqs": 81.49910199805431
+    }
+   ],
+   "cooldown": {
+    "PVRINOX": "2026-09-25",
+    "GLENMARK": "2026-09-25",
+    "WOCKPHARMA": "2026-09-29",
+    "ETERNAL": "2026-09-30",
+    "ZYDUSLIFE": "2026-10-01",
+    "ADANIPORTS": "2026-10-01"
+   }
+  }
+ }
+}

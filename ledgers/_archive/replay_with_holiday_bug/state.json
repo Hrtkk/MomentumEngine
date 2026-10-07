@@ -1,0 +1,807 @@
+{
+ "version": "0.2.1",
+ "last_t": "2026-10-07",
+ "books": {
+  "c0.003": {
+   "cost": 0.003,
+   "fractional": false,
+   "cash": 8850.138570966072,
+   "positions": {
+    "LAURUSLABS": {
+     "qty": 2,
+     "entry": 1966.6,
+     "entry_date": "2026-09-21",
+     "stop": 1860.2629502842433,
+     "last": 2052.8,
+     "mqs_entry": 83.64068362676782
+    },
+    "REDINGTON": {
+     "qty": 11,
+     "entry": 400.0,
+     "entry_date": "2026-09-21",
+     "stop": 370.71890666156025,
+     "last": 406.5,
+     "mqs_entry": 76.05303983012409
+    },
+    "WELSPUNLIV": {
+     "qty": 19,
+     "entry": 226.21,
+     "entry_date": "2026-09-29",
+     "stop": 213.10406424987085,
+     "last": 235.86,
+     "mqs_entry": 83.02431610942249
+    },
+    "MANKIND": {
+     "qty": 1,
+     "entry": 2545.0,
+     "entry_date": "2026-09-30",
+     "stop": 2428.431390342821,
+     "last": 2500.0,
+     "mqs_entry": 80.81592421915003
+    },
+    "KOTAKBANK": {
+     "qty": 10,
+     "entry": 426.0,
+     "entry_date": "2026-10-01",
+     "stop": 401.55052426386516,
+     "last": 440.0,
+     "mqs_entry": 79.58210589171975
+    },
+    "IPCALAB": {
+     "qty": 2,
+     "entry": 1929.9,
+     "entry_date": "2026-10-02",
+     "stop": 1828.9477778484313,
+     "last": 1938.5,
+     "mqs_entry": 82.1070176420126
+    },
+    "MCX": {
+     "qty": 1,
+     "entry": 3300.0,
+     "entry_date": "2026-10-02",
+     "stop": 2989.735308456634,
+     "last": 3362.6,
+     "mqs_entry": 76.22757450300251
+    },
+    "LALPATHLAB": {
+     "qty": 2,
+     "entry": 1993.2,
+     "entry_date": "2026-10-06",
+     "stop": 1852.2674178039838,
+     "last": 1945.1,
+     "mqs_entry": 84.09326093899712
+    },
+    "GESHIP": {
+     "qty": 2,
+     "entry": 1565.0,
+     "entry_date": "2026-10-06",
+     "stop": 1480.1024661197441,
+     "last": 1567.9,
+     "mqs_entry": 77.63438198658575
+    },
+    "RBLBANK": {
+     "qty": 10,
+     "entry": 416.95,
+     "entry_date": "2026-10-06",
+     "stop": 397.3435480777338,
+     "last": 412.0,
+     "mqs_entry": 77.0494251038007
+    },
+    "ADANIPORTS": {
+     "qty": 2,
+     "entry": 1773.1,
+     "entry_date": "2026-10-06",
+     "stop": 1692.989670177173,
+     "last": 1750.1,
+     "mqs_entry": 76.30373682529543
+    },
+    "PETRONET": {
+     "qty": 14,
+     "entry": 295.0,
+     "entry_date": "2026-10-07",
+     "stop": 285.33699775253865,
+     "last": 297.0,
+     "mqs_entry": 83.28777278897358
+    },
+    "GLAND": {
+     "qty": 1,
+     "entry": 3026.0,
+     "entry_date": "2026-10-07",
+     "stop": 2842.2604084441755,
+     "last": 3150.6,
+     "mqs_entry": 81.21943197243397
+    }
+   },
+   "roster": {
+    "LAURUSLABS": {
+     "since": "2026-09-18",
+     "sessions": 13
+    },
+    "REDINGTON": {
+     "since": "2026-09-18",
+     "sessions": 13,
+     "exiting": true,
+     "link": "2026-10-07:REDINGTON->BHEL"
+    },
+    "WELSPUNLIV": {
+     "since": "2026-09-28",
+     "sessions": 7
+    },
+    "MANKIND": {
+     "since": "2026-09-29",
+     "sessions": 6
+    },
+    "KOTAKBANK": {
+     "since": "2026-09-30",
+     "sessions": 5
+    },
+    "IPCALAB": {
+     "since": "2026-10-01",
+     "sessions": 4
+    },
+    "MCX": {
+     "since": "2026-10-01",
+     "sessions": 4
+    },
+    "LALPATHLAB": {
+     "since": "2026-10-05",
+     "sessions": 2
+    },
+    "GESHIP": {
+     "since": "2026-10-05",
+     "sessions": 2
+    },
+    "RBLBANK": {
+     "since": "2026-10-05",
+     "sessions": 2
+    },
+    "ADANIPORTS": {
+     "since": "2026-10-05",
+     "sessions": 2
+    },
+    "PETRONET": {
+     "since": "2026-10-06",
+     "sessions": 1
+    },
+    "GLAND": {
+     "since": "2026-10-06",
+     "sessions": 1
+    },
+    "BHEL": {
+     "since": "2026-10-07",
+     "sessions": 0
+    }
+   },
+   "pending": [
+    {
+     "symbol": "REDINGTON",
+     "side": "sell",
+     "reason": "REPLACED_BY_BHEL",
+     "link": "2026-10-07:REDINGTON->BHEL"
+    },
+    {
+     "symbol": "BHEL",
+     "side": "buy",
+     "reason": "REPLACE",
+     "link": "2026-10-07:REDINGTON->BHEL",
+     "stop": 424.2201783405753,
+     "qty": 9,
+     "ref_close": 448.5,
+     "equity_t": 58002.978570966065,
+     "target_w": 0.07692307692307693,
+     "mqs": 80.76063873233684
+    }
+   ],
+   "cooldown": {
+    "PAYTM": "2026-09-24",
+    "GLENMARK": "2026-09-25",
+    "AUROPHARMA": "2026-09-30",
+    "ETERNAL": "2026-09-30",
+    "RADICO": "2026-10-01",
+    "DIVISLAB": "2026-10-01",
+    "ZYDUSLIFE": "2026-10-01"
+   }
+  },
+  "c0.006": {
+   "cost": 0.006,
+   "fractional": false,
+   "cash": 8503.352063348213,
+   "positions": {
+    "LAURUSLABS": {
+     "qty": 2,
+     "entry": 1966.6,
+     "entry_date": "2026-09-21",
+     "stop": 1860.2629502842433,
+     "last": 2052.8,
+     "mqs_entry": 83.64068362676782
+    },
+    "REDINGTON": {
+     "qty": 11,
+     "entry": 400.0,
+     "entry_date": "2026-09-21",
+     "stop": 370.71890666156025,
+     "last": 406.5,
+     "mqs_entry": 76.05303983012409
+    },
+    "WELSPUNLIV": {
+     "qty": 19,
+     "entry": 226.21,
+     "entry_date": "2026-09-29",
+     "stop": 213.10406424987085,
+     "last": 235.86,
+     "mqs_entry": 83.02431610942249
+    },
+    "MANKIND": {
+     "qty": 1,
+     "entry": 2545.0,
+     "entry_date": "2026-09-30",
+     "stop": 2428.431390342821,
+     "last": 2500.0,
+     "mqs_entry": 80.81592421915003
+    },
+    "KOTAKBANK": {
+     "qty": 10,
+     "entry": 426.0,
+     "entry_date": "2026-10-01",
+     "stop": 401.55052426386516,
+     "last": 440.0,
+     "mqs_entry": 79.58210589171975
+    },
+    "IPCALAB": {
+     "qty": 2,
+     "entry": 1929.9,
+     "entry_date": "2026-10-02",
+     "stop": 1828.9477778484313,
+     "last": 1938.5,
+     "mqs_entry": 82.1070176420126
+    },
+    "MCX": {
+     "qty": 1,
+     "entry": 3300.0,
+     "entry_date": "2026-10-02",
+     "stop": 2989.735308456634,
+     "last": 3362.6,
+     "mqs_entry": 76.22757450300251
+    },
+    "LALPATHLAB": {
+     "qty": 2,
+     "entry": 1993.2,
+     "entry_date": "2026-10-06",
+     "stop": 1852.2674178039838,
+     "last": 1945.1,
+     "mqs_entry": 84.09326093899712
+    },
+    "GESHIP": {
+     "qty": 2,
+     "entry": 1565.0,
+     "entry_date": "2026-10-06",
+     "stop": 1480.1024661197441,
+     "last": 1567.9,
+     "mqs_entry": 77.63438198658575
+    },
+    "RBLBANK": {
+     "qty": 10,
+     "entry": 416.95,
+     "entry_date": "2026-10-06",
+     "stop": 397.3435480777338,
+     "last": 412.0,
+     "mqs_entry": 77.0494251038007
+    },
+    "ADANIPORTS": {
+     "qty": 2,
+     "entry": 1773.1,
+     "entry_date": "2026-10-06",
+     "stop": 1692.989670177173,
+     "last": 1750.1,
+     "mqs_entry": 76.30373682529543
+    },
+    "PETRONET": {
+     "qty": 14,
+     "entry": 295.0,
+     "entry_date": "2026-10-07",
+     "stop": 285.33699775253865,
+     "last": 297.0,
+     "mqs_entry": 83.28777278897358
+    },
+    "GLAND": {
+     "qty": 1,
+     "entry": 3026.0,
+     "entry_date": "2026-10-07",
+     "stop": 2842.2604084441755,
+     "last": 3150.6,
+     "mqs_entry": 81.21943197243397
+    }
+   },
+   "roster": {
+    "LAURUSLABS": {
+     "since": "2026-09-18",
+     "sessions": 13
+    },
+    "REDINGTON": {
+     "since": "2026-09-18",
+     "sessions": 13,
+     "exiting": true,
+     "link": "2026-10-07:REDINGTON->BHEL"
+    },
+    "WELSPUNLIV": {
+     "since": "2026-09-28",
+     "sessions": 7
+    },
+    "MANKIND": {
+     "since": "2026-09-29",
+     "sessions": 6
+    },
+    "KOTAKBANK": {
+     "since": "2026-09-30",
+     "sessions": 5
+    },
+    "IPCALAB": {
+     "since": "2026-10-01",
+     "sessions": 4
+    },
+    "MCX": {
+     "since": "2026-10-01",
+     "sessions": 4
+    },
+    "LALPATHLAB": {
+     "since": "2026-10-05",
+     "sessions": 2
+    },
+    "GESHIP": {
+     "since": "2026-10-05",
+     "sessions": 2
+    },
+    "RBLBANK": {
+     "since": "2026-10-05",
+     "sessions": 2
+    },
+    "ADANIPORTS": {
+     "since": "2026-10-05",
+     "sessions": 2
+    },
+    "PETRONET": {
+     "since": "2026-10-06",
+     "sessions": 1
+    },
+    "GLAND": {
+     "since": "2026-10-06",
+     "sessions": 1
+    },
+    "BHEL": {
+     "since": "2026-10-07",
+     "sessions": 0
+    }
+   },
+   "pending": [
+    {
+     "symbol": "REDINGTON",
+     "side": "sell",
+     "reason": "REPLACED_BY_BHEL",
+     "link": "2026-10-07:REDINGTON->BHEL"
+    },
+    {
+     "symbol": "BHEL",
+     "side": "buy",
+     "reason": "REPLACE",
+     "link": "2026-10-07:REDINGTON->BHEL",
+     "stop": 424.2201783405753,
+     "qty": 9,
+     "ref_close": 448.5,
+     "equity_t": 57656.19206334821,
+     "target_w": 0.07692307692307693,
+     "mqs": 80.76063873233684
+    }
+   ],
+   "cooldown": {
+    "PAYTM": "2026-09-24",
+    "GLENMARK": "2026-09-25",
+    "AUROPHARMA": "2026-09-30",
+    "ETERNAL": "2026-09-30",
+    "RADICO": "2026-10-01",
+    "DIVISLAB": "2026-10-01",
+    "ZYDUSLIFE": "2026-10-01"
+   }
+  },
+  "c0.010": {
+   "cost": 0.01,
+   "fractional": false,
+   "cash": 8040.970053191048,
+   "positions": {
+    "LAURUSLABS": {
+     "qty": 2,
+     "entry": 1966.6,
+     "entry_date": "2026-09-21",
+     "stop": 1860.2629502842433,
+     "last": 2052.8,
+     "mqs_entry": 83.64068362676782
+    },
+    "REDINGTON": {
+     "qty": 11,
+     "entry": 400.0,
+     "entry_date": "2026-09-21",
+     "stop": 370.71890666156025,
+     "last": 406.5,
+     "mqs_entry": 76.05303983012409
+    },
+    "WELSPUNLIV": {
+     "qty": 19,
+     "entry": 226.21,
+     "entry_date": "2026-09-29",
+     "stop": 213.10406424987085,
+     "last": 235.86,
+     "mqs_entry": 83.02431610942249
+    },
+    "MANKIND": {
+     "qty": 1,
+     "entry": 2545.0,
+     "entry_date": "2026-09-30",
+     "stop": 2428.431390342821,
+     "last": 2500.0,
+     "mqs_entry": 80.81592421915003
+    },
+    "KOTAKBANK": {
+     "qty": 10,
+     "entry": 426.0,
+     "entry_date": "2026-10-01",
+     "stop": 401.55052426386516,
+     "last": 440.0,
+     "mqs_entry": 79.58210589171975
+    },
+    "IPCALAB": {
+     "qty": 2,
+     "entry": 1929.9,
+     "entry_date": "2026-10-02",
+     "stop": 1828.9477778484313,
+     "last": 1938.5,
+     "mqs_entry": 82.1070176420126
+    },
+    "MCX": {
+     "qty": 1,
+     "entry": 3300.0,
+     "entry_date": "2026-10-02",
+     "stop": 2989.735308456634,
+     "last": 3362.6,
+     "mqs_entry": 76.22757450300251
+    },
+    "LALPATHLAB": {
+     "qty": 2,
+     "entry": 1993.2,
+     "entry_date": "2026-10-06",
+     "stop": 1852.2674178039838,
+     "last": 1945.1,
+     "mqs_entry": 84.09326093899712
+    },
+    "GESHIP": {
+     "qty": 2,
+     "entry": 1565.0,
+     "entry_date": "2026-10-06",
+     "stop": 1480.1024661197441,
+     "last": 1567.9,
+     "mqs_entry": 77.63438198658575
+    },
+    "RBLBANK": {
+     "qty": 10,
+     "entry": 416.95,
+     "entry_date": "2026-10-06",
+     "stop": 397.3435480777338,
+     "last": 412.0,
+     "mqs_entry": 77.0494251038007
+    },
+    "ADANIPORTS": {
+     "qty": 2,
+     "entry": 1773.1,
+     "entry_date": "2026-10-06",
+     "stop": 1692.989670177173,
+     "last": 1750.1,
+     "mqs_entry": 76.30373682529543
+    },
+    "PETRONET": {
+     "qty": 14,
+     "entry": 295.0,
+     "entry_date": "2026-10-07",
+     "stop": 285.33699775253865,
+     "last": 297.0,
+     "mqs_entry": 83.28777278897358
+    },
+    "GLAND": {
+     "qty": 1,
+     "entry": 3026.0,
+     "entry_date": "2026-10-07",
+     "stop": 2842.2604084441755,
+     "last": 3150.6,
+     "mqs_entry": 81.21943197243397
+    }
+   },
+   "roster": {
+    "LAURUSLABS": {
+     "since": "2026-09-18",
+     "sessions": 13
+    },
+    "REDINGTON": {
+     "since": "2026-09-18",
+     "sessions": 13,
+     "exiting": true,
+     "link": "2026-10-07:REDINGTON->BHEL"
+    },
+    "WELSPUNLIV": {
+     "since": "2026-09-28",
+     "sessions": 7
+    },
+    "MANKIND": {
+     "since": "2026-09-29",
+     "sessions": 6
+    },
+    "KOTAKBANK": {
+     "since": "2026-09-30",
+     "sessions": 5
+    },
+    "IPCALAB": {
+     "since": "2026-10-01",
+     "sessions": 4
+    },
+    "MCX": {
+     "since": "2026-10-01",
+     "sessions": 4
+    },
+    "LALPATHLAB": {
+     "since": "2026-10-05",
+     "sessions": 2
+    },
+    "GESHIP": {
+     "since": "2026-10-05",
+     "sessions": 2
+    },
+    "RBLBANK": {
+     "since": "2026-10-05",
+     "sessions": 2
+    },
+    "ADANIPORTS": {
+     "since": "2026-10-05",
+     "sessions": 2
+    },
+    "PETRONET": {
+     "since": "2026-10-06",
+     "sessions": 1
+    },
+    "GLAND": {
+     "since": "2026-10-06",
+     "sessions": 1
+    },
+    "BHEL": {
+     "since": "2026-10-07",
+     "sessions": 0
+    }
+   },
+   "pending": [
+    {
+     "symbol": "REDINGTON",
+     "side": "sell",
+     "reason": "REPLACED_BY_BHEL",
+     "link": "2026-10-07:REDINGTON->BHEL"
+    },
+    {
+     "symbol": "BHEL",
+     "side": "buy",
+     "reason": "REPLACE",
+     "link": "2026-10-07:REDINGTON->BHEL",
+     "stop": 424.2201783405753,
+     "qty": 9,
+     "ref_close": 448.5,
+     "equity_t": 57193.810053191046,
+     "target_w": 0.07692307692307693,
+     "mqs": 80.76063873233684
+    }
+   ],
+   "cooldown": {
+    "PAYTM": "2026-09-24",
+    "GLENMARK": "2026-09-25",
+    "AUROPHARMA": "2026-09-30",
+    "ETERNAL": "2026-09-30",
+    "RADICO": "2026-10-01",
+    "DIVISLAB": "2026-10-01",
+    "ZYDUSLIFE": "2026-10-01"
+   }
+  },
+  "frac0.006": {
+   "cost": 0.006,
+   "fractional": true,
+   "cash": 0.0,
+   "positions": {
+    "LAURUSLABS": {
+     "qty": 2.3620187386819933,
+     "entry": 1966.6,
+     "entry_date": "2026-09-21",
+     "stop": 1860.2629502842433,
+     "last": 2052.8,
+     "mqs_entry": 83.64068362676782
+    },
+    "REDINGTON": {
+     "qty": 11.542790084743316,
+     "entry": 400.0,
+     "entry_date": "2026-09-21",
+     "stop": 370.71890666156025,
+     "last": 406.5,
+     "mqs_entry": 76.05303983012409
+    },
+    "WELSPUNLIV": {
+     "qty": 19.617301481095193,
+     "entry": 226.21,
+     "entry_date": "2026-09-29",
+     "stop": 213.10406424987085,
+     "last": 235.86,
+     "mqs_entry": 83.02431610942249
+    },
+    "MANKIND": {
+     "qty": 1.7417332634751033,
+     "entry": 2545.0,
+     "entry_date": "2026-09-30",
+     "stop": 2428.431390342821,
+     "last": 2500.0,
+     "mqs_entry": 80.81592421915003
+    },
+    "KOTAKBANK": {
+     "qty": 10.58204182737488,
+     "entry": 426.0,
+     "entry_date": "2026-10-01",
+     "stop": 401.55052426386516,
+     "last": 440.0,
+     "mqs_entry": 79.58210589171975
+    },
+    "IPCALAB": {
+     "qty": 2.25750070954571,
+     "entry": 1929.9,
+     "entry_date": "2026-10-02",
+     "stop": 1828.9477778484313,
+     "last": 1938.5,
+     "mqs_entry": 82.1070176420126
+    },
+    "MCX": {
+     "qty": 1.3691558610453256,
+     "entry": 3300.0,
+     "entry_date": "2026-10-02",
+     "stop": 2989.735308456634,
+     "last": 3362.6,
+     "mqs_entry": 76.22757450300251
+    },
+    "LALPATHLAB": {
+     "qty": 2.209831366167993,
+     "entry": 1993.2,
+     "entry_date": "2026-10-06",
+     "stop": 1852.2674178039838,
+     "last": 1945.1,
+     "mqs_entry": 84.09326093899712
+    },
+    "GESHIP": {
+     "qty": 2.7937154954960337,
+     "entry": 1565.0,
+     "entry_date": "2026-10-06",
+     "stop": 1480.1024661197441,
+     "last": 1567.9,
+     "mqs_entry": 77.63438198658575
+    },
+    "RBLBANK": {
+     "qty": 10.457905586668984,
+     "entry": 416.95,
+     "entry_date": "2026-10-06",
+     "stop": 397.3435480777338,
+     "last": 412.0,
+     "mqs_entry": 77.0494251038007
+    },
+    "ADANIPORTS": {
+     "qty": 2.455603479214749,
+     "entry": 1773.1,
+     "entry_date": "2026-10-06",
+     "stop": 1692.989670177173,
+     "last": 1750.1,
+     "mqs_entry": 76.30373682529543
+    },
+    "PETRONET": {
+     "qty": 14.753477619321302,
+     "entry": 295.0,
+     "entry_date": "2026-10-07",
+     "stop": 285.33699775253865,
+     "last": 297.0,
+     "mqs_entry": 83.28777278897358
+    },
+    "GLAND": {
+     "qty": 1.0890764986175068,
+     "entry": 3026.0,
+     "entry_date": "2026-10-07",
+     "stop": 2842.2604084441755,
+     "last": 3150.6,
+     "mqs_entry": 81.21943197243397
+    }
+   },
+   "roster": {
+    "LAURUSLABS": {
+     "since": "2026-09-18",
+     "sessions": 13
+    },
+    "REDINGTON": {
+     "since": "2026-09-18",
+     "sessions": 13,
+     "exiting": true,
+     "link": "2026-10-07:REDINGTON->BHEL"
+    },
+    "WELSPUNLIV": {
+     "since": "2026-09-28",
+     "sessions": 7
+    },
+    "MANKIND": {
+     "since": "2026-09-29",
+     "sessions": 6
+    },
+    "KOTAKBANK": {
+     "since": "2026-09-30",
+     "sessions": 5
+    },
+    "IPCALAB": {
+     "since": "2026-10-01",
+     "sessions": 4
+    },
+    "MCX": {
+     "since": "2026-10-01",
+     "sessions": 4
+    },
+    "LALPATHLAB": {
+     "since": "2026-10-05",
+     "sessions": 2
+    },
+    "GESHIP": {
+     "since": "2026-10-05",
+     "sessions": 2
+    },
+    "RBLBANK": {
+     "since": "2026-10-05",
+     "sessions": 2
+    },
+    "ADANIPORTS": {
+     "since": "2026-10-05",
+     "sessions": 2
+    },
+    "PETRONET": {
+     "since": "2026-10-06",
+     "sessions": 1
+    },
+    "GLAND": {
+     "since": "2026-10-06",
+     "sessions": 1
+    },
+    "BHEL": {
+     "since": "2026-10-07",
+     "sessions": 0
+    }
+   },
+   "pending": [
+    {
+     "symbol": "REDINGTON",
+     "side": "sell",
+     "reason": "REPLACED_BY_BHEL",
+     "link": "2026-10-07:REDINGTON->BHEL"
+    },
+    {
+     "symbol": "BHEL",
+     "side": "buy",
+     "reason": "REPLACE",
+     "link": "2026-10-07:REDINGTON->BHEL",
+     "stop": 424.2201783405753,
+     "qty": 9.820118117823418,
+     "ref_close": 448.5,
+     "equity_t": 57256.19868596943,
+     "target_w": 0.07692307692307693,
+     "mqs": 80.76063873233684
+    }
+   ],
+   "cooldown": {
+    "PAYTM": "2026-09-24",
+    "GLENMARK": "2026-09-25",
+    "AUROPHARMA": "2026-09-30",
+    "ETERNAL": "2026-09-30",
+    "RADICO": "2026-10-01",
+    "DIVISLAB": "2026-10-01",
+    "ZYDUSLIFE": "2026-10-01",
+    "NAVINFLUOR": "2026-10-01"
+   }
+  }
+ }
+}

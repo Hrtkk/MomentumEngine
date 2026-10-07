@@ -1,0 +1,238 @@
+{
+ "t": "2026-09-22",
+ "version": "0.2.1",
+ "regime": "Neutral",
+ "breadth": 0.3366733466933868,
+ "nifty500": 22794.2,
+ "equity": {
+  "c0.003": 60156.162599999996,
+  "c0.006": 60073.31520000001,
+  "c0.010": 59962.85200000001,
+  "frac0.006": 60157.7158721854
+ },
+ "exec_notes": [],
+ "n_disc": 100,
+ "n_cand": 334,
+ "primary": "c0.006",
+ "orders": [
+  {
+   "symbol": "IDFCFIRSTB",
+   "side": "sell",
+   "reason": "REPLACED_BY_ACMESOLAR",
+   "link": "2026-09-22:IDFCFIRSTB->ACMESOLAR"
+  },
+  {
+   "symbol": "ANTHEM",
+   "side": "sell",
+   "reason": "REPLACED_BY_PVRINOX",
+   "link": "2026-09-22:ANTHEM->PVRINOX"
+  },
+  {
+   "symbol": "ACMESOLAR",
+   "side": "buy",
+   "reason": "REPLACE",
+   "link": "2026-09-22:IDFCFIRSTB->ACMESOLAR",
+   "stop": 423.68473330814163,
+   "qty": 10,
+   "ref_close": 458.65,
+   "equity_t": 60073.31520000001,
+   "target_w": 0.07692307692307693,
+   "mqs": 80.53053053053053
+  },
+  {
+   "symbol": "PVRINOX",
+   "side": "buy",
+   "reason": "REPLACE",
+   "link": "2026-09-22:ANTHEM->PVRINOX",
+   "stop": 1247.8226791468992,
+   "qty": 3,
+   "ref_close": 1334.8,
+   "equity_t": 60073.31520000001,
+   "target_w": 0.07692307692307693,
+   "mqs": 80.02293960627294
+  }
+ ],
+ "decisions": [
+  {
+   "symbol": "IDFCFIRSTB",
+   "action": "REPLACED",
+   "code": "BY_ACMESOLAR",
+   "mqs": 61.34328021143222
+  },
+  {
+   "symbol": "ACMESOLAR",
+   "action": "ADD",
+   "code": "REPLACES_IDFCFIRSTB",
+   "mqs": 80.53053053053053
+  },
+  {
+   "symbol": "ANTHEM",
+   "action": "REPLACED",
+   "code": "BY_PVRINOX",
+   "mqs": 64.74557891224558
+  },
+  {
+   "symbol": "PVRINOX",
+   "action": "ADD",
+   "code": "REPLACES_ANTHEM",
+   "mqs": 80.02293960627294
+  },
+  {
+   "symbol": "LAURUSLABS",
+   "action": "KEEP",
+   "code": "",
+   "mqs": 85.42876209542878
+  },
+  {
+   "symbol": "REDINGTON",
+   "action": "KEEP",
+   "code": "",
+   "mqs": 80.38413413413413
+  },
+  {
+   "symbol": "GLAND",
+   "action": "KEEP",
+   "code": "",
+   "mqs": 66.54738071404738
+  },
+  {
+   "symbol": "DIVISLAB",
+   "action": "KEEP",
+   "code": "",
+   "mqs": 76.16541963722008
+  },
+  {
+   "symbol": "AUROPHARMA",
+   "action": "KEEP",
+   "code": "",
+   "mqs": 84.46780113446779
+  },
+  {
+   "symbol": "PAYTM",
+   "action": "KEEP",
+   "code": "",
+   "mqs": 71.74257590924259
+  },
+  {
+   "symbol": "ACE",
+   "action": "KEEP",
+   "code": "",
+   "mqs": 76.913997330664
+  },
+  {
+   "symbol": "GRANULES",
+   "action": "KEEP",
+   "code": "",
+   "mqs": 67.38822155488822
+  },
+  {
+   "symbol": "EMCURE",
+   "action": "KEEP",
+   "code": "",
+   "mqs": 72.53086419753085
+  },
+  {
+   "symbol": "SAILIFE",
+   "action": "KEEP",
+   "code": "",
+   "mqs": 69.8732065398732
+  },
+  {
+   "symbol": "ANANDRATHI",
+   "action": "KEEP",
+   "code": "",
+   "mqs": 70.64586413927783
+  },
+  {
+   "symbol": "WELSPUNLIV",
+   "action": "WATCH",
+   "code": "CHURN_GUARD",
+   "mqs": 78.64864864864865
+  },
+  {
+   "symbol": "PFOCUS",
+   "action": "WATCH",
+   "code": "CHURN_GUARD",
+   "mqs": 78.60402068735402
+  },
+  {
+   "symbol": "GLENMARK",
+   "action": "WATCH",
+   "code": "CHURN_GUARD",
+   "mqs": 78.22155488822156
+  },
+  {
+   "symbol": "AEGISVOPAK",
+   "action": "WATCH",
+   "code": "STOP_TOO_WIDE",
+   "mqs": 77.80905905905905
+  },
+  {
+   "symbol": "RBLBANK",
+   "action": "WATCH",
+   "code": "CHURN_GUARD",
+   "mqs": 77.75608942275609
+  },
+  {
+   "symbol": "FINCABLES",
+   "action": "WATCH",
+   "code": "STOP_TOO_WIDE",
+   "mqs": 77.24432766099433
+  },
+  {
+   "symbol": "ETERNAL",
+   "action": "WATCH",
+   "code": "CHURN_GUARD",
+   "mqs": 76.79721388054722
+  },
+  {
+   "symbol": "VIJAYA",
+   "action": "WATCH",
+   "code": "CHURN_GUARD",
+   "mqs": 76.69002335669003
+  },
+  {
+   "symbol": "CASTROLIND",
+   "action": "WATCH",
+   "code": "CHURN_GUARD",
+   "mqs": 76.06731731731732
+  },
+  {
+   "symbol": "APARINDS",
+   "action": "WATCH",
+   "code": "STOP_TOO_WIDE",
+   "mqs": 75.96054387721055
+  },
+  {
+   "symbol": "ABBOTINDIA",
+   "action": "WATCH",
+   "code": "NOT_AFFORDABLE",
+   "mqs": 75.75158491825158
+  },
+  {
+   "symbol": "ZYDUSLIFE",
+   "action": "WATCH",
+   "code": "CHURN_GUARD",
+   "mqs": 75.35368702035369
+  },
+  {
+   "symbol": "SHYAMMETL",
+   "action": "WATCH",
+   "code": "CHURN_GUARD",
+   "mqs": 75.28486820153488
+  },
+  {
+   "symbol": "JSWINFRA",
+   "action": "WATCH",
+   "code": "CHURN_GUARD",
+   "mqs": 75.23398398398399
+  },
+  {
+   "symbol": "MANKIND",
+   "action": "WATCH",
+   "code": "CHURN_GUARD",
+   "mqs": 73.79963296629964
+  }
+ ],
+ "fills_today": []
+}

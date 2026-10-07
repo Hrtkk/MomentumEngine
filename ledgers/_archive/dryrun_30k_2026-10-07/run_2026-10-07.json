@@ -1,0 +1,272 @@
+{
+ "t": "2026-10-07",
+ "version": "0.2",
+ "regime": "Risk-off",
+ "breadth": 0.23647294589178355,
+ "nifty500": 22059.9,
+ "equity": {
+  "c0.003": 29958.585549999996,
+  "c0.006": 29919.621100000004,
+  "c0.010": 29867.668499999996,
+  "frac0.006": 29891.424644603794
+ },
+ "exec_notes": [],
+ "n_disc": 100,
+ "n_cand": 319,
+ "primary": "c0.006",
+ "orders": [],
+ "decisions": [
+  {
+   "symbol": "LAURUSLABS",
+   "action": "KEEP",
+   "code": "",
+   "mqs": 84.79927305399002
+  },
+  {
+   "symbol": "KOTAKBANK",
+   "action": "KEEP",
+   "code": "",
+   "mqs": 88.60808216940292
+  },
+  {
+   "symbol": "PETRONET",
+   "action": "KEEP",
+   "code": "",
+   "mqs": 80.97259658580413
+  },
+  {
+   "symbol": "AUROPHARMA",
+   "action": "KEEP",
+   "code": "",
+   "mqs": 74.79927305399005
+  },
+  {
+   "symbol": "GLAND",
+   "action": "KEEP",
+   "code": "",
+   "mqs": 83.7536755697133
+  },
+  {
+   "symbol": "AJANTPHARM",
+   "action": "KEEP",
+   "code": "",
+   "mqs": 78.59644286531079
+  },
+  {
+   "symbol": "IPCALAB",
+   "action": "KEEP",
+   "code": "",
+   "mqs": 75.82914726782651
+  },
+  {
+   "symbol": "GRAPHITE",
+   "action": "KEEP",
+   "code": "",
+   "mqs": 72.22290288328024
+  },
+  {
+   "symbol": "BHEL",
+   "action": "KEEP",
+   "code": "",
+   "mqs": 80.76063873233684
+  },
+  {
+   "symbol": "ABDL",
+   "action": "KEEP",
+   "code": "",
+   "mqs": 73.73397043208364
+  },
+  {
+   "symbol": "MCX",
+   "action": "WATCH",
+   "code": "NO_SLOT",
+   "mqs": 80.63638405619538
+  },
+  {
+   "symbol": "SAILIFE",
+   "action": "WATCH",
+   "code": "NO_SLOT",
+   "mqs": 79.92505921751204
+  },
+  {
+   "symbol": "DIVISLAB",
+   "action": "WATCH",
+   "code": "NOT_AFFORDABLE",
+   "mqs": 79.79927305399004
+  },
+  {
+   "symbol": "LALPATHLAB",
+   "action": "WATCH",
+   "code": "NO_SLOT",
+   "mqs": 79.72065670178878
+  },
+  {
+   "symbol": "WELSPUNLIV",
+   "action": "WATCH",
+   "code": "NO_SLOT",
+   "mqs": 78.87578616352202
+  },
+  {
+   "symbol": "RADICO",
+   "action": "WATCH",
+   "code": "NO_SLOT",
+   "mqs": 78.49812137547985
+  },
+  {
+   "symbol": "PVRINOX",
+   "action": "WATCH",
+   "code": "NO_SLOT",
+   "mqs": 77.75004083966348
+  },
+  {
+   "symbol": "BALRAMCHIN",
+   "action": "WATCH",
+   "code": "NO_SLOT",
+   "mqs": 77.60975659560565
+  },
+  {
+   "symbol": "PTCIL",
+   "action": "WATCH",
+   "code": "NOT_AFFORDABLE",
+   "mqs": 76.72761986441232
+  },
+  {
+   "symbol": "KARURVYSYA",
+   "action": "WATCH",
+   "code": "NO_SLOT",
+   "mqs": 75.83292493669853
+  },
+  {
+   "symbol": "JSWINFRA",
+   "action": "WATCH",
+   "code": "NO_SLOT",
+   "mqs": 75.09495221759374
+  },
+  {
+   "symbol": "TBOTEK",
+   "action": "WATCH",
+   "code": "NO_SLOT",
+   "mqs": 74.91239892183289
+  },
+  {
+   "symbol": "NYKAA",
+   "action": "WATCH",
+   "code": "NO_SLOT",
+   "mqs": 74.71585804132974
+  },
+  {
+   "symbol": "MOTILALOFS",
+   "action": "WATCH",
+   "code": "NO_SLOT",
+   "mqs": 74.64581801845952
+  },
+  {
+   "symbol": "TEGA",
+   "action": "WATCH",
+   "code": "STOP_TOO_WIDE",
+   "mqs": 74.3769909335947
+  }
+ ],
+ "fills_today": [
+  {
+   "date": "2026-10-07",
+   "book": "c0.006",
+   "symbol": "LAURUSLABS",
+   "side": "buy",
+   "qty": 1,
+   "price": 2052.0,
+   "reason": "ADD",
+   "entry": 2052.0
+  },
+  {
+   "date": "2026-10-07",
+   "book": "c0.006",
+   "symbol": "KOTAKBANK",
+   "side": "buy",
+   "qty": 6,
+   "price": 432.05,
+   "reason": "ADD",
+   "entry": 432.05
+  },
+  {
+   "date": "2026-10-07",
+   "book": "c0.006",
+   "symbol": "PETRONET",
+   "side": "buy",
+   "qty": 10,
+   "price": 295.0,
+   "reason": "ADD",
+   "entry": 295.0
+  },
+  {
+   "date": "2026-10-07",
+   "book": "c0.006",
+   "symbol": "AUROPHARMA",
+   "side": "buy",
+   "qty": 1,
+   "price": 1696.2,
+   "reason": "ADD",
+   "entry": 1696.2
+  },
+  {
+   "date": "2026-10-07",
+   "book": "c0.006",
+   "symbol": "GLAND",
+   "side": "buy",
+   "qty": 1,
+   "price": 3026.0,
+   "reason": "ADD",
+   "entry": 3026.0
+  },
+  {
+   "date": "2026-10-07",
+   "book": "c0.006",
+   "symbol": "AJANTPHARM",
+   "side": "buy",
+   "qty": 1,
+   "price": 3573.4,
+   "reason": "ADD",
+   "entry": 3573.4
+  },
+  {
+   "date": "2026-10-07",
+   "book": "c0.006",
+   "symbol": "IPCALAB",
+   "side": "buy",
+   "qty": 1,
+   "price": 1940.0,
+   "reason": "ADD",
+   "entry": 1940.0
+  },
+  {
+   "date": "2026-10-07",
+   "book": "c0.006",
+   "symbol": "GRAPHITE",
+   "side": "buy",
+   "qty": 3,
+   "price": 853.0,
+   "reason": "ADD",
+   "entry": 853.0
+  },
+  {
+   "date": "2026-10-07",
+   "book": "c0.006",
+   "symbol": "BHEL",
+   "side": "buy",
+   "qty": 6,
+   "price": 451.5,
+   "reason": "ADD",
+   "entry": 451.5
+  },
+  {
+   "date": "2026-10-07",
+   "book": "c0.006",
+   "symbol": "ABDL",
+   "side": "buy",
+   "qty": 4,
+   "price": 719.6,
+   "reason": "ADD",
+   "entry": 719.6
+  }
+ ]
+}

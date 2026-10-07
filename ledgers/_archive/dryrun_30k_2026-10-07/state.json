@@ -1,0 +1,530 @@
+{
+ "version": "0.2",
+ "last_t": "2026-10-07",
+ "books": {
+  "c0.003": {
+   "cost": 0.003,
+   "fractional": false,
+   "cash": 3984.735549999999,
+   "positions": {
+    "LAURUSLABS": {
+     "qty": 1,
+     "entry": 2052.0,
+     "entry_date": "2026-10-07",
+     "stop": 1956.4072063634803,
+     "last": 2052.8,
+     "mqs_entry": 91.33089694058683
+    },
+    "KOTAKBANK": {
+     "qty": 6,
+     "entry": 432.05,
+     "entry_date": "2026-10-07",
+     "stop": 414.69362971631386,
+     "last": 440.0,
+     "mqs_entry": 84.859193902057
+    },
+    "PETRONET": {
+     "qty": 10,
+     "entry": 295.0,
+     "entry_date": "2026-10-07",
+     "stop": 285.33699775253865,
+     "last": 297.0,
+     "mqs_entry": 83.28777278897358
+    },
+    "AUROPHARMA": {
+     "qty": 1,
+     "entry": 1696.2,
+     "entry_date": "2026-10-07",
+     "stop": 1623.6299113034204,
+     "last": 1682.0,
+     "mqs_entry": 82.98694789600084
+    },
+    "GLAND": {
+     "qty": 1,
+     "entry": 3026.0,
+     "entry_date": "2026-10-07",
+     "stop": 2842.2604084441755,
+     "last": 3150.6,
+     "mqs_entry": 81.21943197243397
+    },
+    "AJANTPHARM": {
+     "qty": 1,
+     "entry": 3573.4,
+     "entry_date": "2026-10-07",
+     "stop": 3386.0937882358458,
+     "last": 3569.8,
+     "mqs_entry": 80.16847655842122
+    },
+    "IPCALAB": {
+     "qty": 1,
+     "entry": 1940.0,
+     "entry_date": "2026-10-07",
+     "stop": 1839.0560452161483,
+     "last": 1938.5,
+     "mqs_entry": 79.73057846924925
+    },
+    "GRAPHITE": {
+     "qty": 3,
+     "entry": 853.0,
+     "entry_date": "2026-10-07",
+     "stop": 789.4759666726732,
+     "last": 834.05,
+     "mqs_entry": 78.75031325049598
+    },
+    "BHEL": {
+     "qty": 6,
+     "entry": 451.5,
+     "entry_date": "2026-10-07",
+     "stop": 427.4265041588704,
+     "last": 448.5,
+     "mqs_entry": 77.93024955622846
+    },
+    "ABDL": {
+     "qty": 4,
+     "entry": 719.6,
+     "entry_date": "2026-10-07",
+     "stop": 666.1929641844354,
+     "last": 694.25,
+     "mqs_entry": 77.72569698235355
+    }
+   },
+   "roster": {
+    "LAURUSLABS": {
+     "since": "2026-10-06",
+     "sessions": 1
+    },
+    "KOTAKBANK": {
+     "since": "2026-10-06",
+     "sessions": 1
+    },
+    "PETRONET": {
+     "since": "2026-10-06",
+     "sessions": 1
+    },
+    "AUROPHARMA": {
+     "since": "2026-10-06",
+     "sessions": 1
+    },
+    "GLAND": {
+     "since": "2026-10-06",
+     "sessions": 1
+    },
+    "AJANTPHARM": {
+     "since": "2026-10-06",
+     "sessions": 1
+    },
+    "IPCALAB": {
+     "since": "2026-10-06",
+     "sessions": 1
+    },
+    "GRAPHITE": {
+     "since": "2026-10-06",
+     "sessions": 1
+    },
+    "BHEL": {
+     "since": "2026-10-06",
+     "sessions": 1
+    },
+    "ABDL": {
+     "since": "2026-10-06",
+     "sessions": 1
+    }
+   },
+   "pending": [],
+   "cooldown": {}
+  },
+  "c0.006": {
+   "cost": 0.006,
+   "fractional": false,
+   "cash": 3945.7711000000068,
+   "positions": {
+    "LAURUSLABS": {
+     "qty": 1,
+     "entry": 2052.0,
+     "entry_date": "2026-10-07",
+     "stop": 1956.4072063634803,
+     "last": 2052.8,
+     "mqs_entry": 91.33089694058683
+    },
+    "KOTAKBANK": {
+     "qty": 6,
+     "entry": 432.05,
+     "entry_date": "2026-10-07",
+     "stop": 414.69362971631386,
+     "last": 440.0,
+     "mqs_entry": 84.859193902057
+    },
+    "PETRONET": {
+     "qty": 10,
+     "entry": 295.0,
+     "entry_date": "2026-10-07",
+     "stop": 285.33699775253865,
+     "last": 297.0,
+     "mqs_entry": 83.28777278897358
+    },
+    "AUROPHARMA": {
+     "qty": 1,
+     "entry": 1696.2,
+     "entry_date": "2026-10-07",
+     "stop": 1623.6299113034204,
+     "last": 1682.0,
+     "mqs_entry": 82.98694789600084
+    },
+    "GLAND": {
+     "qty": 1,
+     "entry": 3026.0,
+     "entry_date": "2026-10-07",
+     "stop": 2842.2604084441755,
+     "last": 3150.6,
+     "mqs_entry": 81.21943197243397
+    },
+    "AJANTPHARM": {
+     "qty": 1,
+     "entry": 3573.4,
+     "entry_date": "2026-10-07",
+     "stop": 3386.0937882358458,
+     "last": 3569.8,
+     "mqs_entry": 80.16847655842122
+    },
+    "IPCALAB": {
+     "qty": 1,
+     "entry": 1940.0,
+     "entry_date": "2026-10-07",
+     "stop": 1839.0560452161483,
+     "last": 1938.5,
+     "mqs_entry": 79.73057846924925
+    },
+    "GRAPHITE": {
+     "qty": 3,
+     "entry": 853.0,
+     "entry_date": "2026-10-07",
+     "stop": 789.4759666726732,
+     "last": 834.05,
+     "mqs_entry": 78.75031325049598
+    },
+    "BHEL": {
+     "qty": 6,
+     "entry": 451.5,
+     "entry_date": "2026-10-07",
+     "stop": 427.4265041588704,
+     "last": 448.5,
+     "mqs_entry": 77.93024955622846
+    },
+    "ABDL": {
+     "qty": 4,
+     "entry": 719.6,
+     "entry_date": "2026-10-07",
+     "stop": 666.1929641844354,
+     "last": 694.25,
+     "mqs_entry": 77.72569698235355
+    }
+   },
+   "roster": {
+    "LAURUSLABS": {
+     "since": "2026-10-06",
+     "sessions": 1
+    },
+    "KOTAKBANK": {
+     "since": "2026-10-06",
+     "sessions": 1
+    },
+    "PETRONET": {
+     "since": "2026-10-06",
+     "sessions": 1
+    },
+    "AUROPHARMA": {
+     "since": "2026-10-06",
+     "sessions": 1
+    },
+    "GLAND": {
+     "since": "2026-10-06",
+     "sessions": 1
+    },
+    "AJANTPHARM": {
+     "since": "2026-10-06",
+     "sessions": 1
+    },
+    "IPCALAB": {
+     "since": "2026-10-06",
+     "sessions": 1
+    },
+    "GRAPHITE": {
+     "since": "2026-10-06",
+     "sessions": 1
+    },
+    "BHEL": {
+     "since": "2026-10-06",
+     "sessions": 1
+    },
+    "ABDL": {
+     "since": "2026-10-06",
+     "sessions": 1
+    }
+   },
+   "pending": [],
+   "cooldown": {}
+  },
+  "c0.010": {
+   "cost": 0.01,
+   "fractional": false,
+   "cash": 3893.818499999999,
+   "positions": {
+    "LAURUSLABS": {
+     "qty": 1,
+     "entry": 2052.0,
+     "entry_date": "2026-10-07",
+     "stop": 1956.4072063634803,
+     "last": 2052.8,
+     "mqs_entry": 91.33089694058683
+    },
+    "KOTAKBANK": {
+     "qty": 6,
+     "entry": 432.05,
+     "entry_date": "2026-10-07",
+     "stop": 414.69362971631386,
+     "last": 440.0,
+     "mqs_entry": 84.859193902057
+    },
+    "PETRONET": {
+     "qty": 10,
+     "entry": 295.0,
+     "entry_date": "2026-10-07",
+     "stop": 285.33699775253865,
+     "last": 297.0,
+     "mqs_entry": 83.28777278897358
+    },
+    "AUROPHARMA": {
+     "qty": 1,
+     "entry": 1696.2,
+     "entry_date": "2026-10-07",
+     "stop": 1623.6299113034204,
+     "last": 1682.0,
+     "mqs_entry": 82.98694789600084
+    },
+    "GLAND": {
+     "qty": 1,
+     "entry": 3026.0,
+     "entry_date": "2026-10-07",
+     "stop": 2842.2604084441755,
+     "last": 3150.6,
+     "mqs_entry": 81.21943197243397
+    },
+    "AJANTPHARM": {
+     "qty": 1,
+     "entry": 3573.4,
+     "entry_date": "2026-10-07",
+     "stop": 3386.0937882358458,
+     "last": 3569.8,
+     "mqs_entry": 80.16847655842122
+    },
+    "IPCALAB": {
+     "qty": 1,
+     "entry": 1940.0,
+     "entry_date": "2026-10-07",
+     "stop": 1839.0560452161483,
+     "last": 1938.5,
+     "mqs_entry": 79.73057846924925
+    },
+    "GRAPHITE": {
+     "qty": 3,
+     "entry": 853.0,
+     "entry_date": "2026-10-07",
+     "stop": 789.4759666726732,
+     "last": 834.05,
+     "mqs_entry": 78.75031325049598
+    },
+    "BHEL": {
+     "qty": 6,
+     "entry": 451.5,
+     "entry_date": "2026-10-07",
+     "stop": 427.4265041588704,
+     "last": 448.5,
+     "mqs_entry": 77.93024955622846
+    },
+    "ABDL": {
+     "qty": 4,
+     "entry": 719.6,
+     "entry_date": "2026-10-07",
+     "stop": 666.1929641844354,
+     "last": 694.25,
+     "mqs_entry": 77.72569698235355
+    }
+   },
+   "roster": {
+    "LAURUSLABS": {
+     "since": "2026-10-06",
+     "sessions": 1
+    },
+    "KOTAKBANK": {
+     "since": "2026-10-06",
+     "sessions": 1
+    },
+    "PETRONET": {
+     "since": "2026-10-06",
+     "sessions": 1
+    },
+    "AUROPHARMA": {
+     "since": "2026-10-06",
+     "sessions": 1
+    },
+    "GLAND": {
+     "since": "2026-10-06",
+     "sessions": 1
+    },
+    "AJANTPHARM": {
+     "since": "2026-10-06",
+     "sessions": 1
+    },
+    "IPCALAB": {
+     "since": "2026-10-06",
+     "sessions": 1
+    },
+    "GRAPHITE": {
+     "since": "2026-10-06",
+     "sessions": 1
+    },
+    "BHEL": {
+     "since": "2026-10-06",
+     "sessions": 1
+    },
+    "ABDL": {
+     "since": "2026-10-06",
+     "sessions": 1
+    }
+   },
+   "pending": [],
+   "cooldown": {}
+  },
+  "frac0.006": {
+   "cost": 0.006,
+   "fractional": true,
+   "cash": 0.0,
+   "positions": {
+    "LAURUSLABS": {
+     "qty": 1.4634146341463414,
+     "entry": 2052.0,
+     "entry_date": "2026-10-07",
+     "stop": 1956.4072063634803,
+     "last": 2052.8,
+     "mqs_entry": 91.33089694058683
+    },
+    "KOTAKBANK": {
+     "qty": 6.94605232692753,
+     "entry": 432.05,
+     "entry_date": "2026-10-07",
+     "stop": 414.69362971631386,
+     "last": 440.0,
+     "mqs_entry": 84.859193902057
+    },
+    "PETRONET": {
+     "qty": 10.084033613445378,
+     "entry": 295.0,
+     "entry_date": "2026-10-07",
+     "stop": 285.33699775253865,
+     "last": 297.0,
+     "mqs_entry": 83.28777278897358
+    },
+    "AUROPHARMA": {
+     "qty": 1.7722117202268433,
+     "entry": 1696.2,
+     "entry_date": "2026-10-07",
+     "stop": 1623.6299113034204,
+     "last": 1682.0,
+     "mqs_entry": 82.98694789600084
+    },
+    "GLAND": {
+     "qty": 0.9979707927214664,
+     "entry": 3026.0,
+     "entry_date": "2026-10-07",
+     "stop": 2842.2604084441755,
+     "last": 3150.6,
+     "mqs_entry": 81.21943197243397
+    },
+    "AJANTPHARM": {
+     "qty": 0.8395365758101527,
+     "entry": 3573.4,
+     "entry_date": "2026-10-07",
+     "stop": 3386.0937882358458,
+     "last": 3569.8,
+     "mqs_entry": 80.16847655842122
+    },
+    "IPCALAB": {
+     "qty": 1.5420200462606013,
+     "entry": 1940.0,
+     "entry_date": "2026-10-07",
+     "stop": 1839.0560452161483,
+     "last": 1938.5,
+     "mqs_entry": 79.73057846924925
+    },
+    "GRAPHITE": {
+     "qty": 3.5244360902255636,
+     "entry": 853.0,
+     "entry_date": "2026-10-07",
+     "stop": 789.4759666726732,
+     "last": 834.05,
+     "mqs_entry": 78.75031325049598
+    },
+    "BHEL": {
+     "qty": 6.6371681415929205,
+     "entry": 451.5,
+     "entry_date": "2026-10-07",
+     "stop": 427.4265041588704,
+     "last": 448.5,
+     "mqs_entry": 77.93024955622846
+    },
+    "ABDL": {
+     "qty": 4.045415661586866,
+     "entry": 719.6,
+     "entry_date": "2026-10-07",
+     "stop": 666.1929641844354,
+     "last": 694.25,
+     "mqs_entry": 77.72569698235355
+    }
+   },
+   "roster": {
+    "LAURUSLABS": {
+     "since": "2026-10-06",
+     "sessions": 1
+    },
+    "KOTAKBANK": {
+     "since": "2026-10-06",
+     "sessions": 1
+    },
+    "PETRONET": {
+     "since": "2026-10-06",
+     "sessions": 1
+    },
+    "AUROPHARMA": {
+     "since": "2026-10-06",
+     "sessions": 1
+    },
+    "GLAND": {
+     "since": "2026-10-06",
+     "sessions": 1
+    },
+    "AJANTPHARM": {
+     "since": "2026-10-06",
+     "sessions": 1
+    },
+    "IPCALAB": {
+     "since": "2026-10-06",
+     "sessions": 1
+    },
+    "GRAPHITE": {
+     "since": "2026-10-06",
+     "sessions": 1
+    },
+    "BHEL": {
+     "since": "2026-10-06",
+     "sessions": 1
+    },
+    "ABDL": {
+     "since": "2026-10-06",
+     "sessions": 1
+    }
+   },
+   "pending": [],
+   "cooldown": {}
+  }
+ }
+}

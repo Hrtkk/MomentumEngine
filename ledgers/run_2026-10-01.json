@@ -1,0 +1,248 @@
+{
+ "t": "2026-10-01",
+ "version": "0.2.1",
+ "regime": "Risk-off",
+ "breadth": 0.17234468937875752,
+ "nifty500": 21857.75,
+ "equity": {
+  "c0.003": 57882.651414794556,
+  "c0.006": 57622.314101702745,
+  "c0.010": 57331.96918424698,
+  "frac0.006": 57256.96453162242
+ },
+ "exec_notes": [
+  "ZYDUSLIFE: stop hit at \u20b91,124.91",
+  "ADANIPORTS: stop hit at \u20b91,741.62"
+ ],
+ "n_disc": 100,
+ "n_cand": 333,
+ "primary": "c0.006",
+ "orders": [
+  {
+   "symbol": "IPCALAB",
+   "side": "buy",
+   "reason": "ADD",
+   "link": null,
+   "stop": 1828.9477778484313,
+   "qty": 2,
+   "ref_close": 1943.2,
+   "equity_t": 57622.314101702745,
+   "target_w": 0.07692307692307693,
+   "mqs": 82.1609592215014
+  },
+  {
+   "symbol": "PETRONET",
+   "side": "buy",
+   "reason": "ADD",
+   "link": null,
+   "stop": 273.78753281206673,
+   "qty": 15,
+   "ref_close": 285.5,
+   "equity_t": 57622.314101702745,
+   "target_w": 0.07692307692307693,
+   "mqs": 76.38586654309546
+  }
+ ],
+ "decisions": [
+  {
+   "symbol": "IPCALAB",
+   "action": "ADD",
+   "code": "FREE_SLOT",
+   "mqs": 82.1609592215014
+  },
+  {
+   "symbol": "PETRONET",
+   "action": "ADD",
+   "code": "FREE_SLOT",
+   "mqs": 76.38586654309546
+  },
+  {
+   "symbol": "LAURUSLABS",
+   "action": "KEEP",
+   "code": "",
+   "mqs": 80.98626042632067
+  },
+  {
+   "symbol": "REDINGTON",
+   "action": "KEEP",
+   "code": "",
+   "mqs": 70.21109823911029
+  },
+  {
+   "symbol": "DIVISLAB",
+   "action": "KEEP",
+   "code": "",
+   "mqs": 79.75885078776645
+  },
+  {
+   "symbol": "AUROPHARMA",
+   "action": "KEEP",
+   "code": "",
+   "mqs": 77.00282669138092
+  },
+  {
+   "symbol": "CASTROLIND",
+   "action": "KEEP",
+   "code": "",
+   "mqs": 79.4656858202039
+  },
+  {
+   "symbol": "SONACOMS",
+   "action": "KEEP",
+   "code": "",
+   "mqs": 74.2475671918443
+  },
+  {
+   "symbol": "WELSPUNLIV",
+   "action": "KEEP",
+   "code": "",
+   "mqs": 78.94578313253011
+  },
+  {
+   "symbol": "SYRMA",
+   "action": "KEEP",
+   "code": "",
+   "mqs": 71.54506487488413
+  },
+  {
+   "symbol": "LALPATHLAB",
+   "action": "KEEP",
+   "code": "",
+   "mqs": 83.40342910101946
+  },
+  {
+   "symbol": "MANKIND",
+   "action": "KEEP",
+   "code": "",
+   "mqs": 79.10373030583874
+  },
+  {
+   "symbol": "KOTAKBANK",
+   "action": "KEEP",
+   "code": "",
+   "mqs": 84.34907321594068
+  },
+  {
+   "symbol": "ZYDUSLIFE",
+   "action": "WATCH",
+   "code": "COOLDOWN",
+   "mqs": 81.16698331788693
+  },
+  {
+   "symbol": "CUPID",
+   "action": "WATCH",
+   "code": "STOP_TOO_WIDE",
+   "mqs": 76.94392956441149
+  },
+  {
+   "symbol": "MCX",
+   "action": "WATCH",
+   "code": "NO_SLOT",
+   "mqs": 75.86262743280815
+  },
+  {
+   "symbol": "KAJARIACER",
+   "action": "WATCH",
+   "code": "NO_SLOT",
+   "mqs": 75.77233549582947
+  },
+  {
+   "symbol": "AJANTPHARM",
+   "action": "WATCH",
+   "code": "NO_SLOT",
+   "mqs": 75.70011584800741
+  },
+  {
+   "symbol": "ABDL",
+   "action": "WATCH",
+   "code": "NO_SLOT",
+   "mqs": 74.74513438368861
+  },
+  {
+   "symbol": "PRIVISCL",
+   "action": "WATCH",
+   "code": "NO_SLOT",
+   "mqs": 73.61369323447636
+  },
+  {
+   "symbol": "ENGINERSIN",
+   "action": "WATCH",
+   "code": "NO_SLOT",
+   "mqs": 73.24789156626507
+  },
+  {
+   "symbol": "KARURVYSYA",
+   "action": "WATCH",
+   "code": "NO_SLOT",
+   "mqs": 73.2346153846154
+  },
+  {
+   "symbol": "FINCABLES",
+   "action": "WATCH",
+   "code": "NO_SLOT",
+   "mqs": 73.08873957367932
+  },
+  {
+   "symbol": "AETHER",
+   "action": "WATCH",
+   "code": "NO_SLOT",
+   "mqs": 73.04893419833179
+  },
+  {
+   "symbol": "DRREDDY",
+   "action": "WATCH",
+   "code": "NO_SLOT",
+   "mqs": 72.87632066728452
+  },
+  {
+   "symbol": "CYIENT",
+   "action": "WATCH",
+   "code": "NO_SLOT",
+   "mqs": 72.75678869323447
+  },
+  {
+   "symbol": "TDPOWERSYS",
+   "action": "WATCH",
+   "code": "STOP_TOO_WIDE",
+   "mqs": 72.68964318813715
+  },
+  {
+   "symbol": "GLAND",
+   "action": "WATCH",
+   "code": "NO_SLOT",
+   "mqs": 72.37180259499536
+  }
+ ],
+ "fills_today": [
+  {
+   "date": "2026-10-01",
+   "book": "c0.006",
+   "symbol": "KOTAKBANK",
+   "side": "buy",
+   "qty": 10,
+   "price": 426.0,
+   "reason": "ADD",
+   "entry": 426.0
+  },
+  {
+   "date": "2026-10-01",
+   "book": "c0.006",
+   "symbol": "ZYDUSLIFE",
+   "side": "sell",
+   "qty": 3,
+   "price": 1124.9058,
+   "reason": "STOP",
+   "entry": 1185.5
+  },
+  {
+   "date": "2026-10-01",
+   "book": "c0.006",
+   "symbol": "ADANIPORTS",
+   "side": "sell",
+   "qty": 2,
+   "price": 1741.6232,
+   "reason": "STOP",
+   "entry": 1793.5
+  }
+ ]
+}

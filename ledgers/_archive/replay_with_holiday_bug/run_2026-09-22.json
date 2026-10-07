@@ -1,0 +1,189 @@
+{
+ "t": "2026-09-22",
+ "version": "0.2.1",
+ "regime": "Neutral",
+ "breadth": 0.3366733466933868,
+ "nifty500": 22794.2,
+ "equity": {
+  "c0.003": 59873.74435,
+  "c0.006": 59792.83870000001,
+  "c0.010": 59684.96450000002,
+  "frac0.006": 59724.33277866666
+ },
+ "exec_notes": [],
+ "n_disc": 100,
+ "n_cand": 335,
+ "primary": "c0.006",
+ "orders": [],
+ "decisions": [
+  {
+   "symbol": "AUROPHARMA",
+   "action": "KEEP",
+   "code": "",
+   "mqs": 84.74638415476738
+  },
+  {
+   "symbol": "ACMESOLAR",
+   "action": "KEEP",
+   "code": "",
+   "mqs": 80.64880239520957
+  },
+  {
+   "symbol": "EMCURE",
+   "action": "KEEP",
+   "code": "",
+   "mqs": 72.58321050207279
+  },
+  {
+   "symbol": "LAURUSLABS",
+   "action": "KEEP",
+   "code": "",
+   "mqs": 85.76434822662367
+  },
+  {
+   "symbol": "ANTHEM",
+   "action": "KEEP",
+   "code": "",
+   "mqs": 64.60416858590511
+  },
+  {
+   "symbol": "RBLBANK",
+   "action": "KEEP",
+   "code": "",
+   "mqs": 77.76315062183328
+  },
+  {
+   "symbol": "SHYAMMETL",
+   "action": "KEEP",
+   "code": "",
+   "mqs": 75.45665591893136
+  },
+  {
+   "symbol": "RADICO",
+   "action": "KEEP",
+   "code": "",
+   "mqs": 66.58284200829111
+  },
+  {
+   "symbol": "PAYTM",
+   "action": "KEEP",
+   "code": "",
+   "mqs": 71.75267157991709
+  },
+  {
+   "symbol": "APLAPOLLO",
+   "action": "KEEP",
+   "code": "",
+   "mqs": 72.11084753569783
+  },
+  {
+   "symbol": "ANANDRATHI",
+   "action": "KEEP",
+   "code": "",
+   "mqs": 70.7098883651383
+  },
+  {
+   "symbol": "REDINGTON",
+   "action": "KEEP",
+   "code": "",
+   "mqs": 80.34580838323353
+  },
+  {
+   "symbol": "PVRINOX",
+   "action": "KEEP",
+   "code": "",
+   "mqs": 79.87339935513587
+  },
+  {
+   "symbol": "WELSPUNLIV",
+   "action": "WATCH",
+   "code": "NO_SLOT",
+   "mqs": 78.74251497005989
+  },
+  {
+   "symbol": "PFOCUS",
+   "action": "WATCH",
+   "code": "NO_SLOT",
+   "mqs": 78.5934592353754
+  },
+  {
+   "symbol": "GLENMARK",
+   "action": "WATCH",
+   "code": "NO_SLOT",
+   "mqs": 78.30177337632426
+  },
+  {
+   "symbol": "ACE",
+   "action": "WATCH",
+   "code": "NO_SLOT",
+   "mqs": 77.1333026255182
+  },
+  {
+   "symbol": "FINCABLES",
+   "action": "WATCH",
+   "code": "STOP_TOO_WIDE",
+   "mqs": 77.12581759557807
+  },
+  {
+   "symbol": "AEGISVOPAK",
+   "action": "WATCH",
+   "code": "STOP_TOO_WIDE",
+   "mqs": 77.0148779364348
+  },
+  {
+   "symbol": "ETERNAL",
+   "action": "WATCH",
+   "code": "NO_SLOT",
+   "mqs": 76.85193459235376
+  },
+  {
+   "symbol": "VIJAYA",
+   "action": "WATCH",
+   "code": "NO_SLOT",
+   "mqs": 76.84967756794104
+  },
+  {
+   "symbol": "CASTROLIND",
+   "action": "WATCH",
+   "code": "NO_SLOT",
+   "mqs": 75.99691386457853
+  },
+  {
+   "symbol": "APARINDS",
+   "action": "WATCH",
+   "code": "STOP_TOO_WIDE",
+   "mqs": 75.98060801473974
+  },
+  {
+   "symbol": "ABBOTINDIA",
+   "action": "WATCH",
+   "code": "NOT_AFFORDABLE",
+   "mqs": 75.66704283740212
+  },
+  {
+   "symbol": "ZYDUSLIFE",
+   "action": "WATCH",
+   "code": "NO_SLOT",
+   "mqs": 75.42003684937816
+  },
+  {
+   "symbol": "JSWINFRA",
+   "action": "WATCH",
+   "code": "NO_SLOT",
+   "mqs": 75.2185628742515
+  },
+  {
+   "symbol": "AEGISLOG",
+   "action": "WATCH",
+   "code": "STOP_TOO_WIDE",
+   "mqs": 73.75888991248273
+  },
+  {
+   "symbol": "MANKIND",
+   "action": "WATCH",
+   "code": "NO_SLOT",
+   "mqs": 73.72093505297097
+  }
+ ],
+ "fills_today": []
+}

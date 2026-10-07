@@ -1,0 +1,255 @@
+{
+ "t": "2026-10-07",
+ "version": "0.2.1",
+ "regime": "Risk-off",
+ "breadth": 0.23647294589178355,
+ "nifty500": 22059.9,
+ "equity": {
+  "c0.003": 58002.978570966065,
+  "c0.006": 57656.19206334821,
+  "c0.010": 57193.810053191046,
+  "frac0.006": 57256.19868596943
+ },
+ "exec_notes": [],
+ "n_disc": 100,
+ "n_cand": 319,
+ "primary": "c0.006",
+ "orders": [
+  {
+   "symbol": "REDINGTON",
+   "side": "sell",
+   "reason": "REPLACED_BY_BHEL",
+   "link": "2026-10-07:REDINGTON->BHEL"
+  },
+  {
+   "symbol": "BHEL",
+   "side": "buy",
+   "reason": "REPLACE",
+   "link": "2026-10-07:REDINGTON->BHEL",
+   "stop": 424.2201783405753,
+   "qty": 9,
+   "ref_close": 448.5,
+   "equity_t": 57656.19206334821,
+   "target_w": 0.07692307692307693,
+   "mqs": 80.76063873233684
+  }
+ ],
+ "decisions": [
+  {
+   "symbol": "REDINGTON",
+   "action": "REPLACED",
+   "code": "BY_BHEL",
+   "mqs": 70.73960630564405
+  },
+  {
+   "symbol": "BHEL",
+   "action": "ADD",
+   "code": "REPLACES_REDINGTON",
+   "mqs": 80.76063873233684
+  },
+  {
+   "symbol": "LAURUSLABS",
+   "action": "KEEP",
+   "code": "",
+   "mqs": 84.79927305399002
+  },
+  {
+   "symbol": "WELSPUNLIV",
+   "action": "KEEP",
+   "code": "",
+   "mqs": 78.87578616352202
+  },
+  {
+   "symbol": "MANKIND",
+   "action": "KEEP",
+   "code": "",
+   "mqs": 73.84801519235482
+  },
+  {
+   "symbol": "KOTAKBANK",
+   "action": "KEEP",
+   "code": "",
+   "mqs": 88.60808216940292
+  },
+  {
+   "symbol": "IPCALAB",
+   "action": "KEEP",
+   "code": "",
+   "mqs": 75.82914726782651
+  },
+  {
+   "symbol": "MCX",
+   "action": "KEEP",
+   "code": "",
+   "mqs": 80.63638405619538
+  },
+  {
+   "symbol": "LALPATHLAB",
+   "action": "KEEP",
+   "code": "",
+   "mqs": 79.72065670178878
+  },
+  {
+   "symbol": "GESHIP",
+   "action": "KEEP",
+   "code": "",
+   "mqs": 72.17828555092706
+  },
+  {
+   "symbol": "RBLBANK",
+   "action": "KEEP",
+   "code": "",
+   "mqs": 69.13481172915135
+  },
+  {
+   "symbol": "ADANIPORTS",
+   "action": "KEEP",
+   "code": "",
+   "mqs": 63.46759372702769
+  },
+  {
+   "symbol": "PETRONET",
+   "action": "KEEP",
+   "code": "",
+   "mqs": 80.97259658580413
+  },
+  {
+   "symbol": "GLAND",
+   "action": "KEEP",
+   "code": "",
+   "mqs": 83.7536755697133
+  },
+  {
+   "symbol": "SAILIFE",
+   "action": "WATCH",
+   "code": "CHURN_GUARD",
+   "mqs": 79.92505921751204
+  },
+  {
+   "symbol": "DIVISLAB",
+   "action": "WATCH",
+   "code": "COOLDOWN",
+   "mqs": 79.79927305399004
+  },
+  {
+   "symbol": "AJANTPHARM",
+   "action": "WATCH",
+   "code": "CHURN_GUARD",
+   "mqs": 78.59644286531079
+  },
+  {
+   "symbol": "RADICO",
+   "action": "WATCH",
+   "code": "COOLDOWN",
+   "mqs": 78.49812137547985
+  },
+  {
+   "symbol": "PVRINOX",
+   "action": "WATCH",
+   "code": "CHURN_GUARD",
+   "mqs": 77.75004083966348
+  },
+  {
+   "symbol": "BALRAMCHIN",
+   "action": "WATCH",
+   "code": "CHURN_GUARD",
+   "mqs": 77.60975659560565
+  },
+  {
+   "symbol": "PTCIL",
+   "action": "WATCH",
+   "code": "NOT_AFFORDABLE",
+   "mqs": 76.72761986441232
+  },
+  {
+   "symbol": "KARURVYSYA",
+   "action": "WATCH",
+   "code": "CHURN_GUARD",
+   "mqs": 75.83292493669853
+  },
+  {
+   "symbol": "JSWINFRA",
+   "action": "WATCH",
+   "code": "CHURN_GUARD",
+   "mqs": 75.09495221759374
+  },
+  {
+   "symbol": "TBOTEK",
+   "action": "WATCH",
+   "code": "CHURN_GUARD",
+   "mqs": 74.91239892183289
+  },
+  {
+   "symbol": "AUROPHARMA",
+   "action": "WATCH",
+   "code": "CHURN_GUARD",
+   "mqs": 74.79927305399005
+  },
+  {
+   "symbol": "NYKAA",
+   "action": "WATCH",
+   "code": "CHURN_GUARD",
+   "mqs": 74.71585804132974
+  },
+  {
+   "symbol": "MOTILALOFS",
+   "action": "WATCH",
+   "code": "CHURN_GUARD",
+   "mqs": 74.64581801845952
+  },
+  {
+   "symbol": "TEGA",
+   "action": "WATCH",
+   "code": "STOP_TOO_WIDE",
+   "mqs": 74.3769909335947
+  },
+  {
+   "symbol": "ABDL",
+   "action": "WATCH",
+   "code": "CHURN_GUARD",
+   "mqs": 73.73397043208364
+  }
+ ],
+ "fills_today": [
+  {
+   "date": "2026-10-07",
+   "book": "c0.006",
+   "symbol": "SYRMA",
+   "side": "sell",
+   "qty": 2,
+   "price": 1690.7,
+   "reason": "REPLACED_BY_PETRONET",
+   "entry": 1745.0
+  },
+  {
+   "date": "2026-10-07",
+   "book": "c0.006",
+   "symbol": "CASTROLIND",
+   "side": "sell",
+   "qty": 23,
+   "price": 200.2,
+   "reason": "REPLACED_BY_GLAND",
+   "entry": 194.8
+  },
+  {
+   "date": "2026-10-07",
+   "book": "c0.006",
+   "symbol": "PETRONET",
+   "side": "buy",
+   "qty": 14,
+   "price": 295.0,
+   "reason": "REPLACE",
+   "entry": 295.0
+  },
+  {
+   "date": "2026-10-07",
+   "book": "c0.006",
+   "symbol": "GLAND",
+   "side": "buy",
+   "qty": 1,
+   "price": 3026.0,
+   "reason": "REPLACE",
+   "entry": 3026.0
+  }
+ ]
+}
