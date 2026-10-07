@@ -38,3 +38,25 @@ A paper-trading **research** platform for NSE equities. It was split out of `../
 .venv/bin/python live/evening_batch.py     # data -> books -> Codex challenge -> git commit
 .venv/bin/python live/morning_report.py    # report (add --no-provisional outside market hours)
 ```
+
+## Data gotchas (each one caused a real bug on 2026-10-07)
+
+**NSE bhavcopy files**
+- On holidays NSE re-serves the previous session's bhavcopy under the holiday's date. Always check the date inside the file (`DATE1` / `TIMESTAMP` / `TradDt`).
+- `PREV_CLOSE` is **not** adjusted for corporate actions on the ex-date. Example: RELIANCE 1:1 bonus on 28-Oct-2024.
+- Three formats:
+  - `sec_bhavdata_full`, which has delivery %, from about 2020;
+  - `cm…bhav.csv.zip` for 2011 to 2024-07;
+  - UDiFF `BhavCopy_NSE_CM_…` from 2024-07.
+- Some 2020 files use two-digit years.
+- ISINs starting `INF` are ETFs or mutual-fund units, not equities.
+
+**NSE corporate-actions API**
+- Subjects come abbreviated ("Fv Splt Frm Rs 10 To Re 1") or combined ("Bonus 1:1 / Face Value Split").
+- Bonus debentures and bonus preference shares are not share bonuses.
+- A bonus and a split on the same ex-date may arrive as separate rows.
+- Every factor is validated against the ex-day price ratio.
+- Demergers and special dividends are handled as value-neutral (`experiments/SPEC_E2.md` §8).
+
+**Survivorship**
+- Yahoo history for today's Nifty 500 list is survivorship-biased and strongly inflates momentum backtests. Use the point-in-time Liquid-500 universe (`experiments/pit_panels.py`).
