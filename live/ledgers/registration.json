@@ -10,9 +10,27 @@
  "integer_shares": true,
  "code_sha256": {
   "e2_strategies.py": "b1a43b0979b46e1d",
-  "sim.py": "4bb9f40ecfa344d6",
+  "sim.py": "4914041ef1b36f00",
   "panels.py": "e9290eb171614c71",
-  "pit_panels.py": "8425286ad3fdb4b4"
+  "pit_panels.py": "51ba12760f8a63ef"
  },
- "spec": "experiments/SPEC_E2.md (frozen E2 selection)"
+ "spec": "experiments/SPEC_E2.md (frozen E2 selection)",
+ "patches": [
+  {
+   "at": "2026-10-08 07:26:03.573503",
+   "note": "v1.1 (2026-10-08, before the first fill at the 08-Oct open), bug fixes from the Codex E2 audit: (B5) the sector cap applies only to KNOWN equal industry labels, per SPEC_E2 \u00a71, instead of capping all unknown names as one group; (B8) the M10 event requires the T0 close >= the T0 midpoint at creation, per A6; (B1-partial) corporate-action factors are de-duplicated by filing text, not by value, so 2x split + 2x bonus = 4x. Selection logic is otherwise unchanged. See reviews/codex/E2_audit_2026-10-08.md",
+   "old_sha256": {
+    "e2_strategies.py": "b1a43b0979b46e1d",
+    "sim.py": "4bb9f40ecfa344d6",
+    "panels.py": "e9290eb171614c71",
+    "pit_panels.py": "8425286ad3fdb4b4"
+   },
+   "new_sha256": {
+    "e2_strategies.py": "b1a43b0979b46e1d",
+    "sim.py": "4914041ef1b36f00",
+    "panels.py": "e9290eb171614c71",
+    "pit_panels.py": "51ba12760f8a63ef"
+   }
+  }
+ ]
 }

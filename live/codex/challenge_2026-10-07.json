@@ -1,0 +1,124 @@
+{
+  "signal_date": "2026-10-07",
+  "picks": [
+    {
+      "book": "M11",
+      "symbol": "CUPID",
+      "severity": "high",
+      "bear_case": "A 20.79% SMA20 premium and 6.09% daily jump leave substantial mean-reversion exposure; the October 7 guidance-driven rally adds expectations risk if momentum fades over the next 20 sessions.",
+      "key_numbers": "2026-10-07 close: INR 343.95; day +6.09%; R3 +74.61%; R6 +288.42%; rank 1; above SMA20 20.79%; RSI14 74.51; close/prior-52w-high 1.0585; volume/median20 2.07x; ATR20 INR 14.2877 (4.15% of close); queued stop INR 301.0870 (12.46% below signal close, not guaranteed loss limit). Source: live/ledgers/M11/snapshot_2026-10-07.json, orders_next_open[sym=CUPID].signal and .stop. Public context, 2026-10-07 12:18 IST: six-session intraday appreciation approximately 30%; FY27 revenue guidance INR 800 crore and net-profit guidance INR 250 crore-plus. Expectations risk is an inference, not adverse news. [Upstox dated report](https://upstox.com/news/market-news/stocks/cupid-shares-surge-30-in-six-sessions-hit-fresh-52-week-high-here-is-why-stock-is-rallying/article-201433/)."
+    },
+    {
+      "book": "M11",
+      "symbol": "IOLCP",
+      "severity": "medium",
+      "bear_case": "The breakout clears the prior high by only 0.54%, versus daily ATR of 4.87% of price; an ordinary reversal could invalidate the breakout after a 177.22% six-month run.",
+      "key_numbers": "2026-10-07 close: INR 220.22; day +2.48%; R3 +31.78%; R6 +177.22%; rank 8; above SMA20 8.13%; RSI14 65.34; close/prior-52w-high 1.0054; volume/median20 1.80x; ATR20 INR 10.7350 (4.87% of close); queued stop INR 188.0150 (14.62% below signal close, not guaranteed loss limit). Source: live/ledgers/M11/snapshot_2026-10-07.json, orders_next_open[sym=IOLCP].signal and .stop. Public cross-check: ET quote 2026-10-07 12:57 IST INR 220.53, intraday high INR 224.00; these intraday figures do not replace the signal close. [Economic Times IOLCP](https://economictimes.indiatimes.com/iol-chemicals-and-pharmaceuticals-ltd/stocks/companyid-7212.cms)."
+    },
+    {
+      "book": "M11",
+      "symbol": "TFCILTD",
+      "severity": "high",
+      "bear_case": "An 8.24% signal-day surge leaves next-open gap and reversal exposure; RSI 71.72 and a 102.07% three-month gain increase vulnerability to profit-taking over the next 20 sessions.",
+      "key_numbers": "2026-10-07 close: INR 152.24; day +8.24%; R3 +102.07%; R6 +135.41%; rank 21; above SMA20 8.01%; RSI14 71.72; close/prior-52w-high 1.0252; volume/median20 1.89x; ATR20 INR 5.2856 (3.47% of close); queued stop INR 136.3833 (10.42% below signal close, not guaranteed loss limit). Source: live/ledgers/M11/snapshot_2026-10-07.json, orders_next_open[sym=TFCILTD].signal and .stop."
+    },
+    {
+      "book": "M11",
+      "symbol": "SHREEJISPG",
+      "severity": "high",
+      "bear_case": "RSI 81.99 signals extreme extension while the breakout clears the prior high by just 0.33%; a small reversal could erase confirmation despite 2.12× volume.",
+      "key_numbers": "2026-10-07 close: INR 802.10; day +0.70%; R3 +60.07%; R6 +131.55%; rank 24; above SMA20 9.43%; RSI14 81.99; close/prior-52w-high 1.0033; volume/median20 2.12x; ATR20 INR 21.9341 (2.73% of close); queued stop INR 736.2978 (8.20% below signal close, not guaranteed loss limit). Source: live/ledgers/M11/snapshot_2026-10-07.json, orders_next_open[sym=SHREEJISPG].signal and .stop."
+    },
+    {
+      "book": "M11",
+      "symbol": "GLAND",
+      "severity": "medium",
+      "bear_case": "A 4.81% jump on 3.52× volume leaves event-day reversal risk; price is 7.24% above SMA20, and the signal stop sits 8.75% below close before next-open gaps.",
+      "key_numbers": "2026-10-07 close: INR 3150.60; day +4.81%; R3 +26.24%; R6 +85.33%; rank 54; above SMA20 7.24%; RSI14 67.79; close/prior-52w-high 1.0357; volume/median20 3.52x; ATR20 INR 91.8505 (2.92% of close); queued stop INR 2875.0486 (8.75% below signal close, not guaranteed loss limit). Source: live/ledgers/M11/snapshot_2026-10-07.json, orders_next_open[sym=GLAND].signal and .stop."
+    },
+    {
+      "book": "M11",
+      "symbol": "PTCIL",
+      "severity": "high",
+      "bear_case": "A 6.75% surge on 6.12× volume raises exhaustion risk; rank 90 gives weaker relative momentum within the qualifying pool, while next-open gaps can worsen the 10.37% signal-stop distance.",
+      "key_numbers": "2026-10-07 close: INR 24685.00; day +6.75%; R3 +45.22%; R6 +58.71%; rank 90; above SMA20 9.17%; RSI14 69.06; close/prior-52w-high 1.0232; volume/median20 6.12x; ATR20 INR 853.3246 (3.46% of close); queued stop INR 22125.0262 (10.37% below signal close, not guaranteed loss limit). Source: live/ledgers/M11/snapshot_2026-10-07.json, orders_next_open[sym=PTCIL].signal and .stop."
+    },
+    {
+      "book": "M2",
+      "symbol": "CUPID",
+      "severity": "high",
+      "bear_case": "Rank 1 follows a 288.42% six-month run, but price is 20.79% above SMA20; October 7 guidance optimism leaves expectations risk, and weekly rank hysteresis can retain exposure through sharp reversals.",
+      "key_numbers": "2026-10-07 close: INR 343.95; day +6.09%; R3 +74.61%; R6 +288.42%; rank 1; above SMA20 20.79%; RSI14 74.51; close/prior-52w-high 1.0585; volume/median20 2.07x; ATR20 INR 14.2877 (4.15% of close); queued stop INR 301.0870 (12.46% below signal close, not guaranteed loss limit). Source: live/ledgers/M2/snapshot_2026-10-07.json, orders_next_open[sym=CUPID].signal and .stop. Public context, 2026-10-07 12:18 IST: six-session intraday appreciation approximately 30%; FY27 revenue guidance INR 800 crore and net-profit guidance INR 250 crore-plus. Expectations risk is an inference, not adverse news. [Upstox dated report](https://upstox.com/news/market-news/stocks/cupid-shares-surge-30-in-six-sessions-hit-fresh-52-week-high-here-is-why-stock-is-rallying/article-201433/)."
+    },
+    {
+      "book": "M2",
+      "symbol": "MOREPENLAB",
+      "severity": "high",
+      "bear_case": "RSI 77.26 and a 19.81% SMA20 premium follow a 282.44% six-month run; just 1.10× volume offers limited fresh participation, leaving pronounced mean-reversion exposure.",
+      "key_numbers": "2026-10-07 close: INR 146.97; day +2.09%; R3 +149.27%; R6 +282.44%; rank 2; above SMA20 19.81%; RSI14 77.26; close/prior-52w-high 1.0118; volume/median20 1.10x; ATR20 INR 7.0528 (4.80% of close); queued stop INR 125.8115 (14.40% below signal close, not guaranteed loss limit). Source: live/ledgers/M2/snapshot_2026-10-07.json, orders_next_open[sym=MOREPENLAB].signal and .stop."
+    },
+    {
+      "book": "M2",
+      "symbol": "RAYMOND",
+      "severity": "high",
+      "bear_case": "The signal-day fall of 6.77% contradicts rank-3 momentum; price remains 10.89% above SMA20 and 9.88% below its high, with 5.42% ATR indicating substantial reversal and gap exposure.",
+      "key_numbers": "2026-10-07 close: INR 1206.70; day -6.77%; R3 +102.62%; R6 +242.52%; rank 3; above SMA20 10.89%; RSI14 68.71; close/prior-52w-high 0.9012; volume/median20 0.44x; ATR20 INR 65.4264 (5.42% of close); queued stop INR 1010.4209 (16.27% below signal close, not guaranteed loss limit). Source: live/ledgers/M2/snapshot_2026-10-07.json, orders_next_open[sym=RAYMOND].signal and .stop."
+    },
+    {
+      "book": "M2",
+      "symbol": "SETL",
+      "severity": "medium",
+      "bear_case": "Rank 4 rests on a 240.71% six-month gain, yet price is 8.19% below its high on 0.42× volume; weak participation could leave the weekly momentum signal lagging deterioration.",
+      "key_numbers": "2026-10-07 close: INR 429.80; day +0.35%; R3 +61.82%; R6 +240.71%; rank 4; above SMA20 2.12%; RSI14 62.01; close/prior-52w-high 0.9181; volume/median20 0.42x; ATR20 INR 18.5283 (4.31% of close); queued stop INR 374.2152 (12.93% below signal close, not guaranteed loss limit). Source: live/ledgers/M2/snapshot_2026-10-07.json, orders_next_open[sym=SETL].signal and .stop."
+    },
+    {
+      "book": "M2",
+      "symbol": "CYIENTDLM",
+      "severity": "medium",
+      "bear_case": "A 5.25% daily jump on 3.03× volume still leaves price 2.05% below its high; after 240.68% six-month appreciation, failed follow-through could expose next-open entries to reversal.",
+      "key_numbers": "2026-10-07 close: INR 988.30; day +5.25%; R3 +89.66%; R6 +240.68%; rank 5; above SMA20 6.89%; RSI14 65.06; close/prior-52w-high 0.9795; volume/median20 3.03x; ATR20 INR 45.0171 (4.56% of close); queued stop INR 853.2487 (13.67% below signal close, not guaranteed loss limit). Source: live/ledgers/M2/snapshot_2026-10-07.json, orders_next_open[sym=CYIENTDLM].signal and .stop."
+    },
+    {
+      "book": "M2",
+      "symbol": "WELCORP",
+      "severity": "medium",
+      "bear_case": "Six-month momentum of 213.54% masks price 6.74% below its high and only 0.67× volume; ATR near 5% leaves meaningful downside despite modest SMA20 extension and RSI 56.",
+      "key_numbers": "2026-10-07 close: INR 2704.60; day +1.64%; R3 +76.86%; R6 +213.54%; rank 6; above SMA20 1.67%; RSI14 56.00; close/prior-52w-high 0.9326; volume/median20 0.67x; ATR20 INR 135.1102 (5.00% of close); queued stop INR 2299.2695 (14.99% below signal close, not guaranteed loss limit). Source: live/ledgers/M2/snapshot_2026-10-07.json, orders_next_open[sym=WELCORP].signal and .stop."
+    },
+    {
+      "book": "M2",
+      "symbol": "INDSWFTLAB",
+      "severity": "high",
+      "bear_case": "Price is just 0.13% above SMA20 after a 2.33% decline on 0.42× volume; ATR of 5.56% and a 16.67% signal-stop distance leave substantial downside before rank-based exits.",
+      "key_numbers": "2026-10-07 close: INR 391.10; day -2.33%; R3 +73.46%; R6 +178.40%; rank 7; above SMA20 0.13%; RSI14 55.80; close/prior-52w-high 0.9208; volume/median20 0.42x; ATR20 INR 21.7307 (5.56% of close); queued stop INR 325.9079 (16.67% below signal close, not guaranteed loss limit). Source: live/ledgers/M2/snapshot_2026-10-07.json, orders_next_open[sym=INDSWFTLAB].signal and .stop."
+    },
+    {
+      "book": "M2",
+      "symbol": "IOLCP",
+      "severity": "medium",
+      "bear_case": "A 177.22% six-month gain and 8.13% SMA20 premium meet only a 0.54% breakout margin; ATR of 4.87% makes reversal plausible, while duplication with M11 concentrates the same risk.",
+      "key_numbers": "2026-10-07 close: INR 220.22; day +2.48%; R3 +31.78%; R6 +177.22%; rank 8; above SMA20 8.13%; RSI14 65.34; close/prior-52w-high 1.0054; volume/median20 1.80x; ATR20 INR 10.7350 (4.87% of close); queued stop INR 188.0150 (14.62% below signal close, not guaranteed loss limit). Source: live/ledgers/M2/snapshot_2026-10-07.json, orders_next_open[sym=IOLCP].signal and .stop. Public cross-check: ET quote 2026-10-07 12:57 IST INR 220.53, intraday high INR 224.00; these intraday figures do not replace the signal close. [Economic Times IOLCP](https://economictimes.indiatimes.com/iol-chemicals-and-pharmaceuticals-ltd/stocks/companyid-7212.cms)."
+    },
+    {
+      "book": "M2",
+      "symbol": "SHILPAMED",
+      "severity": "medium",
+      "bear_case": "Price remains 6.21% above SMA20 after a 173.61% six-month run, but volume is only 0.59×; weak participation and a 12.77% signal-stop distance leave room for a material retracement.",
+      "key_numbers": "2026-10-07 close: INR 1071.20; day -0.23%; R3 +79.93%; R6 +173.61%; rank 9; above SMA20 6.21%; RSI14 64.78; close/prior-52w-high 0.9783; volume/median20 0.59x; ATR20 INR 45.5862 (4.26% of close); queued stop INR 934.4414 (12.77% below signal close, not guaranteed loss limit). Source: live/ledgers/M2/snapshot_2026-10-07.json, orders_next_open[sym=SHILPAMED].signal and .stop."
+    },
+    {
+      "book": "M2",
+      "symbol": "MARINE",
+      "severity": "high",
+      "bear_case": "A 13.52% SMA20 premium and 171.58% six-month gain leave mean-reversion exposure; RSI 69.14 and ATR 5.24% imply a volatile entry with the signal stop 15.72% below close.",
+      "key_numbers": "2026-10-07 close: INR 476.40; day -0.51%; R3 +92.37%; R6 +171.58%; rank 10; above SMA20 13.52%; RSI14 69.14; close/prior-52w-high 0.9722; volume/median20 1.15x; ATR20 INR 24.9597 (5.24% of close); queued stop INR 401.5208 (15.72% below signal close, not guaranteed loss limit). Source: live/ledgers/M2/snapshot_2026-10-07.json, orders_next_open[sym=MARINE].signal and .stop."
+    }
+  ],
+  "books": {
+    "M11": "2026-10-07: six queued names, three labeled Unknown (IOLCP, TFCILTD, SHREEJISPG), weakening the three-per-known-sector cap. IOLCP adds pharma exposure alongside Healthcare-labeled GLAND; ET classifies IOLCP as Pharmaceuticals [ET IOLCP](https://economictimes.indiatimes.com/iol-chemicals-and-pharmaceuticals-ltd/stocks/companyid-7212.cms). Six intended 10% slots imply about 60% deployment before gaps/costs; actual fills remain unknown. Shared momentum exposure dominates when Nifty500 is 3.82% below its 200DMA (snapshot).",
+    "M10": "2026-10-07 snapshot: zero positions, zero queued orders, INR 60,000 cash. No current sector crowding or name overlap; the next-20-session challenge is cash opportunity cost if the market rallies before a qualifying event completes its 3–7-session confirmation. No missing buys are inferred.",
+    "M2": "Requested first ten: eight carry Unknown industry labels. MOREPENLAB, INDSWFTLAB, IOLCP and SHILPAMED form a four-name pharma cluster, nominally 40% at ten equal slots, obscured by those labels. Public classifications: [ET Morepen](https://economictimes.indiatimes.com/morepen-laboratories-ltd/stocks/companyid-11215.cms), [ET Ind-Swift](https://economictimes.indiatimes.com/ind-swift-laboratories-ltd/stocks/companyid-4788.cms), [ET IOLCP](https://economictimes.indiatimes.com/iol-chemicals-and-pharmaceuticals-ltd/stocks/companyid-7212.cms), [ET Shilpa](https://economictimes.indiatimes.com/shilpa-medicare-ltd/profitandlose/companyid-7974.cms?from=mdr). Full snapshot contains 50 buy orders despite SPEC_E2 ten slots; queued close notionals total about INR 300,000 against INR 60,000 cash. This is a record-level allocation discrepancy, not evidence that 50 fills will occur; realized weights cannot be assumed."
+  },
+  "overlap": "Within the requested lists, CUPID and IOLCP overlap: 2/6 M11 names and 2/10 M2 names, or 14 unique names across 16 reviewed orders. At intended 10% slots these duplicate exposures total about 20% of each book equity, conditional on fills. Across complete snapshot queues, TFCILTD and SHREEJISPG also overlap (4 names total); M10 has none. Shared pharma and momentum factors can correlate losses beyond exact name overlap.",
+  "overall": "Next 20 sessions: extension, fragile breakouts and common momentum exposure dominate with Nifty500 3.82% below its 200DMA. Severity is qualitative, not a forecast. Relative volume cannot establish absolute liquidity; spreads and turnover are unavailable. Public news checks were selective. M2 queue exceeds slot/cash limits. Rule outputs stand; this challenge changes no orders."
+}

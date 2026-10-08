@@ -169,6 +169,8 @@ class S7Confirm(RankStrategy):
         for s in top50:
             if s not in self.active and s not in bk.pos and bool(self.is_event.at[t, s]):
                 h, l = P.H.at[t, s], P.L.at[t, s]
+                if not P.C.at[t, s] >= (h + l) / 2:            # v1.1: A6 midpoint test includes T0 itself
+                    continue
                 self.active[s] = {"t0": i, "mid": (h + l) / 2, "hi0": h, "lo0": l, "v0": P.V.at[t, s]}
         # 3) confirmed -> one order attempt, event consumed
         buys = []
@@ -333,7 +335,9 @@ def run(strategy: Strategy, cost: float, start_i: int, integer: bool = False, ca
                 continue
             if len(bk.pos) >= bk.slots:
                 continue
-            if bk.sector_cap and sum(1 for x in bk.pos if ind.get(x, "?") == ind.get(s, "?")) >= bk.sector_cap:
+            lab = ind.get(s)                                   # v1.1: cap only KNOWN, equal labels (SPEC_E2 §1)
+            if bk.sector_cap and isinstance(lab, str) and lab not in ("", "Unknown") and \
+                    sum(1 for x in bk.pos if ind.get(x) == lab) >= bk.sector_cap:
                 continue
             if not fillable(P, i, s, "buy"):
                 continue

@@ -47,7 +47,7 @@ def signal_record(P, s: str, t, st, meta: dict) -> dict:
     return rec
 
 
-def run(rebuild: bool = True) -> dict:
+def run(rebuild: bool = True, patch_note: str | None = None) -> dict:
     P = pit_panels.build(cache=not rebuild)
     pd.to_pickle(P, EXP / "data" / "pit_panels.pkl")
     dates = P.C.index
@@ -62,6 +62,11 @@ def run(rebuild: bool = True) -> dict:
                                    "spec": "experiments/SPEC_E2.md (frozen E2 selection)"}, indent=1))
     registered = json.loads(reg.read_text())
     exceptions = []
+    if patch_note and registered["code_sha256"] != code_hash():       # deliberate, documented patch
+        registered.setdefault("patches", []).append({"at": str(pd.Timestamp.now()), "note": patch_note,
+                                                     "old_sha256": registered["code_sha256"], "new_sha256": code_hash()})
+        registered["code_sha256"] = code_hash()
+        reg.write_text(json.dumps(registered, indent=1))
     if registered["code_sha256"] != code_hash():
         exceptions.append({"type": "CODE_CHANGED", "detail": json.dumps(code_hash())})
     summary = {"last_session": str(dates[-1].date()), "books": {}}
@@ -126,4 +131,5 @@ def run(rebuild: bool = True) -> dict:
 
 
 if __name__ == "__main__":
-    print(json.dumps(run(), indent=1, default=str))
+    note = sys.argv[sys.argv.index("--register-patch") + 1] if "--register-patch" in sys.argv else None
+    print(json.dumps(run(patch_note=note), indent=1, default=str))
