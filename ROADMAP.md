@@ -33,7 +33,7 @@ Reserved: a fundamentals-fetch schedule, once the data source is confirmed (R7).
 
 ## Research backlog (the nightly job takes the first unchecked item)
 
-- [ ] **R0 — E2.1 corrected re-run. OWNER + CLAUDE SESSION, not the nightly job: it changes frozen files.** Codex audit 2026-10-08 (`reviews/codex/E2_audit_2026-10-08.md`) returned **AUDIT FAIL**.
+- [ ] **R0 — E2.1 corrected re-run.** Approved by the owner on 2026-10-08. **Scheduled for Sat 2026-10-10 10:00 IST** as the one-time task `momentum-e21-corrected-rerun`. It works in a new `experiments/e21/` package, so the live v1.1 code stays frozen. **The nightly job skips this item.** Codex audit 2026-10-08 (`reviews/codex/E2_audit_2026-10-08.md`) returned **AUDIT FAIL**.
   - **What passed:** the arithmetic reproduces exactly (all 447 M11 trades).
   - **What doesn't:** the E2 verdicts cannot be certified. Until R0 is done, E2 is **exploratory screening only**. The live books keep running as the forward test, which is the real validation anyway.
   - **Already fixed in v1.1** (2026-10-08, before the first fill): B5 sector cap for unknown labels; B8 M10 T0 midpoint; part of B1 (CA de-duplication).
