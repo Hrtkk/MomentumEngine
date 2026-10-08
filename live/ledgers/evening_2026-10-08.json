@@ -1,0 +1,45 @@
+{
+ "run_at": "2026-10-08T20:36:55+05:30",
+ "date": "2026-10-08",
+ "steps": {
+  "c0": {
+   "c0_processed": [
+    "2026-10-08"
+   ],
+   "c0_last": "2026-10-08"
+  },
+  "pit_update": {
+   "new_sessions": [
+    "2026-10-08"
+   ],
+   "last_session": "2026-10-08",
+   "ca_new_rows": 0
+  },
+  "books": {
+   "last_session": "2026-10-08",
+   "books": {
+    "M11": {
+     "equity": 59265.12,
+     "positions": 5,
+     "buys_next_open": [],
+     "sells_next_open": []
+    },
+    "M10": {
+     "equity": 60000.0,
+     "positions": 0,
+     "buys_next_open": [],
+     "sells_next_open": []
+    },
+    "M2": {
+     "equity": 57654.88,
+     "positions": 10,
+     "buys_next_open": [],
+     "sells_next_open": []
+    }
+   },
+   "exceptions": []
+  },
+  "codex": "no new buys"
+ },
+ "ok": true
+}
