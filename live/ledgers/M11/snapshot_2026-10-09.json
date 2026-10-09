@@ -1,0 +1,91 @@
+{
+ "signal_date": "2026-10-09",
+ "equity": 59382.62,
+ "cash": 33248.52,
+ "positions": {
+  "CUPID": {
+   "qty": 17,
+   "entry": 348.5,
+   "entry_date": "2026-10-08",
+   "stop": 301.09,
+   "last": 366.1,
+   "industry": "Fast Moving Consumer Goods"
+  },
+  "IOLCP": {
+   "qty": 27,
+   "entry": 220.41,
+   "entry_date": "2026-10-08",
+   "stop": 188.02,
+   "last": 201.15,
+   "industry": "Unknown"
+  },
+  "TFCILTD": {
+   "qty": 39,
+   "entry": 153.1,
+   "entry_date": "2026-10-08",
+   "stop": 136.38,
+   "last": 147.05,
+   "industry": "Unknown"
+  },
+  "SHREEJISPG": {
+   "qty": 7,
+   "entry": 809.0,
+   "entry_date": "2026-10-08",
+   "stop": 736.3,
+   "last": 811.8,
+   "industry": "Unknown"
+  },
+  "GLAND": {
+   "qty": 1,
+   "entry": 3162.0,
+   "entry_date": "2026-10-08",
+   "stop": 2875.05,
+   "last": 3061.8,
+   "industry": "Healthcare"
+  }
+ },
+ "orders_next_open": [
+  {
+   "side": "buy",
+   "sym": "SKYGOLD",
+   "stop": 809.4718,
+   "qty": 6.4476,
+   "signal": {
+    "close": 921.0,
+    "day_ret": 0.0413,
+    "R3": 0.4763,
+    "R6": 1.4151,
+    "R12_1": 2.1149,
+    "vs_52w_high": 1.0213,
+    "vol_x_median20": 3.01,
+    "vs_sma20": 0.1239,
+    "rsi14": 75.438,
+    "atr20": 37.1761,
+    "rank": 19,
+    "industry": "Unknown",
+    "nifty500_vs_200dma": -0.0459
+   }
+  },
+  {
+   "side": "buy",
+   "sym": "SHANTIGOLD",
+   "stop": 325.303,
+   "qty": 15.6044,
+   "signal": {
+    "close": 380.55,
+    "day_ret": 0.0853,
+    "R3": 0.7943,
+    "R6": 1.063,
+    "R12_1": 0.2355,
+    "vs_52w_high": 1.0531,
+    "vol_x_median20": 3.59,
+    "vs_sma20": 0.297,
+    "rsi14": 79.6397,
+    "atr20": 18.4157,
+    "rank": 44,
+    "industry": "Unknown",
+    "nifty500_vs_200dma": -0.0459
+   }
+  }
+ ]
+}

@@ -1,0 +1,88 @@
+{
+ "signal_date": "2026-10-09",
+ "equity": 56974.63,
+ "cash": 3363.43,
+ "positions": {
+  "CUPID": {
+   "qty": 17,
+   "entry": 348.5,
+   "entry_date": "2026-10-08",
+   "stop": 301.09,
+   "last": 366.1,
+   "industry": "Fast Moving Consumer Goods"
+  },
+  "MOREPENLAB": {
+   "qty": 40,
+   "entry": 147.48,
+   "entry_date": "2026-10-08",
+   "stop": 125.81,
+   "last": 129.55,
+   "industry": "Unknown"
+  },
+  "RAYMOND": {
+   "qty": 4,
+   "entry": 1218.7,
+   "entry_date": "2026-10-08",
+   "stop": 1010.42,
+   "last": 1186.6,
+   "industry": "Unknown"
+  },
+  "SETL": {
+   "qty": 13,
+   "entry": 426.0,
+   "entry_date": "2026-10-08",
+   "stop": 374.22,
+   "last": 387.95,
+   "industry": "Unknown"
+  },
+  "CYIENTDLM": {
+   "qty": 6,
+   "entry": 989.0,
+   "entry_date": "2026-10-08",
+   "stop": 853.25,
+   "last": 952.35,
+   "industry": "Unknown"
+  },
+  "WELCORP": {
+   "qty": 2,
+   "entry": 2699.4,
+   "entry_date": "2026-10-08",
+   "stop": 2299.27,
+   "last": 2640.4,
+   "industry": "Capital Goods"
+  },
+  "INDSWFTLAB": {
+   "qty": 15,
+   "entry": 391.5,
+   "entry_date": "2026-10-08",
+   "stop": 325.91,
+   "last": 360.9,
+   "industry": "Unknown"
+  },
+  "IOLCP": {
+   "qty": 27,
+   "entry": 220.41,
+   "entry_date": "2026-10-08",
+   "stop": 188.02,
+   "last": 201.15,
+   "industry": "Unknown"
+  },
+  "SHILPAMED": {
+   "qty": 5,
+   "entry": 1077.5,
+   "entry_date": "2026-10-08",
+   "stop": 934.44,
+   "last": 1021.7,
+   "industry": "Unknown"
+  },
+  "MARINE": {
+   "qty": 12,
+   "entry": 473.9,
+   "entry_date": "2026-10-08",
+   "stop": 401.52,
+   "last": 455.65,
+   "industry": "Unknown"
+  }
+ },
+ "orders_next_open": []
+}

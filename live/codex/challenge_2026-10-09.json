@@ -1,0 +1,26 @@
+{
+  "signal_date": "2026-10-09",
+  "picks": [
+    {
+      "book": "M11",
+      "symbol": "SKYGOLD",
+      "severity": "high",
+      "bear_case": "On 2026-10-09, price stands 12.39% above SMA20 with RSI 75.44; a 141.51% six-month run and only 2.13% breakout clearance leave next-open gap and 20-session mean-reversion risk.",
+      "key_numbers": "2026-10-09 signal: close INR 921.00; day +4.13%; R3 +47.63%; R6 +141.51%; rank 19; SMA20 premium 12.39%; implied SMA20 INR 819.47; RSI14 75.44; prior-high premium 2.13%; volume 3.01x median20; ATR20 INR 37.1761 (4.04% of close); queued stop INR 809.4718 (12.11% below close, not a guaranteed fill or loss bound). Source: live/ledgers/M11/snapshot_2026-10-09.json, orders_next_open[sym=SKYGOLD].signal and .stop. Absolute turnover, spreads and opening gaps are unavailable; relative volume does not prove liquidity. Public context: 2026-08-09 report records Q1 FY27 profit INR 104.90 crore versus INR 43.58 crore and income INR 2,012.8 crore, +78%; this is positive news, so the bear case is technical extension, not demonstrated operating deterioration. [ETManufacturing, 2026-08-09](https://manufacturing.economictimes.indiatimes.com/news/industry/sky-gold-diamonds-q1-profit-more-than-doubles-to-104-90-crore/133065090)."
+    },
+    {
+      "book": "M11",
+      "symbol": "SHANTIGOLD",
+      "severity": "high",
+      "bear_case": "On 2026-10-09, an 8.53% jump leaves price 29.70% above SMA20 and RSI 79.64; reverting to the unchanged average implies 22.90% downside, amplifying next-open gap and 20-session reversal risk.",
+      "key_numbers": "2026-10-09 signal: close INR 380.55; day +8.53%; R3 +79.43%; R6 +106.30%; rank 44; SMA20 premium 29.70%; implied SMA20 INR 293.41; RSI14 79.64; prior-high premium 5.31%; volume 3.59x median20; ATR20 INR 18.4157 (4.84% of close); queued stop INR 325.3030 (14.52% below close, not a guaranteed fill or loss bound). Source: live/ledgers/M11/snapshot_2026-10-09.json, orders_next_open[sym=SHANTIGOLD].signal and .stop. Absolute turnover, spreads and opening gaps are unavailable; relative volume does not prove liquidity. Public context: 2025-07-25 report identifies a B2B gold-jewellery manufacturer with over 70% of revenue from southern India; historical regional concentration adds common-demand exposure, but its persistence as of the signal date is unverified. [Economic Times, 2025-07-25](https://m.economictimes.com/markets/ipos/fpos/shanti-gold-international-ipo-opens-for-subscription-with-healthy-gmp-should-you-subscribe/amp_articleshow/122892592.cms)."
+    }
+  ],
+  "books": {
+    "M11": "2026-10-09: both queued buys are B2B jewellery manufacturers (dated public sources in picks), concentrating approximately 20% of book equity at signal-close notionals in one industry. Both are labeled Unknown, so the known-sector cap does not capture this cluster; 5 of 7 held-plus-queued names are Unknown. Existing CUPID and IOLCP holdings overlap M2. Source: M11 snapshot and SPEC_E2 section 3; next-open weights depend on fills.",
+    "M10": "2026-10-09 snapshot: no holdings or queued orders; INR 60,000 cash (100%). No current industry crowding or cross-book name overlap. Over the next 20 sessions, cash creates opportunity-cost exposure if equities rally before an event completes confirmation.",
+    "M2": "2026-10-09 snapshot: 10 holdings, no queued buys, cash INR 3,363.43 (5.90% of equity). Eight holdings have Unknown industries, representing 73.90% of equity; sector diversification cannot be established from these labels and the known-sector cap leaves their concentration unmeasured. CUPID and IOLCP duplicate M11 exposure. Source: live/ledgers/M2/snapshot_2026-10-09.json and SPEC_E2 section 3."
+  },
+  "overlap": "2026-10-09 snapshots: CUPID and IOLCP are held in both M11 and M2, each with identical quantities (17 and 27 respectively). Combined marked value INR 11654.75 per book equals 19.63% of M11 and 20.46% of M2 equity. Neither new jewellery buy overlaps current M2 holdings; M10 is empty. After queued fills, 17 position slots would represent 15 unique names, conditional on execution.",
+  "overall": "Next 20 sessions: both buys combine extension and jewellery concentration while Nifty500 is 4.59% below its 200DMA (2026-10-09 signals). Next-open gaps could worsen entry risk. Severity describes vulnerability, not predicted losses. Public news checks are selective; signal prices were not independently verified. Absolute liquidity remains unmeasured. Frozen rule outputs stand unchanged."
+}

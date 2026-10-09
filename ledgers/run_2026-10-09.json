@@ -1,0 +1,293 @@
+{
+ "t": "2026-10-09",
+ "version": "0.2.1",
+ "regime": "Risk-off",
+ "breadth": 0.17835671342685372,
+ "nifty500": 21866.65,
+ "equity": {
+  "c0.003": 57457.907500605346,
+  "c0.006": 57113.21759474567,
+  "c0.010": 56712.14488693275,
+  "frac0.006": 56446.95245788898
+ },
+ "exec_notes": [
+  "AJANTPHARM: stop hit at \u20b93,386.09"
+ ],
+ "n_disc": 100,
+ "n_cand": 331,
+ "primary": "c0.006",
+ "orders": [
+  {
+   "symbol": "IPCALAB",
+   "side": "sell",
+   "reason": "REPLACED_BY_PVRINOX",
+   "link": "2026-10-09:IPCALAB->PVRINOX"
+  },
+  {
+   "symbol": "GLAND",
+   "side": "sell",
+   "reason": "REPLACED_BY_ABDL",
+   "link": "2026-10-09:GLAND->ABDL"
+  },
+  {
+   "symbol": "RADICO",
+   "side": "buy",
+   "reason": "ADD",
+   "link": null,
+   "stop": 4311.520563015614,
+   "qty": 1,
+   "ref_close": 4550.0,
+   "equity_t": 57113.21759474567,
+   "target_w": 0.07692307692307693,
+   "mqs": 83.71448863636364
+  },
+  {
+   "symbol": "PVRINOX",
+   "side": "buy",
+   "reason": "REPLACE",
+   "link": "2026-10-09:IPCALAB->PVRINOX",
+   "stop": 1228.9826082213342,
+   "qty": 3,
+   "ref_close": 1327.2,
+   "equity_t": 57113.21759474567,
+   "target_w": 0.07692307692307693,
+   "mqs": 82.66571969696969
+  },
+  {
+   "symbol": "ABDL",
+   "side": "buy",
+   "reason": "REPLACE",
+   "link": "2026-10-09:GLAND->ABDL",
+   "stop": 658.1148716583607,
+   "qty": 6,
+   "ref_close": 711.55,
+   "equity_t": 57113.21759474567,
+   "target_w": 0.07692307692307693,
+   "mqs": 81.83570075757576
+  }
+ ],
+ "decisions": [
+  {
+   "symbol": "RADICO",
+   "action": "ADD",
+   "code": "FREE_SLOT",
+   "mqs": 83.71448863636364
+  },
+  {
+   "symbol": "IPCALAB",
+   "action": "REPLACED",
+   "code": "BY_PVRINOX",
+   "mqs": 64.22869318181817
+  },
+  {
+   "symbol": "PVRINOX",
+   "action": "ADD",
+   "code": "REPLACES_IPCALAB",
+   "mqs": 82.66571969696969
+  },
+  {
+   "symbol": "GLAND",
+   "action": "REPLACED",
+   "code": "BY_ABDL",
+   "mqs": 71.09232954545455
+  },
+  {
+   "symbol": "ABDL",
+   "action": "ADD",
+   "code": "REPLACES_GLAND",
+   "mqs": 81.83570075757576
+  },
+  {
+   "symbol": "LAURUSLABS",
+   "action": "KEEP",
+   "code": "",
+   "mqs": 81.29687500000001
+  },
+  {
+   "symbol": "DIVISLAB",
+   "action": "KEEP",
+   "code": "",
+   "mqs": 75.39535984848486
+  },
+  {
+   "symbol": "AUROPHARMA",
+   "action": "KEEP",
+   "code": "",
+   "mqs": 77.18323863636364
+  },
+  {
+   "symbol": "LALPATHLAB",
+   "action": "KEEP",
+   "code": "",
+   "mqs": 73.84232954545453
+  },
+  {
+   "symbol": "KOTAKBANK",
+   "action": "KEEP",
+   "code": "",
+   "mqs": 92.79782196969695
+  },
+  {
+   "symbol": "PETRONET",
+   "action": "KEEP",
+   "code": "",
+   "mqs": 77.05208333333334
+  },
+  {
+   "symbol": "GESHIP",
+   "action": "KEEP",
+   "code": "",
+   "mqs": 71.71306818181819
+  },
+  {
+   "symbol": "MCX",
+   "action": "KEEP",
+   "code": "",
+   "mqs": 79.84327651515152
+  },
+  {
+   "symbol": "PNBHOUSING",
+   "action": "KEEP",
+   "code": "",
+   "mqs": 75.3660037878788
+  },
+  {
+   "symbol": "PNB",
+   "action": "KEEP",
+   "code": "",
+   "mqs": 77.92660984848484
+  },
+  {
+   "symbol": "PTCIL",
+   "action": "WATCH",
+   "code": "NOT_AFFORDABLE",
+   "mqs": 82.08854166666667
+  },
+  {
+   "symbol": "KARURVYSYA",
+   "action": "WATCH",
+   "code": "CHURN_GUARD",
+   "mqs": 81.74479166666666
+  },
+  {
+   "symbol": "RBLBANK",
+   "action": "WATCH",
+   "code": "CHURN_GUARD",
+   "mqs": 81.4720643939394
+  },
+  {
+   "symbol": "PERSISTENT",
+   "action": "WATCH",
+   "code": "CHURN_GUARD",
+   "mqs": 80.4190340909091
+  },
+  {
+   "symbol": "ADANIPORTS",
+   "action": "WATCH",
+   "code": "CHURN_GUARD",
+   "mqs": 80.37973484848486
+  },
+  {
+   "symbol": "LICHSGFIN",
+   "action": "WATCH",
+   "code": "CHURN_GUARD",
+   "mqs": 79.22206439393939
+  },
+  {
+   "symbol": "NYKAA",
+   "action": "WATCH",
+   "code": "CHURN_GUARD",
+   "mqs": 78.25142045454545
+  },
+  {
+   "symbol": "CYIENT",
+   "action": "WATCH",
+   "code": "CHURN_GUARD",
+   "mqs": 78.03267045454545
+  },
+  {
+   "symbol": "CPPLUS",
+   "action": "WATCH",
+   "code": "STOP_TOO_WIDE",
+   "mqs": 77.20975378787878
+  },
+  {
+   "symbol": "MOTILALOFS",
+   "action": "WATCH",
+   "code": "CHURN_GUARD",
+   "mqs": 76.53267045454545
+  },
+  {
+   "symbol": "CUB",
+   "action": "WATCH",
+   "code": "CHURN_GUARD",
+   "mqs": 76.35842803030305
+  },
+  {
+   "symbol": "ICICIGI",
+   "action": "WATCH",
+   "code": "CHURN_GUARD",
+   "mqs": 75.67660984848484
+  },
+  {
+   "symbol": "COFORGE",
+   "action": "WATCH",
+   "code": "CHURN_GUARD",
+   "mqs": 75.00994318181819
+  },
+  {
+   "symbol": "BHEL",
+   "action": "WATCH",
+   "code": "CHURN_GUARD",
+   "mqs": 74.6339962121212
+  },
+  {
+   "symbol": "BALRAMCHIN",
+   "action": "WATCH",
+   "code": "STOP_TOO_WIDE",
+   "mqs": 73.87357954545455
+  }
+ ],
+ "fills_today": [
+  {
+   "date": "2026-10-09",
+   "book": "c0.006",
+   "symbol": "WELSPUNLIV",
+   "side": "sell",
+   "qty": 19,
+   "price": 225.93,
+   "reason": "REPLACED_BY_PNB",
+   "entry": 226.21
+  },
+  {
+   "date": "2026-10-09",
+   "book": "c0.006",
+   "symbol": "PNBHOUSING",
+   "side": "buy",
+   "qty": 3,
+   "price": 1155.0,
+   "reason": "ADD",
+   "entry": 1155.0
+  },
+  {
+   "date": "2026-10-09",
+   "book": "c0.006",
+   "symbol": "PNB",
+   "side": "buy",
+   "qty": 37,
+   "price": 115.5,
+   "reason": "REPLACE",
+   "entry": 115.5
+  },
+  {
+   "date": "2026-10-09",
+   "book": "c0.006",
+   "symbol": "AJANTPHARM",
+   "side": "sell",
+   "qty": 1,
+   "price": 3386.0938,
+   "reason": "STOP",
+   "entry": 3573.4
+  }
+ ]
+}

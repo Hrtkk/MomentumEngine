@@ -1,18 +1,18 @@
 {
  "version": "0.2.1",
- "last_t": "2026-10-08",
+ "last_t": "2026-10-09",
  "books": {
   "c0.003": {
    "cost": 0.003,
    "fractional": false,
-   "cash": 7010.10285805186,
+   "cash": 6811.567500605351,
    "positions": {
     "LAURUSLABS": {
      "qty": 2,
      "entry": 1962.0,
      "entry_date": "2026-09-18",
      "stop": 1852.9978205603054,
-     "last": 1997.9,
+     "last": 2036.6,
      "mqs_entry": 86.85096279743719
     },
     "DIVISLAB": {
@@ -20,7 +20,7 @@
      "entry": 9346.5,
      "entry_date": "2026-09-18",
      "stop": 8933.57647136368,
-     "last": 9361.0,
+     "last": 9340.0,
      "mqs_entry": 84.53317854087742
     },
     "AUROPHARMA": {
@@ -28,23 +28,15 @@
      "entry": 1683.2,
      "entry_date": "2026-09-18",
      "stop": 1615.0506519729347,
-     "last": 1645.0,
+     "last": 1693.0,
      "mqs_entry": 84.39469457586286
-    },
-    "WELSPUNLIV": {
-     "qty": 19,
-     "entry": 226.21,
-     "entry_date": "2026-09-29",
-     "stop": 213.10406424987085,
-     "last": 225.07,
-     "mqs_entry": 83.09848484848484
     },
     "LALPATHLAB": {
      "qty": 2,
      "entry": 1946.0,
      "entry_date": "2026-09-30",
      "stop": 1842.9705114182261,
-     "last": 1898.9,
+     "last": 1933.6,
      "mqs_entry": 80.9984639016897
     },
     "KOTAKBANK": {
@@ -52,7 +44,7 @@
      "entry": 426.0,
      "entry_date": "2026-10-01",
      "stop": 401.55052426386516,
-     "last": 435.0,
+     "last": 441.0,
      "mqs_entry": 79.45074914701082
     },
     "IPCALAB": {
@@ -60,7 +52,7 @@
      "entry": 1973.7,
      "entry_date": "2026-10-05",
      "stop": 1828.9477778484313,
-     "last": 1938.4,
+     "last": 1915.4,
      "mqs_entry": 82.1609592215014
     },
     "PETRONET": {
@@ -68,7 +60,7 @@
      "entry": 287.5,
      "entry_date": "2026-10-05",
      "stop": 273.78753281206673,
-     "last": 288.5,
+     "last": 291.5,
      "mqs_entry": 76.38586654309546
     },
     "GESHIP": {
@@ -76,7 +68,7 @@
      "entry": 1565.0,
      "entry_date": "2026-10-06",
      "stop": 1480.1024661197441,
-     "last": 1529.7,
+     "last": 1533.7,
      "mqs_entry": 78.00990220649662
     },
     "GLAND": {
@@ -84,116 +76,148 @@
      "entry": 3026.0,
      "entry_date": "2026-10-07",
      "stop": 2842.2604084441755,
-     "last": 3079.1,
+     "last": 3061.8,
      "mqs_entry": 81.29324215607403
-    },
-    "AJANTPHARM": {
-     "qty": 1,
-     "entry": 3573.4,
-     "entry_date": "2026-10-07",
-     "stop": 3386.0937882358458,
-     "last": 3435.6,
-     "mqs_entry": 80.09117725931885
     },
     "MCX": {
      "qty": 1,
      "entry": 3360.0,
      "entry_date": "2026-10-08",
      "stop": 3154.16648712511,
-     "last": 3255.6,
+     "last": 3318.2,
      "mqs_entry": 81.49910199805431
+    },
+    "PNBHOUSING": {
+     "qty": 3,
+     "entry": 1155.0,
+     "entry_date": "2026-10-09",
+     "stop": 1087.2491564376662,
+     "last": 1158.0,
+     "mqs_entry": 79.03824604859638
+    },
+    "PNB": {
+     "qty": 38,
+     "entry": 115.5,
+     "entry_date": "2026-10-09",
+     "stop": 110.28580574767673,
+     "last": 116.98,
+     "mqs_entry": 78.52898678933711
     }
    },
    "roster": {
     "LAURUSLABS": {
      "since": "2026-09-17",
-     "sessions": 14
+     "sessions": 15
     },
     "DIVISLAB": {
      "since": "2026-09-17",
-     "sessions": 14
+     "sessions": 15
     },
     "AUROPHARMA": {
      "since": "2026-09-17",
-     "sessions": 14
-    },
-    "WELSPUNLIV": {
-     "since": "2026-09-28",
-     "sessions": 7,
-     "exiting": true,
-     "link": "2026-10-08:WELSPUNLIV->PNB"
+     "sessions": 15
     },
     "LALPATHLAB": {
      "since": "2026-09-29",
-     "sessions": 6
+     "sessions": 7
     },
     "KOTAKBANK": {
      "since": "2026-09-30",
-     "sessions": 5
+     "sessions": 6
     },
     "IPCALAB": {
      "since": "2026-10-01",
-     "sessions": 4
+     "sessions": 5,
+     "exiting": true,
+     "link": "2026-10-09:IPCALAB->PVRINOX"
     },
     "PETRONET": {
      "since": "2026-10-01",
-     "sessions": 4
+     "sessions": 5
     },
     "GESHIP": {
      "since": "2026-10-05",
-     "sessions": 3
+     "sessions": 4
     },
     "GLAND": {
      "since": "2026-10-06",
-     "sessions": 2
-    },
-    "AJANTPHARM": {
-     "since": "2026-10-06",
-     "sessions": 2
+     "sessions": 3,
+     "exiting": true,
+     "link": "2026-10-09:GLAND->ABDL"
     },
     "MCX": {
      "since": "2026-10-07",
-     "sessions": 1
+     "sessions": 2
     },
     "PNBHOUSING": {
      "since": "2026-10-08",
-     "sessions": 0
+     "sessions": 1
     },
     "PNB": {
      "since": "2026-10-08",
+     "sessions": 1
+    },
+    "RADICO": {
+     "since": "2026-10-09",
+     "sessions": 0
+    },
+    "PVRINOX": {
+     "since": "2026-10-09",
+     "sessions": 0
+    },
+    "ABDL": {
+     "since": "2026-10-09",
      "sessions": 0
     }
    },
    "pending": [
     {
-     "symbol": "WELSPUNLIV",
+     "symbol": "IPCALAB",
      "side": "sell",
-     "reason": "REPLACED_BY_PNB",
-     "link": "2026-10-08:WELSPUNLIV->PNB"
+     "reason": "REPLACED_BY_PVRINOX",
+     "link": "2026-10-09:IPCALAB->PVRINOX"
     },
     {
-     "symbol": "PNBHOUSING",
+     "symbol": "GLAND",
+     "side": "sell",
+     "reason": "REPLACED_BY_ABDL",
+     "link": "2026-10-09:GLAND->ABDL"
+    },
+    {
+     "symbol": "RADICO",
      "side": "buy",
      "reason": "ADD",
      "link": null,
-     "stop": 1087.2491564376662,
-     "qty": 3,
-     "ref_close": 1150.0,
-     "equity_t": 57115.032858051854,
+     "stop": 4311.520563015614,
+     "qty": 1,
+     "ref_close": 4550.0,
+     "equity_t": 57457.907500605346,
      "target_w": 0.07692307692307693,
-     "mqs": 79.03824604859638
+     "mqs": 83.71448863636364
     },
     {
-     "symbol": "PNB",
+     "symbol": "PVRINOX",
      "side": "buy",
      "reason": "REPLACE",
-     "link": "2026-10-08:WELSPUNLIV->PNB",
-     "stop": 110.28580574767673,
-     "qty": 38,
-     "ref_close": 115.29,
-     "equity_t": 57115.032858051854,
+     "link": "2026-10-09:IPCALAB->PVRINOX",
+     "stop": 1228.9826082213342,
+     "qty": 3,
+     "ref_close": 1327.2,
+     "equity_t": 57457.907500605346,
      "target_w": 0.07692307692307693,
-     "mqs": 78.52898678933711
+     "mqs": 82.66571969696969
+    },
+    {
+     "symbol": "ABDL",
+     "side": "buy",
+     "reason": "REPLACE",
+     "link": "2026-10-09:GLAND->ABDL",
+     "stop": 658.1148716583607,
+     "qty": 6,
+     "ref_close": 711.55,
+     "equity_t": 57457.907500605346,
+     "target_w": 0.07692307692307693,
+     "mqs": 81.83570075757576
     }
    ],
    "cooldown": {
@@ -203,20 +227,21 @@
     "ETERNAL": "2026-09-30",
     "ZYDUSLIFE": "2026-10-01",
     "ADANIPORTS": "2026-10-01",
-    "MANKIND": "2026-10-08"
+    "MANKIND": "2026-10-08",
+    "AJANTPHARM": "2026-10-09"
    }
   },
   "c0.006": {
    "cost": 0.006,
    "fractional": false,
-   "cash": 6689.845597874535,
+   "cash": 6583.857594745674,
    "positions": {
     "LAURUSLABS": {
      "qty": 2,
      "entry": 1962.0,
      "entry_date": "2026-09-18",
      "stop": 1852.9978205603054,
-     "last": 1997.9,
+     "last": 2036.6,
      "mqs_entry": 86.85096279743719
     },
     "DIVISLAB": {
@@ -224,7 +249,7 @@
      "entry": 9346.5,
      "entry_date": "2026-09-18",
      "stop": 8933.57647136368,
-     "last": 9361.0,
+     "last": 9340.0,
      "mqs_entry": 84.53317854087742
     },
     "AUROPHARMA": {
@@ -232,23 +257,15 @@
      "entry": 1683.2,
      "entry_date": "2026-09-18",
      "stop": 1615.0506519729347,
-     "last": 1645.0,
+     "last": 1693.0,
      "mqs_entry": 84.39469457586286
-    },
-    "WELSPUNLIV": {
-     "qty": 19,
-     "entry": 226.21,
-     "entry_date": "2026-09-29",
-     "stop": 213.10406424987085,
-     "last": 225.07,
-     "mqs_entry": 83.09848484848484
     },
     "LALPATHLAB": {
      "qty": 2,
      "entry": 1946.0,
      "entry_date": "2026-09-30",
      "stop": 1842.9705114182261,
-     "last": 1898.9,
+     "last": 1933.6,
      "mqs_entry": 80.9984639016897
     },
     "KOTAKBANK": {
@@ -256,7 +273,7 @@
      "entry": 426.0,
      "entry_date": "2026-10-01",
      "stop": 401.55052426386516,
-     "last": 435.0,
+     "last": 441.0,
      "mqs_entry": 79.45074914701082
     },
     "IPCALAB": {
@@ -264,7 +281,7 @@
      "entry": 1973.7,
      "entry_date": "2026-10-05",
      "stop": 1828.9477778484313,
-     "last": 1938.4,
+     "last": 1915.4,
      "mqs_entry": 82.1609592215014
     },
     "PETRONET": {
@@ -272,7 +289,7 @@
      "entry": 287.5,
      "entry_date": "2026-10-05",
      "stop": 273.78753281206673,
-     "last": 288.5,
+     "last": 291.5,
      "mqs_entry": 76.38586654309546
     },
     "GESHIP": {
@@ -280,7 +297,7 @@
      "entry": 1565.0,
      "entry_date": "2026-10-06",
      "stop": 1480.1024661197441,
-     "last": 1529.7,
+     "last": 1533.7,
      "mqs_entry": 78.00990220649662
     },
     "GLAND": {
@@ -288,116 +305,148 @@
      "entry": 3026.0,
      "entry_date": "2026-10-07",
      "stop": 2842.2604084441755,
-     "last": 3079.1,
+     "last": 3061.8,
      "mqs_entry": 81.29324215607403
-    },
-    "AJANTPHARM": {
-     "qty": 1,
-     "entry": 3573.4,
-     "entry_date": "2026-10-07",
-     "stop": 3386.0937882358458,
-     "last": 3435.6,
-     "mqs_entry": 80.09117725931885
     },
     "MCX": {
      "qty": 1,
      "entry": 3360.0,
      "entry_date": "2026-10-08",
      "stop": 3154.16648712511,
-     "last": 3255.6,
+     "last": 3318.2,
      "mqs_entry": 81.49910199805431
+    },
+    "PNBHOUSING": {
+     "qty": 3,
+     "entry": 1155.0,
+     "entry_date": "2026-10-09",
+     "stop": 1087.2491564376662,
+     "last": 1158.0,
+     "mqs_entry": 79.03824604859638
+    },
+    "PNB": {
+     "qty": 37,
+     "entry": 115.5,
+     "entry_date": "2026-10-09",
+     "stop": 110.28580574767673,
+     "last": 116.98,
+     "mqs_entry": 78.52898678933711
     }
    },
    "roster": {
     "LAURUSLABS": {
      "since": "2026-09-17",
-     "sessions": 14
+     "sessions": 15
     },
     "DIVISLAB": {
      "since": "2026-09-17",
-     "sessions": 14
+     "sessions": 15
     },
     "AUROPHARMA": {
      "since": "2026-09-17",
-     "sessions": 14
-    },
-    "WELSPUNLIV": {
-     "since": "2026-09-28",
-     "sessions": 7,
-     "exiting": true,
-     "link": "2026-10-08:WELSPUNLIV->PNB"
+     "sessions": 15
     },
     "LALPATHLAB": {
      "since": "2026-09-29",
-     "sessions": 6
+     "sessions": 7
     },
     "KOTAKBANK": {
      "since": "2026-09-30",
-     "sessions": 5
+     "sessions": 6
     },
     "IPCALAB": {
      "since": "2026-10-01",
-     "sessions": 4
+     "sessions": 5,
+     "exiting": true,
+     "link": "2026-10-09:IPCALAB->PVRINOX"
     },
     "PETRONET": {
      "since": "2026-10-01",
-     "sessions": 4
+     "sessions": 5
     },
     "GESHIP": {
      "since": "2026-10-05",
-     "sessions": 3
+     "sessions": 4
     },
     "GLAND": {
      "since": "2026-10-06",
-     "sessions": 2
-    },
-    "AJANTPHARM": {
-     "since": "2026-10-06",
-     "sessions": 2
+     "sessions": 3,
+     "exiting": true,
+     "link": "2026-10-09:GLAND->ABDL"
     },
     "MCX": {
      "since": "2026-10-07",
-     "sessions": 1
+     "sessions": 2
     },
     "PNBHOUSING": {
      "since": "2026-10-08",
-     "sessions": 0
+     "sessions": 1
     },
     "PNB": {
      "since": "2026-10-08",
+     "sessions": 1
+    },
+    "RADICO": {
+     "since": "2026-10-09",
+     "sessions": 0
+    },
+    "PVRINOX": {
+     "since": "2026-10-09",
+     "sessions": 0
+    },
+    "ABDL": {
+     "since": "2026-10-09",
      "sessions": 0
     }
    },
    "pending": [
     {
-     "symbol": "WELSPUNLIV",
+     "symbol": "IPCALAB",
      "side": "sell",
-     "reason": "REPLACED_BY_PNB",
-     "link": "2026-10-08:WELSPUNLIV->PNB"
+     "reason": "REPLACED_BY_PVRINOX",
+     "link": "2026-10-09:IPCALAB->PVRINOX"
     },
     {
-     "symbol": "PNBHOUSING",
+     "symbol": "GLAND",
+     "side": "sell",
+     "reason": "REPLACED_BY_ABDL",
+     "link": "2026-10-09:GLAND->ABDL"
+    },
+    {
+     "symbol": "RADICO",
      "side": "buy",
      "reason": "ADD",
      "link": null,
-     "stop": 1087.2491564376662,
-     "qty": 3,
-     "ref_close": 1150.0,
-     "equity_t": 56794.775597874526,
+     "stop": 4311.520563015614,
+     "qty": 1,
+     "ref_close": 4550.0,
+     "equity_t": 57113.21759474567,
      "target_w": 0.07692307692307693,
-     "mqs": 79.03824604859638
+     "mqs": 83.71448863636364
     },
     {
-     "symbol": "PNB",
+     "symbol": "PVRINOX",
      "side": "buy",
      "reason": "REPLACE",
-     "link": "2026-10-08:WELSPUNLIV->PNB",
-     "stop": 110.28580574767673,
-     "qty": 37,
-     "ref_close": 115.29,
-     "equity_t": 56794.775597874526,
+     "link": "2026-10-09:IPCALAB->PVRINOX",
+     "stop": 1228.9826082213342,
+     "qty": 3,
+     "ref_close": 1327.2,
+     "equity_t": 57113.21759474567,
      "target_w": 0.07692307692307693,
-     "mqs": 78.52898678933711
+     "mqs": 82.66571969696969
+    },
+    {
+     "symbol": "ABDL",
+     "side": "buy",
+     "reason": "REPLACE",
+     "link": "2026-10-09:GLAND->ABDL",
+     "stop": 658.1148716583607,
+     "qty": 6,
+     "ref_close": 711.55,
+     "equity_t": 57113.21759474567,
+     "target_w": 0.07692307692307693,
+     "mqs": 81.83570075757576
     }
    ],
    "cooldown": {
@@ -407,20 +456,21 @@
     "ETERNAL": "2026-09-30",
     "ZYDUSLIFE": "2026-10-01",
     "ADANIPORTS": "2026-10-01",
-    "MANKIND": "2026-10-08"
+    "MANKIND": "2026-10-08",
+    "AJANTPHARM": "2026-10-09"
    }
   },
   "c0.010": {
    "cost": 0.01,
    "fractional": false,
-   "cash": 6319.607417638081,
+   "cash": 6182.784886932748,
    "positions": {
     "LAURUSLABS": {
      "qty": 2,
      "entry": 1962.0,
      "entry_date": "2026-09-18",
      "stop": 1852.9978205603054,
-     "last": 1997.9,
+     "last": 2036.6,
      "mqs_entry": 86.85096279743719
     },
     "DIVISLAB": {
@@ -428,7 +478,7 @@
      "entry": 9346.5,
      "entry_date": "2026-09-18",
      "stop": 8933.57647136368,
-     "last": 9361.0,
+     "last": 9340.0,
      "mqs_entry": 84.53317854087742
     },
     "AUROPHARMA": {
@@ -436,23 +486,15 @@
      "entry": 1683.2,
      "entry_date": "2026-09-18",
      "stop": 1615.0506519729347,
-     "last": 1645.0,
+     "last": 1693.0,
      "mqs_entry": 84.39469457586286
-    },
-    "WELSPUNLIV": {
-     "qty": 19,
-     "entry": 226.21,
-     "entry_date": "2026-09-29",
-     "stop": 213.10406424987085,
-     "last": 225.07,
-     "mqs_entry": 83.09848484848484
     },
     "LALPATHLAB": {
      "qty": 2,
      "entry": 1946.0,
      "entry_date": "2026-09-30",
      "stop": 1842.9705114182261,
-     "last": 1898.9,
+     "last": 1933.6,
      "mqs_entry": 80.9984639016897
     },
     "KOTAKBANK": {
@@ -460,7 +502,7 @@
      "entry": 426.0,
      "entry_date": "2026-10-01",
      "stop": 401.55052426386516,
-     "last": 435.0,
+     "last": 441.0,
      "mqs_entry": 79.45074914701082
     },
     "IPCALAB": {
@@ -468,7 +510,7 @@
      "entry": 1973.7,
      "entry_date": "2026-10-05",
      "stop": 1828.9477778484313,
-     "last": 1938.4,
+     "last": 1915.4,
      "mqs_entry": 82.1609592215014
     },
     "PETRONET": {
@@ -476,7 +518,7 @@
      "entry": 287.5,
      "entry_date": "2026-10-05",
      "stop": 273.78753281206673,
-     "last": 288.5,
+     "last": 291.5,
      "mqs_entry": 76.38586654309546
     },
     "GESHIP": {
@@ -484,7 +526,7 @@
      "entry": 1565.0,
      "entry_date": "2026-10-06",
      "stop": 1480.1024661197441,
-     "last": 1529.7,
+     "last": 1533.7,
      "mqs_entry": 78.00990220649662
     },
     "GLAND": {
@@ -492,116 +534,148 @@
      "entry": 3026.0,
      "entry_date": "2026-10-07",
      "stop": 2842.2604084441755,
-     "last": 3079.1,
+     "last": 3061.8,
      "mqs_entry": 81.29324215607403
-    },
-    "AJANTPHARM": {
-     "qty": 1,
-     "entry": 3573.4,
-     "entry_date": "2026-10-07",
-     "stop": 3386.0937882358458,
-     "last": 3435.6,
-     "mqs_entry": 80.09117725931885
     },
     "MCX": {
      "qty": 1,
      "entry": 3360.0,
      "entry_date": "2026-10-08",
      "stop": 3154.16648712511,
-     "last": 3255.6,
+     "last": 3318.2,
      "mqs_entry": 81.49910199805431
+    },
+    "PNBHOUSING": {
+     "qty": 3,
+     "entry": 1155.0,
+     "entry_date": "2026-10-09",
+     "stop": 1087.2491564376662,
+     "last": 1158.0,
+     "mqs_entry": 79.03824604859638
+    },
+    "PNB": {
+     "qty": 37,
+     "entry": 115.5,
+     "entry_date": "2026-10-09",
+     "stop": 110.28580574767673,
+     "last": 116.98,
+     "mqs_entry": 78.52898678933711
     }
    },
    "roster": {
     "LAURUSLABS": {
      "since": "2026-09-17",
-     "sessions": 14
+     "sessions": 15
     },
     "DIVISLAB": {
      "since": "2026-09-17",
-     "sessions": 14
+     "sessions": 15
     },
     "AUROPHARMA": {
      "since": "2026-09-17",
-     "sessions": 14
-    },
-    "WELSPUNLIV": {
-     "since": "2026-09-28",
-     "sessions": 7,
-     "exiting": true,
-     "link": "2026-10-08:WELSPUNLIV->PNB"
+     "sessions": 15
     },
     "LALPATHLAB": {
      "since": "2026-09-29",
-     "sessions": 6
+     "sessions": 7
     },
     "KOTAKBANK": {
      "since": "2026-09-30",
-     "sessions": 5
+     "sessions": 6
     },
     "IPCALAB": {
      "since": "2026-10-01",
-     "sessions": 4
+     "sessions": 5,
+     "exiting": true,
+     "link": "2026-10-09:IPCALAB->PVRINOX"
     },
     "PETRONET": {
      "since": "2026-10-01",
-     "sessions": 4
+     "sessions": 5
     },
     "GESHIP": {
      "since": "2026-10-05",
-     "sessions": 3
+     "sessions": 4
     },
     "GLAND": {
      "since": "2026-10-06",
-     "sessions": 2
-    },
-    "AJANTPHARM": {
-     "since": "2026-10-06",
-     "sessions": 2
+     "sessions": 3,
+     "exiting": true,
+     "link": "2026-10-09:GLAND->ABDL"
     },
     "MCX": {
      "since": "2026-10-07",
-     "sessions": 1
+     "sessions": 2
     },
     "PNBHOUSING": {
      "since": "2026-10-08",
-     "sessions": 0
+     "sessions": 1
     },
     "PNB": {
      "since": "2026-10-08",
+     "sessions": 1
+    },
+    "RADICO": {
+     "since": "2026-10-09",
+     "sessions": 0
+    },
+    "PVRINOX": {
+     "since": "2026-10-09",
+     "sessions": 0
+    },
+    "ABDL": {
+     "since": "2026-10-09",
      "sessions": 0
     }
    },
    "pending": [
     {
-     "symbol": "WELSPUNLIV",
+     "symbol": "IPCALAB",
      "side": "sell",
-     "reason": "REPLACED_BY_PNB",
-     "link": "2026-10-08:WELSPUNLIV->PNB"
+     "reason": "REPLACED_BY_PVRINOX",
+     "link": "2026-10-09:IPCALAB->PVRINOX"
     },
     {
-     "symbol": "PNBHOUSING",
+     "symbol": "GLAND",
+     "side": "sell",
+     "reason": "REPLACED_BY_ABDL",
+     "link": "2026-10-09:GLAND->ABDL"
+    },
+    {
+     "symbol": "RADICO",
      "side": "buy",
      "reason": "ADD",
      "link": null,
-     "stop": 1087.2491564376662,
-     "qty": 3,
-     "ref_close": 1150.0,
-     "equity_t": 56424.53741763807,
+     "stop": 4311.520563015614,
+     "qty": 1,
+     "ref_close": 4550.0,
+     "equity_t": 56712.14488693275,
      "target_w": 0.07692307692307693,
-     "mqs": 79.03824604859638
+     "mqs": 83.71448863636364
     },
     {
-     "symbol": "PNB",
+     "symbol": "PVRINOX",
      "side": "buy",
      "reason": "REPLACE",
-     "link": "2026-10-08:WELSPUNLIV->PNB",
-     "stop": 110.28580574767673,
-     "qty": 37,
-     "ref_close": 115.29,
-     "equity_t": 56424.53741763807,
+     "link": "2026-10-09:IPCALAB->PVRINOX",
+     "stop": 1228.9826082213342,
+     "qty": 3,
+     "ref_close": 1327.2,
+     "equity_t": 56712.14488693275,
      "target_w": 0.07692307692307693,
-     "mqs": 78.52898678933711
+     "mqs": 82.66571969696969
+    },
+    {
+     "symbol": "ABDL",
+     "side": "buy",
+     "reason": "REPLACE",
+     "link": "2026-10-09:GLAND->ABDL",
+     "stop": 658.1148716583607,
+     "qty": 6,
+     "ref_close": 711.55,
+     "equity_t": 56712.14488693275,
+     "target_w": 0.07692307692307693,
+     "mqs": 81.83570075757576
     }
    ],
    "cooldown": {
@@ -611,20 +685,21 @@
     "ETERNAL": "2026-09-30",
     "ZYDUSLIFE": "2026-10-01",
     "ADANIPORTS": "2026-10-01",
-    "MANKIND": "2026-10-08"
+    "MANKIND": "2026-10-08",
+    "AJANTPHARM": "2026-10-09"
    }
   },
   "frac0.006": {
    "cost": 0.006,
    "fractional": true,
-   "cash": 4284.4058202669885,
+   "cash": 4212.4599373133005,
    "positions": {
     "LAURUSLABS": {
      "qty": 2.369172329646638,
      "entry": 1962.0,
      "entry_date": "2026-09-18",
      "stop": 1852.9978205603054,
-     "last": 1997.9,
+     "last": 2036.6,
      "mqs_entry": 86.85096279743719
     },
     "DIVISLAB": {
@@ -632,7 +707,7 @@
      "entry": 9346.5,
      "entry_date": "2026-09-18",
      "stop": 8933.57647136368,
-     "last": 9361.0,
+     "last": 9340.0,
      "mqs_entry": 84.53317854087742
     },
     "AUROPHARMA": {
@@ -640,23 +715,15 @@
      "entry": 1683.2,
      "entry_date": "2026-09-18",
      "stop": 1615.0506519729347,
-     "last": 1645.0,
+     "last": 1693.0,
      "mqs_entry": 84.39469457586286
-    },
-    "WELSPUNLIV": {
-     "qty": 19.6755771415055,
-     "entry": 226.21,
-     "entry_date": "2026-09-29",
-     "stop": 213.10406424987085,
-     "last": 225.07,
-     "mqs_entry": 83.09848484848484
     },
     "LALPATHLAB": {
      "qty": 2.2757544924393835,
      "entry": 1946.0,
      "entry_date": "2026-09-30",
      "stop": 1842.9705114182261,
-     "last": 1898.9,
+     "last": 1933.6,
      "mqs_entry": 80.9984639016897
     },
     "KOTAKBANK": {
@@ -664,7 +731,7 @@
      "entry": 426.0,
      "entry_date": "2026-10-01",
      "stop": 401.55052426386516,
-     "last": 435.0,
+     "last": 441.0,
      "mqs_entry": 79.45074914701082
     },
     "IPCALAB": {
@@ -672,7 +739,7 @@
      "entry": 1973.7,
      "entry_date": "2026-10-05",
      "stop": 1828.9477778484313,
-     "last": 1938.4,
+     "last": 1915.4,
      "mqs_entry": 82.1609592215014
     },
     "PETRONET": {
@@ -680,7 +747,7 @@
      "entry": 287.5,
      "entry_date": "2026-10-05",
      "stop": 273.78753281206673,
-     "last": 288.5,
+     "last": 291.5,
      "mqs_entry": 76.38586654309546
     },
     "GESHIP": {
@@ -688,7 +755,7 @@
      "entry": 1565.0,
      "entry_date": "2026-10-06",
      "stop": 1480.1024661197441,
-     "last": 1529.7,
+     "last": 1533.7,
      "mqs_entry": 78.00990220649662
     },
     "GLAND": {
@@ -696,116 +763,148 @@
      "entry": 3026.0,
      "entry_date": "2026-10-07",
      "stop": 2842.2604084441755,
-     "last": 3079.1,
+     "last": 3061.8,
      "mqs_entry": 81.29324215607403
-    },
-    "AJANTPHARM": {
-     "qty": 1.237101841350447,
-     "entry": 3573.4,
-     "entry_date": "2026-10-07",
-     "stop": 3386.0937882358458,
-     "last": 3435.6,
-     "mqs_entry": 80.09117725931885
     },
     "MCX": {
      "qty": 1.317533819307688,
      "entry": 3360.0,
      "entry_date": "2026-10-08",
      "stop": 3154.16648712511,
-     "last": 3255.6,
+     "last": 3318.2,
      "mqs_entry": 81.49910199805431
+    },
+    "PNBHOUSING": {
+     "qty": 3.751179396383247,
+     "entry": 1155.0,
+     "entry_date": "2026-10-09",
+     "stop": 1087.2491564376662,
+     "last": 1158.0,
+     "mqs_entry": 79.03824604859638
+    },
+    "PNB": {
+     "qty": 37.41743694891781,
+     "entry": 115.5,
+     "entry_date": "2026-10-09",
+     "stop": 110.28580574767673,
+     "last": 116.98,
+     "mqs_entry": 78.52898678933711
     }
    },
    "roster": {
     "LAURUSLABS": {
      "since": "2026-09-17",
-     "sessions": 14
+     "sessions": 15
     },
     "DIVISLAB": {
      "since": "2026-09-17",
-     "sessions": 14
+     "sessions": 15
     },
     "AUROPHARMA": {
      "since": "2026-09-17",
-     "sessions": 14
-    },
-    "WELSPUNLIV": {
-     "since": "2026-09-28",
-     "sessions": 7,
-     "exiting": true,
-     "link": "2026-10-08:WELSPUNLIV->PNB"
+     "sessions": 15
     },
     "LALPATHLAB": {
      "since": "2026-09-29",
-     "sessions": 6
+     "sessions": 7
     },
     "KOTAKBANK": {
      "since": "2026-09-30",
-     "sessions": 5
+     "sessions": 6
     },
     "IPCALAB": {
      "since": "2026-10-01",
-     "sessions": 4
+     "sessions": 5,
+     "exiting": true,
+     "link": "2026-10-09:IPCALAB->PVRINOX"
     },
     "PETRONET": {
      "since": "2026-10-01",
-     "sessions": 4
+     "sessions": 5
     },
     "GESHIP": {
      "since": "2026-10-05",
-     "sessions": 3
+     "sessions": 4
     },
     "GLAND": {
      "since": "2026-10-06",
-     "sessions": 2
-    },
-    "AJANTPHARM": {
-     "since": "2026-10-06",
-     "sessions": 2
+     "sessions": 3,
+     "exiting": true,
+     "link": "2026-10-09:GLAND->ABDL"
     },
     "MCX": {
      "since": "2026-10-07",
-     "sessions": 1
+     "sessions": 2
     },
     "PNBHOUSING": {
      "since": "2026-10-08",
-     "sessions": 0
+     "sessions": 1
     },
     "PNB": {
      "since": "2026-10-08",
+     "sessions": 1
+    },
+    "RADICO": {
+     "since": "2026-10-09",
+     "sessions": 0
+    },
+    "PVRINOX": {
+     "since": "2026-10-09",
+     "sessions": 0
+    },
+    "ABDL": {
+     "since": "2026-10-09",
      "sessions": 0
     }
    },
    "pending": [
     {
-     "symbol": "WELSPUNLIV",
+     "symbol": "IPCALAB",
      "side": "sell",
-     "reason": "REPLACED_BY_PNB",
-     "link": "2026-10-08:WELSPUNLIV->PNB"
+     "reason": "REPLACED_BY_PVRINOX",
+     "link": "2026-10-09:IPCALAB->PVRINOX"
     },
     {
-     "symbol": "PNBHOUSING",
+     "symbol": "GLAND",
+     "side": "sell",
+     "reason": "REPLACED_BY_ABDL",
+     "link": "2026-10-09:GLAND->ABDL"
+    },
+    {
+     "symbol": "RADICO",
      "side": "buy",
      "reason": "ADD",
      "link": null,
-     "stop": 1087.2491564376662,
-     "qty": 3.751179396383247,
-     "ref_close": 1150.0,
-     "equity_t": 56080.131975929544,
+     "stop": 4311.520563015614,
+     "qty": 0.9543018167014198,
+     "ref_close": 4550.0,
+     "equity_t": 56446.95245788898,
      "target_w": 0.07692307692307693,
-     "mqs": 79.03824604859638
+     "mqs": 83.71448863636364
     },
     {
-     "symbol": "PNB",
+     "symbol": "PVRINOX",
      "side": "buy",
      "reason": "REPLACE",
-     "link": "2026-10-08:WELSPUNLIV->PNB",
-     "stop": 110.28580574767673,
-     "qty": 37.41743694891781,
-     "ref_close": 115.29,
-     "equity_t": 56080.131975929544,
+     "link": "2026-10-09:IPCALAB->PVRINOX",
+     "stop": 1228.9826082213342,
+     "qty": 3.2716043294088757,
+     "ref_close": 1327.2,
+     "equity_t": 56446.95245788898,
      "target_w": 0.07692307692307693,
-     "mqs": 78.52898678933711
+     "mqs": 82.66571969696969
+    },
+    {
+     "symbol": "ABDL",
+     "side": "buy",
+     "reason": "REPLACE",
+     "link": "2026-10-09:GLAND->ABDL",
+     "stop": 658.1148716583607,
+     "qty": 6.1022742828915195,
+     "ref_close": 711.55,
+     "equity_t": 56446.95245788898,
+     "target_w": 0.07692307692307693,
+     "mqs": 81.83570075757576
     }
    ],
    "cooldown": {
@@ -815,7 +914,8 @@
     "ETERNAL": "2026-09-30",
     "ZYDUSLIFE": "2026-10-01",
     "ADANIPORTS": "2026-10-01",
-    "MANKIND": "2026-10-08"
+    "MANKIND": "2026-10-08",
+    "AJANTPHARM": "2026-10-09"
    }
   }
  }

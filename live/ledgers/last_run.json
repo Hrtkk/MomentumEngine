@@ -1,10 +1,13 @@
 {
- "last_session": "2026-10-08",
+ "last_session": "2026-10-09",
  "books": {
   "M11": {
-   "equity": 59265.12,
+   "equity": 59382.62,
    "positions": 5,
-   "buys_next_open": [],
+   "buys_next_open": [
+    "SKYGOLD",
+    "SHANTIGOLD"
+   ],
    "sells_next_open": []
   },
   "M10": {
@@ -14,7 +17,7 @@
    "sells_next_open": []
   },
   "M2": {
-   "equity": 57654.88,
+   "equity": 56974.63,
    "positions": 10,
    "buys_next_open": [],
    "sells_next_open": []

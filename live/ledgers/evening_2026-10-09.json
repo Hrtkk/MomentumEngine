@@ -1,0 +1,48 @@
+{
+ "run_at": "2026-10-09T21:00:11+05:30",
+ "date": "2026-10-09",
+ "steps": {
+  "c0": {
+   "c0_processed": [
+    "2026-10-09"
+   ],
+   "c0_last": "2026-10-09"
+  },
+  "pit_update": {
+   "new_sessions": [
+    "2026-10-09"
+   ],
+   "last_session": "2026-10-09",
+   "ca_new_rows": 1
+  },
+  "books": {
+   "last_session": "2026-10-09",
+   "books": {
+    "M11": {
+     "equity": 59382.62,
+     "positions": 5,
+     "buys_next_open": [
+      "SKYGOLD",
+      "SHANTIGOLD"
+     ],
+     "sells_next_open": []
+    },
+    "M10": {
+     "equity": 60000.0,
+     "positions": 0,
+     "buys_next_open": [],
+     "sells_next_open": []
+    },
+    "M2": {
+     "equity": 56974.63,
+     "positions": 10,
+     "buys_next_open": [],
+     "sells_next_open": []
+    }
+   },
+   "exceptions": []
+  },
+  "codex": "ok"
+ },
+ "ok": true
+}
