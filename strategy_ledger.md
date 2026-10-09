@@ -82,3 +82,21 @@ Never rewrite entries. Add follow-ups underneath.
 - Whether to enter at all in Risk-off.
 
 **Go-live:** the replay end state becomes the starting state for the scheduled 10:00 runs from 2026-10-08, unless the owner asks for a reset.
+
+---
+
+## 2026-10-09 — E2 forward books: first-fill audit, sector-cap finding, strategy register (no rule change)
+
+**Validation (cloud replay, independent download 2024-01 → 2026-10-08):** `live_books.run()` reproduced all three 2026-10-07 snapshots byte-identical. Registration hashes unchanged.
+
+**Finding F-SC (sector cap on unlabelled names).** `experiments/sim.py` applies the 3-per-sector cap to names without a Nifty 500 industry label as one group (`ind.get(s, "?")`). `SPEC_E2.md` §1 says the cap applies to known sectors only, and `live/morning_report.py` follows the spec. Effect on the 2026-10-08 fills: M2 bought ranks 1, 2, 3, 4, 6, 18, 26, 31, 35, 39 instead of ranks 1–10 (value ₹57,924 vs ₹57,655 under the spec wording). The E2 backtest and holdout figures were produced with the as-run behaviour. **Owner decision pending:** (a) amend the spec to the as-run rule and align the report, or (b) fix `sim.py`, re-register the hash and note that the holdout metrics predate the fix. Until decided, the morning report's expected fills can differ from the engine's.
+
+**Observations, 2026-10-08 (day 1):** M11 filled 5 of 6 (PTCIL unaffordable at ₹24,685 vs a ₹6,000 slot), −1.22%; M10 no events, cash; M2 10 names, −3.46%; Nifty 500 −2.01%. Codex challenge absent (usage limit).
+
+**Owner review 2026-10-09:** charts of CUPID, IOLCP, TFCILTD read as overbought (RSI > 70, MACD line below signal, fading volume, expanding Bollinger bands). Logged as a question, not a change: research note `reviews/research_2026-10-09_overbought_entries.md` tests on development data whether such entries did worse. E2 context: the extension-veto variant M9 failed development and reduced holdout excess (+13.7% vs +20.9% for M1).
+
+**Register added:** `strategy/` — one file per strategy (rule, why a stock is picked, entry/exit/stop, evidence, append-only review log) and `strategy/build_reports.py` (cumulative, drawdown, daily P&L, trades; backtest curves via `strategy/backtest.py`). The morning report now prints a "Why" and "Plan" line under every order and a rule block per book. Reports read ledgers only.
+
+**Follow-up (2026-10-09, after pulling master):** F-SC was already resolved as option (b) by the owner's **v1.1** patch of 2026-10-08 07:26 IST, registered in `live/ledgers/registration.json` → `patches` before the first fill (Codex audit finding B5). The 08-Oct M2 book therefore holds ranks 1–10 (₹57,654.88), not the as-run alternative. The cloud entry above was written against the pre-v1.1 code and stands as the record of the independent finding. The `strategy/` pages and backtest curves were regenerated with v1.1. Codex audit 2026-10-08 = AUDIT FAIL; E2 numbers are exploratory until E2.1 (ROADMAP R0).
+
+**v1.1 backtest re-run (2026-10-09, `strategy/backtest.py`, 2013-01-01 → 2026-10-08, 0.6%):** dev excess vs B2-net M11 +13.8% (E2 +16.5%), M2 +16.2% (+26.4%), **M10 +4.2% (+18.0%)**; holdout excess M11 +8.7%, M2 +9.2%, M10 +9.3%. The v1.1 patches (sector cap on known labels only; M10 T0 midpoint; CA de-duplication) change the historical books enough that the E2 selection table no longer describes the live engine. Supports R0 (E2.1 re-run). No live change.

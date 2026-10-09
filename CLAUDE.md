@@ -26,6 +26,7 @@ A paper-trading **research** platform for NSE equities. It was split out of `../
 | `live/` | Forward paper books M11, M10 and M2: `live_books.py`, `evening_batch.py`, `morning_report.py`, plus ledgers |
 | `src/`, `config/`, `ledgers/` | C0, the original top-gainer engine, kept as a control book |
 | `experiments/` | E1 and E2 backtests, the point-in-time data pipeline (`fetch_pit.py`, `pit_panels.py`) and `research/` |
+| `strategy/` | Strategy register: one file per strategy (rule, why, entry/exit/stop, evidence, review log); `build_reports.py` → `reports/` (charts), `backtest.py` → `data/` |
 | `reviews/` | Diagnosis and nightly research write-ups |
 | `reports/` | Daily HTML reports and holdings CSVs |
 
