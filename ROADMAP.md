@@ -48,7 +48,7 @@ Reserved: a fundamentals-fetch schedule, once the data source is confirmed (R7).
 
 Each item runs on 2013–2020 unless stated otherwise. It must not touch `live/`, `src/`, the frozen experiment files, or the books. If an item needs an owner decision, it stops at **AWAITING OWNER** and the next night moves to the next item.
 
-- [ ] **R1b — R1 follow-ups from the Codex review.**
+- [x] **R1b — R1 follow-ups from the Codex review.** *Result (dev): all fixes applied; M11 60d excess +4.30% [+2.8,+5.7] on the clean sample with the entry-aligned B2 (R1: +4.05%), observed-only hit rate 50.7% (R1's 49%/38%-in-2020 were artefacts), 50 of 6,460 outcomes stale/unfillable (−0.06 pp), no bucket contrast survives Holm across 44 tests. `reviews/research_2026-10-09_R1b.md` (Codex: REVIEW ISSUES — invariance check not run, clean sample is future-conditioned, repeat-A boundary, two reporting errors fixed in text).*
   - Count missing returns as missing, not as losses, in hit rates.
   - Correct the count labels and the treatment of stale or unfillable returns.
   - Align the benchmark's entry timing.
