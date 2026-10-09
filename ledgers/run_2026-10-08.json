@@ -1,0 +1,259 @@
+{
+ "t": "2026-10-08",
+ "version": "0.2.1",
+ "regime": "Risk-off",
+ "breadth": 0.1462925851703407,
+ "nifty500": 21616.15,
+ "equity": {
+  "c0.003": 57115.032858051854,
+  "c0.006": 56794.775597874526,
+  "c0.010": 56424.53741763807,
+  "frac0.006": 56080.131975929544
+ },
+ "exec_notes": [
+  "MANKIND: stop hit at \u20b92,428.43"
+ ],
+ "n_disc": 33,
+ "n_cand": 325,
+ "primary": "c0.006",
+ "orders": [
+  {
+   "symbol": "WELSPUNLIV",
+   "side": "sell",
+   "reason": "REPLACED_BY_PNB",
+   "link": "2026-10-08:WELSPUNLIV->PNB"
+  },
+  {
+   "symbol": "PNBHOUSING",
+   "side": "buy",
+   "reason": "ADD",
+   "link": null,
+   "stop": 1087.2491564376662,
+   "qty": 3,
+   "ref_close": 1150.0,
+   "equity_t": 56794.775597874526,
+   "target_w": 0.07692307692307693,
+   "mqs": 79.03824604859638
+  },
+  {
+   "symbol": "PNB",
+   "side": "buy",
+   "reason": "REPLACE",
+   "link": "2026-10-08:WELSPUNLIV->PNB",
+   "stop": 110.28580574767673,
+   "qty": 37,
+   "ref_close": 115.29,
+   "equity_t": 56794.775597874526,
+   "target_w": 0.07692307692307693,
+   "mqs": 78.52898678933711
+  }
+ ],
+ "decisions": [
+  {
+   "symbol": "PNBHOUSING",
+   "action": "ADD",
+   "code": "FREE_SLOT",
+   "mqs": 79.03824604859638
+  },
+  {
+   "symbol": "WELSPUNLIV",
+   "action": "REPLACED",
+   "code": "BY_PNB",
+   "mqs": 66.36574074074075
+  },
+  {
+   "symbol": "PNB",
+   "action": "ADD",
+   "code": "REPLACES_WELSPUNLIV",
+   "mqs": 78.52898678933711
+  },
+  {
+   "symbol": "LAURUSLABS",
+   "action": "KEEP",
+   "code": "",
+   "mqs": 79.4052744357946
+  },
+  {
+   "symbol": "DIVISLAB",
+   "action": "KEEP",
+   "code": "",
+   "mqs": 77.05959542344894
+  },
+  {
+   "symbol": "AUROPHARMA",
+   "action": "KEEP",
+   "code": "",
+   "mqs": 71.30342258394276
+  },
+  {
+   "symbol": "LALPATHLAB",
+   "action": "KEEP",
+   "code": "",
+   "mqs": 73.85743492962177
+  },
+  {
+   "symbol": "KOTAKBANK",
+   "action": "KEEP",
+   "code": "",
+   "mqs": 88.61386333254698
+  },
+  {
+   "symbol": "IPCALAB",
+   "action": "KEEP",
+   "code": "",
+   "mqs": 79.86052134937484
+  },
+  {
+   "symbol": "PETRONET",
+   "action": "KEEP",
+   "code": "",
+   "mqs": 80.43701344656758
+  },
+  {
+   "symbol": "GESHIP",
+   "action": "KEEP",
+   "code": "",
+   "mqs": 77.00086498387984
+  },
+  {
+   "symbol": "GLAND",
+   "action": "KEEP",
+   "code": "",
+   "mqs": 80.89447196665878
+  },
+  {
+   "symbol": "AJANTPHARM",
+   "action": "KEEP",
+   "code": "",
+   "mqs": 66.08737320122671
+  },
+  {
+   "symbol": "MCX",
+   "action": "KEEP",
+   "code": "",
+   "mqs": 81.24503617205315
+  },
+  {
+   "symbol": "PTCIL",
+   "action": "WATCH",
+   "code": "NOT_AFFORDABLE",
+   "mqs": 78.85886018715105
+  },
+  {
+   "symbol": "PVRINOX",
+   "action": "WATCH",
+   "code": "CHURN_GUARD",
+   "mqs": 78.26241448454823
+  },
+  {
+   "symbol": "KARURVYSYA",
+   "action": "WATCH",
+   "code": "CHURN_GUARD",
+   "mqs": 77.68793740662106
+  },
+  {
+   "symbol": "BALRAMCHIN",
+   "action": "WATCH",
+   "code": "STOP_TOO_WIDE",
+   "mqs": 76.87617952347252
+  },
+  {
+   "symbol": "ABDL",
+   "action": "WATCH",
+   "code": "CHURN_GUARD",
+   "mqs": 75.53358693087992
+  },
+  {
+   "symbol": "BHEL",
+   "action": "WATCH",
+   "code": "CHURN_GUARD",
+   "mqs": 75.47151450813871
+  },
+  {
+   "symbol": "AZAD",
+   "action": "WATCH",
+   "code": "STOP_TOO_WIDE",
+   "mqs": 74.39126759455847
+  },
+  {
+   "symbol": "MANKIND",
+   "action": "WATCH",
+   "code": "COOLDOWN",
+   "mqs": 73.61823739875756
+  },
+  {
+   "symbol": "NAVINFLUOR",
+   "action": "WATCH",
+   "code": "CHURN_GUARD",
+   "mqs": 73.60821144924117
+  },
+  {
+   "symbol": "RADICO",
+   "action": "WATCH",
+   "code": "CHURN_GUARD",
+   "mqs": 73.21105606668239
+  },
+  {
+   "symbol": "CHENNPETRO",
+   "action": "WATCH",
+   "code": "STOP_TOO_WIDE",
+   "mqs": 72.25800110088856
+  },
+  {
+   "symbol": "CYIENT",
+   "action": "WATCH",
+   "code": "CHURN_GUARD",
+   "mqs": 72.09444051269953
+  },
+  {
+   "symbol": "MOTILALOFS",
+   "action": "WATCH",
+   "code": "CHURN_GUARD",
+   "mqs": 71.90861641896673
+  },
+  {
+   "symbol": "CPPLUS",
+   "action": "WATCH",
+   "code": "STOP_TOO_WIDE",
+   "mqs": 71.713798458756
+  },
+  {
+   "symbol": "SONACOMS",
+   "action": "WATCH",
+   "code": "CHURN_GUARD",
+   "mqs": 71.50674294251789
+  }
+ ],
+ "fills_today": [
+  {
+   "date": "2026-10-08",
+   "book": "c0.006",
+   "symbol": "CASTROLIND",
+   "side": "sell",
+   "qty": 22,
+   "price": 196.5,
+   "reason": "REPLACED_BY_MCX",
+   "entry": 201.9
+  },
+  {
+   "date": "2026-10-08",
+   "book": "c0.006",
+   "symbol": "MCX",
+   "side": "buy",
+   "qty": 1,
+   "price": 3360.0,
+   "reason": "REPLACE",
+   "entry": 3360.0
+  },
+  {
+   "date": "2026-10-08",
+   "book": "c0.006",
+   "symbol": "MANKIND",
+   "side": "sell",
+   "qty": 1,
+   "price": 2428.4314,
+   "reason": "STOP",
+   "entry": 2545.0
+  }
+ ]
+}

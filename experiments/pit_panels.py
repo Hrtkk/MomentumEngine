@@ -63,7 +63,8 @@ def ca_factors() -> pd.DataFrame:
     # as separate records); the price check in build() picks the candidate the market confirms
     out = []
     for (sym, ex), g in df.groupby(["symbol", "ex"]):
-        fs = sorted(set(round(x, 6) for x in g["factor"].dropna()))
+        # v1.1: de-duplicate by filing text, not by factor value (a 2x split + 2x bonus = 4x, not 2x)
+        fs = sorted(g.dropna(subset=["factor"]).drop_duplicates("subject")["factor"].round(6).tolist())
         cands = fs + ([float(np.prod(fs))] if len(fs) > 1 else [])
         out.append({"symbol": sym, "ex": ex, "factor": cands[-1] if cands else np.nan, "cands": cands,
                     "kind": "+".join(sorted(set("+".join(g["kind"]).split("+")))), "subject": " || ".join(g["subject"])})

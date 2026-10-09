@@ -1,0 +1,48 @@
+{
+ "signal_date": "2026-10-08",
+ "equity": 59265.12,
+ "cash": 33248.52,
+ "positions": {
+  "CUPID": {
+   "qty": 17,
+   "entry": 348.5,
+   "entry_date": "2026-10-08",
+   "stop": 301.09,
+   "last": 356.65,
+   "industry": "Fast Moving Consumer Goods"
+  },
+  "IOLCP": {
+   "qty": 27,
+   "entry": 220.41,
+   "entry_date": "2026-10-08",
+   "stop": 188.02,
+   "last": 205.55,
+   "industry": "Unknown"
+  },
+  "TFCILTD": {
+   "qty": 39,
+   "entry": 153.1,
+   "entry_date": "2026-10-08",
+   "stop": 136.38,
+   "last": 146.65,
+   "industry": "Unknown"
+  },
+  "SHREEJISPG": {
+   "qty": 7,
+   "entry": 809.0,
+   "entry_date": "2026-10-08",
+   "stop": 736.3,
+   "last": 800.75,
+   "industry": "Unknown"
+  },
+  "GLAND": {
+   "qty": 1,
+   "entry": 3162.0,
+   "entry_date": "2026-10-08",
+   "stop": 2875.05,
+   "last": 3079.1,
+   "industry": "Healthcare"
+  }
+ },
+ "orders_next_open": []
+}
