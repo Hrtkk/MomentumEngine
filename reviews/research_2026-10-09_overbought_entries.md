@@ -6,53 +6,53 @@
 
 Indicators: RSI14 (Wilder), MACD 12/26/9 on closes, volume fading = mean(V, last 5) < mean(V, previous 20), Bollinger width = 4·σ20/SMA20 vs 5 sessions earlier, stretched = close > 1.10 × SMA20. All computed on corporate-action-adjusted closes.
 
-## M11 — development 2013–2020 (273 entries)
+## M11 — development 2013–2020 (279 entries)
 
 | Reading on the signal day | n with / without | Mean trade return with / without | Median | Win rate | Difference (90% CI) | 20-session fwd | 60-session fwd | Verdict |
 |---|---|---|---|---|---|---|---|---|
-| rsi_gt70 | 194 / 79 | +15.0% / +7.1% | -7.7% / -7.1% | 36% / 41% | +7.9% [-3.7%, +20.5%] | +0.0% / +1.9% | +7.1% / +4.9% | no difference |
-| macd_below_signal | 24 / 249 | +4.5% / +13.5% | +0.8% / -7.7% | 54% / 36% | -9.0% [-18.8%, -0.0%] | +2.6% / +0.4% | +10.1% / +6.1% | **worse** |
-| macd_hist_falling | 3 / 270 | too few | | | | | | — |
-| volume_fading | 49 / 224 | +34.1% / +8.0% | +1.0% / -7.8% | 53% / 34% | +26.0% [-1.0%, +63.8%] | +2.7% / +0.1% | +11.0% / +5.4% | no difference |
-| bb_expanding | 197 / 76 | +12.4% / +13.4% | -8.5% / +0.9% | 31% / 54% | -1.0% [-11.9%, +11.8%] | +0.2% / +1.4% | +6.0% / +7.7% | no difference |
-| stretched_10pct_above_sma20 | 164 / 109 | +18.2% / +4.5% | -9.1% / -7.3% | 39% / 35% | +13.7% [+2.4%, +27.1%] | +1.0% / -0.1% | +7.7% / +4.5% | **better** |
-| all_four | 1 / 272 | too few | | | | | | — |
+| rsi_gt70 | 205 / 74 | +11.3% / +11.6% | -9.7% / -6.8% | 33% / 38% | -0.3% [-13.4%, +12.9%] | +0.7% / +1.8% | +5.3% / +4.6% | no difference |
+| macd_below_signal | 21 / 258 | +12.1% / +11.3% | -7.4% / -9.5% | 43% / 33% | +0.8% [-13.6%, +16.1%] | +11.1% / +0.2% | +10.2% / +4.7% | no difference |
+| macd_hist_falling | 2 / 277 | too few | | | | | | — |
+| volume_fading | 43 / 236 | +51.5% / +4.1% | +2.0% / -9.7% | 51% / 31% | +47.5% [+14.3%, +91.9%] | +7.4% / -0.1% | +16.8% / +3.0% | **better** |
+| bb_expanding | 210 / 69 | +11.6% / +10.5% | -9.6% / -6.8% | 32% / 39% | +1.1% [-9.7%, +13.3%] | -0.0% / +4.2% | +4.6% / +6.5% | no difference |
+| stretched_10pct_above_sma20 | 196 / 83 | +12.7% / +8.1% | -10.6% / -7.5% | 35% / 31% | +4.6% [-7.6%, +17.3%] | +0.9% / +1.2% | +4.9% / +5.6% | no difference |
+| all_four | 2 / 277 | too few | | | | | | — |
 
-### M11 — holdout 2021 → 2026-10-07 (176 entries) — information only, spent data
-
-| Reading on the signal day | n with / without | Mean trade return with / without | Median | Win rate | Difference (90% CI) | 20-session fwd | 60-session fwd | Verdict |
-|---|---|---|---|---|---|---|---|---|
-| rsi_gt70 | 114 / 62 | +5.4% / +12.0% | -8.7% / -5.0% | 32% / 44% | -6.6% [-18.6%, +3.8%] | +2.0% / +5.0% | +6.7% / +9.2% | no difference |
-| macd_below_signal | 16 / 160 | +28.4% / +5.6% | +15.0% / -8.7% | 62% / 34% | +22.8% [-0.9%, +57.3%] | +6.9% / +2.7% | +20.3% / +6.3% | no difference |
-| macd_hist_falling | 1 / 175 | too few | | | | | | — |
-| volume_fading | 29 / 147 | -0.5% / +9.3% | -7.4% / -8.4% | 28% / 38% | -9.7% [-17.8%, -1.3%] | +1.8% / +3.3% | +1.1% / +8.8% | **worse** |
-| bb_expanding | 122 / 54 | +8.4% / +6.2% | -7.6% / -9.3% | 38% / 33% | +2.2% [-9.9%, +12.9%] | +2.8% / +3.6% | +7.4% / +7.9% | no difference |
-| stretched_10pct_above_sma20 | 118 / 58 | +7.5% / +8.0% | -10.4% / -6.7% | 36% / 36% | -0.5% [-12.3%, +9.4%] | +3.5% / +2.1% | +8.9% / +4.8% | no difference |
-| all_four | 0 / 176 | too few | | | | | | — |
-
-## M2 — development 2013–2020 (287 entries)
+### M11 — holdout 2021 → 2026-10-07 (185 entries) — information only, spent data
 
 | Reading on the signal day | n with / without | Mean trade return with / without | Median | Win rate | Difference (90% CI) | 20-session fwd | 60-session fwd | Verdict |
 |---|---|---|---|---|---|---|---|---|
-| rsi_gt70 | 64 / 223 | +41.0% / +10.1% | -8.7% / -8.5% | 39% / 39% | +30.9% [-2.9%, +80.4%] | +5.6% / +0.8% | +9.2% / +9.0% | no difference |
-| macd_below_signal | 163 / 124 | +12.5% / +22.9% | -9.0% / -6.7% | 37% / 43% | -10.4% [-36.7%, +10.0%] | +0.8% / +3.2% | +8.6% / +9.7% | no difference |
-| macd_hist_falling | 149 / 138 | +16.1% / +18.0% | -6.2% / -9.9% | 43% / 36% | -1.8% [-26.7%, +17.2%] | +2.8% / +0.9% | +12.2% / +5.7% | no difference |
-| volume_fading | 171 / 116 | +13.5% / +22.2% | -7.9% / -9.4% | 40% / 38% | -8.7% [-36.8%, +12.2%] | +1.3% / +2.7% | +9.1% / +9.0% | no difference |
-| bb_expanding | 145 / 142 | +25.6% / +8.3% | -6.7% / -9.9% | 47% / 32% | +17.3% [-1.7%, +39.8%] | +3.3% / +0.3% | +11.3% / +6.8% | no difference |
-| stretched_10pct_above_sma20 | 67 / 220 | +40.9% / +9.8% | -9.7% / -8.3% | 46% / 37% | +31.1% [-1.2%, +77.1%] | +4.5% / +1.1% | +9.7% / +8.9% | no difference |
-| all_four | 0 / 287 | too few | | | | | | — |
+| rsi_gt70 | 125 / 60 | +3.5% / +10.5% | -10.0% / -7.0% | 31% / 42% | -7.1% [-18.5%, +3.2%] | +0.4% / +4.2% | +5.9% / +8.5% | no difference |
+| macd_below_signal | 17 / 168 | +34.1% / +2.9% | +14.6% / -9.1% | 59% / 32% | +31.2% [+5.3%, +64.2%] | +6.3% / +1.2% | +23.0% / +5.1% | **better** |
+| macd_hist_falling | 1 / 184 | too few | | | | | | — |
+| volume_fading | 27 / 158 | +0.8% / +6.6% | -9.9% / -8.2% | 30% / 35% | -5.8% [-14.4%, +2.7%] | +0.3% / +1.9% | -1.3% / +8.1% | no difference |
+| bb_expanding | 142 / 43 | +5.1% / +7.9% | -8.2% / -9.9% | 35% / 35% | -2.8% [-17.0%, +8.4%] | +1.3% / +3.0% | +6.9% / +6.1% | no difference |
+| stretched_10pct_above_sma20 | 134 / 51 | +3.6% / +11.6% | -10.9% / -4.2% | 32% / 41% | -8.0% [-20.9%, +2.7%] | +1.4% / +2.5% | +6.7% / +6.8% | no difference |
+| all_four | 0 / 185 | too few | | | | | | — |
 
-### M2 — holdout 2021 → 2026-10-07 (212 entries) — information only, spent data
+## M2 — development 2013–2020 (305 entries)
 
 | Reading on the signal day | n with / without | Mean trade return with / without | Median | Win rate | Difference (90% CI) | 20-session fwd | 60-session fwd | Verdict |
 |---|---|---|---|---|---|---|---|---|
-| rsi_gt70 | 62 / 150 | +9.7% / +7.9% | -11.0% / -9.7% | 39% / 37% | +1.8% [-8.5%, +12.7%] | +3.0% / +2.9% | +8.1% / +8.5% | no difference |
-| macd_below_signal | 108 / 104 | +4.3% / +12.7% | -11.1% / -9.0% | 36% / 39% | -8.3% [-18.5%, +1.3%] | +3.4% / +2.4% | +9.6% / +7.2% | no difference |
-| macd_hist_falling | 91 / 121 | +13.1% / +4.9% | -8.1% / -11.9% | 44% / 33% | +8.2% [-1.8%, +18.3%] | +5.6% / +0.9% | +11.9% / +5.7% | no difference |
-| volume_fading | 100 / 112 | +12.8% / +4.5% | -9.1% / -10.8% | 39% / 37% | +8.4% [-1.4%, +18.8%] | +3.7% / +2.2% | +9.2% / +7.7% | no difference |
-| bb_expanding | 123 / 89 | +7.1% / +10.2% | -8.9% / -11.6% | 41% / 33% | -3.1% [-14.0%, +7.4%] | +3.1% / +2.6% | +8.3% / +8.5% | no difference |
-| stretched_10pct_above_sma20 | 82 / 130 | +3.8% / +11.3% | -12.2% / -8.3% | 34% / 40% | -7.5% [-16.9%, +1.6%] | +1.5% / +3.8% | +3.4% / +11.5% | no difference |
-| all_four | 0 / 212 | too few | | | | | | — |
+| rsi_gt70 | 84 / 221 | +23.1% / +10.6% | -12.2% / -11.0% | 31% / 36% | +12.6% [-13.1%, +48.9%] | +4.8% / +3.6% | +8.7% / +11.3% | no difference |
+| macd_below_signal | 172 / 133 | +15.4% / +12.2% | -8.0% / -13.2% | 41% / 26% | +3.2% [-21.5%, +22.3%] | +6.4% / +0.8% | +15.1% / +4.6% | no difference |
+| macd_hist_falling | 142 / 163 | +11.1% / +16.6% | -11.1% / -11.9% | 37% / 33% | -5.4% [-27.0%, +12.0%] | +3.1% / +4.7% | +12.4% / +9.0% | no difference |
+| volume_fading | 164 / 141 | +12.0% / +16.5% | -10.2% / -13.2% | 39% / 29% | -4.5% [-29.1%, +13.9%] | +5.0% / +2.8% | +13.1% / +7.6% | no difference |
+| bb_expanding | 150 / 155 | +15.3% / +12.8% | -11.4% / -11.5% | 31% / 37% | +2.4% [-15.6%, +24.2%] | +4.3% / +3.6% | +9.0% / +12.1% | no difference |
+| stretched_10pct_above_sma20 | 94 / 211 | +21.9% / +10.5% | -13.9% / -10.5% | 30% / 36% | +11.4% [-12.6%, +45.4%] | +3.3% / +4.3% | +10.2% / +10.7% | no difference |
+| all_four | 0 / 305 | too few | | | | | | — |
+
+### M2 — holdout 2021 → 2026-10-07 (225 entries) — information only, spent data
+
+| Reading on the signal day | n with / without | Mean trade return with / without | Median | Win rate | Difference (90% CI) | 20-session fwd | 60-session fwd | Verdict |
+|---|---|---|---|---|---|---|---|---|
+| rsi_gt70 | 61 / 164 | +10.7% / +4.4% | -11.2% / -10.5% | 34% / 35% | +6.4% [-4.4%, +17.9%] | +4.5% / +3.4% | +10.4% / +6.6% | no difference |
+| macd_below_signal | 123 / 102 | +4.3% / +8.3% | -5.4% / -12.7% | 37% / 32% | -4.0% [-13.8%, +5.0%] | +5.2% / +2.0% | +10.3% / +4.5% | no difference |
+| macd_hist_falling | 102 / 123 | +6.0% / +6.2% | -11.2% / -10.7% | 34% / 35% | -0.2% [-8.9%, +8.7%] | +4.5% / +3.1% | +7.2% / +8.0% | no difference |
+| volume_fading | 116 / 109 | +4.3% / +8.0% | -10.3% / -12.4% | 34% / 35% | -3.7% [-12.9%, +5.1%] | +3.8% / +3.7% | +6.9% / +8.4% | no difference |
+| bb_expanding | 117 / 108 | +8.5% / +3.5% | -9.0% / -12.5% | 39% / 30% | +5.0% [-3.5%, +13.7%] | +3.7% / +3.8% | +7.0% / +8.3% | no difference |
+| stretched_10pct_above_sma20 | 84 / 141 | +4.8% / +6.9% | -13.8% / -7.9% | 29% / 38% | -2.0% [-11.4%, +7.7%] | +2.7% / +4.3% | +5.0% / +9.2% | no difference |
+| all_four | 1 / 224 | too few | | | | | | — |
 
 ## Reading the result
 
