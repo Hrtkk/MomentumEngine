@@ -83,10 +83,53 @@ def expected_fills(snap: dict) -> list[dict]:
     return out, skipped
 
 
+RULES = {
+    "M11": ("Weekly: rank eligible Liquid-500 names by 6-month return; top 100 are candidates. Any day: buy a candidate whose close is above "
+            "the prior 252-session high on ≥ 1.5× the 20-session median volume.",
+            "Sell at the weekly refresh if the 6-month rank falls below 125; at a month-end if the name leaves Liquid-500; after 5 sessions "
+            "without a trade. No profit target."),
+    "M10": ("Weekly: top 50 by volatility-adjusted momentum are candidates. A ≥ 5% up-day on ≥ 2× volume starts an event; buy only if, 3–7 "
+            "sessions later, the close clears the event-day high on lighter interim volume while holding above the event-day midpoint.",
+            "Sell on a close below the event-day low; at the weekly refresh if the rank falls below 125; monthly universe exit; 5-session no-trade exit."),
+    "M2": ("Weekly: rank eligible Liquid-500 names by 6-month return. Buy ranks 1–50 in rank order while slots allow.",
+           "Sell at the weekly refresh if the rank falls below 125; monthly universe exit; 5-session no-trade exit. No profit target."),
+}
+COMMON = ("Entry at the next open, 10% of equity, whole shares. Stop = close − 3×ATR20 (catastrophic, intraday, fixed at entry). "
+          "Max 10 names, 3 per sector, 0.6% round-trip cost. Rules frozen 2026-10-07 (E2); details and evidence in strategy/&lt;BOOK&gt;.md.")
+
+
+def why(book: str, o: dict) -> str:
+    """One sentence of facts the rule looked at. Nothing subjective."""
+    sg = o.get("signal", {})
+    c, r6, rk = sg.get("close"), sg.get("R6"), sg.get("rank")
+    rank = f"rank {rk}" if rk is not None else "rank —"
+    r6s = f"6-month return {r6 * 100:+.0f}%" if r6 is not None else "6-month return —"
+    if book == "M11":
+        hi = sg.get("vs_52w_high")
+        hi_s = f"close {inr(c, 2)} is {hi:.3f}× the prior 252-session high (₹{c / hi:,.2f})" if hi and c else "close above the prior 252-session high"
+        return f"New 52-week high: {hi_s} on {sg.get('vol_x_median20', '—')}× median volume; {r6s}, {rank} of the top-100 candidates."
+    if book == "M2":
+        return f"{r6s} puts it at {rank} of about 500 eligible names (entry needs rank ≤ 50)."
+    if book == "M10":
+        t0 = o.get("t0low")
+        return f"Confirmed gainer event: close back above the event-day high on lighter interim volume; momentum {rank}" + (f"; event-day low ₹{t0:,.2f}" if t0 else "") + "."
+    return ""
+
+
+def plan(book: str, o: dict) -> str:
+    sg = o.get("signal", {})
+    c, stop = sg.get("close"), o.get("stop")
+    dist = f" ({(stop / c - 1) * 100:+.1f}% from the signal close)" if c and stop else ""
+    exit_rule = {"M11": "weekly rank > 125 · leaves Liquid-500 · 5 no-trade sessions",
+                 "M2": "weekly rank > 125 · leaves Liquid-500 · 5 no-trade sessions",
+                 "M10": "close < event-day low · weekly rank > 125 · leaves Liquid-500"}.get(book, "")
+    return f"Entry: next open, {int(o['qty'])} sh ≈ ₹6,000 · Stop: {inr(stop, 2)}{dist} · Exit: {exit_rule}"
+
+
 def svg_chart(curves: pd.DataFrame) -> str:
     c = curves.dropna(how="all").ffill()
     if len(c) < 2:
-        return '<p class="muted">The chart starts after the second live session. Day 1 is the first fill at the 08-Oct open.</p>'
+        return '<p class="muted">The chart starts after the second live session. Day 1 is the first fill after the live start.</p>'
     W, H, L, R, T = 760, 220, 52, 120, 12
     lo, hi = min(c.min().min(), 0), max(c.max().max(), 0)
     pad = (hi - lo) * 0.15 or 0.01
@@ -171,7 +214,8 @@ def main(provisional: bool = True) -> None:
                      f'<td>{sg.get("rank", "—")}</td><td>{pc(sg.get("R6"), 0)}</td>'
                      f'<td class=l sub>{sg.get("vol_x_median20", "—")}× vol · {pc(sg.get("vs_sma20"), 1)} vs SMA20 · RSI {round(sg["rsi14"]) if sg.get("rsi14") is not None else "—"}'
                      f'{("<div class=ch>Codex · " + E(cp.get("severity", "")) + ": " + E(cp.get("bear_case", "")) + "</div>") if cp else ""}</td>'
-                     f'<td>{inr(prov.get(o["sym"]), 2)}</td></tr>')
+                     f'<td>{inr(prov.get(o["sym"]), 2)}</td></tr>'
+                     f'<tr class=why><td class="l sub" colspan=8><b>Why:</b> {E(why(k, o))}<br><b>Plan:</b> {E(plan(k, o))}</td></tr>')
         if unaff[k]:
             ords += (f'<tr><td class="l sub" colspan=8>Not affordable with a ₹6,000 slot (one share costs more): '
                      f'{E(", ".join(o["sym"] + " ₹" + format(o.get("signal", {}).get("close", 0), ",.0f") for o in unaff[k]))}</td></tr>')
@@ -188,7 +232,9 @@ def main(provisional: bool = True) -> None:
                       f'<td>{inr(p["stop"], 2)}</td><td>{E(p["entry_date"])}</td></tr>')
         hrows = hrows or '<tr><td class="l muted" colspan=8>No holdings yet.</td></tr>'
         bk_note = ch.get("books", {}).get(k, "")
+        rule_in, rule_out = RULES.get(k, ("", ""))
         sections += f"""<h2>{E(k)} · {E(BOOKS[k])}</h2>
+<div class=card><div class=sub><b>Selection:</b> {E(rule_in)}<br><b>Exit:</b> {E(rule_out)}<br><b>Execution:</b> {COMMON} <a href="../strategy/{E(k)}.md">strategy/{E(k)}.md</a> · <a href="../strategy/reports/{E(k)}.html">performance report</a></div></div>
 <div class=tw><table><thead><tr><th class=l>Order at today's open</th><th>Qty</th><th>Signal close</th><th>Stop</th><th>Rank</th><th>6M ret</th><th class=l>Signal record · challenger</th><th>Open (prov.)</th></tr></thead><tbody>{ords}</tbody></table></div>
 <div class=tw style="margin-top:8px"><table><thead><tr><th class=l>Holding</th><th>Weight</th><th>Qty</th><th>Entry</th><th>Last</th><th>P&amp;L</th><th>Stop</th><th>Since</th></tr></thead><tbody>{hrows}</tbody></table></div>
 {('<p class=sub><b>Codex on this book:</b> ' + E(bk_note) + '</p>') if bk_note else ''}"""
@@ -221,7 +267,7 @@ body{{margin:0;background:var(--bg);color:var(--ink);font:14px/1.5 -apple-system
 h1{{font-size:20px;margin:0}}h2{{font-size:15px;margin:24px 0 8px}}.muted,.sub{{color:var(--mut)}}.sub{{font-size:12px}}.pos{{color:var(--pos)}}.neg{{color:var(--neg)}}
 .card,.tw{{background:var(--card);border:1px solid var(--line);border-radius:10px;padding:12px}}.tw{{overflow-x:auto;padding:0}}table{{border-collapse:collapse;width:100%;font-size:13px}}
 th,td{{padding:6px 8px;border-bottom:1px solid var(--line);text-align:right;white-space:nowrap;vertical-align:top}}th{{color:var(--mut);font-weight:600;font-size:12px}}.l{{text-align:left}}td.l.sub{{white-space:normal;min-width:220px}}
-tr.bm td{{color:var(--mut)}}.tag{{font-size:11px;font-weight:700;border-radius:99px;padding:1px 7px}}.add{{background:var(--gbg);color:var(--pos)}}.rem{{background:var(--rbg);color:var(--neg)}}
+tr.bm td{{color:var(--mut)}}tr.why td{{white-space:normal;background:var(--bg)}}.tag{{font-size:11px;font-weight:700;border-radius:99px;padding:1px 7px}}.add{{background:var(--gbg);color:var(--pos)}}.rem{{background:var(--rbg);color:var(--neg)}}
 .ch{{margin-top:3px;padding:3px 6px;border-radius:6px;background:var(--ybg);font-size:12px}}.banner{{background:var(--ybg);border-radius:8px;padding:8px 12px;font-size:13px;margin:10px 0}}pre{{white-space:pre-wrap;font-size:12px;margin:0}}
 ul{{margin:0;padding-left:18px}}li{{margin:3px 0}}</style></head><body><div class=w>
 <h1>Momentum Desk — {E(today.strftime('%a %d %b %Y'))}</h1>
