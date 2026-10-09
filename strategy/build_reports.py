@@ -95,9 +95,12 @@ def _axis_ticks(lo: float, hi: float, n: int = 5) -> list[float]:
     return list(np.arange(a, hi + nice * 0.5, nice))
 
 
-def line_chart(df: pd.DataFrame, colours: dict, fmt: str = "pct", title: str = "", cid: str = "c", fill_below_zero: bool = False) -> str:
-    """df: index=dates, columns=series. Benchmarks ('Nifty 500', 'B2-net') drawn dashed in muted ink."""
+def line_chart(df: pd.DataFrame, colours: dict, fmt: str = "pct", title: str = "", cid: str = "c", fill_below_zero: bool = False, log: bool = False) -> str:
+    """df: index=dates, columns=series. Benchmarks ('Nifty 500', 'B2-net') drawn dashed in muted ink.
+    log=True: df holds cumulative returns; the axis shows multiples of the start (1x, 2x, 4x ...) on a log scale."""
     df = df.dropna(how="all").ffill()
+    if log:
+        df = np.log(1 + df)
     if len(df) < 2:
         return f'<div class=card><h3>{E(title)}</h3><p class=muted>Needs at least two sessions.</p></div>'
     W, H, L, R, T, B = 880, 260, 60, 130, 16, 28
@@ -108,9 +111,10 @@ def line_chart(df: pd.DataFrame, colours: dict, fmt: str = "pct", title: str = "
     lo, hi = lo - pad, hi + pad
     xs = np.linspace(L, W - R, len(df))
     y = lambda v: T + (hi - v) / (hi - lo) * H
-    f = (lambda v: f"{v * 100:+.1f}%") if fmt == "pct" else (lambda v: f"₹{v:,.0f}")
+    f = (lambda v: f"{np.exp(v):.1f}×") if log else (lambda v: f"{v * 100:+.1f}%") if fmt == "pct" else (lambda v: f"₹{v:,.0f}")
+    ticks = [np.log(m) for m in (0.5, 1, 2, 4, 8, 16, 32, 64, 128) if lo <= np.log(m) <= hi] if log else _axis_ticks(lo, hi)
     p = [f'<rect x="{L}" y="{T}" width="{W - L - R}" height="{H}" fill="var(--surface)"/>']
-    for tv in _axis_ticks(lo, hi):
+    for tv in ticks:
         if lo <= tv <= hi:
             p.append(f'<line x1="{L}" x2="{W - R}" y1="{y(tv):.1f}" y2="{y(tv):.1f}" stroke="var(--line)"/>'
                      f'<text x="{L - 8}" y="{y(tv) + 4:.1f}" font-size="11" text-anchor="end" fill="var(--mut)">{f(tv)}</text>')
@@ -139,7 +143,7 @@ def line_chart(df: pd.DataFrame, colours: dict, fmt: str = "pct", title: str = "
     p.append(f'<line id="{cid}-x" x1="0" x2="0" y1="{T}" y2="{T + H}" stroke="var(--ink)" stroke-width="1" opacity="0" pointer-events="none"/>')
     p.append(f'<rect x="{L}" y="{T}" width="{W - L - R}" height="{H}" fill="transparent" class="hit" data-chart="{cid}"/>')
     data = {"dates": [d.strftime("%d %b %Y") for d in df.index], "xs": [round(x, 1) for x in xs],
-            "series": {c: [None if pd.isna(x) else round(float(x), 5) for x in df[c].values] for c in df.columns}, "fmt": fmt}
+            "series": {c: [None if pd.isna(x) else round(float(np.exp(x) if log else x), 5) for x in df[c].values] for c in df.columns}, "fmt": "mult" if log else fmt}
     legend = " ".join(f'<span class=lg><i style="background:{"var(--mut)" if c in ("Nifty 500", "B2-net") else f"var(--s-{c})"}"></i>{E(c)}</span>' for c in df.columns)
     table = "<table class=tv><thead><tr><th class=l>Date</th>" + "".join(f"<th>{E(c)}</th>" for c in df.columns) + "</tr></thead><tbody>"
     for d, row in df.iterrows():
@@ -153,8 +157,8 @@ def line_chart(df: pd.DataFrame, colours: dict, fmt: str = "pct", title: str = "
 
 def bar_chart(s: pd.Series, colour: str, title: str, cid: str) -> str:
     s = s.dropna()
-    if len(s) < 1:
-        return ""
+    if len(s) < 2:
+        return f'<div class=card><h3>{E(title)}</h3><p class=muted>Needs at least two sessions.</p></div>'
     W, H, L, R, T, B = 880, 200, 60, 20, 16, 28
     lo, hi = min(float(s.min()), 0), max(float(s.max()), 0)
     pad = (hi - lo) * 0.1 or 1
@@ -201,7 +205,7 @@ details summary{cursor:pointer;font-size:12px;color:var(--mut)}nav a{margin-righ
 
 JS = """document.querySelectorAll('rect.hit').forEach(function(r){var id=r.dataset.chart,d=JSON.parse(document.getElementById(id+'-data').textContent),
 svg=document.getElementById(id),xl=document.getElementById(id+'-x'),tip=document.getElementById(id+'-tip');
-function f(v){return v==null?'—':(d.fmt==='pct'?(v*100>=0?'+':'')+(v*100).toFixed(2)+'%':'₹'+Math.round(v).toLocaleString('en-IN'))}
+function f(v){return v==null?'—':d.fmt==='mult'?v.toFixed(2)+'×':(d.fmt==='pct'?(v*100>=0?'+':'')+(v*100).toFixed(2)+'%':'₹'+Math.round(v).toLocaleString('en-IN'))}
 r.addEventListener('mousemove',function(e){var pt=svg.createSVGPoint();pt.x=e.clientX;pt.y=e.clientY;var p=pt.matrixTransform(svg.getScreenCTM().inverse());
 var best=0,bd=1e9;d.xs.forEach(function(x,i){var dd=Math.abs(x-p.x);if(dd<bd){bd=dd;best=i}});xl.setAttribute('x1',d.xs[best]);xl.setAttribute('x2',d.xs[best]);xl.setAttribute('opacity','0.5');
 tip.textContent=d.dates[best]+' · '+Object.keys(d.series).map(function(k){return k+' '+f(d.series[k][best])}).join(' · ')});
@@ -276,8 +280,8 @@ def book_page(k: str, b: dict, bm: pd.DataFrame) -> str:
         c = c.rename(columns={f"{k} backtest": k})
         ddb = bt["equity"] / bt["equity"].cummax() - 1
         body += f"<h2>Backtest 2013 → {bt.index[-1].date()} (development 2013–2020, holdout 2021 → 2026-10-07; 0.6% costs; fractional shares as in E2)</h2>"
-        body += '<p class=sub>Development data selected the rule; the holdout was examined once. Both are history, not a forecast. Log scale would be fairer for a 13-year curve; the table view has the numbers.</p>'
-        body += line_chart(c.iloc[::5], COL, "pct", f"{k} — backtest cumulative return (every 5th session)", f"{k}-bt")
+        body += '<p class=sub>Development data selected the rule; the holdout was examined once. Both are history, not a forecast. The growth chart is on a log scale so each doubling takes the same height.</p>'
+        body += line_chart(c.iloc[::5], COL, "pct", f"{k} — backtest growth of ₹1, log scale (every 5th session)", f"{k}-bt", log=True)
         body += line_chart(pd.DataFrame({k: ddb}).iloc[::5], COL, "pct", f"{k} — backtest drawdown", f"{k}-btdd", fill_below_zero=True)
         yr = bt["equity"].resample("YE").last().pct_change()
         yr.iloc[0] = bt["equity"].resample("YE").last().iloc[0] / bt["equity"].iloc[0] - 1

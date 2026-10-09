@@ -101,7 +101,7 @@ def md_table(df: pd.DataFrame) -> str:
 
 
 def main() -> None:
-    P = pit_panels.build(cache=True)
+    P = pit_panels.build(cache=False)         # full history; the cached pickle may be a shorter live build
     ind = indicators(P)
     parts = ["# Research 2026-10-09 — do overbought-looking entries do worse? (development data, pre-registered)", "",
              "**Question (owner, 2026-10-09):** the first M11/M2 fills (CUPID, IOLCP, TFCILTD …) show RSI14 > 70, the MACD line crossing "

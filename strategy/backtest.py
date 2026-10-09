@@ -27,6 +27,7 @@ START = pd.Timestamp("2013-01-01")
 def main(keys: list[str]) -> None:
     OUT.mkdir(exist_ok=True)
     P = pit_panels.build(cache=False)
+    pd.to_pickle(P, ROOT / 'experiments' / 'data' / 'pit_panels.pkl')
     dates = P.C.index
     i0 = int(np.searchsorted(dates, START))
     _, b2n = b2_series(P, i0)
