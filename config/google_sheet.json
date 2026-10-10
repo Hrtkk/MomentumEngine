@@ -1,0 +1,10 @@
+{
+ "spreadsheet_id": "1DVH9mpu4C5JwfGbjgYqW5-xotSJ4co0jWa4aD2V_Vmc",
+ "credentials": "~/.config/momentumengine/google_service_account.json",
+ "_setup": [
+  "1. console.cloud.google.com: create (or pick) a project and enable the Google Sheets API.",
+  "2. IAM & Admin > Service accounts: create one, then Keys > Add key > JSON. Save it at the 'credentials' path above (never inside this repo).",
+  "3. Open the spreadsheet and Share it with the service account's e-mail (client_email in the key file) as Editor.",
+  "4. Test: .venv/bin/python live/market_sheet.py   (env MOMENTUM_GSHEET_CREDENTIALS overrides the key path)"
+ ]
+}

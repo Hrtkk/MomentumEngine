@@ -3,7 +3,7 @@
   1. C0 (current live rules, src/engine.py): fetch NSE files, run the EOD batch for every unprocessed session.
   2. E2 books (M11, M10, M2): incremental point-in-time update, rebuild panels, re-simulate from LIVE_START, append ledgers.
   3. Codex challenge of every new buy order across books (best-effort; never changes rule outputs).
-  4. Market-stats workbook reports/market_stats.xlsx (best-effort; reads data only).
+  4. Market-stats Google Sheet via live/market_sheet.py (best-effort; reads data only).
   5. git commit in this project repo (never pushed).
 Writes live/ledgers/evening_<date>.json and prints it. Exit code 1 on a hard failure.
 """
@@ -80,10 +80,10 @@ def main() -> int:
         rep["steps"]["books"] = {"error": str(e)[-1500:]}
         ok = False
     try:                                         # descriptive stats only; a failure here never fails the batch
-        import market_workbook
-        rep["steps"]["workbook"] = market_workbook.build()
+        import market_sheet
+        rep["steps"]["market_sheet"] = market_sheet.build()
     except Exception as e:
-        rep["steps"]["workbook"] = f"skipped: {str(e)[-500:]}"
+        rep["steps"]["market_sheet"] = f"skipped: {str(e)[-500:]}"
     rep["ok"] = ok
     (HERE / "ledgers").mkdir(exist_ok=True)
     (HERE / "ledgers" / f"evening_{today}.json").write_text(json.dumps(rep, indent=1, default=str))

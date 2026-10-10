@@ -28,7 +28,8 @@ A paper-trading **research** platform for NSE equities. It was split out of `../
 | `experiments/` | E1 and E2 backtests, the point-in-time data pipeline (`fetch_pit.py`, `pit_panels.py`) and `research/` |
 | `strategy/` | Strategy register: one file per strategy (rule, why, entry/exit/stop, evidence, review log); `build_reports.py` → `reports/` (charts), `backtest.py` → `data/` |
 | `reviews/` | Diagnosis and nightly research write-ups |
-| `reports/` | Daily HTML reports, holdings CSVs and `market_stats.xlsx` (market stats workbook, rebuilt nightly by `live/market_workbook.py`) |
+| `reports/` | Daily HTML reports and holdings CSVs |
+| `live/market_sheet.py` | Rewrites the "MomentumEngine — Market Stats" Google Sheet after each evening batch (setup: `config/google_sheet.json`) |
 
 ## Environment
 - `.venv/` (Python 3.11), built from `requirements.txt`.
