@@ -1,5 +1,8 @@
 # environment
 .venv/
+# credentials (service-account keys etc.) — never commit; evening_batch.py runs git add -A
+secrets/
+*service_account*.json
 __pycache__/
 *.pyc
 .DS_Store

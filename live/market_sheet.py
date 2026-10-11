@@ -5,8 +5,7 @@ Every run rewrites the tabs from the point-in-time data, so each evening the she
 Tabs: Daily (one row per session) · Trend (charts) · Leaders · Sectors (latest session) · Books · About.
 Descriptive statistics only — no signals, no advice.
 
-Setup (once): config/google_sheet.json names the spreadsheet and a Google service-account key file kept OUTSIDE
-the repo; share the spreadsheet with the service account's e-mail as Editor. See config/google_sheet.json.
+Setup (once): config/google_sheet.json names the spreadsheet and a Google service-account key file (secrets/, git-ignored); share the spreadsheet with the service account's e-mail as Editor. See config/google_sheet.json.
 """
 from __future__ import annotations
 
@@ -375,10 +374,11 @@ def format_requests(sid: int, tab: Tab) -> list[dict]:
 
 def config() -> tuple[str, str]:
     cfg = json.loads(CFG.read_text())
-    key = os.path.expanduser(os.environ.get("MOMENTUM_GSHEET_CREDENTIALS", cfg["credentials"]))
-    if not Path(key).exists():
+    key = Path(os.path.expanduser(os.environ.get("MOMENTUM_GSHEET_CREDENTIALS", cfg["credentials"])))
+    key = key if key.is_absolute() else ME / key
+    if not key.exists():
         raise FileNotFoundError(f"service-account key not found at {key} (see config/google_sheet.json)")
-    return cfg["spreadsheet_id"], key
+    return cfg["spreadsheet_id"], str(key)
 
 
 def push(tabs: list[Tab]) -> str:
