@@ -1,0 +1,828 @@
+Date: 13th October, 2026
+Ref: TARIL/SECT/2026-27/NSE-BSE/COMPL/063
+
+ To,                                            To,
+ BSE Limited                                    National Stock Exchange of India Limited
+ Phiroze Jeejeebhoy Towers,                     Exchange Plaza, C-1, Block G,
+ Dalal Street,                                  Bandra - Kurla Complex,
+ Mumbai - 400 001                               Bandra (E), Mumbai - 400 051
+ Security Code : 532928                         Trading Symbol : TARIL
+
+Dear Sir/Madam,
+
+Sub: Outcome of Board Meeting and submission of Unaudited Standalone and
+     Consolidated Financial Results of the Company for the quarter and half year ended
+     30th September, 2026
+Ref: Disclosure pursuant to Regulations 30 and 33 of the SEBI (Listing Obligations and
+     Disclosure Requirements) Regulations, 2015
+
+We hereby inform you that the Board of Directors of the Company, at its meeting held today, inter
+alia, considered and approved the Unaudited Standalone and Consolidated Financial Results of the
+Company for the quarter and half year ended 30th September, 2026.
+
+The said Financial Results, along with the Limited Review Reports issued by the Statutory Auditors
+pursuant to Regulation 33 of the SEBI (Listing Obligations and Disclosure Requirements)
+Regulations, 2015 (“SEBI Listing Regulations”), are enclosed herewith as Annexure A.
+
+The aforesaid Financial Results and Limited Review Reports will also be made available on the
+Company’s website. at www.transformerindia.com.
+
+The Meeting of Board of Director commenced at 12:30 p.m. and concluded at 03:30 p.m.
+
+Request you to take the same on your records
+
+Thanking you,
+
+Yours faithfully,
+For Transformers and Rectifiers (India) Limited
+
+
+Rakesh Kiri
+Company Secretary
+
+Encl.: As above
+                                                                                                Annexure -A
+ Manubhai & Shah LLP
+ Chartered Accountants
+
+
+INDEPENDENT AUDITOR'S REVIEW REPORT ON QUARTERLY AND YEAR TO DATE
+UNAUDITED STANDALONE FINANCIAL RESULTS PURSUANT TO REGULATION 33 OF SEBI
+(LISTING OBLIGATIONS AND DISCLOSURE REQUIREMENTS) REGULATIONS, 2015, AS
+AMENDED
+
+To,
+The Board of Directors,
+Transformers and Rectifiers (India) Limited
+
+1.       We have reviewed the accompanying Statement of Unaudited Standalone Financial
+         Results of Transformers and Rectifiers (India) Limited (the "Company") for the
+         quarter and half year ended September 30, 2026 (the "Statement"), being submitted
+         by the Company pursuant to the requirement of Regulation 33 of the SEBI (Listing
+         Obligations and Disclosure Requirements) Regulations, 2015, as amended (the
+         "Listing Regulations").
+
+2.       This Statement, which is the responsibility of Company's Management and approved
+         by the Board of Directors has been prepared in accordance with the recognition and
+         measurement principles laid down in the Indian Accounting Standard 34, (Ind AS 34)
+         "Interim Financial Reporting" prescribed under Section 133 of the Companies Act,
+         2013 as amended, read with the relevant rules issued thereunder and other
+         accounting principles generally accepted in India. Our responsibility is to express a
+         conclusion on Statement based on our review.
+
+3.        We conducted our review of Statement in accordance with the Standard on Review
+          Engagement (SRE) 2410, "Review of Interim Financial Information Performed by the
+          Independent Auditor of the Entity" issued by the Institute of Chartered Accountants
+          of India. This standard requires that we plan and perform the review to obtain
+          moderate assurance as to whether the Statement is free of material misstatement. A
+          review is limited primarily to inquiries of company personnel and analytical
+          procedures applied to financial data and thus provides less assurance than an audit.
+          We have not performed an audit and accordingly, we do not express an audit
+          opinion.
+
+4.        Based on our review conducted as above, nothing has come to our attention that
+          causes us to believe that the Statement, prepared in accordance with applicable
+          Indian Accounting Standards specified under Section 133 of the Companies Act, 2013
+          as amended, read with relevant rules issued thereunder and other accounting
+          principles generally accepted in India, has not disclosed the information required to
+          be disclosed Listing Regulations, including the manner in which it is to be disclosed,
+          or that it contains any material misstatement.
+
+
+
+                                                      For Manubhai & Shah LLP
+                                                      Chartered Accountants
+                                                      Firm Registration No. - 106041W/Wl0013 6
+                                                                 Digitally signed by
+                                                     Krishnakant Krishnakant Balkrishna
+                                                     Balkrishna  Solanki
+                                                                 Date: 2026.10.13 15:15:33
+                                                     Solanki     +05'30'
+
+                                                      K. B. Solanki
+                                                      Partner
+            Place: Ahmedabad                          Membership No. - 110299
+            Date: October 13, 2026                    UDIN: 26110299BDSJOl1 761
+                   Manubhai & Shah LLP, a Limited Liability Partnership with LLP identity No.AAG-0878
+     Regd. Office: 4th Floor, Capital One, Opp. Ashok Vatika BRTS Stop, Ambli Bopal Road, Ahmedabad - 380058,
+     Gujarat, India. Phone: +91-79-2647 0000, +91-79-4107 0800
+     Email : info@msglobal.co.in                                               Website: www.msglobal.co.in
+     Ahmedabad • Mumbai • New Delhi • Rajkot • Jamnagar • Baroda • GIFT City • Udaipur • Indore • Surat• Pune
+                                                        Transformers and Rectifiers (India) Limited
+                                                                                                                                                                 t21ril
+                                              Registered Office : Survey No. 427 P/3-4, & 431 P/1-2, Sarkhej-Bavla Highway, Moraiya, Taluka: Sanand,
+                                                                                Dist. Ahmedabad, Gujarat-382213
+                                              CIN :L33121GJ1994PLC022460, E-Mail: cs@transformerindia.com, Website: www.transformerindia.com
+                                          Statement of Unaudited Standalone Financial Results for the quarter and half year ended 30th September 2026
+
+                                                                                                                                                              (Rs. in Crore, except per share data)
+                                                                                                         Quarter Ended                                   Half Year Ended            Year Ended
+Sr
+                                          Particulars                               30.09.2026             30.06.2026          30.09.2025          30.09.2026        30.09.2025       31.03.2026
+No
+                                                                                     (Unaudited)           (Unaudited)         (Unaudited)         (Unaudited)       (Unaudited)        (Audited)
+ 1 Income
+   a. Revenue from Operations                                                                  709.04              559.28                428.42           1268.32          938.95           2,395.49
+   b. Other Income                                                                               2.80               14.28                 12.39             17.08           28.77              56.85
+   Total Income                                                                                711.84              573.56                440.81          1,285.40          967.72           2,452.34
+ 2 Expenses
+   a. Cost of Materials Consumed                                                               490.00              451.19                 466.04           941.19          802.19           1,763.00
+   b. Purchases of Stock-in-trade                                                                1.85                 0.31                  0.77              2.16           1.45                1.94
+   c. Changes in Inventories of Finished Goods & Work-In-Progress                                9.88              (49.92)              (156.22)           (40.04)       (148.24)             (79.43)
+   d. Employee Benefits Expenses                                                                 30.6                18.45                 22.04             49.05           37.7               85.09
+   e. Finance Cost                                                                              12.96                14.28                 10.75             27.24          19.94               44.92
+   f. Depreciation & Amortization Expenses                                                       5.06                 5.06                  6.00             10.12          12.25               23.20
+   g. Other Expenses                                                                            62.81                66.16                 65.82           128.97          135.56             311.78
+   Total Expenses                                                                              613.16              505.53                 415.20         1,118.69          860.85           2,150.50
+ 3 Profit Before Tax (1-2)                                                                      98.68                68.03                 25.61           166.71          106.87             301.84
+ 4 Tax Expense
+     - Current Tax                                                                              25.89                17.82                  8.11            43.71           25.62                 80.46
+     - Deferred Tax                                                                             (2.22)                0.34                (1.20)            (1.88)           2.40                 (5.96)
+     - Tax Adjustment of Earlier Years                                                            0.00                0.00                  1.90              0.00           1.90                   1.90
+   Total Tax Expense                                                                            23.67                18.16                  8.81            41.83           29.92                 76.41
+ 5 Profit for the period (3-4)                                                                  75.01                49.87                16.80            124.88           76.95                225.43
+ 6 Other Comprehensive Income
+     - items that will not be reclassified to profit or loss
+     - Remeasurement of Defined Benefit Obligation                                                   0                0.10                 0.10               0.10           0.20                  0.09
+     - Income tax liability of items that will not be reclassified to profit
+                                                                                                 0.05               (0.05)                     -                            (0.05)                (0.05)
+   or loss
+ 7 Total Comprehensive Income (5+6)                                                             75.06                49.92                16.90            124.98           77.10             225.47
+ 8 Paid-up Equity Share Capital of Face Value of Re. 1/- each                                   30.02                30.02                30.02             30.02           30.02              30.02
+ 9 Other Equity                                                                                                           -                                                                 1,410.17
+10 Earning Per Share (EPS)*
+ a Basic EPS (in Rs.)                                                                            2.50                 1.66                 0.56               4.16            2.56                 7.51
+ b Diluted EPS (in Rs.)                                                                          2.50                 1.66                 0.56               4.16            2.56                 7.51
+     * Not annualised for quarter ended
+
+Notes:
+ 1 The aforesaid Unaudited Standalone Financial Results were reviewed by the Audit Committee and thereafter approved by the Board of Directors at their meeting held on October 13, 2026. The
+    same have also been subject to Limited Review by the Statutory Auditors.
+
+ 2 These financial results have been prepared in accordance with the Indian Accounting Standards (Ind AS) notified under section 133 of the Companies Act, 2013, read together with the
+     Companies (Indian Accounting Standards - Ind AS) Rules issued thereafter and the provisions of the Companies Act 2013, as applicable and guidelines issued by the Securities and Exchange
+     Board of India (“SEBI”) and other recognised accounting principles and policies generally accepted in India to the extent possible. These financial results are presented in accordance with the
+     requirements of Regulation 33 of the SEBI (Listing Obligations and Disclosure Requirements) Regulations, 2015 read with other relevant rules and circulars issued thereunder.
+
+
+ 3 The Company incorporated a subsidiary company, Maxwell Grid Transformers (UK) Private Limited, in the United Kingdom on September 4, 2026. As at the date of signing of these financial
+     results, the Company has not contributed any capital to the subsidiary, and the subsidiary has not yet commenced its operations.
+
+
+
+ 4 The operations of the Company are limited to one segment, namely Manufacturing of Transformers and rectifiers Accordingly, disclosure under Indian Accounting Standard (Ind AS) 108 on
+     operating segments is not applicable to the Company.
+
+                                                                                                                                                   For Transformers and Rectifiers (India) Limited
+                                                                                                                                                                           Digitally signed by
+                                                                                                                                                   Satyen Jitendra Satyen Jitendra Mamtora
+                                                                                                                                                                   Date: 2026.10.13 15:15:30
+                                                                                                                                                   Mamtora         +05'30'
+
+     Place : Ahmedabad                                                                                                                                                          Satyen J. Mamtora
+     Date : October 13 , 2026                                                                                                                                           Managing Director & CEO
+                                                                                                                                                                               (DIN : 00139984)
+Transformers and Rectifiers (India) Limited
+CIN : L33121GJ1994PLC022460
+
+
+                                                  Audited Standalone Statement of Assets and Liabilities as at 30th September 2026
+                                                                                                                                                             (Rs. in Crore)
+Sr.
+    Particulars                                                                                                                            30.09.2026        31.03.2026
+No.
+                                                                                                                                           (Unaudited)        (Audited)
+ A ASSETS
+ 1 Non- Current Assets
+      (a) Property, Plant and Equipment                                                                                                          139.17             126.18
+      (b) Capital work-in-progress                                                                                                               266.23             137.80
+      (c) Right of Use Assets                                                                                                                      0.09               0.12
+      (d) Intangible Assets                                                                                                                       14.90              16.80
+      (e) Financial Assets
+        (i) Investments                                                                                                                           47.92              47.95
+               (ii) Trade Receivables                                                                                                            227.86             204.39
+               (iii) Loans                                                                                                                        34.75              32.80
+               (iv) Others                                                                                                                        29.68              44.45
+      (f) Deferred Tax Assets (Net)                                                                                                               20.33              17.76
+      (g) Other Non-current Assets                                                                                                               158.56              98.25
+   Total Non-current Assets                                                                                                                      939.49             726.50
+
+ 2 Current Assets
+    (a) Inventories                                                                                                                              651.24             560.88
+    (b) Financial Assets
+         (i) Investments                                                                                                                          144.44            151.27
+         (ii) Trade receivables                                                                                                                   825.43            853.32
+         (iii) Cash and cash equivalents                                                                                                           10.58              5.78
+         (iv) Bank Balance other than (iii) above                                                                                                  66.07            132.92
+         (v) Loans                                                                                                                                 12.79             10.65
+            (vi) Other Financial Assets                                                                                                            20.07             12.47
+      (c) Other Current Assets                                                                                                                    147.79             46.51
+     Total Current Assets                                                                                                                       1,878.41          1,773.80
+
+     Total Assets                                                                                                                               2,817.90          2,500.30
+
+ B EQUITY & LIABILITIES
+ 1 Equity
+     (a) Equity Share Capital                                                                                                                      30.02             30.02
+     (b) Other Equity                                                                                                                           1,531.65          1,410.18
+   Total equity                                                                                                                                 1,561.67          1,440.20
+
+ 2 Liabilities
+ (i) Non-Current Liabilities
+       (a) Financial Liabilities
+           (i) Borrowings                                                                                                                        125.48               53.08
+           (ii) Lease Liabilities                                                                                                                  0.01                0.07
+       (b) Provisions                                                                                                                              6.27                5.72
+       (c) Deferred Tax Liabilities (Net)
+       (d Other Non Current Liabilities                                                                                                           16.70               17.22
+     Total non-current liabilities                                                                                                               148.46               76.09
+
+(ii) Current Liabilities
+        (a) Financial Liabilities
+            (i) Borrowings                                                                                                                       419.10             370.92
+           (ii) Leae Liabilities                                                                                                                   0.10               0.05
+          (iii) Trade Payables
+               (a) Total oustanding due of Micro and Small Enterprises                                                                             16.40             11.07
+               (b) Total oustanding dues of Creditors other than Micro                                                                            378.47            288.51
+           (iv) Other Financial liabilities                                                                                                         3.19              2.31
+       (b) Other current liabilities                                                                                                              245.74            274.90
+       (c) Provisions                                                                                                                               7.50              0.63
+       (d) Current Tax Liabilities (net)                                                                                                           37.27             35.61
+     Total current liabilities                                                                                                                  1,107.77            984.00
+
+     Total Equity & Liabilities                                                                                                                 2,817.90          2,500.29
+
+
+                                                                                                                                                         Digitally signed by
+                                                                                                      Krishna                        Satyen              Satyen Jitendra
+                                                                                                      kant     Digitally signed by   Jitendra            Mamtora
+                                                                                                               Krishnakant                               Date: 2026.10.13
+                                                                                                      Balkrish Balkrishna  Solanki
+                                                                                                               Date: 2026.10.13      Mamtora             15:15:19 +05'30'
+                                                                                                      na       15:15:55 +05'30'
+
+
+                                                                                                      Solanki
+                                                                                                                         0.00                    (0.00)
+
+Transformers and Rectifiers (India) Limited                                                                              0.01           #REF!
+CIN : L33121GJ1994PLC022460                                                                                              0.01
+Standalone Unaudited Statement of Cash Flows for the year ended 30th September 2026
+                                                                                                                                          (Rs. in Cr)
+                                                                                                                                  Half Year Ended
+      Particulars                                                                            Half Year Ended on 30th Sep 2026
+                                                                                                                                 on 30th Sep 2025
+
+(A) Cash flow From Operating Activities
+       1.     Net Profit Before Tax                                                                                    166.71                   106.87
+       2.     Adjustments for:
+                 a) Depreciation and amortisation expense                                                               10.12                    12.25
+                 b) Finance costs                                                                                       27.24                    19.94
+                 c) Interest income                                                                                     (8.88)                   (6.52)
+                 e) Provision for doubtful debts and bad debts written off                                               5.84                    20.25
+                 f) Excess Provision written back                                                                         -                     (11.53)
+                 h) Provision for Impairment of Inventory                                                                0.20                    (0.54)
+                 i) Misc. Amount written back                                                                           (0.03)                     -
+                 k) Fair value (gain)/loss on Investment in Mutual Funds                                                (9.94)                   (6.81)
+                 l) Unrealized foreign exchange losses/(gain)                                                           (0.25)                   (1.86)
+                 m) Expense on employee stock option (ESOP) scheme                                                       6.25                     3.74
+                 n) (Profit)/Loss on sale of property, plant and equipment (Net)                                         0.02                     0.24
+
+                                                                                                                        30.57                    29.16
+
+                Operating Profit Before Working Capital Changes (1 + 2)                                                197.28                   136.03
+
+         3.     Adjustments for Working Capital Changes:
+                (i) (Increase)/ Decrease in Operating Assets
+                  a) Trade receivables                                                                                  (1.41)                117.45
+                  b) Loans & Advances                                                                                   (4.09)                  0.36
+                  c) Other assets                                                                                      (87.43)               (114.00)
+                  d) Other Financial assets                                                                              6.45                   0.02
+
+                (ii) Increase/ (Decrease) in Operating Liabilities
+                   a) Trade Payables                                                                                    95.31                   (64.18)
+                   b) Provisions                                                                                        (0.06)                    0.71
+                   c) Other Financial Liabilities                                                                         -                      (0.28)
+                  d) Other Liabilities                                                                                 (29.67)                  126.25
+
+                (iii) (Increase)/ Decrease in Inventories                                                              (90.56)               (180.19)
+                Cash generated from operations                                                                          85.82                  22.17
+
+               Less: Direct Taxes Paid (Net Refund including Interest )                                                 42.05                    56.88
+          Net Cash from Operating Activities (A)                                                                        43.77                   (34.71)
+
+ (B) Cash flow from Investing Activities
+                  a) Purchase of Property, Plant and Equipment, Intangible Assets, Capital                            (151.47)                  (36.74)
+                  Work in progress and Capital Advances (including recognition of Right of
+                  Use Assets)
+                  b) Sale of Property, Plant and Equipment                                                               0.11                     0.24
+                  c) (Purchase)/ Sale of Mutual Funds                                                                   16.76                    70.70
+                  d) Investments in Subsidiaries                                                                        (0.04)                     -
+                  e) Investments in Others                                                                               0.04                      -
+                  f) Loan given to Subsidiary                                                                                                   (20.24)
+                  g) Advance for capital asset                                                                         (74.17)                     -
+                  h) Interest Received                                                                                   9.60                     0.60
+                  i) Deposites                                                                                          66.86                    (2.43)
+         Net Cash from Investing Activities (B)                                                                       (132.31)                   12.13
+(C) Cash flow From Financing Activities
+
+                    a) Finance costs paid                                                                              (27.24)                (19.94)
+                    b) Dividend Paid                                                                                      -                    (6.00)
+                    c) (Repayment of)/Proceeds from short-term borrowings (net)                                         48.18                 108.51
+                    d) (Repayment of)/Proceeds from long-term borrowings (net)                                          72.40                 (21.19)
+                    e) Repayment of Lease liabilities                                                                     -                     0.12
+             Net Cash From Financing Activities (C)                                                                     93.34                  61.50
+
+(D) Net Increase/(Decrease) In Cash & Cash Equivalents (A+B+C)                                                           4.80                  38.92
+
+(E) Cash & Cash Equivalents-Opening Balance                                                                              5.78                    0.42
+
+(F) Cash & Cash Equivalents-Closing Balance                                                                             10.58                  39.34
+
+
+
+                                                                                                                                           (Rs. in Cr)
+                                                                                                                                 Half Year Ended on
+     Particulars                                                                           Half Year Ended on 30th Sep 2026
+                                                                                                                                  30th Sep 2025
+Note :
+         A) Components of Cash & Cash Equivalents :
+          Cash on hand                                                                                                   0.02                    0.02
+          Balances with Banks                                                                                             -                       -
+             In Current Accounts/Cash Credit Accounts                                                                   10.56                   39.32
+             In Fixed Deposit Accounts Maturing with in three months
+         Cash & Cash Equivalents                                                                                        10.58                  39.34
+
+
+                                                                            Krishnak Digitally signed                                 Digitally signed by
+                                                                            ant
+                                                                                     by Krishnakant
+                                                                                     Balkrishna
+                                                                                                                   Satyen             Satyen Jitendra
+                                                                            Balkrish Solanki
+                                                                                     Date:
+                                                                                                                   Jitendra           Mamtora
+                                                                                                                                      Date: 2026.10.13
+                                                                            na       2026.10.13
+                                                                                     15:15:12
+                                                                                                                   Mamtora            15:15:02 +05'30'
+                                                                            Solanki +05'30'
+      Manubhai & Shah LLP
+      Charte red Accoun tants
+
+
+                                                               AND VEAR TO DATE
+INDEPE NDENT AUDITO R'S REVIEW REPORT ON THE QUARTE RLY
+                                                           THE REGULA TION 33 OF
+UNAUD ITED CONSOL IDATED FINANC IAL RESULTS PURSUA NT TO
+                                                             ) REGULA TIONS, 2015,
+THE SEBI (LISTING OBLIGA TIONS AND DISCLOS URE REQUIR EMENTS
+AS AMEND ED
+
+
+To,
+The Board of Directo rs,
+Transfo rmers and Rectifie rs (India) Limited
+
+                                                                               dated Financia l
+1.     We have reviewe d the accomp anying Stateme nt of Unaudit ed Consoli
+                                                                               Compan y") and
+       Results of Transfo rmers and Rectifie rs (India) Limited (the "Holdin g
+                                                                                  vely referred
+       its subsidia ries (the Holding Compan y and its subsidia ries are collecti
+                                                                               30,   2026 ("the
+       to as "the Group") for the quarter and half year ended Septem ber
+                                                                                   require ment
+       Statem ent"), being submitt ed by the Holding Compan y pursuan t to the
+                                                                                Require ments)
+       of Regulat ion 33 of the SEBI (Listing Obligati ons and Disclosu re
+       Regulat ions, 2015, as amende d (the "Listing Regulat ion").
+
+                                                                                 Manage ment
+2.     This Stateme nt, which is the respons ibility of the Holding Compan y's
+                                                                        has been   prepare d in
+       and approve d by the Holding Compan y's Board of Director s,
+                                                                               down in Indian
+       accorda nce with the recogni tion and measur ement principl es laid
+                                                                                      ed under
+       Accoun ting Standar d 34 (Ind AS 34) "Interim Financia l Reporti ng", prescrib
+                                                                                 t rules issued
+       Section 133 of the Compan ies Act, 2013 as amende d, read with relevan
+                                                                                in India. Our
+       thereun der and other accoun ting principl es general ly accepte d
+                                                                                    review.
+       respons ibility is to express a conclus ion on the Stateme nt based on our
+
+                                                                                      Standar d on
+3.      We conduct ed our review of the Stateme nt in accorda nce with the
+                                                                                   tion  Perform ed
+        Review Engage ments (SRE) 2410 "Review of Interim Financia l Informa
+                                                                                      of Charter ed
+        by the Indepen dent Auditor of the Entity", issued by the Institute
+                                                                                          of making
+        Accoun tants of India. A review of interim financia l informa tion consists
+                                                                               an audit  conduct ed
+        inquirie s, procedu res. A review is substan tially less in scope than
+                                                                                      enable us to
+        in accorda nce with Standar ds on Auditing and conseq uently does not
+                                                                                         that might
+        obtain assuran ce that we would become aware of all signific ant matters
+                                                                           audit opinion  .
+        be identifie d in an audit. Accordi ngly, we do not express an
+
+                                                                                  by the SEBI
+        We also perform ed procedu res in accorda nce with the circular issued
+                                                                                   Disclosu re
+        under Regulat ion 33 (8) of the SEBI (Listing Obligati ons and
+                                                                               le.
+        Require ments) Regulat ions, 2015, as amende d, to the extent applicab
+
+
+
+
+                                                                                                Krishnakan Digitally  signed by
+                                                                                                             Krishnakant
+                                                                                                t Balkrishna Balkrishna Solanki
+                                                                                                             Date: 2026.10.13
+                                                                                                Solanki      15:15:15 +05'30'
+
+
+
+                    Manubhai & Shah LLP, a Limited Liability Partnership with LLP identity No.AAG-0878
+                                                                                                       d - 380058,
+      Regd. Office : 4th Floor, Capital One, Opp. Ashok Vatika BRTS Stop, Ambli Bopal Road, Ahmedaba
+      Gujarat, India. Phone:  +91-79-26  47 0000, +91-79-4107  0800
+      Email : info@msglobal.co.in                                                Website : www.msglobal.co.in
+                                                                                        • Indore • Surat• Pune
+      Ahmedabad • Mumbai • New Delhi • Rajkot • Jamnagar • Baroda • GIFT City • Udaipur
+ Manubhai & Shah LLP
+ Chartered Accountants
+
+
+
+4.   The Statement includes the results of the following entities: -
+
+
+           Sr.no     Name of entities
+             1       Transformers and Rectifiers (India) Limited (Holding Company)
+             2       Transpares Limited (Subsidiary Company)
+             3       Transweld Mechanical Engineering Works Limited (Subsidiary Company)
+            4        TARIL Infrastructure Limited (Subsidiary Company)
+             5       Savas Engineering Company Private Limited (Subsidiary Company)
+             6       TARIL Switchgear Private Limited (Subsidiary Company)
+             7       Triveni   Transtech   (India)   Private    Limited   (Formerly     known    as    POSCO
+                     Poggenamp Electrical Steel Private Limited) (Subsidiary Company)
+
+
+5.   Based on our review conducted and procedures performed as stated in paragraph 3
+     above, based on the consideration of the review reports of the other auditors
+     referred to in paragraph 6 below, nothing has come to our attention that causes us
+     to believe that the accompanying Statement, prepared in accordance with the
+     recognition         and   measurement      principles     laid   down   in   the   aforesaid      Indian
+     Accounting Standard ('Ind AS') specified under section 133 of the Company's Act,
+     2013 as amended read with relevant rules issued thereunder and other accounting
+     principles generally accepted in India, has not disclosed the information required to
+     be disclosed in terms of the Listing Regulation, including the manner in which it is
+     to be disclosed, or that it contains any material misstatement.
+
+6.   Other Matter
+     (i)         The accompanying Statement includes the unaudited interim financial results
+                 and other financial information in respect of:
+
+            5 subsidiaries included in the Unaudited Consolidated Financial Results whose
+            interim financial results reflect total assets of Rs. 214.74 crore as at September
+            30, 2026, total revenue of Rs. 30.64 crore and Rs. 80.58 crore, total net profit
+            after tax of Rs. 12.92 crore and Rs. 23.11 crore and total other comprehensive
+            income of Rs. 12.92 crore and Rs. 23.11 crore for the quarter and half year ended
+            September 30, 2026 respectively, and cash flows (net inflows) of Rs. 1.01 crore
+            for the half year ended September 30, 2026 as considered in the consolidated
+            unaudited financial results.
+
+            These financial results and other financial information have been reviewed by
+            other auditors whose reports have been furnished to us by the Management and
+            our conclusion on the statement, in so far as it relates to the amounts and
+            disclosures included in respect of these subsidiaries, is based solely on the
+            reports of the other auditors and procedures performed by us as stated in
+            paragraph 3 above.
+Independent Auditor's Review Report on Unaudited Consolidated Financial Res ....~,------
+Transformers and Rectifiers (India) Limited for the quarter and half
+                                                                       Krishnakant Digitally signed by
+                                                                                     Krishnakant
+September 30, 2026                                                     Balkrishna Balkrishna Solanki
+                                                                                                         Date: 2026.10.13
+                                                                                             Solanki     15:15:41 +05'30'
+Manubhai & Shah LLP
+Chartered Accountants
+
+
+
+    (ii)   The accompanying Statement includes unaudited interim financial results and
+           other financial information in respect of:
+
+
+           1 subsidiary included in the unaudited consolidated financial results whose
+           financial information reflects total assets of Rs. 77.60 crore as at September
+           30, 2026, total revenue of Rs. 9.41 crore and Rs . 17.66 crore, total net profit/
+           (loss) after tax of Rs. 0.12 crore and Rs. (0.48) crore and total other
+           comprehensive income of Rs. 0.12 crore and Rs. (0.48) crore for the quarter
+           and half year ended September 30, 2026 respectively, and cash flows (net
+           inflows) of Rs. 0.51 crore for the half year ended September 30, 2026.
+
+
+    These unaudited interim financial results and other unaudited financial information
+    have been furnished to us by the Management of the Holding Company and our
+    conclusion on the Statement, in so far as it relates to affairs of this subsidiary is
+    based solely on such unaudited interim financial results and other unaudited
+    financial information. According to the information and explanations given to us by
+    the Management of the Holding Company, these financial results are not material
+    to the Group.
+
+
+    Our conclusion on the Statement is not modified in respect of the above matters
+    with respect to our reliance on the work done and reports of the other auditors and
+    financial results certified by the management.
+
+                                            For, Manubhai & Shah LLP
+                                            Chartered Accountants
+                                            Firm Registration No. - 106041 W/W100136
+
+                                                                      Digitally signed by
+                                             Krishnakant        Krishnakant Balkrishna Solanki
+                                                                Date: 2026.10.13 15:15:56
+                                             Balkrishna Solanki +05'30'
+
+                                            K. B. Solanki
+    Place: Ahmedabad                        Partner
+    Date: October 13, 2026                  Membership No. 110299
+                                            UDIN: 26110299EEQZZD7433
+
+
+
+
+Independent Auditor's Review Report on Unaudited Consolidated Financial Results of
+Transformers and Rectifiers (India) Limited for the quarter and half year ended
+September 30, 2026
+
+                                                                                                 Page 3 of3
+                                                               Transformers and Rectifiers (India) Limited
+                                                                                                                                              t~ril
+                    Registered Office : Survey No. 427 P/3-4, & 431 P/1-2, Sarkhej-Bavla Highway, Moraiya, Taluka: Sanand, Dist. Ahmedabad, Gujarat-382213
+                                                CIN :L33121GJ1994PLC022460, E-Mail: cs@transformerindia.com, Website: www.transformerindia.com
+                                           Statement of Unaudited Consolidated Financial Results for the Quarter and Half year ended September 30, 2026
+
+
+                                                                                                                                                    (Rs. In Crore, except per share data)
+                                                                                                           Quarter Ended                         Half Year Ended            Year Ended
+Sr.
+                                                 Particulars                              30.09.2026         30.06.2026       30.09.2025     30.09.2026    30.09.2025       31.03.2026
+No.
+                                                                                                            (Unaudited)                             (Unaudited)             (Audited)
+1 Income
+  a. Revenue from Operations                                                                    739.44            572.34           460.03       1,311.78         989.37         2,508.80
+  b. Other Income                                                                                 2.72             16.31            13.92          19.03          34.24            60.85
+  Total Income                                                                                  742.16            588.65           473.95       1,330.81       1,023.61         2,569.65
+2 Expenses
+  a. Cost of Materials Consumed                                                                 484.17           455.57             467.63        939.74         810.37         1,770.18
+  b. Purchases of Stock-in-trade                                                                  4.33              1.60              2.28           5.93           4.71             7.50
+  c. Changes in inventories of Finished Goods & Work-In-Progress                                 16.60           (70.17)          (154.71)        (53.57)       (156.35)          (82.81)
+  d. Employee benefits expenses                                                                  36.28             22.94             26.05          59.22          45.28          105.74
+  e. Finance Cost                                                                                14.34             14.80             12.87          29.14          23.33            51.08
+  f. Depreciation & Amortization Expense                                                          7.22              6.82              7.27          14.04          14.82           29.91
+  g. Other Expense                                                                               69.29             69.06             67.26        138.35          145.67          325.01
+  Total Expenses                                                                                632.23           500.62             428.65      1,132.85          887.83        2,206.61
+3 Profit before exceptional items and tax (1-2)                                                 109.93             88.03             45.30        197.96          135.78          363.04
+4 Exceptional Items                                                                             131.49           109.65              65.44        241.14          173.93
+  Reversal of impairment on Investments                                                              -                 -                 -              -                              -
+5 Profit Before Tax (3+4)                                                                       109.93             88.03             45.30        197.96           135.78         363.04
+6 Tax expense
+    - Current Tax                                                                                30.10             21.44            10.45          51.54            29.10          95.57
+    - Deferred Tax                                                                               (1.56)             2.30            (4.34)          0.74             0.05          (6.77)
+    - Tax Adjustment of Earlier Years                                                              0.01                -              1.84          0.01             1.82            2.07
+  Total Tax Expense                                                                              28.55             23.74              7.95         52.29            30.97          90.87
+7 Profit for the period(5-6)                                                                     81.38             64.29            37.35         145.67           104.81         272.17
+8 Other comprehensive Income / (expenses)
+   - items that will not be reclassified to profit or loss
+   - Remeasurement of Defined Benefit Obligation                                                 (0.10)             0.10             0.10               -            0.23          (0.04)
+   - Income tax liability of items that will not be reclassified to profit or
+                                                                                                       -          (0.05)            (0.00)         (0.05)          (0.05)          (0.04)
+  loss
+   - items that will be reclassified to profit or loss
+9 Total comprehensive income (7+8)                                                               81.28             64.34            37.45         145.62           105.00         272.09
+
+      Profit for the year attributable to:
+      - Owners of the Company                                                                    79.80             61.52            33.91         141.32           101.26         264.39
+      - Non-controlling interests                                                                 1.58              2.77             3.44           4.35             3.55           7.78
+
+      Other comprehensive income for the year
+      - Owners of the Company                                                                   (0.10)              0.05             0.10          (0.05)            0.16         (0.03)
+      - Non-controlling interests                                                                      -                  -          0.01               -            0.02         (0.05)
+
+      Total comprehensive income for the year
+      - Owners of the Company                                                                    79.70             61.57            34.01         141.27           101.42         264.36
+      - Non-controlling interests                                                                 1.58              2.77             3.45           4.35             3.57           7.73
+
+10 Paid-up equity share capital of face value of Re. 1/- each                                    30.02             30.02            30.02          30.02            30.02          30.02
+
+11 Other Equity                                                                                                                                                                 1,484.81
+12 Earning Per Share (EPS)*
+ a Basic EPS (in Rs.)                                                                             2.66              2.05             1.13           4.71             3.37           9.07
+b Diluted EPS (in Rs.)                                                                            2.66              2.05             1.13           4.71             3.37           9.07
+      * Not annualised for quarter ended
+Notes :
+1 The aforesaid Unaudited Consolidated Financial Results were reviewed by the Audit Committee and thereafter approved by the Board of Directors at their meeting
+  held on October 13, 2026. The same have also been subject to Limited Review by the Statutory Auditors.
+2 These financial result have been prepared in accordance with the lndian Accounting Standards (lnd AS) notified under section 133 of the Companies Act, 2013, read
+  together with the Companies (lndian Accounting Standards) Rules, 2015, as amended issued thereunder and other provisions of the Companies Act 2013, as applicable
+  and guidelines issued by the Securities and Exchange Board of lndia ("SEBI") and other recognised accounting principles and policies generally accepted in lndia to the
+  extent possible. These financial results are presented in accordance with the requirements of Regulation 33 of the SEBI (Listing Obligations and Disclosure
+  Requirements) Regulations, 2015 and circulars issued thereunder.
+3 The Company incorporated a subsidiary company, Maxwell Grid Transformers (UK) Private Limited, in the United Kingdom on September 4, 2026. As at the date of
+  signing of these financial results, the Company has not contributed any capital to the subsidiary, and the subsidiary has not yet commenced its operations.
+  Accordingly, the subsidiary has not been included in the preparation of the consolidated financial results for the period ended September 30, 2026.
+
+
+4 The operations of the Company are limited to one segment, namely Manufacturing of Transformers. Accordingly, disclosure under Indian Accounting Standard (Ind
+  AS) 108 on operating segments is not applicable to the Company.
+
+
+
+
+                                                                                                                             For Transformers and Rectifiers (India) Limited
+                                                                                           Krishnaka      Digitally signed                 Satyen Jitendra Digitally signed by Satyen
+                                                                                                                                                            Jitendra Mamtora
+                                                                                                                                                            Date: 2026.10.13 15:15:04
+                                                                                                          by Krishnakant                   Mamtora
+                                                                                           nt             Balkrishna
+                                                                                                                                                            +05'30'
+
+    Place : Ahmedabad                                                                                     Solanki
+                                                                                                                                                        Satyen J. Mamtora
+    Date : October 13, 2026                                                                Balkrishna     Date: 2026.10.13                       Managing Director & CEO
+                                                                                           Solanki        15:15:57 +05'30'                                 (DIN :00139984)
+    Transformers and Rectifiers (India) Limited
+    CIN :L33121GJ1994PLC022460
+                                   Unaudited Consolidated statement of Assets and Liabilities as at 30th September, 2026
+                                                                                                                                          (Rs. In Crore)
+Sr.                                                                                                                         30.09.2026    31.03.2026
+    Particulars
+No.                                                                                                                        (Unaudited)     (Audited)
+ A ASSETS
+ 1 Non- Current Assets
+     (a) Property, Plant and Equipment                                                                                          241.69          230.44
+     (b) Capital work-in-progress                                                                                               267.31          138.31
+     (c) Right of use Assets                                                                                                      7.29            0.04
+      (d) Goodwill on Consolidation                                                                                               3.00            3.00
+     (e) Intangible Assets                                                                                                       14.91           16.95
+     (f) Intangible Assets under development                                                                                         -               -
+     (f) Financial Assets
+          (i) Investments                                                                                                         34.85          33.12
+          (ii) Trade receivables                                                                                                240.03          207.85
+          (iii) Loans                                                                                                             20.27          12.70
+          (iv) Others                                                                                                             30.91          45.46
+     (g) Deferred Tax Assests (Net)                                                                                               18.66          18.99
+     (h) Other Non-Current assets                                                                                               159.50           84.98
+    Total Non-Current Assets                                                                                                   1,038.42         791.84
+
+ 2 Current Assets
+    (a) Inventories                                                                                                             723.26          615.52
+    (b) Financial Assets
+         (i) Investment                                                                                                         144.45         151.29
+         (ii) Trade receivables                                                                                                 837.24         887.34
+         (iii) Cash and Cash equivalents                                                                                          14.43          8.10
+         (iv) Bank Balance other than (iii) above                                                                                 66.08        132.92
+         (v) Loans                                                                                                                12.79         10.65
+         (vi) Others                                                                                                              20.30         12.66
+    (c) Deferred Tax Assets (Net)                                                                                                     -             -
+    (c) Current Tax Assets (Net)                                                                                                   1.77          1.59
+    (d) Other Current Assets                                                                                                    158.30          53.80
+   Total Current Assets                                                                                                        1,978.62       1,873.87
+    Total Assets                                                                                                               3,017.04       2,665.71
+
+ B EQUITY & LIABILITIES
+ 1 Equity
+     (a) Equity Share Capital                                                                                                     30.02         30.02
+     (b) Other Equity                                                                                                         1,622.70       1,484.81
+     (c) Non Controlling Interest                                                                                                 32.50         28.16
+   Total Equity                                                                                                                1,685.22       1,542.99
+ 2 Liabilities
+(i) Non-Current Liabilities
+      (a) Financial Liabilities
+          (i) Borrowings                                                                                                        135.62           66.88
+          (ii) Lease Liabilities                                                                                                   5.50           0.03
+      (b) Provisions                                                                                                               6.90           6.28
+      (c) Deferred Tax Liabilities (Net)                                                                                              -              -
+      (c) Other Non Current Liabilities                                                                                           16.72          17.24
+    Total Non-Current Liabilities                                                                                                164.74           90.43
+(ii) Current Liabilities
+        (a) Financial Liabilities
+           (i) Borrowings                                                                                                       438.06          389.73
+           (ii) Lease Liabilities                                                                                                 1.36              -
+           (iii) Trade payables
+                (a) Dues to micro and small enterprise                                                                            27.42         13.94
+                (b) Dues to other than micro and small enterprise                                                               356.20         275.69
+          (iv) Other Financial Liabilities                                                                                        13.85          6.06
+       (b) Other Current Liabilities                                                                                            284.19         304.22
+       (c) Provisions                                                                                                              0.20          0.83
+       (d) Current Tax Liabilities (Net)                                                                                          45.80         41.82
+     Total Current Liabilities                                                                                                 1,167.08       1,032.29
+     Total Equity & Liabilities                                                                                                3,017.04       2,665.71
+Transformers and Rectifiers (India) Limited
+CIN:L33121GJ1994PLC022460
+Consolidated Statement of Cash Flows for the Half Year ended 30th September, 2026
+
+                                                                                                                      (Rs. in Cr)
+                                                                                                                     Year Ended
+                                                                                              Half Year Ended
+                                                                                                                30th September,
+                                                                                        30th September, 2026
+                                                                                                                           2025
+(A) Cash flow From Operating Activities
+     1. Net Profit Before Tax                                                                        197.96             135.78
+     2. Adjustments for:
+            (a) Depreciation and Amortisation                                                          14.04              14.82
+            (b) Finance Cost                                                                           29.14              23.90
+            (c) Finance Charges on Lease Liability                                                       -
+            (d) Interest Income                                                                        (8.92)             (5.42)
+            (e) Finance Income                                                                           -
+            (f) Unrealized foreign exchange losses/(gain)                                               1.83              (3.67)
+            (g) Sundry balance written back                                                             0.03              (6.02)
+            (h) Excess Provision written back                                                            -               (11.53)
+            (i) Provision for doubtful debts and Impairment/Bad debts written off                       5.94               1.27
+            (j) Interest received from Income Tax                                                        -
+            (k) Loss/(Gain) on Sales of Property, Plant and Equipment                                    -
+           (l) Fair value (gain)/loss on Investment in Mutual Funds                                   (11.73)             (6.81)
+            (m) Re-measurement of defined benefit obligation                                           (0.03)              0.03
+            (n) Share based payment expense (ESOP)                                                      6.25               3.73
+                                                                                                       36.55               2.85
+
+         Operating Profit Before Working Capital Changes (1 + 2)                                     234.51             138.63
+
+     3. Adjustments for Working Capital Changes:
+        (i) (Increase)/ Decrease in Operating Assets
+          (a) Trade receivables                                                                        11.98            179.71
+          (b) Loans & Advances                                                                         (9.71)            (0.57)
+          (c) Other assets                                                                           (179.00)          (108.79)
+          (d) Other Financial assets                                                                   73.75              0.10
+        (iii) (Increase)/ Decrease in Inventories                                                    (107.64)          (225.19)
+        (ii) Increase/ (Decrease) in Operating Liabilities
+           (a) Trade Payables                                                                          92.13            (82.19)
+           (b) Provisions                                                                              (0.01)             0.62
+           (c) Other Financial Liabilities                                                              2.74             (4.23)
+           (d) Other Liabilities                                                                      (22.94)           132.46
+        Cash generated from operations                                                                 95.81             30.55
+
+        Less: Direct Taxes Paid (Net Refund)                                                          (47.75)            59.22
+         Net Cash (used) / generated from Operating Activities (A)                                     48.06             89.77
+(B) Cash flow from Investing Activities
+            (a) Purchase of Property, Plant and Equipment, Intangible Assets, Capital                (153.33)            (62.88)
+            Advance, Intangible Asset under development and Capital work in progress
+            (including recognition of Right of Use Assets)
+
+            (b) Sale of Property, Plant & Equipment                                                     0.13               0.63
+           (c) Earmarked deposits / balances with bank (Placed) / Realised                               -                (7.50)
+            (d) Interest received                                                                       8.92               5.42
+            (e) Goodwill on Consolidation                                                                -
+            (f) Investment in NCD and ULIP                                                              0.06              (0.03)
+            (g) (Purchase)/ Sale of Mutual Funds                                                       12.15              70.70
+          Net Cash (used) from Investing Activities (B)                                              (132.08)              6.33
+(C) Cash flow From Financing Activities
+            (a) Repayment from Long term Borrowings                                                              68.74                   (22.45)
+           (b) Net Increase/(Decrease) in Working Capital Borrowings                                             48.33                   105.43
+            (c) Finance Cost                                                                                    (29.14)                  (23.90)
+            (d) Interest on Refund from Income Tax                                                                 -
+            (e) Proceeds from preferential equity shares                                                           -
+            (f) Dividend paid by holding company                                                                   -                       (6.00)
+            (g) Dividend declared by subsidiary (Non-controlling Interests)                                      (0.97)
+            (h) Recognition of Lease Obligations                                                                   -                        0.14
+            (i) Non Controlling interest                                                                          4.34                      9.75
+            (j) Reversal of Lease Obligations                                                                      -
+            (k) Payment of Lease Obligations                                                                     (0.94)                    0.12
+
+         Net Cash Generated From Financing Activities (C)                                                       90.36                     63.09
+(D) Net Increase/(Decrease) In Cash & Cash Equivalents (A+B+C)                                                   6.32                     40.76
+(E) Cash & Cash Equivalents-Opening Balance                                                                      8.10                      5.27
+(F) Cash & Cash Equivalents-Closing Balance                                                                     14.43                     46.03
+
+
+
+                                                                                                        Half Year Ended            Year Ended
+                                                                                                  30th September, 2026        30th September,
+Note :
+ 1 A) Components of Cash & Cash Equivalents :
+       Cash on hand                                                                                               0.05                      0.04
+       Balances with Banks
+         In Current Accounts                                                                                     1.70                      5.82
+         In Cash Credit accounts                                                                                10.56                     39.32
+         In Deposits                                                                                             2.12                      0.85
+                                                                                                                14.43                     46.03
+
+                                                                     Krishnak Digitally signed
+                                                                               by Krishnakant     Satyen                  Digitally signed by
+                                                                                                                          Satyen Jitendra
+                                                                     ant       Balkrishna
+                                                                               Solanki            Jitendra                Mamtora
+                                                                     Balkrishn Date:              Mamtora
+                                                                                                                          Date: 2026.10.13
+                                                                               2026.10.13                                 15:15:36 +05'30'
+                                                                     a Solanki 15:15:35 +05'30'
+

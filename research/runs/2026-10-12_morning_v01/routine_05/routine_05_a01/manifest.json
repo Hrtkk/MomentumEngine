@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.1",
+  "committed": true,
+  "batch_id": "2026-10-12_morning_v01",
+  "run_id": "routine_05_a01",
+  "artifacts": [
+    {
+      "path": "decision_queue.jsonl",
+      "sha256": "a8fea2e3009019dc387a0a0a2061c9b553c16b261a0b4589a0d2147fce95e545",
+      "record_count": 9
+    },
+    {
+      "path": "digest.json",
+      "sha256": "ab3e240b601c240aff9974b912cb968aba33c1004381d47594cf7f6ea2e35065",
+      "record_count": null
+    },
+    {
+      "path": "notification_state.json",
+      "sha256": "49b0b2ef5de3a7f1fae9403caad1ee43bf7fc3301e9bf452c4ec7abaa92fd209",
+      "record_count": null
+    },
+    {
+      "path": "report.md",
+      "sha256": "a014a0de3b8761af09d0e94f9ce6c915e1b5b2bd0ce88c2bb799b87953db7cd4",
+      "record_count": null
+    },
+    {
+      "path": "handoff.json",
+      "sha256": "91f0a1855cdbc6654ac3c250aaf352d8626e728184371e0bb2765f3a8345552f",
+      "record_count": 1
+    }
+  ]
+}

@@ -1,0 +1,5 @@
+{
+  "status": "BLOCKED",
+  "reason": "AUTH_CONTEXT_UNAVAILABLE; no inference of human logout",
+  "at": "2026-11-11T00:10:18.381155+05:30"
+}

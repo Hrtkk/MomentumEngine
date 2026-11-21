@@ -1,0 +1,14 @@
+{
+  "checked_at": "2026-10-13T21:17:21.742291+05:30",
+  "status": "AUTHENTICATED",
+  "logged_in": true,
+  "auth_method": "claude.ai",
+  "subscription_type": "max",
+  "execution_context": "normal context; read-only escalation approved",
+  "sandbox_context_status": "AUTH_CONTEXT_UNAVAILABLE",
+  "metered_calls": 0,
+  "paid_research_dispatch_eligible": false,
+  "blocking_reason": "Shared budget reservation/accounting not implemented",
+  "unattended_access_certified": false,
+  "related_batch": "2026-10-13_evening_snapshot_v01"
+}

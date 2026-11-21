@@ -1,0 +1,18 @@
+{
+  "batch_id": "2026-10-12_overnight_v01",
+  "scheduled_slot": "2026-10-12T23:00:00+05:30",
+  "runs": [
+    "research/runs/2026-10-12_overnight_v01/routine_01/routine_01_a01",
+    "research/runs/2026-10-12_overnight_v01/routine_02/routine_02_a01",
+    "research/runs/2026-10-12_overnight_v01/routine_03/routine_03_a01",
+    "research/runs/2026-10-12_overnight_v01/routine_04/routine_04_a01",
+    "research/runs/2026-10-12_overnight_v01/routine_05/routine_05_a01"
+  ],
+  "status": "BLOCKED_DUE_RESEARCH",
+  "new_material_findings": false,
+  "repeat_notifications_suppressed": true,
+  "registry_ref": {
+    "path": "research/runs/2026-10-05_to_2026-10-11_news_v01/routine_04/routine_04_a01",
+    "manifest_sha256": "ec584ecd10f502a1505593032547080c9947b72ce17f880cade50979b08364fe"
+  }
+}

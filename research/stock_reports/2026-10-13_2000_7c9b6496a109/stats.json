@@ -1,0 +1,51 @@
+{
+  "cutoff_at": "2026-10-13T20:00:00+05:30",
+  "compiled_at": "2026-10-13T20:29:51.720972+05:30",
+  "official_eod_session": "2026-10-13",
+  "official_file_first_seen_at": "2026-10-13T20:23:34.030816+05:30",
+  "file_available_before_cutoff_verified": false,
+  "eq_series_rows": 2691,
+  "valid_nominal_return_rows": 2691,
+  "advancers": 1620,
+  "decliners": 1038,
+  "unchanged": 33,
+  "advance_decline_ratio": 1.560693641618497,
+  "diagnostic_universe": 500,
+  "technical_evaluated": 63,
+  "quarantined": 437,
+  "new_technical_event_records": 1,
+  "fresh_technical_names": 1,
+  "stock_report_count": 35,
+  "prior_stock_count": 27,
+  "new_names": [
+    "ADANIENSOL",
+    "GOODLUCK",
+    "HCLTECH",
+    "LT",
+    "NAZARA",
+    "RBLBANK",
+    "TDPOWERSYS",
+    "VIKRAN"
+  ],
+  "retained_prior_names": 27,
+  "accepted_news_updates": 8,
+  "publication_unknown_excluded": 1,
+  "nifty500_daily_return_pct": 1.2246394244538328,
+  "indices": [
+    {
+      "Index Name": "Nifty 50",
+      "Closing Index Value": 22721.95,
+      "Change(%)": "1.6"
+    },
+    {
+      "Index Name": "Nifty 500",
+      "Closing Index Value": 22090.0,
+      "Change(%)": "1.22"
+    },
+    {
+      "Index Name": "Nifty Bank",
+      "Closing Index Value": 55481.05,
+      "Change(%)": "1.03"
+    }
+  ]
+}

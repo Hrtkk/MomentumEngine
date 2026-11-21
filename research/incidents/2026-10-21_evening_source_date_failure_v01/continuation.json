@@ -1,0 +1,8 @@
+{
+  "notice_id": "2026-10-21_evening_source_date_failure_v01",
+  "prior_report": "research/stock_reports/pipeline_2026-10-21_100000",
+  "task_id": "repair-overlay-session-mismatch-2026-10-21",
+  "owner": "Codex",
+  "completed_slot_advanced": false,
+  "report": "Evening research execution failed. Intended slot: 2026-10-21T21:00:00+05:30. Actual failure: 2026-10-22T00:40:23.915625+05:30. ValueError: Internal session date mismatch; holiday re-serves are not accepted. The failure occurred in compute_prices while validating isolated historical overlay files. No current-pass research handoffs were sealed, no Claude call ran, and the completed-slot record was not advanced. The prior 117-stock report remains available with prices dated 19 October. Codex owns source/date reconciliation; Claude research and editorial tasks remain pending. This failure notice is factual Codex reporting, not a Claude review."
+}

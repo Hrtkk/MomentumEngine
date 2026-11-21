@@ -1,0 +1,9 @@
+{
+  "run_dir": "research/stock_reports/2026-10-13_2000_7c9b6496a109",
+  "manifest_sha256": "e74cbfe73d52ba6a1b864c6b4dc158b25287747d0fda38d51da63c7e1837645e",
+  "metrics": "metrics.jsonl",
+  "signals": "signals.jsonl",
+  "evaluated": 63,
+  "quarantined": 437,
+  "fresh_scan_executed": false
+}

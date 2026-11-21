@@ -1,0 +1,10 @@
+{
+  "state": "UNKNOWN",
+  "attempted_at": "2026-10-17T06:54:21.718826+05:30",
+  "scheduled_slot": "2026-10-16T21:00:00+05:30",
+  "source_report": "research/stock_reports/pipeline_2026-10-16_210000",
+  "spreadsheet_id": "1uMgZd9anGrXOOleQlqwEHVT6zAXezsTBJxf9PnXTWK8",
+  "error": "Google Drive batch_update_spreadsheet transport closed on first batch; remote effect unknown",
+  "retry_rule": "Read fresh managed-tab values and stable IDs before retry; do not blindly repeat requests",
+  "last_verified_receipt": "research/state/sheet_publication/morning_receipt_2026-10-16.json"
+}

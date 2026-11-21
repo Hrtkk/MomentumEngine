@@ -1,0 +1,26 @@
+[
+  {
+    "path": "experiments/e2_strategies.py",
+    "expected_prefix": "b1a43b0979b46e1d",
+    "actual_sha256": "b1a43b0979b46e1dffce8926323be0bc20205c1626ff29d14316a6d1287cc144",
+    "matches": true
+  },
+  {
+    "path": "experiments/sim.py",
+    "expected_prefix": "4914041ef1b36f00",
+    "actual_sha256": "4914041ef1b36f0022957ba2809c5110bc8179a561a80fc97d8c78f7809a1839",
+    "matches": true
+  },
+  {
+    "path": "experiments/panels.py",
+    "expected_prefix": "e9290eb171614c71",
+    "actual_sha256": "e9290eb171614c71ef1f98ea5de64de63e4f3ce2c5110554da1e1c74e21dab3f",
+    "matches": true
+  },
+  {
+    "path": "experiments/pit_panels.py",
+    "expected_prefix": "51ba12760f8a63ef",
+    "actual_sha256": "51ba12760f8a63ef671bb94c5ea1ed82bc5783be2167db551c0938d0b059a53d",
+    "matches": true
+  }
+]

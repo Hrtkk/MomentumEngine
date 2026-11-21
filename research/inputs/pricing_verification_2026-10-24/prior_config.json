@@ -1,0 +1,12 @@
+{
+  "verified_date": "2026-10-15",
+  "source_url": "https://platform.claude.com/docs/en/about-claude/pricing",
+  "scope": "Overlay API-equivalent accounting proxy; not a Max subscription invoice",
+  "envelope_input_per_million_usd": 33.0,
+  "envelope_output_per_million_usd": 82.5,
+  "envelope_basis": "Conservative highest listed legacy Opus base rate, 2x input cache-write allowance and 1.1x geography modifier. Fast mode disabled. Configured default model retained.",
+  "input_token_reservation": 20000,
+  "output_token_reservation": 4000,
+  "per_call_reservation_usd": 1.10,
+  "expires_after_days": 7
+}

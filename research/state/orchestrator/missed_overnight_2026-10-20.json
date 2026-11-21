@@ -1,0 +1,18 @@
+{
+  "status": "LATE_DEFERRED",
+  "intended_slot": "2026-10-20T23:00:00+05:30",
+  "deadline_at": "2026-10-21T01:00:00+05:30",
+  "checked_at": "2026-10-21T05:56:20.385450+05:30",
+  "execution_lane": "OVERNIGHT",
+  "completed": false,
+  "reason": "No completed overnight-slot record; trigger arrived at 01:55 IST after the original stop time. Root cause of delayed dispatch is unverified.",
+  "model_calls": 0,
+  "source_collection_calls": 0,
+  "next_scheduled_slot": "2026-10-21T10:00:00+05:30",
+  "next_action": "Morning consumes latest sealed evening artifacts; retain pending Claude dossier/table/monitor and weekly reconciliation owners for next eligible overnight allocation",
+  "prior_report": "research/stock_reports/pipeline_2026-10-20_210000",
+  "prior_market_asof": "2026-10-19",
+  "notification_key": "missed-overnight-2026-10-20",
+  "completed_slots_unchanged": true,
+  "sheet_unchanged": true
+}

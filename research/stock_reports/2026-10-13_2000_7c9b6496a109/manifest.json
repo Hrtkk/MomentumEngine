@@ -1,0 +1,42 @@
+{
+  "committed": true,
+  "signature": "7c9b6496a109",
+  "artifacts": [
+    {
+      "path": "cutoff_exclusions.jsonl",
+      "sha256": "f51da3941659e0d5ad647869f7c7c0426928412acfd7cee07471a041c29dd7ee"
+    },
+    {
+      "path": "handoff.json",
+      "sha256": "4068405256cc3aed3ef6760f0f48e07661007306bc1489f9c97243915f663609"
+    },
+    {
+      "path": "metrics.jsonl",
+      "sha256": "bbc0ece2b46d1b57269551109fbd213e9f0b535fa314178a1dbc750d970182d8"
+    },
+    {
+      "path": "news_updates.jsonl",
+      "sha256": "8e2c3ae438d55145e7467b0d7a5e4bca2841adc8133afb8f4a52087e2b376a34"
+    },
+    {
+      "path": "quarantine.jsonl",
+      "sha256": "e2e5045f5133505e758e742b16ce9a773b8f3b1cfc21b83f6a46acb9f6b3654e"
+    },
+    {
+      "path": "report.md",
+      "sha256": "cdcccde0bb297f147abe480967010c28d88936751ab4703755ca8ccecb0a1b06"
+    },
+    {
+      "path": "signals.jsonl",
+      "sha256": "111962214825d1d2ca131132d8dfa9b5f55844cf2ab4a947be44e14ef41a33bb"
+    },
+    {
+      "path": "stats.json",
+      "sha256": "1bda2d27c3a4da61cdb5a38f8ec4b6ffa7824aeaf9cbab02cc4b2d112a911e8c"
+    },
+    {
+      "path": "stocks.jsonl",
+      "sha256": "f88869f4be46452870723b29aec23fdfb23c8493225fe88cc73a3641de577bf8"
+    }
+  ]
+}

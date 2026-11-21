@@ -1,0 +1,9 @@
+{
+  "url": "https://www.nseindia.com/api/corporate-announcements?index=equities&from_date=29-10-2026&to_date=30-10-2026",
+  "sha256": "a40ed7639da6b5c6dd6d86d10f38a7a0112078b83445387ff5b645b3e61b679a",
+  "bytes": 1308491,
+  "retrieved_at": "2026-11-02T10:00:17.599920+05:30",
+  "publication_at": null,
+  "content_type": "application/json; charset=utf-8",
+  "budget_request_id": "source-aea1b0c6901944f0a485c20125a98112"
+}

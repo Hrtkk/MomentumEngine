@@ -1,0 +1,10 @@
+[
+  {
+    "name": "corporate_actions.json",
+    "url": "https://www.nseindia.com/api/corporates-corporateActions?index=equities&from_date=10-10-2026&to_date=13-10-2026",
+    "status": 200,
+    "retrieved_at": "2026-10-13T20:25:41.084385+05:30",
+    "records": 1,
+    "sha256": "46535263e5a577bf422726a9defc3b7d4dd3eace60584bd83b5e778c0b483017"
+  }
+]

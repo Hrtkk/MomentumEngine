@@ -1,0 +1,771 @@
+{
+  "schema_version": "1.1",
+  "routine_id": "routine_01",
+  "batch_id": "pipeline_2026-11-05_100000",
+  "run_id": "routine_01_a01",
+  "session_date": "2026-11-04",
+  "scheduled_slot": "2026-11-05T10:00:00+05:30",
+  "cutoff_at": "2026-11-05T10:00:00+05:30",
+  "started_at": "2026-11-05T11:57:29.799968+05:30",
+  "completed_at": "2026-11-05T11:57:31.849501+05:30",
+  "timezone": "Asia/Kolkata",
+  "deadline_at": "2026-11-05T10:15:00+05:30",
+  "deadline_missed": true,
+  "status": "PARTIAL",
+  "result": "CHANGED",
+  "execution_lane": "FAST",
+  "production_eligible": false,
+  "readiness_ref": "readiness.json",
+  "budget_ref": "budget_snapshot.json",
+  "budget_usage": {
+    "paid_cli_calls": 0,
+    "cost_proxy_usd": 0
+  },
+  "owner": "Codex",
+  "executor": "Codex",
+  "reviewer": "Claude",
+  "review_status": "PENDING",
+  "previous_success_run_id": null,
+  "previous_committed_run": {
+    "run_dir": "research/runs/pipeline_2026-11-04_230000/routine_01/routine_01_a01",
+    "manifest_sha256": "7798efe60c189c48368dbeb13ec606edee260031d29cd8fd99e61beec32cf7c1"
+  },
+  "supersedes_run_id": null,
+  "bootstrap": false,
+  "upstream_runs": [
+    {
+      "run_dir": "research/runs/pipeline_2026-11-04_230000/routine_01/routine_01_a01",
+      "manifest_sha256": "7798efe60c189c48368dbeb13ec606edee260031d29cd8fd99e61beec32cf7c1"
+    },
+    {
+      "run_dir": "research/runs/pipeline_2026-11-04_230000/routine_02/routine_02_a01",
+      "manifest_sha256": "d48709b076282e6676d511c07ca52ef5a10249cce5ea304362771fc76f1323bf"
+    },
+    {
+      "run_dir": "research/runs/pipeline_2026-11-04_230000/routine_03/routine_03_a01",
+      "manifest_sha256": "78a5c0a15b671584f7707ce9d95aee980fb02773cf5e9cd68f0fff3d7d8b8813"
+    },
+    {
+      "run_dir": "research/runs/pipeline_2026-11-04_230000/routine_04/routine_04_a01",
+      "manifest_sha256": "ffcfaa8a7fc4de164d71a0cb6b67f8ba77a37cded8890e84c40530e24e56cfb4"
+    },
+    {
+      "run_dir": "research/runs/pipeline_2026-11-04_230000/routine_05/routine_05_a01",
+      "manifest_sha256": "cb35568c784321c23cb8eeb25c5186b1bba18a51f1e2bfd20520b5d70703bc53"
+    }
+  ],
+  "input_versions": {
+    "research/inputs/2026-11-04_runtime_v01/BSE_results.pdf": "3ff99d4b0e671e041b8558b7c7b5e1754daae129488847459c40d7ad053900c8",
+    "research/inputs/2026-11-04_runtime_v01/udiff_2026-11-04.zip": "786376fb2ac82733f8582989a89ae0270cee84635676405e7461b9afef0d6a96",
+    "research/inputs/2026-11-04_runtime_v01/index_2026-11-04.csv.source.json": "df4d349f9c4179b2ee8721717fb05823009be915791d898e707924da86643896",
+    "research/inputs/2026-11-04_runtime_v01/claude_failure.json": "05af4e8c5645cf9bb64b6dcd1d8bceaafb11c3ce673e94a56d5b08cc3319c161",
+    "research/inputs/2026-11-04_runtime_v01/HEGAM_results.txt": "ec5f53675a1499af647335c02f9f8bf90f9fbd44e3209f6da9de0cf0f3bef51e",
+    "research/inputs/2026-11-04_runtime_v01/bhav_2026-11-04.csv.source.json": "cae12baf4fcce1adc5e18b756a56335c120cc5e551d281db0131adb78b5bbb5e",
+    "research/inputs/2026-11-04_runtime_v01/announcements.json.source.json": "65daec0f5e72094d54a167de97961d06bbd1b9462acae863a3c63f9052de7808",
+    "research/inputs/2026-11-04_runtime_v01/BSE_results.txt": "53a3cccd2a57b4fcf4458a7acd752365079d990fa39889bd88bb872b3c6e4c23",
+    "research/inputs/2026-11-04_runtime_v01/index_2026-11-04.csv": "30a01b3e8b7d4240f9e4fa3c856e1af2b26257a0c02a23b21f64aea4fa0119ad",
+    "research/inputs/2026-11-04_runtime_v01/HEGAM_results.pdf": "520e508939c01d6e4eabf18576a2a76207b1ccb8aad669820c115af197154fd0",
+    "research/inputs/2026-11-04_runtime_v01/HEGAM_results.pdf.source.json": "79996c1445ae036836db29a42a59a60b0fe39b6f4c09db320df435fdf1e14a8e",
+    "research/inputs/2026-11-04_runtime_v01/announcements.json": "ae7bfe8dea7bf7ff9ce18a9dc0edd2dbfcdc024fb2bb7482f4132c9fcd93f89f",
+    "research/inputs/2026-11-04_runtime_v01/FRACTAL_results.pdf.source.json": "e908985f5fa0f201f0aafe6b4e357cf85ae3c10f9391e24f39166f6c599ac9f4",
+    "research/inputs/2026-11-04_runtime_v01/FRACTAL_results.pdf": "090fcc52156870407fe1e0ee1a64c298218808230f5412b328a076f956097a9f",
+    "research/inputs/2026-11-04_runtime_v01/BSE_results.pdf.source.json": "c7475816ead32e342a583bdd6665431ef047c3295039faf297e699e5f1f9164d",
+    "research/inputs/2026-11-04_runtime_v01/metadata_backlog.jsonl": "471588a2407003016dce56b29db30aadad413c523e8ba39a6ed39f71957a47ce",
+    "research/inputs/2026-11-04_runtime_v01/udiff_2026-11-04.zip.source.json": "b8936148c594c42faffab507d39f3d402e44cd31151c412ec5548f13f6e5cd36",
+    "research/inputs/2026-11-04_runtime_v01/bhav_2026-11-04.csv": "eba68f9e211dcf5b2e349acdf58240dcb06e2fc92b30dc1aafdc15b1efc3df47",
+    "research/inputs/2026-11-04_runtime_v01/actions.json.source.json": "f0433e6ac34a3a35d8db3bfbb57d6d8d0bb8c0e67839d52ebb99202a7f57faef",
+    "research/inputs/2026-11-04_runtime_v01/actions.json": "45f5a6d9120f657be1a3494ddca72c5d5bab15ac7de80b395f277b69c14f52ac",
+    "research/inputs/2026-11-04_runtime_v01/FRACTAL_results.txt": "8abd41c00f0a32a991a19c3cbcdbc3bf36e9f9ccbf1c2ce3b1344eaa56587900",
+    "CLAUDE.md": "86ae641fd691eb46e077cd3fc935347971457efad1dd52d043b0e0349e6c331f",
+    "ROADMAP.md": "d8d45cc71a0c869433acce43540329c5105ad68eea0adfcc63824d8b53702e67",
+    "research/operating_schedule.md": "1842e3b61cde6b475c6b226d8404f40e07c26f88613e4e5eb7c5d23d2acb4202",
+    "research/03_watchlist_monitor_plan.md": "2174a16ef8142fcb6065de84e887b8cb0290a81305df1b9a8c6f31907baa7959",
+    "research/04_news_intelligence_plan.md": "64a14528d74ba89df74dd1f8e3592e64aa011cc3941e256d7aa5b2c91f06d855",
+    "research/01_market_movers_plan.md": "5a3181cfa84a31d1b266ece098f4c954af835c5a87e7d0ec1c1fa2931517de8c",
+    "research/05_report_generator_plan.md": "2136b9a7c9ac0e672f450f4cd4ee93e682fa5b6bd672978e17118c096c894979",
+    "research/02_watchlist_builder_plan.md": "7a8c87effaa1d696bf90a3029c28f13709433f887c1926ba95873969392d1f00"
+  },
+  "config_version": "pipeline-1",
+  "code_revision": "b0a3a2bfa25b85dffb7a83fc64611385073df2d2ddf56b0b0bb2019da156a1a2",
+  "coverage": {
+    "current_eod_batch_present": false,
+    "isolated_official_eod_available": true,
+    "official_session_internally_verified": "2026-11-04",
+    "raw_and_udiff_prices_reconciled": true,
+    "identity_scope": "current EQ/STK INE identities only",
+    "calendar_certified": false,
+    "phase0_certified": false,
+    "budget_accounting_available": true,
+    "claude": {
+      "status": "NOT_CHECKED",
+      "checked_at": null
+    },
+    "claude_analysis_available": false,
+    "claude_executed": false,
+    "claude_analysis_reused": false,
+    "financial_tables_verified": 3,
+    "independent_results_candidates": 207,
+    "provisional_dossiers": 3,
+    "metadata_deferred": 469,
+    "monitor_baselines": 3,
+    "paper_positions_inventoried": 15,
+    "unknown_real_holdings": true,
+    "reconciliation_mode": "ORDINARY",
+    "limitations": [
+      "Historical calendar/identity/entitlement/sector coverage remains uncertified",
+      "Results metadata does not pass financial/valuation gates; unverified tables remain unknown",
+      "No production qualification or paper-book mutation"
+    ]
+  },
+  "freshness": {
+    "market_asof": "2026-11-04",
+    "collected_after_effective_dates": true
+  },
+  "limitations": [
+    "Official 2026-11-04 prices reconciled; 0/500 technical diagnostics; historical gates remain open",
+    "Historical calendar/identity/entitlement/sector coverage remains uncertified",
+    "Results metadata does not pass financial/valuation gates; unverified tables remain unknown",
+    "No production qualification or paper-book mutation"
+  ],
+  "artifacts": [
+    {
+      "path": "budget_snapshot.json",
+      "sha256": "fdd5e765ea9bd545b9e68d09aa927d2f5fcdb5d2792723983c57ae02a6307608"
+    },
+    {
+      "path": "metrics.jsonl",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "open_tasks.jsonl",
+      "sha256": "2651bf33122b87d685a4c5518c2d4e9ebdfdbba37a464f2cc0bb9e76bb3f4460"
+    },
+    {
+      "path": "quarantine.jsonl",
+      "sha256": "b9d9f13a9aa3da59312710656a953083b9e7293162bc92b6dbc286e35bf569a3"
+    },
+    {
+      "path": "readiness.json",
+      "sha256": "474a4c543cc0b8cf537e5ed7929d57259315076d71f0a181370f20b5d442b533"
+    },
+    {
+      "path": "report.md",
+      "sha256": "9a772dd5ed3a3a17c7ad9589ac85b4dfc265f87fc948cc8e6aaaa24624e7ccb3"
+    },
+    {
+      "path": "signals.jsonl",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    }
+  ],
+  "source_cursors": {},
+  "processed_event_ids": [],
+  "deferred_counts": {
+    "dossiers_missing": 850
+  },
+  "open_tasks": [
+    {
+      "task_id": "auth-context",
+      "owner": "Codex",
+      "security_id": null,
+      "description": "Verify Claude login in the unattended permitted execution context",
+      "priority": "P1",
+      "status": "BLOCKED",
+      "created_run_id": "2026-10-12_morning_v01",
+      "due_at": null,
+      "trigger": "before next eligible production pass",
+      "blocking_reason": "Sandbox status is unauthenticated; prior external login succeeded",
+      "evidence_refs": [
+        "research/operating_schedule.md"
+      ]
+    },
+    {
+      "task_id": "eod-required-2026-10-12",
+      "owner": "Codex",
+      "security_id": null,
+      "description": "Verify required dated EOD artifacts and session calendar before current-session scans",
+      "priority": "P1",
+      "status": "BLOCKED",
+      "created_run_id": "2026-10-12_evening_health_v01",
+      "due_at": null,
+      "trigger": "valid EOD inputs available",
+      "blocking_reason": "No 2026-10-12 EOD batch or raw bhavcopy in repository; calendar not certified",
+      "evidence_refs": [
+        "readiness.json"
+      ]
+    },
+    {
+      "task_id": "r1-benchmarks",
+      "owner": "Codex",
+      "security_id": null,
+      "description": "Verify benchmark/sector input series",
+      "priority": "P1",
+      "status": "BLOCKED",
+      "created_run_id": "routine_01_a01",
+      "due_at": null,
+      "trigger": "before production run",
+      "blocking_reason": "Verify benchmark/sector input series",
+      "evidence_refs": [
+        "ROADMAP.md"
+      ]
+    },
+    {
+      "task_id": "r1-budget",
+      "owner": "Codex",
+      "security_id": null,
+      "description": "Implement shared metered-call accounting",
+      "priority": "P1",
+      "status": "DONE",
+      "created_run_id": "routine_01_a01",
+      "due_at": null,
+      "trigger": "before production run",
+      "blocking_reason": null,
+      "evidence_refs": [
+        "readiness.json",
+        "budget_snapshot.json"
+      ],
+      "resolution": "Implemented scope evidenced by this batch; production qualification remains gated"
+    },
+    {
+      "task_id": "r1-readiness",
+      "owner": "Codex",
+      "security_id": null,
+      "description": "Certify applicable Phase 0 data gates",
+      "priority": "P1",
+      "status": "BLOCKED",
+      "created_run_id": "routine_01_a01",
+      "due_at": null,
+      "trigger": "before production run",
+      "blocking_reason": "Certify applicable Phase 0 data gates",
+      "evidence_refs": [
+        "ROADMAP.md"
+      ]
+    },
+    {
+      "task_id": "r1-review",
+      "owner": "Claude",
+      "security_id": null,
+      "description": "Review diagnostic after budget readiness",
+      "priority": "P1",
+      "status": "OPEN",
+      "created_run_id": "routine_01_a01",
+      "due_at": null,
+      "trigger": "before production run",
+      "blocking_reason": "Technical interpretation was not part of the executed financial packet; retain assigned Claude review",
+      "evidence_refs": [
+        "readiness.json",
+        "budget_snapshot.json"
+      ],
+      "resolution": null
+    },
+    {
+      "task_id": "r2-bootstrap",
+      "owner": "Codex",
+      "security_id": null,
+      "description": "Implement and seed a provenance-backed research registry",
+      "priority": "P1",
+      "status": "DONE",
+      "created_run_id": "2026-10-12_morning_v01",
+      "due_at": null,
+      "trigger": "before next eligible production pass",
+      "blocking_reason": null,
+      "evidence_refs": [
+        "readiness.json",
+        "budget_snapshot.json"
+      ],
+      "resolution": "Implemented scope evidenced by this batch; production qualification remains gated"
+    },
+    {
+      "task_id": "r3-thesis-baselines",
+      "owner": "Claude",
+      "security_id": null,
+      "description": "Document per-company assumptions and monitor triggers",
+      "priority": "P1",
+      "status": "OPEN",
+      "created_run_id": "2026-10-12_morning_v01",
+      "due_at": null,
+      "trigger": "before next eligible production pass",
+      "blocking_reason": "Three provisional baselines implemented; expand company coverage with verified evidence",
+      "evidence_refs": [
+        "research/operating_schedule.md"
+      ]
+    },
+    {
+      "task_id": "r4-claude-interpretation",
+      "owner": "Claude",
+      "security_id": null,
+      "description": "Assess economic significance of verified packet",
+      "priority": "P1",
+      "status": "DONE",
+      "created_run_id": "routine_04_a01",
+      "due_at": null,
+      "trigger": "budget and authorized auth context ready",
+      "blocking_reason": null,
+      "evidence_refs": [
+        "readiness.json",
+        "budget_snapshot.json"
+      ],
+      "resolution": "Implemented scope evidenced by this batch; production qualification remains gated"
+    },
+    {
+      "task_id": "r4-seven-day",
+      "owner": "Claude",
+      "security_id": null,
+      "description": "Complete interpretation of 5–11 October evidence after prerequisites",
+      "priority": "P1",
+      "status": "BLOCKED",
+      "created_run_id": "2026-10-12_morning_v01",
+      "due_at": null,
+      "trigger": "before next eligible production pass",
+      "blocking_reason": "Collection in progress; no sealed R4 input; budget controls absent",
+      "evidence_refs": [
+        "research/operating_schedule.md"
+      ]
+    },
+    {
+      "task_id": "r4-tender-archive",
+      "owner": "Codex",
+      "security_id": null,
+      "description": "Obtain dated procurement/award history for requested window",
+      "priority": "P1",
+      "status": "OPEN",
+      "created_run_id": "routine_04_a01",
+      "due_at": null,
+      "trigger": "next R4 pass",
+      "blocking_reason": "live listing lacks verified publication history",
+      "evidence_refs": [
+        "https://eprocure.gov.in/epublish/app"
+      ]
+    },
+    {
+      "task_id": "r5-editorial",
+      "owner": "Claude",
+      "security_id": null,
+      "description": "Draft the final brief once input and budget gates pass",
+      "priority": "P1",
+      "status": "DONE",
+      "created_run_id": "2026-10-12_morning_v01",
+      "due_at": null,
+      "trigger": "before next eligible production pass",
+      "blocking_reason": null,
+      "evidence_refs": [
+        "readiness.json",
+        "budget_snapshot.json"
+      ],
+      "resolution": "Implemented scope evidenced by this batch; production qualification remains gated"
+    },
+    {
+      "task_id": "verify-anandrathi",
+      "owner": "Codex",
+      "security_id": null,
+      "description": "Retrieve original Q2/H1 FY27 results and resolve apparent unit/identity inconsistencies.",
+      "priority": "P1",
+      "status": "OPEN",
+      "created_run_id": "routine_04_a01",
+      "due_at": null,
+      "trigger": "next R4 verification pass",
+      "blocking_reason": "original/source/financial context incomplete",
+      "evidence_refs": [
+        "evidence-anandrathi"
+      ]
+    },
+    {
+      "task_id": "verify-cancer-pricing",
+      "owner": "Codex",
+      "security_id": null,
+      "description": "Get the notified molecule/brand list and company revenue/margin exposure. Patient savings are not government capex.",
+      "priority": "P1",
+      "status": "OPEN",
+      "created_run_id": "routine_04_a01",
+      "due_at": null,
+      "trigger": "next R4 verification pass",
+      "blocking_reason": "original/source/financial context incomplete",
+      "evidence_refs": [
+        "evidence-cancer-pricing"
+      ]
+    },
+    {
+      "task_id": "verify-dmart",
+      "owner": "Codex",
+      "security_id": null,
+      "description": "Retrieve audited quarterly/half-year filing; keep standalone and consolidated bases separate.",
+      "priority": "P1",
+      "status": "OPEN",
+      "created_run_id": "routine_04_a01",
+      "due_at": null,
+      "trigger": "next R4 verification pass",
+      "blocking_reason": "original/source/financial context incomplete",
+      "evidence_refs": [
+        "evidence-dmart"
+      ]
+    },
+    {
+      "task_id": "verify-kec1014",
+      "owner": "Codex",
+      "security_id": null,
+      "description": "Reconcile exchange filing dates and economic-event identity; do not sum the two announcements yet.",
+      "priority": "P1",
+      "status": "OPEN",
+      "created_run_id": "routine_04_a01",
+      "due_at": null,
+      "trigger": "next R4 verification pass",
+      "blocking_reason": "original/source/financial context incomplete",
+      "evidence_refs": [
+        "evidence-kec1014"
+      ]
+    },
+    {
+      "task_id": "c0-monitor-coverage",
+      "owner": "Codex",
+      "security_id": null,
+      "description": "Include C0 portfolio variants in a certified trigger/exposure layer",
+      "priority": "P2",
+      "status": "OPEN",
+      "created_run_id": "2026-10-12_evening_health_v01",
+      "due_at": null,
+      "trigger": "monitor implementation readiness",
+      "blocking_reason": "No certified per-portfolio thesis/trigger layer; C0 exposure checks pending",
+      "evidence_refs": [
+        "ledgers/state.json"
+      ]
+    },
+    {
+      "task_id": "verify-ashoka",
+      "owner": "Codex",
+      "security_id": null,
+      "description": "Retrieve original contract scope, value/tax basis and dated annual financials.",
+      "priority": "P2",
+      "status": "OPEN",
+      "created_run_id": "routine_04_a01",
+      "due_at": null,
+      "trigger": "next R4 verification pass",
+      "blocking_reason": "original/source/financial context incomplete",
+      "evidence_refs": [
+        "evidence-ashoka"
+      ]
+    },
+    {
+      "task_id": "verify-bajel",
+      "owner": "Codex",
+      "security_id": null,
+      "description": "Verify the original filing, value band, related-party terms and project schedule.",
+      "priority": "P2",
+      "status": "OPEN",
+      "created_run_id": "routine_04_a01",
+      "due_at": null,
+      "trigger": "next R4 verification pass",
+      "blocking_reason": "original/source/financial context incomplete",
+      "evidence_refs": [
+        "evidence-bajel"
+      ]
+    },
+    {
+      "task_id": "verify-brahmos",
+      "owner": "Codex",
+      "security_id": null,
+      "description": "Seek named supplier awards and contract terms; no listed-company award established here.",
+      "priority": "P2",
+      "status": "OPEN",
+      "created_run_id": "routine_04_a01",
+      "due_at": null,
+      "trigger": "next R4 verification pass",
+      "blocking_reason": "original/source/financial context incomplete",
+      "evidence_refs": [
+        "evidence-brahmos"
+      ]
+    },
+    {
+      "task_id": "verify-chennai",
+      "owner": "Codex",
+      "security_id": null,
+      "description": "Retrieve release 2321985 and package/award details before naming beneficiaries.",
+      "priority": "P2",
+      "status": "OPEN",
+      "created_run_id": "routine_04_a01",
+      "due_at": null,
+      "trigger": "next R4 verification pass",
+      "blocking_reason": "original/source/financial context incomplete",
+      "evidence_refs": [
+        "evidence-chennai"
+      ]
+    },
+    {
+      "task_id": "verify-cutoff-2026-10-13-ADANIENSOL",
+      "owner": "Codex",
+      "security_id": null,
+      "description": "Verify current signal persistence, business quality and corporate-action completeness.",
+      "priority": "P2",
+      "status": "OPEN",
+      "created_run_id": "2026-10-13_evening_snapshot_v01",
+      "due_at": null,
+      "trigger": "next eligible source verification pass",
+      "blocking_reason": "Dated primary context/identity controls require verification",
+      "evidence_refs": [
+        "research/stock_reports/2026-10-13_2000_7c9b6496a109/stocks.jsonl"
+      ]
+    },
+    {
+      "task_id": "verify-cutoff-2026-10-13-GOODLUCK",
+      "owner": "Codex",
+      "security_id": null,
+      "description": "Technical qualification is not an awarded order; seek signed award and economic terms.",
+      "priority": "P2",
+      "status": "OPEN",
+      "created_run_id": "2026-10-13_evening_snapshot_v01",
+      "due_at": null,
+      "trigger": "next eligible source verification pass",
+      "blocking_reason": "Dated primary context/identity controls require verification",
+      "evidence_refs": [
+        "research/stock_reports/2026-10-13_2000_7c9b6496a109/stocks.jsonl"
+      ]
+    },
+    {
+      "task_id": "verify-cutoff-2026-10-13-HCLTECH",
+      "owner": "Codex",
+      "security_id": null,
+      "description": "Original PDFs timed out; verify statutory results, EBIT versus EBITDA and deal conversion before adopting detailed ratios.",
+      "priority": "P2",
+      "status": "OPEN",
+      "created_run_id": "2026-10-13_evening_snapshot_v01",
+      "due_at": null,
+      "trigger": "next eligible source verification pass",
+      "blocking_reason": "Dated primary context/identity controls require verification",
+      "evidence_refs": [
+        "research/stock_reports/2026-10-13_2000_7c9b6496a109/stocks.jsonl"
+      ]
+    },
+    {
+      "task_id": "verify-cutoff-2026-10-13-LT",
+      "owner": "Codex",
+      "security_id": null,
+      "description": "Track delivery/milestone economics; this is an execution milestone, not a new order award.",
+      "priority": "P2",
+      "status": "OPEN",
+      "created_run_id": "2026-10-13_evening_snapshot_v01",
+      "due_at": null,
+      "trigger": "next eligible source verification pass",
+      "blocking_reason": "Dated primary context/identity controls require verification",
+      "evidence_refs": [
+        "research/stock_reports/2026-10-13_2000_7c9b6496a109/stocks.jsonl"
+      ]
+    },
+    {
+      "task_id": "verify-cutoff-2026-10-13-NAZARA",
+      "owner": "Codex",
+      "security_id": null,
+      "description": "Verify transition dates, dilution, proceeds and conditions from original filing.",
+      "priority": "P2",
+      "status": "OPEN",
+      "created_run_id": "2026-10-13_evening_snapshot_v01",
+      "due_at": null,
+      "trigger": "next eligible source verification pass",
+      "blocking_reason": "Dated primary context/identity controls require verification",
+      "evidence_refs": [
+        "research/stock_reports/2026-10-13_2000_7c9b6496a109/stocks.jsonl"
+      ]
+    },
+    {
+      "task_id": "verify-cutoff-2026-10-13-RBLBANK",
+      "owner": "Codex",
+      "security_id": null,
+      "description": "Reconcile provisions, deposit mix and comparability; official live table lacks an immutable publication timestamp.",
+      "priority": "P2",
+      "status": "OPEN",
+      "created_run_id": "2026-10-13_evening_snapshot_v01",
+      "due_at": null,
+      "trigger": "next eligible source verification pass",
+      "blocking_reason": "Dated primary context/identity controls require verification",
+      "evidence_refs": [
+        "research/stock_reports/2026-10-13_2000_7c9b6496a109/stocks.jsonl"
+      ]
+    },
+    {
+      "task_id": "verify-cutoff-2026-10-13-TDPOWERSYS",
+      "owner": "Codex",
+      "security_id": null,
+      "description": "Verify allotment, share dilution and use of proceeds in original filing.",
+      "priority": "P2",
+      "status": "OPEN",
+      "created_run_id": "2026-10-13_evening_snapshot_v01",
+      "due_at": null,
+      "trigger": "next eligible source verification pass",
+      "blocking_reason": "Dated primary context/identity controls require verification",
+      "evidence_refs": [
+        "research/stock_reports/2026-10-13_2000_7c9b6496a109/stocks.jsonl"
+      ]
+    },
+    {
+      "task_id": "verify-cutoff-2026-10-13-VIKRAN",
+      "owner": "Codex",
+      "security_id": null,
+      "description": "Verify subsidiary exposure, debt obligations, equity contribution and disbursement conditions; loan is not revenue.",
+      "priority": "P2",
+      "status": "OPEN",
+      "created_run_id": "2026-10-13_evening_snapshot_v01",
+      "due_at": null,
+      "trigger": "next eligible source verification pass",
+      "blocking_reason": "Dated primary context/identity controls require verification",
+      "evidence_refs": [
+        "research/stock_reports/2026-10-13_2000_7c9b6496a109/stocks.jsonl"
+      ]
+    },
+    {
+      "task_id": "verify-gst",
+      "owner": "Codex",
+      "security_id": null,
+      "description": "Verify legal effective dates, company exposure and actual refund collection.",
+      "priority": "P2",
+      "status": "OPEN",
+      "created_run_id": "routine_04_a01",
+      "due_at": null,
+      "trigger": "next R4 verification pass",
+      "blocking_reason": "original/source/financial context incomplete",
+      "evidence_refs": [
+        "evidence-gst"
+      ]
+    },
+    {
+      "task_id": "verify-ircon",
+      "owner": "Codex",
+      "security_id": null,
+      "description": "Retrieve contract and verify recurring scope, start date, pricing and execution costs.",
+      "priority": "P2",
+      "status": "OPEN",
+      "created_run_id": "routine_04_a01",
+      "due_at": null,
+      "trigger": "next R4 verification pass",
+      "blocking_reason": "original/source/financial context incomplete",
+      "evidence_refs": [
+        "evidence-ircon"
+      ]
+    },
+    {
+      "task_id": "verify-itla",
+      "owner": "Codex",
+      "security_id": null,
+      "description": "Track implementation rules and identifiable project approvals; no listed beneficiary established.",
+      "priority": "P2",
+      "status": "OPEN",
+      "created_run_id": "routine_04_a01",
+      "due_at": null,
+      "trigger": "next R4 verification pass",
+      "blocking_reason": "original/source/financial context incomplete",
+      "evidence_refs": [
+        "evidence-itla"
+      ]
+    },
+    {
+      "task_id": "verify-kec1030",
+      "owner": "Codex",
+      "security_id": null,
+      "description": "Verify incremental scope, execution periods, customer concentration, margins and latest dated revenue.",
+      "priority": "P2",
+      "status": "OPEN",
+      "created_run_id": "routine_04_a01",
+      "due_at": null,
+      "trigger": "next R4 verification pass",
+      "blocking_reason": "original/source/financial context incomplete",
+      "evidence_refs": [
+        "evidence-kec1030"
+      ]
+    },
+    {
+      "task_id": "verify-ncc",
+      "owner": "Codex",
+      "security_id": null,
+      "description": "Retrieve original award disclosure and compare order value with dated revenue/backlog.",
+      "priority": "P2",
+      "status": "OPEN",
+      "created_run_id": "routine_04_a01",
+      "due_at": null,
+      "trigger": "next R4 verification pass",
+      "blocking_reason": "original/source/financial context incomplete",
+      "evidence_refs": [
+        "evidence-ncc"
+      ]
+    },
+    {
+      "task_id": "verify-sepc",
+      "owner": "Codex",
+      "security_id": null,
+      "description": "Retrieve original filing and August LOA; reconcile value net of tax credits and funding/execution terms.",
+      "priority": "P2",
+      "status": "OPEN",
+      "created_run_id": "routine_04_a01",
+      "due_at": null,
+      "trigger": "next R4 verification pass",
+      "blocking_reason": "original/source/financial context incomplete",
+      "evidence_refs": [
+        "evidence-sepc"
+      ]
+    },
+    {
+      "task_id": "verify-sme-fund",
+      "owner": "Codex",
+      "security_id": null,
+      "description": "Obtain fund launch, allocation and named-investee disclosures.",
+      "priority": "P2",
+      "status": "OPEN",
+      "created_run_id": "routine_04_a01",
+      "due_at": null,
+      "trigger": "next R4 verification pass",
+      "blocking_reason": "original/source/financial context incomplete",
+      "evidence_refs": [
+        "evidence-sme-fund"
+      ]
+    },
+    {
+      "task_id": "verify-tcs",
+      "owner": "Codex",
+      "security_id": null,
+      "description": "Reconcile statutory Ind AS/IFRS results, exceptional items and currency effects before comparing profit-growth headlines.",
+      "priority": "P2",
+      "status": "OPEN",
+      "created_run_id": "routine_04_a01",
+      "due_at": null,
+      "trigger": "next R4 verification pass",
+      "blocking_reason": "original/source/financial context incomplete",
+      "evidence_refs": [
+        "evidence-tcs"
+      ]
+    },
+    {
+      "task_id": "verify-veerai",
+      "owner": "Codex",
+      "security_id": null,
+      "description": "Track funding conditions and partners; do not assign the support to unrelated listed semiconductor firms.",
+      "priority": "P2",
+      "status": "OPEN",
+      "created_run_id": "routine_04_a01",
+      "due_at": null,
+      "trigger": "next R4 verification pass",
+      "blocking_reason": "original/source/financial context incomplete",
+      "evidence_refs": [
+        "evidence-veerai"
+      ]
+    },
+    {
+      "task_id": "repository-write-permission-2026-10-15",
+      "owner": "Codex",
+      "priority": "P1",
+      "status": "DONE",
+      "security_id": null,
+      "description": "Restore repository checkpoint access",
+      "created_run_id": "2026-10-15_morning_persistence_blocked_v01",
+      "due_at": null,
+      "trigger": "repository writes available",
+      "blocking_reason": null,
+      "resolution": "Write probe and immutable batch persistence succeeded",
+      "evidence_refs": [
+        "readiness.json"
+      ]
+    }
+  ],
+  "resolved_task_ids": [
+    "r1-budget",
+    "r2-bootstrap",
+    "repository-write-permission-2026-10-15"
+  ],
+  "next_run": {
+    "instructions": "Collect dated sources, reserve usage, process changed dossiers, evaluate prior baselines and publish Sheet."
+  }
+}

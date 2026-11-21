@@ -1,0 +1,36 @@
+{
+  "committed": true,
+  "schema_version": "1.1",
+  "batch_id": "2026-10-14_morning_v01",
+  "run_id": "routine_04_a01",
+  "artifacts": [
+    {
+      "path": "events.jsonl",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "open_tasks.jsonl",
+      "sha256": "a09e1d717a3862e67c3a24b1d845c1aeaf1e7ee1bcdf554616ef36019ec4acc0"
+    },
+    {
+      "path": "readiness.json",
+      "sha256": "8f24b90675f74f516ccc06f909070ae62f4f09cbf46552ea8b1f5609b038bdc4"
+    },
+    {
+      "path": "registry_ref.json",
+      "sha256": "89fe51ac3bcc582d80dbb72f675eb420c10196b6727cad115c9a62a122c0e6c1"
+    },
+    {
+      "path": "report.md",
+      "sha256": "1e6cf605b9df7de9a0a1a3c5b248273e7603d63ec5f88863bbf346e58363d7b2"
+    },
+    {
+      "path": "stock_report_ref.json",
+      "sha256": "1e8524687b8b33e47ca409a67f323759f986f73b5966d074b3fb189822d452e5"
+    },
+    {
+      "path": "handoff.json",
+      "sha256": "e94d87e91a04eb1c2ac7a52eb972c610fa71f2ac6b4bf856047d4163a86a1cf4"
+    }
+  ]
+}

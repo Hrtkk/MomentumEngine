@@ -1,0 +1,29 @@
+{
+  "schema_version": "1.1",
+  "artifact_kind": "FACTUAL_STOCK_QUEUE",
+  "status": "PARTIAL",
+  "production_eligible": false,
+  "compiled_at": "2026-10-13T10:29:40.256289+05:30",
+  "executor": "Codex deterministic compiler",
+  "claude_interpretation_executed": false,
+  "stock_count": 27,
+  "technical_count": 18,
+  "company_event_stock_count": 9,
+  "market_asof": "2026-10-09",
+  "news_window": [
+    "2026-10-05",
+    "2026-10-11"
+  ],
+  "upstream_runs": [
+    {
+      "run_dir": "research/runs/2026-10-09_diagnostic_f851eb37ee38/routine_01/routine_01_a01",
+      "manifest_sha256": "690951fe85e9cb1c02cb8261cbc6839b5c1e3d4607ec98d64e030e5909b46998"
+    },
+    {
+      "run_dir": "research/runs/2026-10-05_to_2026-10-11_news_v01/routine_04/routine_04_a01",
+      "manifest_sha256": "ec584ecd10f502a1505593032547080c9947b72ce17f880cade50979b08364fe"
+    }
+  ],
+  "metered_calls": 0,
+  "next_run": "Use latest committed evidence; retain source dates, verification gaps and owner queue. Never promote these leads automatically."
+}

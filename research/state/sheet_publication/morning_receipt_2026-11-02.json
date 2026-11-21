@@ -1,0 +1,21 @@
+{
+  "state": "VERIFIED",
+  "verified_at": "2026-11-02T10:04:25.152121+05:30",
+  "spreadsheet_id": "1uMgZd9anGrXOOleQlqwEHVT6zAXezsTBJxf9PnXTWK8",
+  "source_ref": {
+    "run_dir": "research/stock_reports/pipeline_2026-11-02_100000",
+    "manifest_sha256": "c8c8048bed9389442c85c93982a035efd3a7da53dbd33266f481e3832cd94ecc"
+  },
+  "row_counts": {
+    "Research Tasks": 40,
+    "Routine Runs": 142,
+    "Research Dashboard": 17,
+    "Research Stocks": 518,
+    "Research Briefs": 21
+  },
+  "source_asof": "2026-10-30",
+  "scheduled_slot": "2026-11-02T10:00:00+05:30",
+  "report_parts": 3,
+  "publication_method": "Only supplied cells updated with start coordinates; history appended by missing stable IDs; remote-only tasks preserved",
+  "checks": "Exact readback and full report reassembly match; unique IDs; five sealed manifests validated; existing portfolio tabs/sharing untouched"
+}

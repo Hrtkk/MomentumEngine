@@ -1,0 +1,35 @@
+{
+  "dossier_source": {
+    "run_dir": "research/runs/pipeline_2026-10-15_175040/routine_02/routine_02_a01",
+    "manifest_sha256": "a3ac788a7c1d762a5e0e5613c98d74aa041073c41f9bcbf0cac7df2b49500f3f"
+  },
+  "monitor_source": {
+    "run_dir": "research/runs/pipeline_2026-10-15_175040/routine_03/routine_03_a01",
+    "manifest_sha256": "ea18021ae9a6198669ecf6abe557a9b06f9ff6c96a8334d19a6dfae9d4ee5656"
+  },
+  "dossiers_recovered": 3,
+  "monitors_recovered": 3,
+  "existing_tests_passed": 11,
+  "code_sha256": "b0a3a2bfa25b85dffb7a83fc64611385073df2d2ddf56b0b0bb2019da156a1a2",
+  "at": "2026-11-02T23:01:22.943454+05:30",
+  "owner": "Codex",
+  "independent_review": "PENDING_CLAUDE",
+  "recovery_report": "research/stock_reports/pipeline_2026-11-02_230000",
+  "recovered_symbols": [
+    "MRPL",
+    "CEATLTD",
+    "ICICIGI"
+  ],
+  "original_analysis_date": "2026-10-15",
+  "financial_evidence_publication_date": "2026-10-14",
+  "change": "Resolve empty committed payload continuations, verify predecessor manifest hashes, pin actual dossier and monitor source manifests. Retain original forecast evidence.",
+  "fresh_dossier_analysis_claimed": false,
+  "qualification_changed": false,
+  "new_review_task": {
+    "task_id": "review-dossier-continuity-repair-2026-11-02",
+    "owner": "Claude",
+    "priority": "P2",
+    "status": "OPEN",
+    "description": "Independently review the Codex ancestor-payload resolver and preservation of original dossier/monitor forecasts; recovered analysis is dated 15 October, not newly authored"
+  }
+}

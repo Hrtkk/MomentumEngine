@@ -1,0 +1,28 @@
+{
+  "state": "VERIFIED",
+  "verified_at": "2026-11-03T23:09:34.193484+05:30",
+  "spreadsheet_id": "1uMgZd9anGrXOOleQlqwEHVT6zAXezsTBJxf9PnXTWK8",
+  "source_ref": {
+    "run_dir": "research/stock_reports/pipeline_2026-11-03_230000",
+    "manifest_sha256": "6904476bc9a84330f31a62ae5709df8e24eaeb378f3bf5df7457435713f382f8"
+  },
+  "reader_stock_report_ref": {
+    "run_dir": "research/stock_reports/pipeline_2026-11-03_210000",
+    "manifest_sha256": "bedfd2299958d1f68162d3d15a6c9fb21a934e0b72009a237d5b4163773ed32a"
+  },
+  "row_counts": {
+    "Research Dashboard": 17,
+    "Research Tasks": 42,
+    "Routine Runs": 167,
+    "Research Briefs": 34,
+    "Research Stocks": 714
+  },
+  "source_asof": "2026-11-03",
+  "scheduled_slot": "2026-11-03T23:00:00+05:30",
+  "stock_evidence_sha256": "2e293c6a08ad49559e2df7e54be3b3b52b7158dea33dd8970c5b515385edaa4d",
+  "stock_report_deduplicated": true,
+  "paid_cli_calls": 0,
+  "provider_cooldown_enforced": true,
+  "publication_method": "Refresh current operational status and append missing routine IDs; retain unchanged stock table and existing brief without duplication",
+  "checks": "Exact five-table readback; unchanged stock bytes and original forecasts verified; all sealed manifests validated; portfolio tabs/sharing untouched"
+}

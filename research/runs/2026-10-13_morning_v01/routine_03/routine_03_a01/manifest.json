@@ -1,0 +1,43 @@
+{
+  "schema_version": "1.1",
+  "committed": true,
+  "batch_id": "2026-10-13_morning_v01",
+  "run_id": "routine_03_a01",
+  "artifacts": [
+    {
+      "path": "changes.jsonl",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "record_count": 0
+    },
+    {
+      "path": "monitor_state.jsonl",
+      "sha256": "d7c09ba6b842d1ba55e98c2521297de5f947e69dd2e90af62d01b7581a169865",
+      "record_count": 15
+    },
+    {
+      "path": "open_tasks.jsonl",
+      "sha256": "a14fdcc2cdb07523f6eb72c17734fe9680f41254192d8ec991a5f0a6a68b937d",
+      "record_count": 30
+    },
+    {
+      "path": "readiness.json",
+      "sha256": "b4665f17fff98877329d70849462209306e462afce212e72d01ecc0431f6e974",
+      "record_count": null
+    },
+    {
+      "path": "report.md",
+      "sha256": "36a3d68875c8748a01f07d3b5f8179b0a417e1cd2d5cbb12361073eea506a08a",
+      "record_count": null
+    },
+    {
+      "path": "transition_proposals.jsonl",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "record_count": 0
+    },
+    {
+      "path": "handoff.json",
+      "sha256": "b28123c31e5d762c8b4ebac71a3d66b3a40efbd40f91366abf955cc25d49850f",
+      "record_count": 1
+    }
+  ]
+}

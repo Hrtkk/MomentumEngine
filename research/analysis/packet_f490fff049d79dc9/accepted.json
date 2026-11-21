@@ -1,0 +1,33 @@
+{
+  "assessments": [
+    {
+      "symbol": "ITC",
+      "mechanism": "Fact: ITC Limited filed financial results for the period ended September 30, 2026 with the Exchange (primary exchange metadata only). Hypothesis: the filing may update segment, margin and cash-conversion data relevant to the investment view; no direction can be inferred from metadata.",
+      "uncertainty": "High. Only cover-letter OCR is available; quarter table is unverified and no financial figures may be adopted.",
+      "next_check": "Verify original quarter table, sector metrics, cash conversion and valuation from the source PDF; no price trigger required.",
+      "evidence_ids": [
+        "nse-announcement-106840268"
+      ]
+    },
+    {
+      "symbol": "UPL",
+      "mechanism": "Fact: UPL Limited filed unaudited consolidated and standalone results for the quarter and half year ended September 30, 2026 (primary exchange metadata only). Hypothesis: consolidated vs standalone tables may inform revenue, margin and working-capital trends; direction is unknown.",
+      "uncertainty": "High. Cover-letter OCR only; tables unverified and no numbers adopted.",
+      "next_check": "Verify original consolidated and standalone quarter tables, sector metrics, cash conversion and valuation; no price trigger required.",
+      "evidence_ids": [
+        "nse-announcement-106839494"
+      ]
+    },
+    {
+      "symbol": "POWERGRID",
+      "mechanism": "Fact: Power Grid Corporation of India Limited filed unaudited results for the quarter and half year ended September 30, 2026 (primary exchange metadata only). Hypothesis: results may update regulated-asset and earnings data; direction is unknown.",
+      "uncertainty": "Very high. Document retrieval/parsing failed (ValueError); no text or table content available.",
+      "next_check": "Re-fetch and parse the source PDF, then verify original quarter table, sector metrics, cash conversion and valuation; no price trigger required.",
+      "evidence_ids": [
+        "nse-announcement-106838847"
+      ]
+    }
+  ],
+  "dossiers": [],
+  "brief": "FAST lane summary: ITC, UPL and POWERGRID each filed results for the period ended September 30, 2026 on NSE (Nov 1-2, 2026). All evidence is primary exchange metadata only; ITC and UPL excerpts are unverified cover-letter OCR, and the POWERGRID document failed to parse (ValueError). No verified financials were supplied, so no figures, directional conclusions or dossiers are produced. Any causal explanations remain hypotheses. Gaps: original quarter tables, segment and sector metrics, cash conversion, and valuation context for all three. Priority follow-up: re-fetch the POWERGRID PDF, then hand verified tables to Codex verification before any deep-lane dossier work. No trading calls or price targets are implied."
+}

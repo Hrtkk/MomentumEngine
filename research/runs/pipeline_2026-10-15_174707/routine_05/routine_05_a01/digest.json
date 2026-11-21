@@ -1,0 +1,36 @@
+{
+  "status": "PARTIAL",
+  "stock_count": 63,
+  "editorial_executed": true,
+  "author": "Claude",
+  "economic_review": "PENDING",
+  "items": [
+    {
+      "symbol": "MRPL",
+      "mechanism": "Reported standalone quarter shows revenue and PAT both higher year over year; refining throughput or margin mix is a hypothesis, not evidenced in packet.",
+      "uncertainty": "Packet gives no segment, volume, GRM or one-off detail; standalone only; single quarter cannot distinguish durable margin from cyclical swing.",
+      "next_check": "Quarter ending 2026-12-31 results filing",
+      "evidence_ids": [
+        "fundamental-MRPL-20260930"
+      ]
+    },
+    {
+      "symbol": "CEATLTD",
+      "mechanism": "Standalone revenue rose year over year while PAT and PBT before exceptional fell, implying cost or mix pressure between topline and profit.",
+      "uncertainty": "No input-cost, pricing or exceptional-item breakdown supplied; consolidated view absent; divergence direction unconfirmed as persistent.",
+      "next_check": "Quarter ending 2026-12-31 results filing",
+      "evidence_ids": [
+        "fundamental-CEATLTD-20260930"
+      ]
+    },
+    {
+      "symbol": "ICICIGI",
+      "mechanism": "Statutory quarter shows premium and PAT growth alongside a higher combined ratio, so underwriting and non-underwriting drivers may diverge.",
+      "uncertainty": "No line-of-business, reserving, catastrophe or investment-income split; combined ratio movement cause unknown; solvency context limited.",
+      "next_check": "Quarter ending 2026-12-31 results filing",
+      "evidence_ids": [
+        "fundamental-ICICIGI-20260930"
+      ]
+    }
+  ]
+}

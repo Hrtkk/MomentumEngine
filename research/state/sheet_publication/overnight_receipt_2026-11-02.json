@@ -1,0 +1,25 @@
+{
+  "state": "VERIFIED",
+  "verified_at": "2026-11-02T23:05:55.996290+05:30",
+  "spreadsheet_id": "1uMgZd9anGrXOOleQlqwEHVT6zAXezsTBJxf9PnXTWK8",
+  "source_ref": {
+    "run_dir": "research/stock_reports/pipeline_2026-11-02_230000",
+    "manifest_sha256": "68b3c21fb1b2bf486ec01132163870e101dedb37d181ce4e5cbc9148bf3821bf"
+  },
+  "row_counts": {
+    "Research Dashboard": 17,
+    "Routine Runs": 152,
+    "Research Tasks": 41,
+    "Research Stocks": 533,
+    "Research Briefs": 27
+  },
+  "source_asof": "2026-11-02",
+  "scheduled_slot": "2026-11-02T23:00:00+05:30",
+  "report_parts": 3,
+  "repair_ref": "research/repairs/2026-11-02_dossier_monitor_continuity.json",
+  "historical_dossiers_restored": 3,
+  "monitor_baselines_restored": 3,
+  "fresh_dossier_analysis_claimed": false,
+  "publication_method": "Only supplied cells updated; missing history IDs appended; remote-only tasks and pending Claude review retained",
+  "checks": "Exact readback and full report reassembly match; unique IDs; five sealed manifests and historical source references validated; original portfolio tabs/sharing untouched"
+}

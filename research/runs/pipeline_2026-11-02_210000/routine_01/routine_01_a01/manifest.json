@@ -1,0 +1,42 @@
+{
+  "committed": true,
+  "schema_version": "1.1",
+  "artifacts": [
+    {
+      "path": "budget_snapshot.json",
+      "sha256": "24fe73301d6591cec417bac28344059055dd3adfa70a67380251a9e8f3cd6b39"
+    },
+    {
+      "path": "claude_receipt.json",
+      "sha256": "d307526ddcb74c8bb15dbd2bcf5b01d736ac287f5d29091bae3bd3dc1ce5fc1b"
+    },
+    {
+      "path": "metrics.jsonl",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "open_tasks.jsonl",
+      "sha256": "2651bf33122b87d685a4c5518c2d4e9ebdfdbba37a464f2cc0bb9e76bb3f4460"
+    },
+    {
+      "path": "quarantine.jsonl",
+      "sha256": "6024c40fc778279d22c273990c752f1c7a28117f2f88b53c42ba51d3e9a2bc62"
+    },
+    {
+      "path": "readiness.json",
+      "sha256": "0cc8913f6b23cc6620af1edbabfeb9701562b7d5e92f5ba6c0c50fbec8285417"
+    },
+    {
+      "path": "report.md",
+      "sha256": "9512b844ebdada696adbb7e3045503a024cde80e69652ba2c0d00a0ad97d2f72"
+    },
+    {
+      "path": "signals.jsonl",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "handoff.json",
+      "sha256": "2cf4e402cdce00a8730019598f0dda5c027dd175a4c21a6e4171d8221831de18"
+    }
+  ]
+}

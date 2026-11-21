@@ -1,0 +1,1521 @@
+HQ/CS/CL.24B/18526
+October 15, 2026
+
+National Stock Exchange of India Limited                          BSE Limited
+Exchange Plaza, Bandra Kurla Complex,                             P.J. Towers, Dalal Street,
+Mumbai – 400 051                                                  Mumbai – 400 001
+SYMBOL: TATACOMM                                                  Scrip Code: 500483
+
+Dear Sir / Madam,
+
+Sub: Outcome of Board Meeting held on October 15, 2026.
+
+Pursuant to Regulations 30, 33, 51 and 52 of the SEBI (Listing Obligations and Disclosure
+Requirements) Regulations, 2015 (‘SEBI Listing Regulations’), please note that the meeting of the
+Board of Directors of Tata Communications Limited (‘the Company’) commenced today at
+10:30 hours IST and concluded at 13:45 hours IST. The major decisions taken at the meeting,
+amongst other things, are as follows:
+
+(i)    Unaudited Financial Results:
+       The Unaudited Standalone and Consolidated Financial Results of the Company for the
+       quarter and half-year ended September 30, 2026, approved and taken on record at the
+       meeting of the Board of Directors of the Company held today are enclosed as
+       (Attachment A). We would like to state that M/s. S.R. Batliboi & Associates, LLP, Statutory
+       Auditors of the Company, have issued a Limited Review Report with an unmodified opinion
+       on the above-mentioned financial results (Attachment B). A press release in this regard is
+       also enclosed (Attachment C).
+
+(ii)   Other Restructuring:
+       The Board of Directors has approved the transfer of the entire shareholding held by the
+       Company in Kaleyra, Inc., to Tata Communications (Netherlands) B.V. (‘TCNL’), a
+       wholly- owned subsidiary of the Company. As consideration for the aforesaid transfer, the
+       Company shall subscribe to and acquire ordinary shares of TCNL at fair market value, as
+       determined pursuant to an independent valuation report. The proposed transaction is
+       intended to simplify the Company’s existing group structure by consolidating ownership of
+       Kaleyra, Inc. under TCNL, without any change in the ultimate ownership and beneficial
+       economic interest of the Company in Kaleyra, Inc. and its subsidiaries.
+
+       Details as required under Regulation 30 of the SEBI Listing Regulations read with
+       SEBI Master Circular dated January 30, 2026 are enclosed as (Attachment D).
+
+
+
+
+                                            Tata Communications Limited
+               Plot No. C21 & C 36 ‘G’ Block Bandra Kurla Complex Bandra (East) Mumbai 400098 India
+                           Regd. Office: VSB Mahatma Gandhi Road Fort Mumbai – 400 001
+                      Tel: +91 92289 18171 email: investor.relations@tatacommunications.com
+                       CIN: L64200MH1986PLC039266 website: www.tatacommunications.com
+(iii)   Change in Key Managerial Personnel - Appointment of Company Secretary and
+        Compliance Officer
+        Based on the recommendation of the Nomination and Remuneration Committee, the Board
+        of Directors of the Company at its meeting held today, has appointed Ms. Ridhi Sood
+        (Membership No. A36109) as the Company Secretary (Key Managerial Personnel) and
+        Compliance Officer of the Company with effect from November 1, 2026.
+
+        Pursuant to Regulation 30(5) of the SEBI Listing Regulations read with the Company’s
+        ‘Policy for Determination of Materiality of Events / Information for Disclosure’, the Company
+        Secretary is authorized to determine materiality of an event or information and for making
+        disclosures to stock exchanges. The contact details of the Company Secretary is available
+        on the website of the Company.
+
+        Details as required under Regulation 30 of the SEBI Listing Regulations read with
+        SEBI Master Circular dated January 30, 2026 are enclosed as (Attachment E).
+
+
+The aforesaid documents are also                        placed     on    the   website      of   the       Company   at
+www.tatacommunications.com/investors.
+
+This is for your information and records.
+
+Thanking you,
+
+Yours faithfully,
+For Tata Communications Limited
+Zubin      Digitally signed by
+           Zubin Adil Patel
+
+Adil Patel Date: 2026.10.15
+           13:52:19 +05'30'
+
+Zubin Adil Patel
+Company Secretary and Compliance Officer
+
+Encl: As Above
+
+
+
+
+                                                 Tata Communications Limited
+                    Plot No. C21 & C 36 ‘G’ Block Bandra Kurla Complex Bandra (East) Mumbai 400098 India
+                                Regd. Office: VSB Mahatma Gandhi Road Fort Mumbai – 400 001
+                            Tel: 91 92289 18171 email: investor.relations@tatacommunications.com
+                            CIN: L64200MH1986PLC039266 website: www.tatacommunications.com
+                                                                                                                  Attachment A
+
+
+
+
+                             TATA COMMUNICATIONS LIMITED
+                                      REGD. OFFICE: VSB, M.G. ROAD, FORT, MUMBAI-400001.
+
+                                                                                                                          (` in crores)
+
+A. STATEMENT OF CONSOLIDATED FINANCIAL RESULTS FOR THE QUARTER AND HALF
+   YEAR ENDED SEPTEMBER 30, 2026
+                                                                                                                           For the year
+                                                        For the quarter ended              For the half year ended
+                                                                                                                             ended
+  Particulars
+                                                                                                         September             March
+                                                 September      June       September      September
+                                                                                                           30 2025            31 2026
+                                                  30 2026      30 2026      30 2025        30 2026
+                                                                                                        (refer note 5)     (refer note 5)
+  (Refer notes below)                            (Unaudited) (Unaudited) (Unaudited) (Unaudited)        (Unaudited)          (Audited)
+1 Income from operations                           6,687.89     6,582.82    6,099.75    13,270.71           12,059.60          24,802.72
+2 Other income/(loss), net                            16.41        12.94     (17.24)        29.35               (0.14)            301.73
+3 Total income (1 + 2)                             6,704.30     6,595.76    6,082.51    13,300.06           12,059.46          25,104.45
+4 Expenses
+   a. Network and transmission expense             3,181.47     3,144.09     2,715.35       6,325.56         5,444.42          11,361.83
+   b. Employee benefits expense                    1,178.75     1,239.73     1,269.57       2,418.48         2,487.34           4,938.93
+   c. Finance costs                                  197.91       185.90       201.96         383.81           378.49             761.60
+   d. Depreciation and amortisation expense          740.94       739.44       678.78       1,480.38         1,344.47           2,826.74
+   e. Other expenses                                 905.79       968.86       941.21       1,874.65         1,817.41           3,679.50
+   Total expenses (4a to 4e)                       6,204.86     6,278.02     5,806.87      12,482.88        11,472.13          23,568.60
+5 Profit before exceptional items, tax &
+                                                     499.44      317.74         275.64        817.18          587.33             1,535.85
+   share in profit of associates (3 - 4)
+6 Exceptional items (Refer note 2)                   (36.54)    (106.36)        (21.00)     (142.90)          (41.44)              (97.96)
+7 Profit before tax and share in profit of
+                                                     462.90       211.38        254.64        674.28          545.89             1,437.89
+   associates (5 + 6)
+8 Tax expense/(benefit): (Refer note 6)
+    a. Current tax                                   167.31      116.06         123.42       283.37           243.82               612.24
+    b. Deferred tax                                  (43.27)     (30.05)        (41.29)      (73.32)          (96.26)            (180.62)
+9 Profit before share in profit/(losses) of
+                                                     338.86      125.37         172.51        464.23          398.33             1,006.27
+   associates for the period/year (7 - 8)
+10 Share in profit/(losses) of associates             (3.25)        4.35         10.70          1.10           17.21                 32.77
+11 Profit after tax for the period/ year from
+                                                     335.61      129.72         183.21        465.33          415.54             1,039.04
+   continuing operations (9 + 10)
+12 Loss on sale of subsidiary (refer note 5)              -           -              -             -          (42.19)             (42.19)
+13 Loss after tax from discontinued operations            -           -              -             -          (42.19)             (42.19)
+14 Profit for the period/year (11+13)                335.61      129.72         183.21        465.33          373.35              996.85
+   Attributable to:
+   Equity holders of the parent                      341.03      134.23         183.06        475.26          373.04             1,001.57
+   Non-controlling interest                           (5.42)      (4.51)          0.15         (9.93)           0.31                (4.72)
+
+
+
+
+                                                                                                                        Page 1 of 18
+                                                                                                                       (` in crores)
+A. STATEMENT OF CONSOLIDATED FINANCIAL RESULTS FOR THE QUARTER AND HALF YEAR
+    ENDED SEPTEMBER 30, 2026
+                                                                                                                          For the year
+                                                   For the quarter ended               For the half year ended
+                                                                                                                            ended
+  Particulars
+                                                                                                     September 30           March
+                                          September         June       September     September
+                                                                                                          2025             31 2026
+                                           30 2026         30 2026      30 2025       30 2026
+                                                                                                     (refer note 5)     (refer note 5)
+   (Refer notes below)                         (Unaudited) (Unaudited) (Unaudited)   (Unaudited)      (Unaudited)         (Audited)
+   Other Comprehensive Income/(loss)
+15                                                   15.94     (36.55)       81.83       (20.61)            142.21                102.24
+   (net of tax) (refer note 6)
+   Attributable to:
+   Equity holders of the parent                      13.49     (37.94)       81.75       (24.45)            142.11                     91.79
+   Non-controlling interest                            2.45        1.39       0.08          3.84              0.10                     10.45
+   Total Comprehensive income/(loss)
+16                                                  351.55       93.17      265.04        444.72            515.56              1,099.09
+   for the period/year (14+15)
+   Attributable to:
+   Equity holders of the parent                     354.52       96.29      264.81        450.81            515.15              1,093.36
+   Non-controlling interest                          (2.97)      (3.12)       0.23         (6.09)             0.41                  5.73
+   Paid up equity share capital (Face value of
+17                                                  285.09      285.02      285.00        285.09            285.00                285.00
+   `10 per share)
+18 Reserves excluding Revaluation reserve
+   Earnings per share (of ` 10/- each)
+19
+   (not annualised)
+   Continuing operations
+   (i) Basic (`)                                     11.96         4.71       6.42         16.67             14.57                     36.62
+   (ii) Diluted earnings per share (`)               11.94         4.70       6.41         16.64             14.54                     36.56
+   Discontinued operations
+   (i) Basic (`)                                          -           -          -               -           (1.48)                (1.48)
+   (ii) Diluted earnings per share (`)                    -           -          -               -           (1.48)                (1.48)
+   Continuing and Discontinued operations
+   (i) Basic (`)                                     11.96         4.71       6.42         16.67             13.09                     35.14
+   (ii) Diluted earnings per share (`)               11.94         4.70       6.41         16.64             13.06                     35.08
+
+
+
+
+                                                                                                                      Page 2 of 18
+B. Consolidated Business Segment Information:
+i. Consolidated Segment wise revenue and results:
+                                                                                                                         (` in crores)
+                                                                                                                        For the year
+                                               For the quarter ended                   For the half year ended
+                                                                                                                          ended
+  Particulars                                                                                         September             March
+                                     September          June         September       September
+                                                                                                        30 2025            31 2026
+                                      30 2026          30 2026        30 2025         30 2026
+                                                                                                     (refer note 5)     (refer note 5)
+                                     (Unaudited)     (Unaudited)     (Unaudited)     (Unaudited)     (Unaudited)          (Audited)
+  Income from operations
+  Voice Solutions                          370.04          381.95          405.96          751.99            800.50           1,561.23
+  Data Services                          5,810.99        5,703.58        5,204.47       11,514.57         10,356.19          21,440.61
+  Transformation Services                  190.11          194.59          286.74          384.70            510.75             959.34
+  Real Estate                                51.84          51.99            51.85         103.83            103.89             207.38
+  Campaign Registry                        277.76          258.70          202.54          536.46            391.92             844.30
+  Less: Inter Segment Revenue              (12.85)          (7.99)         (51.81)         (20.84)         (103.65)           (210.14)
+  Total                                  6,687.89        6,582.82        6,099.75       13,270.71         12,059.60          24,802.72
+  Segment result
+  Voice Solutions                          18.13           20.61           34.93            38.74             72.31              116.16
+  Data Services                           425.74          250.56          313.59           676.30            552.88            1,180.51
+  Transformation Services                  47.89           44.38           45.08            92.27             88.36              170.37
+  Real Estate                              27.15           28.01           25.66            55.16             53.90              105.92
+  Campaign Registry                       162.03          147.14           75.58           309.17            198.51              422.76
+  Total                                   680.94          490.70          494.84         1,171.64            965.96            1,995.72
+  Less:
+  (i) Finance Costs                        197.91          185.90          201.96          383.81            378.49               761.60
+  (ii) Other un-allocable (income)
+                                            20.13           93.42           38.24          113.55             41.58             (203.77)
+  net of un-allocable expenditure
+  Profit before tax and share in
+                                          462.90           211.38         254.64           674.28            545.89            1,437.89
+  profit of associates
+
+
+
+
+                                                                                                                      Page 3 of 18
+  ii. Consolidated Segment Assets and Liabilities:
+                                                                                                                   (` in crores)
+                                                                                        As at
+Particulars                                           September           June               September             March
+                                                       30 2026           30 2026              30 2025              31 2026
+                                                     (Unaudited)       (Unaudited)          (Unaudited)           (Audited)
+Segment Assets
+Voice Solutions                                              275.08            279.06               271.69                 264.35
+Data Services                                             21,014.77         20,973.28            19,511.62              20,305.91
+Transformation Services                                      309.74            320.30               369.64                 294.18
+Real Estate                                                  222.77            228.13               231.72                 225.09
+Campaign Registry                                            987.23            976.83               932.66                 975.22
+                                                          22,809.59         22,777.60            21,317.33             22,064.75
+Unallocated Assets                                         6,201.07          6,049.69             5,886.96              6,339.19
+Total Segment Assets                                      29,010.66         28,827.29            27,204.29             28,403.94
+Segment Liabilities
+Voice Solutions                                              314.25            325.69               360.90                 349.95
+Data Services                                             11,154.47         11,195.17            10,456.05              11,509.38
+Transformation Services                                      169.26            183.54               263.40                 221.81
+Real Estate                                                   74.89             69.84                67.06                  67.77
+Campaign Registry                                            143.64            140.19               105.86                 175.31
+                                                          11,856.51         11,914.43            11,253.27             12,324.22
+Unallocated Liabilities                                   13,555.00         13,171.99            13,099.67             12,428.62
+Total Segment Liabilities                                 25,411.51         25,086.42            24,352.94             24,752.84
+
+  iii. Notes to Segments:
+  The Group’s (the Company and its subsidiaries together referred to as “the Group”) operating segments comprise of Voice
+  Solutions, Data Services, Transformation services, Real Estate & Campaign Registry. The composition of the operating
+  segments is as follows:
+  Voice Solutions includes International and National Long Distance Voice services.
+  Data Services includes Core connectivity services and Digital platforms & connected services. (Refer note 5).
+  Transformation Services includes the business of providing telecommunication network management and support services.
+  These services are carried out by the Company’s wholly owned subsidiary Tata Communications Transformation Services
+  Limited and its subsidiaries.
+
+  Campaign Registry includes the business of collecting robotically driven campaign information and processing and sharing
+  that information with mobile operators and the messaging ecosystem to reduce spam. These services are carried out by the
+  wholly owned indirect subsidiary of the Company.
+
+  Real Estate segment includes lease rentals for premises given on lease.
+
+
+
+
+                                                                                                                  Page 4 of 18
+C. Statement of Consolidated Assets and Liabilities:
+                                                                                 (` in crores)
+
+                                                             As at             As at
+    Particulars                                        September 30 2026    March 31 2026
+                                                          (Unaudited)        (Audited)
+          ASSETS
+
+          Non-current assets
+    (a)   Property, plant and equipment                          7,898.89            8,132.92
+    (b)   Capital work-in-progress                               1,120.81              761.50
+    (c)   Right-of-use assets                                    1,466.18            1,605.32
+    (d)   Investment property                                      184.01              187.26
+    (e)   Goodwill                                               2,493.81            2,442.79
+    (f)   Other intangible assets                                3,163.18            3,112.66
+    (g)   Intangible assets under development                      117.25               88.83
+    (h)   Financial assets
+          (i) Investments
+          (a) Investments in associates                          2,331.73            1,982.87
+          (b) Other investments                                     26.16               18.48
+          (ii) Other financial assets                              162.58              145.24
+    (i)   Deferred tax assets (net)                                968.24              901.22
+    (j)   Non-current tax assets (net)                           1,498.33            1,739.37
+    (k)   Other non-current assets                                 433.89              422.57
+          Total Non-current assets                              21,865.06           21,541.03
+
+          Current assets
+    (a)   Inventories                                             134.17                100.36
+    (b)   Financial assets
+          (i) Other investments                                    216.79             295.90
+          (ii) Trade receivables                                 4,604.13           4,171.10
+          (iii) Cash and cash equivalents                          438.01             641.96
+          (iv) Bank balances other than (iii) above                  2.70              53.38
+          (v) Other financial assets                               169.63             187.32
+    (c)   Other current assets                                   1,572.77           1,405.49
+                                                                 7,138.20           6,855.51
+          Assets classified as held for sale                         7.40               7.40
+          Total Current assets                                   7,145.60           6,862.91
+          TOTAL ASSETS                                          29,010.66          28,403.94
+
+
+
+
+                                                                                           Page 5 of 18
+C. Statement of Consolidated Assets and Liabilities:
+                                                                                   (` in crores)
+
+                                                               As at             As at
+      Particulars                                        September 30 2026    March 31 2026
+                                                            (Unaudited)        (Audited)
+          EQUITY AND LIABILITIES
+          EQUITY
+      (a) Equity share capital                                       285.09              285.00
+      (b) Other equity                                             3,116.09            3,162.04
+          Equity attributable to equity holders of the             3,401.18            3,447.04
+          parent
+
+            Non-controlling interests                               197.97                204.06
+
+            Total Equity                                           3,599.15            3,651.10
+
+            LIABILITIES
+            Non-current liabilities
+      (a)   Financial liabilities
+            (i) Borrowings                                         6,980.16            6,169.64
+            (ia) Lease liabilities                                 1,176.50            1,269.67
+            (ii) Other financial liabilities                           1.42               10.77
+      (b)   Provisions                                               808.70              744.40
+      (c)   Deferred tax liabilities (net)                           118.90              116.72
+      (d)   Other non-current liabilities                          2,379.12            2,423.63
+            Total Non-current liabilities                         11,464.80           10,734.83
+            Current liabilities
+      (a)   Financial liabilities
+            (i) Borrowings                                         4,874.38           4,412.04
+            (ia) Lease liabilities                                   338.29             397.55
+            (ii) Trade payables                                    4,263.89           4,317.31
+            (iii) Other financial liabilities                        896.13           1,043.68
+      (b)   Provisions                                               270.48             232.56
+      (c)   Current tax liabilities (net)                          1,081.73           1,139.19
+      (d)   Other current liabilities                              2,221.81           2,475.68
+            Total Current liabilities                             13,946.71          14,018.01
+            TOTAL EQUITY AND LIABILITIES                          29,010.66          28,403.94
+
+
+
+
+                                                                                             Page 6 of 18
+D. Statement of Consolidated Cash Flow:
+                                                                                                                  (₹ in Crores)
+                                                                                 For the half year ended             For the year
+                                                                                                                       ended
+      Particulars                                                               September         September            March
+                                                                                 30 2026           30 2025             31 2026
+                                                                               (Unaudited)       (Unaudited)*        (Audited)*
+  1   CASH FLOWS FROM OPERATING ACTIVITIES
+      Profit from operations before tax and share in profit/ (losses) of
+      associates for the period/year
+      Continuing Operations                                                           674.28           545.89             1,437.89
+      Discontinued Operations                                                              -           (42.19)             (42.19)
+      Continuing and Discontinued Operations                                         674.28            503.70             1,395.70
+      Adjustments for:
+      Depreciation and amortisation expense                                         1,480.38          1,344.47            2,826.74
+      Gain on disposal of property, plant and equipment (net)                         (4.93)            (5.22)               (8.81)
+      Gain on disposal of assets held for sale (refer note 2b)                               -         (77.26)              (77.26)
+      Gain on modification/ termination of lease                                      (0.63)            (1.52)               (4.25)
+      Interest income on financial assets carried at amortised cost                  (10.38)            (4.84)              (12.62)
+      Finance cost                                                                    383.81            378.49              761.60
+      Accidental damages (refer note 2d)**                                             25.67                  -                      -
+      Reclassification of FCTR to P&L on sale of subsidiary (refer note 5)                   -           42.19               42.19
+      Bad debts written off                                                           161.23             28.67               57.79
+      Allowance/(Reversal) for trade receivables                                     (91.33)           (69.56)            (120.12)
+      Provision for inventories and CWIP                                                0.07               3.37                   3.91
+      Accrual for share-based payments                                                  2.02             24.01               45.01
+      Allowance for doubtful advances                                                   0.04               2.18              15.15
+      Gain on investments carried at fair value through profit or loss (net)          (6.26)            (9.88)              (15.55)
+      Exchange fluctuation                                                              9.87             21.25               42.35
+      OPERATING PROFIT BEFORE WORKING CAPITAL
+                                                                                    2,623.84          2,180.05            4,951.83
+      CHANGES
+
+      Adjustment for (increase)/decrease in operating assets
+      Inventories                                                                    (31.12)             37.95              55.14
+      Trade receivables                                                             (454.20)          (305.03)             134.43
+      Other assets                                                                   (88.49)          (174.26)           (205.62)
+      Adjustment for increase/(decrease) in operating liabilities
+      Trade payables                                                               (113.74)            (95.17)             510.79
+      Other liabilities                                                            (212.38)          (225.12)            (230.55)
+      Provisions                                                                      (7.51)           (44.14)            (95.60)
+      Adjustment of translation differences on working capital                       (55.91)            (7.43)              79.05
+      Cash generated from operations before tax                                    1,660.49          1,366.85            5,199.47
+      Income tax (paid)/refund (net)                                                 (97.79)         (413.21)            (720.37)
+      NET CASH FLOW FROM OPERATING ACTIVITIES                                      1,562.70            953.64            4,479.10
+
+
+
+
+                                                                                                                  Page 7 of 18
+D. Statement of Consolidated Cash Flow:
+                                                                                                                   (₹ in Crores)
+                                                                                        For the half year ended           For the
+                                                                                                                        year ended
+     Particulars                                                                       September       September          March
+                                                                                        30 2026         30 2025           31 2026
+                                                                                      (Unaudited)     (Unaudited)*      (Audited)*
+
+ 2   CASH FLOW FROM INVESTING ACTIVITIES
+
+     Payment to purchase of property, plant and equipments and intangible assets         (1,500.69)       (1,139.43)     (2,433.18)
+     Proceeds from disposal of property, plant and equipments and intangible assets            7.05              9.19          13.77
+     Advance received towards assets held for sale                                             4.00            45.25           45.25
+     Proceeds from disposal of asset held for sale (refer note 2b)                                -            50.45         135.45
+     Purchase of investments in associates                                                 (356.10)         (319.39)       (319.43)
+     Acquisition of Subsidiary (net off acquired cash)                                            -                 -      (136.96)
+     Proceeds towards return of capital on non-current investment                             11.17            11.55         535.23
+     Proceeds from sale of non-current investments                                                -            19.10           40.53
+     Purchase of current investments                                                     (2,831.62)       (3,495.36)     (7,507.89)
+     Proceeds from sale of current investments                                             2,906.51         4,290.97       8,153.58
+     Fixed deposits liquidated/(placed) (net)                                                 50.79              0.15        (50.50)
+     Earmarked funds liquidated/(placed) (net)                                                 0.04            (0.72)          50.64
+     Interest received                                                                        11.89              7.16          13.58
+     NET CASH USED IN INVESTING ACTIVITIES                                               (1,696.96)         (521.08)     (1,459.93)
+
+ 3   CASH FLOWS FROM FINANCING ACTIVITIES
+     Proceeds from Short-term borrowings                                                   6,930.28         6,726.52      10,576.95
+     Repayment of Short-term borrowings                                                  (6,249.11)       (7,145.82)    (12,091.65)
+     Proceeds from Long-term borrowings                                                    2,628.15           999.18        1,468.60
+     Repayment of Long-term borrowings                                                   (2,239.68)          (39.03)      (1,108.74)
+     Repayment of lease liabilities                                                        (292.51)         (218.23)        (571.68)
+     Dividends paid                                                                        (498.78)         (712.50)        (712.50)
+     Interest paid                                                                         (353.80)         (309.45)        (497.56)
+     Proceeds from exercise of share options                                                   0.09                -               -
+     NET CASH USED IN FINANCING ACTIVITIES                                                  (75.36)        (699.33)      (2,936.58)
+     NET (DECREASE)/INCREASE IN CASH AND CASH EQUIVALENTS                                 (209.62)         (266.77)            82.59
+     CASH AND CASH EQUIVALENTS AS AT THE
+                                                                                           641.96            533.90          533.90
+     BEGINNING OF THE PERIOD/YEAR
+     Exchange difference on translation of foreign currency cash and cash
+                                                                                             5.67               6.24          25.47
+     equivalents
+     CASH AND CASH EQUIVALENTS AS AT THE END OF THE
+                                                                                           438.01            273.37          641.96
+     PERIOD/YEAR
+  i Figures in brackets represent outflows
+ * Includes amount related to discontinued operations.
+ ** Includes impairment of property, plant and equipments on account of accidental damages
+
+
+
+
+                                                                                                                   Page 8 of 18
+Notes to consolidated financial results:
+1. The above unaudited consolidated financial results of the Group for the quarter and half year ended
+   September 30, 2026 have been subjected to a limited review by the statutory auditors. These results have
+   been reviewed by the audit committee and taken on record and approved by the Board of Directors at their
+   meeting held on October 15, 2026.
+2. Details of exceptional items are listed below :
+                                                                                                                 (₹ in Crores)
+                                                                                                                       For the
+                                                       For the quarter ended           For the half year ended
+                                                                                                                     year ended
+     Particulars
+                                                 September     June      September     September    September          March
+                                                  30 2026     30 2026     30 2025       30 2026      30 2025           31 2026
+     1. Staff cost optimization (Refer note a)      (36.54)    (44.78)       (98.26)      (81.32)     (118.70)          (114.64)
+     2. Gain on sale of asset “held for sale”
+                                                          -          -         77.26            -        77.26              77.26
+        (Refer note b)
+     3. Statutory impact of new Labour Codes
+                                                          -      18.52             -       18.52             -            (60.58)
+        (Refer note c)
+     4. Accidental damages (Refer note d)                 -    (30.10)             -      (30.10)            -                   -
+     5. Provision for contractual obligation
+                                                          -    (50.00)             -      (50.00)            -                   -
+        (Refer note e)
+     Total                                          (36.54)   (106.36)      (21.00)     (142.90)      (41.44)            (97.96)
+
+       a) As part of its initiative to enhance the long-term efficiency of the business, the Group is undertaking
+          organisational changes to align its current and prospective business requirements in a phased manner.
+          These changes involves certain positions in the Group becoming redundant and accordingly, the Group
+          has incurred a one-time charge with respect to staff cost optimization.
+       b) During the year ended March 31, 2026, the Group concluded the sale of few of its properties, the gain
+          from which is disclosed under exceptional items .
+       c) On November 21, 2025, the Government of India has implemented four new Labour Codes (the " Labour
+          Codes"), including the Code on Wages, 2019, which amended the definition of "wages”. Based on the
+          best information available, the Group carried out the actuarial valuation of gratuity and long-term
+          compensated absences and recorded a provision of ₹ 60.58 crores primarily arising from the change in
+          “wages” definition for the year ended March 31, 2026. During the quarter ended June 30, 2026, based on
+          discussions with experts, the Group has revised its estimates and performed an actuarial assessment which
+          resulted into reversal of the provision by ₹ 18.52 crores.
+       d) During the quarter ended June 30, 2026, the Group recognized a provision for losses arising from a fire
+          incident at a co-located third party data centre premise basis the available information/estimate.
+       e) During the quarter ended June 30, 2026, the Group has made provision towards certain amounts based
+          on management's assessment of their recoverability under the contractual obligations.
+3.     As at September 30, 2026, the Company has received ‘Show Cause-cum Demand Notices’ (‘demand notices’)
+       from Department of Telecommunications of India (‘DOT’) aggregating to ₹ 7,844.57 crores for financial
+       years (FY) ranging from FY 2005-06 to FY 2024-25, which have been revised over a period of time These
+       demand notices include ₹ 276.68 crores towards disallowance of deductions claimed by the Company on
+       payment basis for FY 2010-11 under ISP license and FY 2006-07 & FY 2009-10 under NLD license (‘three
+       years’).
+
+       The Company has existing appeals relating to its ILD, NLD & ISP licenses which were filed in the past and
+       are pending at the Hon’ble Supreme Court and TDSAT. The Company’s appeals are not covered by the
+       Hon’ble Supreme Court judgement dated October 24, 2019, on AGR under UASL. Further, the Company
+                                                                                                                 Page 9 of 18
+   believes that all its licenses are different from UASL, which was the subject matter of Hon’ble Supreme Court
+   judgement of October 24, 2019. The Company, based on its assessment and independent legal opinions,
+   believes that it will be able to defend its position.
+   Accordingly, the Company has included ₹ 7,513.71 crores as part of the contingent liability (net of provision
+   ₹ 54.18 crores) ₹ 276.68 crores as remote, being the disallowance of deductions claimed by the Company on
+   payment basis for three years.
+4. During the year ended March 31, 2020, a subsidiary domiciled abroad, received a final VAT assessment from
+   VAT authorities for ₹ 168.77 crores (EUR 15.5 Mn) and a final penalty assessment of ₹ 197.03 crores
+   (EUR 18.1 Mn). On July 1, 2020, the Group filed its grounds for appeal with the Economic Administrative
+   Court towards the final VAT and penalty assessments. On March 29, 2022, the Economic Administrative
+   Court notified its resolution, finding against the Group and dismissing the appeal against the VAT and
+   penalty assessments.
+   The Group lodged a contentious-administrative appeal before the National Court on May 24, 2022.
+   Additionally, the Group filed a request for the suspension of the final VAT and penalty assessment payment
+   pending the outcome of the appeal, which was granted. The National Court scheduled the deliberation and
+   judgment of the appeal for 13 October 2026, and the Group awaits the National Court's decision. The Group
+   believes that there are grounds to defend its’ position and has accordingly considered ₹ 365.80 crores (EUR
+   33.6 Mn) as contingent liability.
+5. Discontinued Operations
+   On April 22, 2025, one of the Group’s wholly owned indirect foreign subsidiary issued shares to venture
+   capitalists resulting in the dilution of the Group’s stake to 11.49%. This resulted in the loss of control by
+   the Group over such subsidiary on such date. Accordingly, the financial results of the said subsidiary is
+   disclosed as discontinued operations. This subsidiary was earlier disclosed under Data Services in segment
+   information. Subsequently, during the year ended March 31, 2026 the Group sold its remaining stake in the
+   above-mentioned foreign subsidiary.
+   Below is the summary of the financial results of such foreign subsidiary:
+                                                                                                                (` in crores)
+                                                                                                              For the year
+                                            For the quarter ended               For the half year ended
+                                                                                                                 ended
+                                     September     June         September       September      September        March
+                                      30 2026     30 2026        30 2025         30 2026        30 2025         31 2026
+     Revenue from Operations                  -             -               -                        3.27              3.27
+     Profit/(Loss) after tax from
+                                              -             -               -                             -                -
+     discontinued operations
+     Loss on sale of subsidiary               -             -               -                     (42.19)*         (42.19)*
+     Total Profit/(Loss) after tax
+                                              -             -               -                     (42.19)*         (42.19)*
+     from discontinued operations
+    * Accumulated foreign currency translation reserve reclassified to profit and loss on loss of control.
+6. Other comprehensive income for the year ended March 31, 2026 includes a gain of ₹ 335.24 crores (net off
+   deferred tax liability of ₹ 73.25 crores) from disposal of indirect listed investments through a fund.
+   Since the gain can be set off against the accumulated losses, the Group also recorded a deferred tax asset of
+   ₹ 73.25 crores in the statement of Profit and loss for the year ended March 31, 2026.
+
+
+
+
+                                                                                                               Page 10 of 18
+                               TATA COMMUNICATIONS LIMITED
+                                            REGD. OFFICE: VSB, M.G. ROAD, FORT, MUMBAI-400001.
+
+                                                                                                                             (₹ in crores)
+E. STATEMENT OF STANDALONE FINANCIAL RESULTS FOR THE QUARTER AND HALF YEAR
+    ENDED SEPTEMBER 30, 2026
+                                                                                                                              For the
+                                                              For the quarter ended              For the half year ended
+                                                                                                                            year ended
+     Particulars
+                                                      September     June      September September              September      March
+                                                       30 2026     30 2026     30 2025     30 2026              30 2025       31 2026
+    (Refer notes below)                              (Unaudited) (Unaudited) (Unaudited) (Unaudited)          (Unaudited)    (Audited)
+ 1 Income from operations                               1,854.12    1,838.59    1,802.60    3,692.71             3,625.62     7,375.71
+ 2 Other income, net                                       73.41       76.00       67.30      149.41               192.02       617.74
+ 3 Total Income (1+2)                                   1,927.53    1,914.59    1,869.90    3,842.12             3,817.64     7,993.45
+ 4 Expenses
+     a. Network and transmission expense                  669.97        642.64          606.76    1,312.61       1,329.31     2,640.72
+     b. Employee benefits expense                         396.50        414.20          402.08      810.70         806.58     1,627.46
+     c. Finance costs                                      94.32          92.00          89.76      186.32         155.33       336.72
+     d. Depreciation and amortisation expense             276.18        270.80          263.90      546.98         512.28     1,044.26
+     e. Other expenses                                    316.93        307.68          343.13      624.61         681.79     1,359.46
+     f. Total expenses (4a to 4e)                       1,753.90      1,727.32        1,705.63    3,481.22       3,485.29     7,008.62
+ 5 Profit before exceptional items and tax (3 - 4)        173.63        187.27          164.27      360.90         332.35       984.83
+ 6 Exceptional items (refer note 2)                        (5.03)       (48.34)          74.91     (53.37)          74.90        29.29
+ 7 Profit before tax (5 + 6)                              168.60        138.93          239.18      307.53         407.25     1,014.12
+ 8 Tax expense/ (benefit):
+     a. Current tax                                        57.59         37.64           60.16       95.23        123.36        315.05
+     b. Deferred tax                                     (14.85)         (3.16)        (31.92)     (18.01)        (63.34)       (94.80)
+ 9 Profit for the period/ year (7 - 8)                   125.86         104.45         210.94      230.31         347.23        793.87
+   Other Comprehensive Income / (Loss)
+10                                                          3.08         (9.37)           3.49      (6.29)           4.98          0.97
+   (net of tax)
+   Total Comprehensive Income / (Loss) for
+11                                                        128.94         95.08         214.43      224.02          352.21       794.84
+   the period/ year (9 + 10)
+   Paid up equity share capital
+12                                                       285.09         285.02         285.00      285.09          285.00       285.00
+   (Face value of ₹ 10 per share)
+13 Reserves excluding Revaluation reserve                                                                                    10,087.63
+14 Net worth                                                                                                                 10,578.69
+     Earnings per share (of ₹ 10/- each) (not
+15
+     annualised)
+     Basic earnings per share (₹)                           4.42          3.66            7.40        8.08          12.18         27.86
+     Diluted earnings per share (₹)                         4.41          3.66            7.39        8.07          12.16         27.80
+
+
+
+
+                                                                                                                      Page 11 of 18
+F. Standalone Business Segment Information:
+i. Segment wise revenue and results:
+                                                                                                                                    (₹ in crores)
+                                                                                                                                  For the year
+                                                        For the quarter ended                      For the half year ended
+                                                                                                                                    ended
+               Particulars                 September            June            September         September       September         March
+                                            30 2026            30 2026           30 2025           30 2026         30 2025          31 2026
+                                          (Unaudited)       (Unaudited)         (Unaudited)      (Unaudited)      (Unaudited)     (Audited)
+    Income from Operations
+    Voice Solutions                              13.31              11.94             17.06            25.25           32.61            59.05
+    Data Services                             1,781.05           1,765.00          1,724.69         3,546.05        3,472.65         7,077.23
+    Real Estate                                  59.76              61.65             60.85           121.41          120.36           239.43
+    Total                                     1,854.12           1,838.59          1,802.60         3,692.71        3,625.62         7,375.71
+    Segment result
+    Voice Solutions                            (27.02)            (25.13)           (25.23)           (52.15)         (51.02)        (108.56)
+    Data Services                              182.87             186.49            173.86            369.36          269.23           659.24
+    Real Estate                                  38.69              41.91             38.10             80.60           77.45          153.13
+    Total                                      194.54             203.27            186.73            397.81          295.66           703.81
+    Less :
+    (i) Finance Costs                            94.32              92.00             89.76           186.32          155.33             336.72
+    (ii) Other un-allocable (income)
+                                               (68.38)            (27.66)          (142.21)           (96.04)        (266.92)        (647.03)
+    net of un-allocable expenses
+
+    Profit/(Loss) before taxes                 168.60              138.93           239.18            307.53          407.25         1,014.12
+
+ii. Segment Assets and Liabilities:
+                                                                                                                                  (₹ in crores)
+                                                                                    As at
+             Particulars          September 30 2026              June 30 2026                 September 30 2025          March 31 2026
+                                       (Unaudited)               (Unaudited)                    (Unaudited)                  (Audited)
+       Segment Assets
+       Voice Solutions                          67.69                         70.64                        69.73                     63.12
+       Data Services                         7,720.71                      7,762.91                     7,426.42                  7,424.53
+       Real Estate                             241.42                        246.68                       265.50                    244.34
+       Subtotal                              8,029.82                      8,080.23                     7,761.65                  7,731.99
+       Unallocable Assets                   11,412.75                     13,695.46                    12,491.87                 13,601.17
+       Total Assets                         19,442.57                     21,775.69                    20,253.52                 21,333.16
+       Segment Liabilities
+       Voice Solutions                          89.48                         89.65                        103.74                    86.50
+       Data Services                         4,053.46                      4,208.82                      4,040.12                 4,251.78
+       Real Estate                              73.38                         67.82                         66.45                    67.00
+       Subtotal                              4,216.32                      4,366.29                      4,210.31                 4,405.28
+       Unallocable Liabilities               4,920.21                      6,739.03                      5,928.15                 6,349.19
+       Total Liabilities                     9,136.53                     11,105.32                     10,138.46                10,754.47
+
+
+
+
+                                                                                                                                 Page 12 of 18
+iii. Notes to Segments:
+   The Company’s operating segments comprises of Voice Solutions, Data Services and Real Estate. The composition of the
+   operating segments is as follows:
+   Voice Solutions include International and National Long Distance Voice services.
+   Data Services includes Core connectivity services and Digital platforms & connected services.
+   Real Estate comprises of lease rentals for premises given on lease.
+
+G. Statement of Standalone Assets and Liabilities as at September 30, 2026
+                                                                                               (₹ in crores)
+                                                                               As at           As at
+                                                                             September        March
+               Particulars
+                                                                              30 2026         31 2026
+                                                                            (Unaudited)      (Audited)
+
+               ASSETS
+
+               Non-current assets
+               (a) Property, plant and equipment                                  3,906.79     3,928.79
+               (b) Capital work-in-progress                                         589.87       414.08
+               (c) Right of Use Asset                                               722.35       770.13
+               (d) Investment property                                              190.66       193.34
+               (e) Other Intangible assets                                          918.66       847.58
+               (f) Intangible assets under development                               56.79        30.78
+               (g) Financial assets
+                   (i) Investments                                                7,888.59     7,532.48
+                   (ii) Loans                                                       840.92       794.42
+                   (iii) Other financial assets                                      94.89       126.25
+               h) Deferred tax assets (net)                                         684.21       665.07
+               i) Non – current tax assets (net)                                  1,198.37     1,384.32
+               (j) Other Non-current assets                                         102.24       105.82
+                Total Non-current assets                                         17,194.34    16,793.06
+               Current assets
+               (a) Inventories                                                      18.91           7.26
+               (b) Financial assets
+                   (i) Other Investments                                              6.00       241.32
+                   (ii) Trade receivables                                         1,356.97     1,367.42
+                   (iii) Cash and cash equivalents                                  101.30       196.90
+                   (iv) Bank balances other than (iii) above                          2.23        52.89
+                   (v) Loans                                                         27.00     1,993.03
+                   (vi) Other financial assets                                      174.47       256.28
+               (c) Other Current assets                                             553.95       417.60
+                                                                                  2,240.83     4,532.70
+               Assets classified as held for sale                                     7.40         7.40
+               Total Current assets                                               2,248.23     4,540.10
+               TOTAL ASSETS                                                      19,442.57    21,333.16
+
+
+
+
+                                                                                                         Page 13 of 18
+G. Statement of Standalone Assets and Liabilities as at September 30, 2026
+                                                                                             (₹ in crores)
+                                                                               As at          As at
+                                                                             September       March
+         Particulars
+                                                                              30 2026        31 2026
+                                                                            (Unaudited)     (Audited)
+
+         EQUITY AND LIABILITIES
+         EQUITY
+         (a) Equity share capital                                                  285.09       285.00
+         (b) Other equity                                                       10,020.95    10,293.69
+                                                                                10,306.04    10,578.69
+         LIABILITIES
+         Non-current liabilities
+         (a) Financial liabilities
+             (i) Borrowings                                                     1,001.67      1,002.23
+             (ia) Lease liabilities                                               577.54        627.38
+             (ii) Other financial liabilities                                      11.32         27.91
+         (b) Provisions                                                           338.57        304.90
+         (c) Other non - current liabilities                                      949.68        883.74
+         Total Non-current liabilities                                          2,878.78      2,846.16
+         Current liabilities
+         (a) Financial liabilities
+             (i) Borrowings                                                      2,540.09     3,748.87
+             (ia) Lease liabilities                                                 99.82       108.92
+             (ii) Trade payables
+                 (A) Total outstanding dues of micro enterprises and               20.67           8.31
+                     small enterprises
+                 (B) Total outstanding dues of creditors other than micro        1,263.54     1,349.47
+                     enterprises and small enterprises
+             (iii) Other financial liabilities                                     566.91       671.86
+         (b) Provisions                                                            130.75       113.90
+         (c) Current tax liability (net)                                         1,008.04     1,090.14
+         (d) Other current liabilities                                             627.93       816.84
+          Total Current liabilities                                              6,257.75     7,908.31
+         TOTAL EQUITY AND LIABILITIES                                           19,442.57    21,333.16
+
+
+
+
+                                                                                                        Page 14 of 18
+ H. Statement of Standalone Cash Flow Statement:                                                                       (₹ in crores)
+
+                             Particulars                                  For the half year    For the half year      For the year
+                                                                          ended September      ended September       ended March
+                                                                              30, 2026             30, 2025             31, 2026
+                                                                            (Unaudited)          (Unaudited)           (Audited)
+Cash flows from operating activities
+Profit from operations before tax for the period/year                                307.53                407.25            1,014.12
+Adjustments for non cash items:
+Depreciation and amortization expenses                                               546.98                512.28           1,044.26
+Interest income on financial assets carried at amortised cost                       (86.58)                (72.01)          (159.80)
+Finance cost                                                                         186.32                155.33             336.72
+Accidental damages (refer note 2)*                                                      2.38                     -                  -
+Accrual for share-based payments                                                        0.83                 20.89             38.23
+Gain on disposal of assets held for sale (refer note 2b)                                   -               (77.26)           (77.26)
+Gain on investments carried at fair value through profit and loss (net)               (3.72)                (7.06)           (10.60)
+Dividend income                                                                            -               (50.00)           (50.00)
+Exchange fluctuation                                                                (26.56)                   9.00             27.10
+Allowance/(Reversal) for doubtful trade receivables                                (111.81)                (12.59)           (14.71)
+Gain on modification/ termination of lease                                            (0.06)                (0.17)             (0.53)
+Provision for inventories and capital work-in-progress                                  2.28                (0.88)             (2.84)
+Allowance/(Reversal) for doubtful advances                                              0.19                  0.55               6.38
+Bad Debts written off                                                                116.73                  23.43             24.25
+Advances written off                                                                    0.77                     -
+Gain on disposal of property, plant and equipment (net)                               (4.02)                (4.80)             (7.79)
+Operating Profit before working capital changes                                      931.26                903.96           2,167.53
+Adjustment for increase/(decrease) in operating assets:
+Inventories                                                                          (11.26)                46.12              40.36
+Trade receivables                                                                       5.55             (321.18)           (188.62)
+Other assets                                                                         (85.09)              (74.77)            (81.64)
+Adjustment for increase/(decrease) in operating liabilities
+Trade payables                                                                       (73.56)             (173.25)             (85.03)
+Other liabilities                                                                    (15.44)              (38.70)             (89.99)
+Provisions                                                                           (20.13)                (6.09)               0.16
+Cash generated from operations before tax                                            731.33                336.09           1,762.77
+Income tax refund/(paid) (net)                                                          9.60             (186.50)           (258.54)
+Net cash flow from operating activities                                              740.93                149.59           1,504.23
+Cash flows from investing activities
+Purchase of property, plant and equipment and intangible assets                    (807.18)              (458.04)         (1,020.79)
+Proceeds from disposal of property, plant and equipment and intangible
+                                                                                       4.79                  5.28                8.31
+assets
+Proceeds from disposal of assets held for sale (refer note 2b)                             -                 50.45            135.45
+Purchase of non-current investments                                                 (356.11)            (1,215.34)        (1,215.34)
+Proceeds from sale of non-current investments                                              -                     -                 @
+Purchase of current investments                                                   (2,286.89)            (2,876.21)        (5,848.06)
+Proceeds from sale of current investments                                           2,525.93              3,559.50          6,395.59
+Loan given to subsidiaries                                                          (689.00)              (291.40)        (1,122.40)
+Loan repaid by subsidiaries                                                         2,641.16                 37.90            482.90
+Advance received towards assets held for sale                                           4.00                 45.25              45.25
+Dividend income from subsidiaries                                                          -                 50.00              50.00
+Interest received                                                                     156.66                125.87            153.82
+Fixed deposits placed (net)                                                            50.80                     -            (50.80)
+Earmarked funds liquidated                                                                 -                     -              50.80
+Net cash from /(used in) investing activities                                       1,244.16             (966.74)         (1,935.27)
+
+
+
+                                                                                                                         (₹ in crores)
+
+
+
+                                                                                                                     Page 15 of 18
+                                Particulars                                    For the half year         For the half year       For the year
+                                                                               ended September           ended September        ended March
+                                                                                   30, 2026                  30, 2025              31, 2026
+ Cash flows from financing activities
+ Proceeds from short-term borrowings                                                        6,172.93               6,052.15           9,821.58
+ Repayment of short-term borrowings                                                       (5,711.98)             (5,462.63)         (9,374.01)
+ Proceeds from long-term borrowings (net off arrangement fees)                                     -                 999.18             999.18
+ Repayment of long-term borrowings                                                        (1,760.48)                (10.89)            (21.37)
+ Proceeds from sublease                                                                            -                      -                 @
+ Repayment of lease liabilities                                                              (92.26)                (71.39)           (148.32)
+ Dividend paid                                                                              (498.78)               (712.50)           (712.50)
+ Interest paid                                                                              (190.21)               (115.11)           (130.42)
+ Proceeds from exercise of share options                                                        0.09                      -                  -
+ Net cash (used in) /from financing activities                                           (2,080.69)                  678.81             434.14
+ Net Increase /(Decrease) in cash and cash equivalents                                       (95.60)               (138.34)               3.10
+ Cash and cash equivalents as at the beginning of the period/year                             196.90                 193.80             193.80
+ Cash and cash equivalents as at the end of the period/year                                   101.30                  55.46             196.90
+     Figures in brackets represent outflows.
+     @ represents balance of amounts less than 50,000.
+     * Includes impairment of property, plant and equipments on account of accidental damages.
+
+I. Additional information pursuant to Regulation 52(4) of Securities and Exchange Board of
+   India (Listing Obligation and Disclosure Requirements) Regulations. 2015, as amended for
+   the quarter and half year ended September 30, 2026
+
+                                                                                                                                  For the
+                                                             For the quarter ended              For the half year ended             year
+                                                                                                                                   ended
+                                                   September    June 30    September September                   September       March 31
+                                                    30 2026      2026       30 2025     30 2026                   30 2025           2026
+                                                  (Unaudited) (Unaudited) (Unaudited) (Unaudited)               (Unaudited)      (Audited)
+ 1. Operating Margin (%)
+    Earnings before exceptional items, Interest
+                                                     10.49%           11.06%    10.36%         10.77%@            8.15%            9.54%
+    and Tax/ Income from Operations
+
+ 2. Net Profit Margin (%)
+    Profit/(Loss) for the period/ Income from
+                                                     6.79%            5.68%     11.70%          6.24%#            9.58%           10.76%
+    Operations
+
+ 3. Interest service coverage ratio (no. of
+    times)
+    Earning before exceptional items, interest,
+    depreciation and amortization and tax             4.99             5.15       5.02            5.07             5.20             5.19
+    (EBITDA) / Finance costs
+@ Increased mainly due to decrease in Operating and other expenses.
+# Refer note 2.
+
+
+
+
+                                                                                                                             Page 16 of 18
+                                                                                                        As at                As at
+                                                                                                    September 30         March 31 2026
+                                                                                                        2026
+         1. Asset coverage ratio (no. of times)                                                              1.60@                    1.14
+            (Property, plant and equipment + Capital work in progress + Investment
+            property + Other intangible assets + Intangible assets under development
+            + Investment property under development)/ Total Debt
+         2. Debt Equity ratio                                                                                    0.34                 0.45
+            Total Debt (Long term borrowings + Short term borrowings (including
+            Current maturities of long term borrowings)) / Equity
+         3.    Debt service coverage ratio (no. of times)$                                                       0.35                 0.43
+               EBITDA/ (Finance costs + Short term borrowings (including Current
+               maturities of long term borrowings)
+         4.    Current Ratio (no. of times)                                                                     0.36#                 0.57
+               Total Current Assets/ Total Current Liabilities
+         5.    Bad debts to Accounts receivables ratio (%)$                                                     8.57%               1.90%
+               Bad debts written off/ Average Trade receivables
+         6.    Current Liability ratio (no. of times)
+                                                                                                                 0.32                 0.37
+               Total Current Liabilities/ Total Equity and Liabilities
+         7.    Total Debt to Total Assets
+                                                                                                                 0.18                 0.22
+               Total Debt/ Total Assets
+         8.    Debtors turnover (no. of times)$
+                                                                                                                 2.71                 5.77
+               Income from Operations/ Average Trade receivables
+         9.    Long term debt to working capital
+                                                                                                                (0.25)              (0.30)
+               (Long term borrowings/ (Total Current Assets – Total Current Liabilities)
+         10. Net worth (₹ in crores)                                                                      10,306.04              10,578.69
+              $ Not annualized.
+              @ Increased mainly due to repayment of unsecured debentures as per repayment terms.
+              # Decreased mainly due to loan repaid by subsidiary as per repayment terms.
+
+Notes to standalone financial results:
+1. The above unaudited standalone financial results of the Company for the quarter and half year ended September
+     30, 2026 have been subjected to a limited review by the statutory auditors. These results have been reviewed by
+     the audit committee and taken on record and approved by the Board of Directors at their meeting held on
+     October 15, 2026.
+2. Details of exceptional items are listed below:
+                                                                                                                                      (₹ in crores)
+                                                                                                                                    For the year
+                                                            For the quarter ended                 For the half year ended
+                                                                                                                                      ended
+      PARTICULARS
+                                                    September        June 30       September     September        September           March
+                                                     30 2026          2026          30 2025       30 2026          30 2025            31 2026
+1. Staff cost optimisation (refer note a)                (5.03)         (7.62)          (2.35)      (12.65)            (2.36)            (11.15)
+2. Gain on sale of assets “held for sale”
+                                                                 -             -         77.26             -             77.26               77.26
+3. (refer note b)
+4. Statutory Impact of new Labour Codes
+                                                                 -        11.93              -        11.93                  -           (36.82)
+   (refer note c)
+5. Accidental damages (refer note d)                             -        (2.65)             -        (2.65)                 -                   -
+6. Provision for contractual obligation
+                                                                 -       (50.00)             -       (50.00)                 -                   -
+   (refer note e)
+   Total                                                  (5.03)      (48.34)            74.91       (53.37)             74.90               29.29
+
+
+
+
+                                                                                                                                   Page 17 of 18
+    a. As part of its initiative to enhance the long-term efficiency of the business, the Company is undertaking
+       organizational changes to align its current and prospective business requirements in a phased manner. These
+       changes involves certain positions in the Company becoming redundant and accordingly, the Company has
+       incurred a one-time charge with respect to staff cost optimization.
+    b. During the year ended March 31, 2026, the Company concluded the sale of few of its properties, the gain
+       from which is recorded under exceptional items.
+    c. On November 21, 2025, the Government of India had implemented four new Labour Codes (the "Labour
+       Codes"), including the Code on Wages, 2019, which amended the definition of "wages". Based on the best
+       information available the Company carried out the actuarial valuation of gratuity and long-term
+       compensated absences and recorded a provision of ₹ 36.82 crores primarily arising from the change in
+       “wages” definition for the year ended March 31, 2026. During the quarter ended June 30, 2026, based on
+       discussions with experts, the Company has revised its estimates and performed an actuarial assessment
+       which resulted into reversal of the provision by ₹ 11.93 crores.
+    d. During the quarter ended June 30, 2026, the Company recognized a provision for losses arising from a fire
+       incident at a co-located third party data centre premise basis the available information/estimate.
+    e. During the quarter ended June 30, 2026, the Company has made a provision towards certain amount based
+       on management’s assessment of their recoverability under the contractual obligations.
+
+3. As at September 30, 2026, the Company has received ‘Show Cause-cum Demand Notices’ (‘demand notices’)
+  from Department of Telecommunications of India (‘DOT’) aggregating to ₹ 7,844.57 crores for financial years
+  (FY) ranging from FY 2005-06 to FY 2024-25, which have been revised over a period of time These demand
+  notices include ₹ 276.68 crores towards disallowance of deductions claimed by the Company on payment basis
+  for FY 2010-11 under ISP license and FY 2006-07 & FY 2009-10 under NLD license (‘three years’).
+  The Company has existing appeals relating to its ILD, NLD & ISP licenses which were filed in the past and are
+  pending at the Hon’ble Supreme Court and TDSAT. The Company’s appeals are not covered by the Hon’ble
+  Supreme Court judgement dated October 24, 2019, on AGR under UASL. Further, the Company believes that
+  all its licenses are different from UASL, which was the subject matter of Hon’ble Supreme Court judgement of
+  October 24, 2019. The Company, based on its assessment and independent legal opinions, believes that it will
+  be able to defend its position.
+  Accordingly, the Company has included ₹ 7,513.71 crores as part of the contingent liability (net of provision
+  ₹ 54.18 crores) ₹ 276.68 crores as remote, being the disallowance of deductions claimed by the Company on
+  payment basis for three years.
+
+
+                                                                For TATA COMMUNICATIONS LIMITED
+                                                                 GANAPATHI        Digitally signed by
+                                                                 SUBRAMANIAN      GANAPATHI SUBRAMANIAN
+                                                                                  LAKSHMINARAYANAN
+                                                                 LAKSHMINARAYA    Date: 2026.10.15 12:58:01
+                                                                 NAN              +05'30'
+
+  Place: Mumbai                                                 GANAPATHI S. LAKSHMINARAYANAN
+  Date: October 15, 2026                                        MANAGING DIRECTOR & CEO
+                                                                DIN: - 01828104
+
+
+
+
+                                                                                                              Page 18 of 18
+                                                                                                      Attachment B
+                                                                            12th Floor, The Ruby
+                                                                            29 Senapati Bapat Marg
+                                                                            Dadar (West)
+                                                                            Mumbai - 400 028, India
+
+                                                                            Tel: +91 22 6819 8000
+
+
+Independent Auditor’s Review Report on the Quarterly and Year to Date Unaudited Consolidated
+Financial Results of the Company Pursuant to the Regulation 33 of the SEBI (Listing Obligations and
+Disclosure Requirements) Regulations, 2015, as amended
+
+Review Report to
+The Board of Directors
+Tata Communications Limited
+
+1. We have reviewed the accompanying Statement of Unaudited Consolidated Financial Results of Tata
+   Communications Limited (the “Holding Company”) and its subsidiaries (the Holding Company and its
+   subsidiaries together referred to as “the Group”) and its associates for the quarter ended
+   September 30, 2026 and year to date from April 1, 2026 to September 30, 2026 (the “Statement”)
+   attached herewith, being submitted by the Holding Company pursuant to the requirements of
+   Regulation 33 of the SEBI (Listing Obligations and Disclosure Requirements) Regulations, 2015, as
+   amended (the “Listing Regulations”).
+
+2. The Holding Company’s Management is responsible for the preparation of the Statement in
+   accordance with the recognition and measurement principles laid down in Indian Accounting
+   Standard 34, (Ind AS 34) “Interim Financial Reporting” prescribed under Section 133 of the
+   Companies Act, 2013 as amended, read with relevant rules issued thereunder and other accounting
+   principles generally accepted in India and in compliance with Regulation 33 of the Listing Regulations.
+   The Statement has been approved by the Holding Company’s Board of Directors. Our responsibility is
+   to express a conclusion on the Statement based on our review.
+
+3. We conducted our review of the Statement in accordance with the Standard on Review Engagements
+   (SRE) 2410, “Review of Interim Financial Information Performed by the Independent Auditor of the
+   Entity” issued by the Institute of Chartered Accountants of India. This standard requires that we plan
+   and perform the review to obtain moderate assurance as to whether the Statement is free of
+   material misstatement. A review of interim financial information consists of making inquiries,
+   primarily of persons responsible for financial and accounting matters, and applying analytical and
+   other review procedures. A review is substantially less in scope than an audit conducted in
+   accordance with Standards on Auditing and consequently does not enable us to obtain assurance
+   that we would become aware of all significant matters that might be identified in an audit.
+   Accordingly, we do not express an audit opinion.
+
+    We also performed procedures in accordance with the Master Circular issued by the Securities and
+    Exchange Board of India under Regulation 33(8) of the Listing Regulations, to the extent applicable.
+
+4. The Statement includes the results of the entities referred to in the Annexure.
+
+5. Based on our review conducted and procedures performed as stated in paragraph 3 above and based
+   on the consideration of the review report of other auditor referred to in paragraph 8 below, nothing
+   has come to our attention that causes us to believe that the accompanying Statement, prepared in
+   accordance with recognition and measurement principles laid down in the aforesaid Indian
+   Accounting Standards (‘Ind AS’) specified under Section 133 of the Companies Act, 2013, as amended,
+   read with relevant rules issued thereunder and other accounting principles generally accepted in
+   India, has not disclosed the information required to be disclosed in terms of the Listing Regulations,
+   including the manner in which it is to be disclosed, or that it contains any material misstatement.
+Tata Communications Limited
+Limited review report on consolidated financial results – September 30, 2026
+
+6.   As fully discussed in note 3 to the consolidated financial results for the quarter and half year ended
+     September 30, 2026, the Company has received ‘Show Cause-cum Demand Notices’ from
+     Department of Telecommunications (DoT) towards license fee on its Adjusted Gross Revenue (AGR)
+     for financial years ranging from FY 2005-06 to FY 2024-25 and has disclosed Rs 7,513.71 crores as
+     contingent liability.
+
+7. We draw attention to note 4 to the consolidated financial results, which describes the uncertainty
+   related to the outcome of the ongoing tax litigation of Rs 365.80 crores, in one of the subsidiaries of
+   the Group.
+
+     Our conclusion is not modified in respect of matters discussed in para 6 and 7 above.
+
+8. The accompanying Statement includes the unaudited interim financial results and other financial
+   information, in respect of a subsidiary, whose unaudited interim financial results include total assets
+   of Rs. 65.97 crs as at September 30, 2026, total revenues of Rs 20.89 crs and Rs 41.09 crs, total net
+   profit after tax of Rs 2.50 crs and Rs 3.76 crs, total comprehensive income of Rs 2.90 crs and
+   Rs 3.76 crs, for the quarter ended September 30, 2026 and the period ended on that date
+   respectively, and net cash inflows of Rs 13.83 crs for the period from April 1, 2026 to
+   September 30, 2026, as considered in the Statement which have been reviewed by their respective
+   independent auditor. The independent auditor’s report on interim financial results of this entity has
+   been furnished to us by the Management and our conclusion on the Statement, in so far as it relates
+   to the amounts and disclosures in respect of this subsidiary is based solely on the report of such
+   auditor and procedures performed by us as stated in paragraph 3 above.
+
+9. The accompanying Statement includes unaudited interim financial results and other unaudited
+   financial information in respect of two subsidiaries, whose interim financial results and other financial
+   information reflect total assets of Rs 81.15 crs as at September 30, 2026, and total revenues of
+   Rs 3.11 crs and Rs 5.72 crs, total net loss after tax of Rs 14.83 crs and Rs 27.30 crs, total
+   comprehensive loss of Rs 14.83 crs and Rs 27.30 crs, for the quarter ended September 30, 2026 and
+   the period ended on that date respectively and net cash outflows of Rs 23.60 crs for the period from
+   April 1, 2026 to September 30, 2026 and three associates whose interim financial results includes the
+   Group’s share of net loss of Rs 3.26 crs and net profit of Rs 1.10 crs and Group’s share of total
+   comprehensive loss of Rs 3.53 crs and total comprehensive income of Rs 0.83 crs for the quarter
+   ended September 30, 2026 and for the period ended on that date respectively. The unaudited
+   interim financial results and other unaudited financial information of these subsidiaries and
+   associates have not been reviewed by their auditors and have been approved and furnished to us by
+   the Management and our conclusion on the Statement, in so far as it relates to the affairs of these
+   subsidiaries and associates, is based solely on such unaudited interim financial results and other
+   unaudited financial information. According to the information and explanations given to us by the
+   Management, these interim financial results are not material to the Group.
+Tata Communications Limited
+Limited review report on consolidated financial results – September 30, 2026
+
+    Our conclusion on the Statement in respect of matters stated in para 8 and 9 above is not modified
+    with respect to our reliance on the work done and the reports of the other auditor and the financial
+    results and other financial information approved and furnished by the Management.
+
+
+For S.R. Batliboi & Associates LLP
+Chartered Accountants
+ICAI Firm registration number: 101049W/E300004
+
+   Sanjay            Digitally signed by Sanjay
+                     Bachchani
+                     DN: cn=Sanjay Bachchani, c=IN,
+
+ Bachchani           o=Personal
+                     Date: 2026.10.15 13:05:38 +05'30'
+_______________________
+per Sanjay Bachchani
+Partner
+Membership No.: 400419
+UDIN: 26400419QEPTNL1290
+
+Place: Mumbai
+Date: October 15, 2026
+Tata Communications Limited
+Limited review report on consolidated financial results – September 30, 2026
+
+Annexure to Independent Auditor’s Review Report on the Quarterly and Year to Date Unaudited
+Consolidated Financial Results of the Company Pursuant to the Regulation 33 of the SEBI (Listing
+Obligations and Disclosure Requirements) Regulations, 2015, as amended
+
+
+List of Subsidiaries and Associates
+
+Subsidiaries
+
+1.     Tata Communications (America) Inc.
+2.     Tata Communications (Australia) Pty Limited
+3.     Tata Communications (Beijing) Technology Limited
+4.     Tata Communications (Belgium) SRL
+5.     TC Networks Switzerland SA
+6.     Tata Communications (Brazil) Participacoes Limitada
+7.     Tata Communications (Canada) Ltd.
+8.     Tata Communications (France) Sas
+9.     Tata Communications (Guam) L.L.C.
+10.    Tata Communications (Hong Kong) Limited
+11.    Tata Communications (Hungary) KFT
+12.    Tata Communications (Ireland) Dac
+13.    Tata Communications (Italy) S.R.L
+14.    Tata Communications (Japan) K.K.
+15.    Tata Communications (Malaysia) Sdn. Bhd.
+16.    Tata Communications (Middle East) Fz-LLC
+17.    Tata Communications (Netherlands) B.V.
+18.    Tata Communications (New Zealand) Limited
+19.    Tata Communications (Nordic) As
+20.    Tata Communications (Poland) Sp. Z O. O.
+21.    Tata Communications (Portugal) Instalação E Manutenção De Redes, Lda
+22.    Tata Communications (Portugal), Unipessoal Lda
+23.    Tata Communications (Russia) LLC.
+24.    Tata Communications South Korea Limited
+25.    Tata Communications (Spain), S.L.
+26.    Tata Communications (Sweden) Ab
+27.    Tata Communications (Switzerland) Gmbh
+28.    Tata Communications (Taiwan) Ltd
+29.    Tata Communications (Thailand) Limited
+30.    Tata Communications (UK) Limited
+31.    Tata Communications Collaboration Services Private Limited
+32.    Tata Communications Comunicações E Multimídia (Brazil) Limitada
+33.    Tata Communications Deutschland GmbH
+34.    Tata Communications International Pte. Ltd.
+35.    TC (Shanghai) Network Services Company Limited (wef April 18, 2025)
+36.    Tata Communications Lanka Limited
+37.    Tata Communications Services (International) Pte. Ltd.
+38.    Tata Communications Svcs Pte Ltd
+39.    Tata Communications Transformation Services (Hungary) Kft.
+40.    Tata Communications Transformation Services (Us) Inc
+41.    Tata Communications Transformation Services Limited
+Tata Communications Limited
+Limited review report on consolidated financial results – September 30, 2026
+
+42.    Tata Communications Transformation Services Pte Limited
+43.    Tata Communications Transformation Services South Africa (Pty) Ltd
+44.    Tcpop Communication Gmbh
+45.    TCTS Senegal Limited
+46.    Vsnl Snospv Pte. Ltd.
+47.    Itxc Ip Holdings S.A.R.L.
+48.    Mucoso B.V. (upto September 15, 2025)
+49.    Netfoundry Inc. (upto April 22, 2025)
+50.    Sepco Communications (Pty) Limited
+51.    Oasis Smart Sim Europe SAS
+52.    Oasis Smart E-Sim Pte. Ltd
+53.    The Switch Enterprises L.L.C.
+54.    Tata Communications Middle East Technology Services L.L.C.
+55.    Kaleyra Inc
+56.    Kaleyra S.P.A.
+57.    Solutions Infini Technologies (India) Private Limited
+58.    Solutions Infiny FZ-LLC
+59.    BUC Mobile, Inc
+60.    Campaign Registry Inc (US)
+61.    Campaign Registry Inc (Canada) (upto January 14, 2026)
+62.    Kaleyra Africa (pty) Limited (upto September 04, 2026)
+63.    Kaleyra US Inc
+64.    Kaleyra Dominicana, S.R.L.
+65.    Kaleyra UK Limited
+66.    Mgage Athens PC
+67.    Mgage SA de CV (upto October 1, 2025)
+68.    Novamesh Limited
+69.    Commotion Inc. (wef December 1, 2025)
+70.    Commotion Software Solutions India Private Limited (wef December 1, 2025)
+71.    TC (Shanghai) Technology Company Limited (wef March 12, 2026)
+72.    TComm Turkey Dijital Çözümler Limited Şirketi (wef May 21, 2026)
+
+Associates
+
+1.     STT Global Data Centres India Private Limited
+2.     Smart ICT Services Private Limited
+3.     United Telecom Limited
+
+
+[This space is intentionally left blank]
+                                                                                    12th Floor, The Ruby
+                                                                                    29 Senapati Bapat Marg
+                                                                                    Dadar (West)
+                                                                                    Mumbai - 400 028, India
+
+                                                                                    Tel: +91 22 6819 8000
+
+
+Independent Auditor’s Review Report on the Quarterly and Year to Date Unaudited Standalone Financial
+Results of the Company Pursuant to the Regulation 33 and 52 of the SEBI (Listing Obligations and Disclosure
+Requirements) Regulations, 2015, as amended
+
+Review Report to
+The Board of Directors
+Tata Communications Limited
+
+1.    We have reviewed the accompanying statement of unaudited standalone financial results of Tata
+      Communications Limited (the “Company”) for the quarter ended September 30, 2026 and year to date
+      from April 1, 2026 to September 30, 2026 (the “Statement”) attached herewith, being submitted by the
+      Company pursuant to the requirements of Regulation 33 and 52 of the SEBI (Listing Obligations and
+      Disclosure Requirements) Regulations, 2015, as amended (the “Listing Regulations”).
+
+2.    The Company’s Management is responsible for the preparation of the Statement in accordance with the
+      recognition and measurement principles laid down in Indian Accounting Standard 34, (Ind AS 34)
+      “Interim Financial Reporting” prescribed under Section 133 of the Companies Act, 2013 as amended,
+      read with relevant rules issued thereunder and other accounting principles generally accepted in India
+      and in compliance with Regulation 33 and 52 of the Listing Regulations. The Statement has been
+      approved by the Company’s Board of Directors. Our responsibility is to express a conclusion on the
+      Statement based on our review.
+
+3.    We conducted our review of the Statement in accordance with the Standard on Review Engagements
+      (SRE) 2410, “Review of Interim Financial Information Performed by the Independent Auditor of the
+      Entity” issued by the Institute of Chartered Accountants of India. This standard requires that we plan
+      and perform the review to obtain moderate assurance as to whether the Statement is free of material
+      misstatement. A review of interim financial information consists of making inquiries, primarily of
+      persons responsible for financial and accounting matters, and applying analytical and other review
+      procedures. A review is substantially less in scope than an audit conducted in accordance with Standards
+      on Auditing and consequently does not enable us to obtain assurance that we would become aware of
+      all significant matters that might be identified in an audit. Accordingly, we do not express an audit
+      opinion.
+
+4.    Based on our review conducted as above, nothing has come to our attention that causes us to believe
+      that the accompanying Statement, prepared in accordance with the recognition and measurement
+      principles laid down in the aforesaid Indian Accounting Standards (‘Ind AS’) specified under Section 133
+      of the Companies Act, 2013 as amended, read with relevant rules issued thereunder and other
+      accounting principles generally accepted in India, has not disclosed the information required to be
+      disclosed in terms of the Listing Regulations, including the manner in which it is to be disclosed, or that it
+      contains any material misstatement.
+Tata Communications Limited
+Limited review report on standalone financial results – September 30, 2026
+
+5.     As fully discussed in note 3 to the standalone financial results for the quarter and half year ended
+       September 30, 2026, the Company has received ‘Show Cause-cum Demand Notices’ from Department of
+       Telecommunications (DoT) towards license fee on its Adjusted Gross Revenue (AGR) for financial years
+       ranging from FY 2005-06 to FY 2024-25 and has disclosed Rs 7,513.71 crores as contingent liability. Our
+       conclusion is not modified in this regard.
+
+
+For S.R. BATLIBOI & ASSOCIATES LLP
+Chartered Accountants
+ICAI Firm registration number: 101049W/E300004
+
+ Sanjay              Digitally signed by Sanjay
+                     Bachchani
+                     DN: cn=Sanjay Bachchani, c=IN,
+
+Bachchani            o=Personal
+                     Date: 2026.10.15 13:04:44 +05'30'
+
+___________________________________
+per Sanjay Bachchani
+Partner
+Membership No.: 400419
+UDIN: 26400419XWJHUV3061
+
+Place: Mumbai
+Date: October 15, 2026
+                                                                                       Attachment C
+
+
+
+
+Q2 records highest EBITDA and
+fastest EBITDA growth
+Data revenues grow and EBITDA margins expand
+
+
+Mumbai, INDIA, October 15, 2026
+
+Tata Communications, a leading global communications technology player, announced its financial results
+for the quarter ended 30th September 2026.
+
+Highlights | Q2 FY2027
+
+   •   Gross revenue increases 9.6% YoY, digital platform revenue grew by 18.6% YoY
+   •   Data revenue grew by 12.2% YoY
+   •   Absolute EBITDA grew by 21.2% YoY, with EBITDA margin expanding to 21.3%
+   •   Digital losses halved from last quarter with digital margins at -3.6%
+
+Commenting on the results, Ganesh Lakshminarayanan, MD and CEO, Tata Communications, said: “I am
+pleased to report a stellar second quarter, with improved profitability across the business. Absolute
+EBITDA growth is a clear sign that our discipline and focus are paying off. As AI emerges as a powerful
+growth driver, our Unified AI Stack is resonating with customers as it helps bridge the gap between
+enterprise intelligence and enterprise action.
+
+We continue to see strong demand for DC-to-DC connectivity, a structural growth opportunity where our
+extensive network assets and ongoing investments give us a distinct advantage. We enter the second half
+of the year with momentum and confidence.”
+Table 1: Consolidated financial highlights - Q2 FY2027
+
+Particulars (INR Crore)                                  Quarter Ended                   YoY Growth
+                                                  Q2 FY27             Q2 FY26
+Gross Revenue                                      6,688               6,100                 9.6%
+Data Revenue                                       5,810               5,179                12.2%
+Digital Portfolio Revenue                          3,016               2,542                18.6%
+EBITDA                                             1,422               1,174                21.2%
+EBITDA Margin                                      21.3%               19.2%               202 bps
+PAT*                                                341                 183                 86.2%
+PAT Margin*                                        5.1%                3.0%                210 bps
+*PAT and PAT Margin are after Minority Interest
+
+
+In The News This Quarter
+
+    •    Tata Communications, Tata Motors Passenger Vehicles join forces to accelerate Software-Defined
+         Vehicle Deployment in India - Introduces in-built 5G cellular connectivity in the Sierra.ev
+    •    Tata Communications, Tata Tele Business Services Join Forces to Bring Unified AI Infrastructure to
+         India’s SMB Economy
+    •    Tata Comm spots gold mine in linking data centres
+         In this interview-based story in Mint, Ganesh Lakshminarayanan, MD and CEO, Tata
+         Communications, explains how the company sees a $1 billion opportunity in India’s growing
+         demand for data centre-to-data centre connectivity, driven by the country’s rapidly expanding
+         digital infrastructure.
+
+
+Major Awards & Recognitions This Quarter
+
+
+Digital Fabric recognitions
+
+    •    Recognised as the Best Conversational & Voice AI Company at The Economic Times Enterprise AI
+         Awards 2026
+    •    Tata Communications Vayu Cloud won India Technology Excellence Award for AI - Internet/New
+         Media in the Asian Technology Excellence Awards 2026
+    •    Tata Communications Commotion recognised as the Top Agentic AI-Powered Customer Journey
+         Platform 2026 by leading business and technology publication Silicon India
+    •    Recognised as the Overall Leader in the Kuppinger Cole Leadership Compass MDR 2026 report for
+         Cybersecurity solutions
+    •    Tata Communications Commotion recognised with Silver Award in the Best Use of CX Technology at
+         the CX Asia Excellence Awards 2026
+    •    Won ‘Carrier Ethernet Service Innovation – Global’ at the 2026 Mplify NaaS Excellence Awards
+    •    Positioned as a Leader in the Omdia Universe: Contact Center as a Service (CCaaS), 2026
+    •    Recognised as an Established Leader in Juniper Research Conversational AI Competitor Leaderboard
+         2026
+                                      •   Recognised as a Niche Player in the 2026 Gartner® Magic Quadrant™ for Managed IoT Connectivity
+                                          Services, Worldwide
+
+Other recognitions
+
+                                      •   Won four awards at Brandon Hall Group™ HCM Excellence Awards® 2026, including three Awards
+                                          for Learning & Development and one Award for Diversity, Equity & Inclusion.
+
+An investor data pack providing detailed analysis of the results for the quarter ended 30th September 2026
+has been uploaded on the Tata Communications website and can be accessed here.
+
+
+
+Media Contact                                                                                                          Investor Contact
+Mansi Somvanshi                                                                                                        Rajiv Sharma
++91 9819818462                                                                                                         +91 9820136641
+mansi.tiwari@tatacommunications.com                                                                                    rajiv.sharma@tatacommunications.com
+
+
+
+
+About Tata Communications
+A part of the Tata Group, Tata Communications (NSE: TATACOMM; BSE: 500483) is a
+global digital ecosystem enabler powering today’s fast-growing digital economy in more
+than 190 countries and territories. Leading with trust, it enables digital transformation of
+enterprises globally with collaboration and connected solutions, core and next gen
+connectivity, cloud hosting and security solutions and media services. 300 of the Fortune
+500 companies are its customers and the company connects businesses to 80% of the
+world’s cloud giants. For more information, please visit www.tatacommunications.com
+A white x in a circle                      A grey circle with black text         A logo of a camera
+
+Description automatically generated        Description automatically generated   Description automatically generated
+
+
+
+
+Forward-looking and cautionary statements
+Certain words and statements in this release concerning Tata Communications and its prospects, and other statements,
+including those relating to Tata Communications’ expected financial position, business strategy, the future development of
+Tata Communications’ operations, and the general economy in India, are forward-looking statements. Such statements
+involve known and unknown risks, uncertainties and other factors, including financial, regulatory and environmental, as
+well as those relating to industry growth and trend projections, which may cause actual results, performance or
+achievements of Tata Communications, or industry results, to differ materially from those expressed or implied by such
+forward-looking statements. The important factors that could cause actual results, performance or achievements to differ
+materially from such forward-looking statements include, among others, failure to increase the volume of traffic on Tata
+Communications’ network; failure to develop new products and services that meet customer demands and generate
+acceptable margins; failure to successfully complete commercial testing of new technology and information systems to
+support new products and services, including voice transmission services; failure to stabilize or reduce the rate of price
+compression on certain of the company’s communications services; failure to integrate strategic acquisitions and changes
+in government policies or regulations of India and, in particular, changes relating to the administration of Tata
+Communications’ industry; and, in general, the economic, business and credit conditions in India. Additional factors that
+could cause actual results, performance or achievements to differ materially from such forward-looking statements, many
+of which are not in Tata Communications’ control, include, but are not limited to, those risk factors discussed in Tata
+Communications Limited’s Annual Reports.
+The Annual Reports of Tata Communications Limited are available at www.tatacommunications.com. Tata Communications
+is under no obligation to, and expressly disclaims any obligation to, update or alter its forward-looking statements.
+© 2026 Tata Communications Ltd. All rights reserved.
+TATA COMMUNICATIONS and TATA are trademarks or registered trademarks of Tata Sons Private Limited in India and
+certain countries.
+                                                                                                 Attachment D
+
+Details required under Regulation 30 of the SEBI Listing Regulation read with SEBI Master
+Circular No. HO/49/14/14(7)2025-CFD POD2/I/3762/2026 dated January 30, 2026 for other
+restructuring:
+ Sr. Particulars                   Details
+ No.
+ 1.    Details and reasons for Transfer the Company’s entire shareholding in Kaleyra, Inc.,
+       restructuring               (100 shares of Common Stock) representing 100% of the
+                                   issued share capital of Kaleyra, Inc., to Tata Communications
+                                   (Netherlands) B.V. (‘TCNL’), a wholly-owned subsidiary of the
+                                   Company, pursuant to a Share Contribution Agreement. In
+                                   consideration thereof, the Company shall subscribe to and
+                                   acquire ordinary shares of TCNL at fair market value. The
+                                   transaction is intended to simplify the Company’s existing
+                                   group structure. This would be an intra-group transaction and
+                                   therefore, the ultimate beneficial economic interest and
+                                   ownership of the Company in Kaleyra Inc. and its subsidiaries
+                                   will remain unchanged.
+ 2.    Quantitative and/ or The Company will transfer 100 shares of Common Stock of
+       qualitative effect of Kaleyra, Inc., to TCNL having an aggregate FMV of USD
+       restructuring               92.625 million. As consideration for the transfer, the Company
+                                   shall subscribe to and acquire 3,17,632 ordinary shares of
+                                   TCNL of par value EUR 1.00 each at a fair market value of USD
+                                   291.6 per share (including share premium), as determined
+                                   pursuant to an independent valuation report. The transaction is
+                                   not expected to have any material impact on the consolidated
+                                   financial position of the Company.
+ 3.    Details of benefit, if any, Nil
+       to      the      promoter/
+       promoter group/ group
+       companies from such
+       proposed restructuring
+ 4.    Brief details of change As a result of the transaction Kaleyra, Inc. will cease to be a
+       in shareholding pattern direct subsidiary of the Company and will become a direct
+       (if any) of all entities    subsidiary of TCNL. There will be no change in the ultimate
+                                   ownership and beneficial economic interest of the Company in
+                                   Kaleyra, Inc. and its subsidiaries, which shall continue to
+                                   remain wholly owned within the Tata Communications group.
+
+
+                                           Tata Communications Limited
+              Plot No. C21 & C 36 ‘G’ Block Bandra Kurla Complex Bandra (East) Mumbai 400098 India
+                          Regd. Office: VSB Mahatma Gandhi Road Fort Mumbai – 400 001
+                      Tel: 91 92289 18171 email: investor.relations@tatacommunications.com
+                      CIN: L64200MH1986PLC039266 website: www.tatacommunications.com
+                                                                                                Attachment E
+
+Details required under Regulation 30 of the SEBI Listing Regulation read with SEBI Master
+Circular No. HO/49/14/14(7)2025-CFD POD2/I/3762/2026 dated January 30, 2026 for
+appointment of Company Secretary and Compliance Officer:
+ Sr. Particulars                              Details
+ No.
+ 1.    Reason for change                      Appointment of Ms. Ridhi Sood as the
+                                              Company Secretary and Compliance Officer
+ 2.    Date of appointment                    November 1, 2026
+ 3.    Brief Profile                          Ms. Ridhi Sood is a Commerce and Law
+                                              graduate and an Associate Member of the
+                                              Institute of Company Secretaries of India, with
+                                              over 15 years of diverse experience in corporate
+                                              secretarial and governance matters, including
+                                              more than 10 years with Tata Communications.
+                                              Her experience spans Indian corporate laws,
+                                              SEBI Listing and Insider Trading Regulations,
+                                              international    corporate    laws,    corporate
+                                              restructuring, corporate governance and
+                                              investor services. She has also held the position
+                                              of Company Secretary in various unlisted
+                                              subsidiaries of Tata Communications during her
+                                              tenure with the organisation.
+ 4.    Term of appointment / re-appointment Not Applicable
+ 5.    Disclosure of relationships between Not Applicable
+       Directors (in case of appointment as a
+       Director)
+
+
+
+
+                                          Tata Communications Limited
+             Plot No. C21 & C 36 ‘G’ Block Bandra Kurla Complex Bandra (East) Mumbai 400098 India
+                         Regd. Office: VSB Mahatma Gandhi Road Fort Mumbai – 400 001
+                     Tel: 91 92289 18171 email: investor.relations@tatacommunications.com
+                     CIN: L64200MH1986PLC039266 website: www.tatacommunications.com
+

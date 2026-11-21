@@ -1,0 +1,33 @@
+{
+  "request_id": "claude-7c7aaeb78df70e285c65a7e3",
+  "cost_proxy_usd": 0.056465,
+  "input_tokens": 2865,
+  "output_tokens": 1113,
+  "actual_model_usage": {
+    "claude-opus-5[1m]": {
+      "inputTokens": 2,
+      "outputTokens": 1113,
+      "cacheReadInputTokens": 0,
+      "cacheCreationInputTokens": 2863,
+      "webSearchRequests": 0,
+      "costUSD": 0.056465,
+      "contextWindow": 1000000,
+      "maxOutputTokens": 64000,
+      "thinkingTokens": 0,
+      "canonicalModel": "claude-opus-5",
+      "provider": "firstParty",
+      "costBasis": "list"
+    }
+  },
+  "num_turns": 1,
+  "auth": {
+    "status": "AUTHENTICATED",
+    "logged_in_in_current_context": true,
+    "auth_method": "claude.ai",
+    "subscription_type": "max",
+    "checked_at": "2026-10-16T10:04:10.085300+05:30"
+  },
+  "default_model_preserved": true,
+  "tools_disabled": true,
+  "reconciled_at": "2026-10-16T10:04:27.090065+05:30"
+}

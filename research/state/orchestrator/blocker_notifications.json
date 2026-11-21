@@ -1,0 +1,11 @@
+{
+  "phase0-budget-r2-r4-authcontext-v1": {
+    "first_reported_at": "2026-10-12T12:20:06.793610+05:30",
+    "state": "OPEN"
+  },
+  "eod-required-2026-10-12": {
+    "first_reported_at": "2026-10-12T21:45:14.824942+05:30",
+    "state": "OPEN",
+    "reason": "Required current-date EOD unavailable"
+  }
+}

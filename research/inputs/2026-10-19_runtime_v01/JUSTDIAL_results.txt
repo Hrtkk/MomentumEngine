@@ -1,0 +1,344 @@
+October 19, 2026
+To
+ BSE Limited        National Stock Exchange of         Metropolitan Stock Exchange of
+ Phiroze Jeejeebhoy India Limited                      India Limited
+ Towers,            Exchange Plaza, C-1,               Building A, Unit 205A, 2nd Floor,
+ Dalal Street,      Block G, Bandra-Kurla Complex,     Piramal Agastya Corporate Park,
+ Mumbai - 400 001 Bandra (East), Mumbai - 400 051      L.B.S Road, Kurla (West),
+ Scrip Code: 535648 Trading Symbol: JUSTDIAL           Mumbai - 400 070
+                                                       Trading Symbol: JUSTDIAL
+
+Dear Sir/Madam,
+
+Sub.: Disclosure under Regulation 30 and other applicable regulations of the
+      SEBI (Listing Obligations and Disclosure Requirements) Regulations, 2015
+      (‘Listing Regulations’) - Unaudited Financial Results for the second quarter
+      and half year ended September 30, 2026
+
+In continuation of our letter dated October 12, 2026 and pursuant to Regulation 33 and
+other applicable provisions of the Listing Regulations, we attach the Unaudited Financial
+Results for the second quarter and half year ended September 30, 2026 along with
+Independent Auditor’s Review Report thereon.
+
+The said Financial Results were duly reviewed and recommended by the Audit Committee
+and approved by the Board of Directors of the Company, at their respective meetings held
+today.
+
+The same are available on the Company's website at www.justdial.com.
+
+The meeting of the Board of Directors commenced at 7:00 p.m. and concluded at 7:48 p.m.
+
+This is for information and records.
+Thanking you,
+
+Yours truly,
+
+For Just Dial Limited
+MANAN            Digitally signed by MANAN
+                 YOGENDRA UDANI
+YOGENDRA         Date: 2026.10.19 20:13:06
+UDANI            +05'30'
+
+Manan Udani
+Company Secretary and Compliance Officer
+
+Encl: as above
+                                                                                                            Chartered Accountants
+                                                                                                            One International Center
+                                                                                                            Tower 3, 31st Floor,
+                                                                                                            Senapati Bapat Marg,
+                                                                                                            Elphinstone Road (West)
+                                                                                                            Mumbai – 400013
+                                                                                                            Maharashtra, India
+
+                                                                                                            Tel: +91 22 6185 4000
+                                                                                                            Fax: +91 22 6185 4001
+
+
+           INDEPENDENT AUDITOR’S REVIEW REPORT ON REVIEW OF INTERIM FINANCIAL
+           RESULTS
+
+           TO THE BOARD OF DIRECTORS OF JUST DIAL LIMITED
+
+           1. We have reviewed the accompanying Statement of Unaudited Financial Results of Just Dial
+              Limited (the Company), for the quarter and half year ended September 30, 2026 (the
+              Statement), being submitted by the Company pursuant to the requirement of Regulation 33 of
+              the SEBI (Listing Obligations and Disclosure Requirements) Regulations, 2015, as amended
+              (the Listing Regulations).
+
+           2. This Statement, which is the responsibility of the Company’s Management and approved by the
+              Company’s Board of Directors, has been prepared in accordance with the recognition and
+              measurement principles laid down in the Indian Accounting Standard 34 ‘Interim Financial
+              Reporting’ (Ind AS 34), prescribed under Section 133 of the Companies Act, 2013 read with
+              relevant rules issued thereunder and other accounting principles generally accepted in India
+              and in compliance with Regulation 33 of the Listing Regulations. Our responsibility is to express
+              a conclusion on the Statement based on our review.
+
+           3. We conducted our review of the Statement in accordance with the Standard on Review
+              Engagements (SRE) 2410 ‘Review of Interim Financial Information Performed by the
+              Independent Auditor of the Entity’, issued by the Institute of Chartered Accountants of India
+              (ICAI). A review of interim financial information consists of making inquiries, primarily of the
+              Company’s personnel responsible for financial and accounting matters, and applying analytical
+              and other review procedures. A review is substantially less in scope than an audit conducted in
+              accordance with Standards on Auditing specified under section 143(10) of the Companies Act,
+              2013 and consequently does not enable us to obtain assurance that we would become aware
+              of all significant matters that might be identified in an audit. Accordingly, we do not express
+              an audit opinion.
+
+           4. Based on our review conducted as stated in paragraph 3 above, nothing has come to our
+              attention that causes us to believe that the accompanying Statement, prepared in accordance
+              with the recognition and measurement principles laid down in the aforesaid Indian Accounting
+              Standard and other accounting principles generally accepted in India, has not disclosed the
+              information required to be disclosed in terms of Regulation 33 of the SEBI (Listing Obligations
+              and Disclosure Requirements) Regulations, 2015, as amended, including the manner in which
+              it is to be disclosed, or that it contains any material misstatement.
+
+
+                                                                                          For Deloitte Haskins & Sells LLP
+                                                                                                   Chartered Accountants
+                                                                           (Firm’s Registration No. 117366W/W-100018)
+
+
+
+
+                                                                                                           Bhumika Smart
+                                                                                                                   Partner
+                                                                                                    Membership No. 129430
+                                                                                                UDIN: 26129430FBNIBF7241
+           Place: Mumbai
+           Date: October 19, 2026
+
+
+
+
+Regd. Office: One International Center, Tower 3, 31st Floor, Senapati Bapat Mart, Elphinstone Road (West), Mumbai 400 013, Maharashtra, India.
+Deloitte Haskins & Sells LLP is registered with Limited Liability having LLP identification No. AAB-8737
+                                                                                                                                                                      ®
+
+
+JUST DIAL LIMITED
+
+GIN: L74140MH1993PLC150054
+                                                                                                                        Just
+Regd. Office: Palm Court, Building-M, 501 /B, 5th Floor, Besides Goregaon Sports Complex,
+New Link Road, Malad (West), Mumbai 400064
+
+
+
+
+STATEMENT OF UNA UDITED FINANCIAL RESULTS FOR THE QUARTER AND HALF YEAR ENDED SEPTEMBER 30, 2026
+                                                                                                                                       (f in million except per share data)
+SNo Particulars                                                                           Quarter ended                           Half year ended             Year ended
+                                                                         30-Sep-26          30-Jun-26       30-Sep-25        30-Sep-26      30-Sep-25         31-Mar-26
+                                                                        (Unaudited)        (Unaudited)      (Unaudited)      (Unaudited)    (Unaudited)       (Audited)
+1     Income
+      a) Revenue from operations (refer note 5)
+         Value of Services from Contract with Customers                      4,045.3            3,864.1         3,576.3          7,909.4         7,091 .0        14,323.5
+                                                    ..
+         Less : Goods and Services tax (GST)                                   617.1              589.4           545 .6         1,206.5         1,081 .7         2,184.9
+         Net Revenue from operations                                         3,428.2            3,274.7         3,030.7          6,702.9         6,009.3         12,138.6
+      b) Other income (refer note 7)                                           545.6            1,314.6           733 .0         1,860.2         2,006.1          3,338 .6
+      Total Income                                                           3,973.8            4,589.3         3,763.7          8,563.1         8,015.4         15,477.2
+
+
+2     Expenses
+      a) Employee benefits expense                                           2,086.7            1,999.1         1,837.2          4,085.8         3,637.5          7,268 .3
+      b) Finance cost                                                           17.3               17.8            21 .1            35.1            52.4             90.6
+      c) Depreciation and amortisation expense                                  89.1              104.9           112.4            194.0           229.5            450.1
+      d) Other expenses                                                        435.0              401 .6          322.9            836.6           636.8          1,295.1
+      Total expenses                                                         2,628.1            2,523.4         2,293.6          5,151 .5        4,556.2          9,104.1
+
+
+3     Profit before exceptional items and tax (1-2)                          1,345.7            2,065.9         1,470.1          3,411.6         3,459.2          6,373.1
+
+
+
+4     Exceptional item
+         Impact of new labour codes (refer note 8)                                   .                  .               .                                .          210.8
+5     Profit before tax                                                      1,345.7            2,065.9         1,470.1          3,411.6         3,459.2          6,162.3
+
+
+6     Tax expense
+        Current tax expense                                                    234.7             234.0            172.1            468.7            411.6           794.6
+        Current tax expense/ (income) - ear1ier years                                .             0.0              (6.1)            0.0              (6.1)         (18.4)
+        Deferred tax expense                                                    32.9             169.7            109.7            202 .6           262.8           415.9
+      Total tax expense                                                        267.6             403.7            275.7            671.3            668.3         1,192.1
+
+
+7     Net Profit for the period/year (5-6)                                   1,078.1            1,662.2         1,194.4          2,740.3         2,790.9          4,970.2
+
+
+8     Other comprehensive gain/(loss)
+      Items that will not to be reclassified to profit or loss
+
+
+      i) Remeasurements of defined benefit obligations                           8.7              (64.1)            5.5            (55.4)           (30.4)            38 .1
+
+      ii) Income-tax related to above items                                      (2 .2)            16.1             (1 .3)          13.9              7.7             (9.6)
+      Total other comprehensive gain/(loss)                                      6.5             (48.0)             4.2            (41.5)           (22.7)            28.5
+
+
+9     Total comprehensive income for the period/year (7+8)                   1,084.6            1,614.2         1,198.6          2,698.8         2,768.2          4,998.7
+
+
+
+10    Paid-up Equity share capital                                             850.5             850.5            850.4            850.5            850.4           850.4
+      (Face value f10/- each)
+
+11    Other Equity                                                                                                                                               50,214.4
+
+
+12    Earnings per Equity share (of~ 10/- each)
+      (Not annualised)
+      a) Basic (t )                                                            12.68              19.54           14.04            32.22            32 .82          58.44
+      b) Diluted (t )                                                          12.68              19.54           14.04            32.22            32 .82          58 .44
+
+
+
+       0.0 Represents amounts less than t0.1 million
+Just Dial Limited
+BALANCE SHEET AS AT SEPTEMBER 30, 2026
+
+                                                                                                (t in million unless otherwise stated)
+Particulars                                                                                                        As at
+                                                                                                       30-Sep-26         31-Mar-26
+                                                                                                      (Unaudited)         (Audited)
+A   ASSETS
+1   Non-current assets
+    Property, plant and equipment including right of use assets                                               986.2          1,040.1
+    Intangible assets                                                                                          25.4             46.9
+    Financial assets
+      Other financial assets                                                                                  130.8            129.3
+    Other non-current assets                                                                                   76.9             73.9
+    Income-tax assets (net)                                                                                     5.6              5.5
+    Total non-current assets                                                                                1,224.9          1,295.7
+2   Current assets
+    Financial assets
+      Investments                                                                                         54,137.3         56,435.3
+      Cash and cash equivalents                                                                               22 .1            67.2
+      Bank balance other than cash and cash equivalents                                                    6,980.1          2,020.1
+      Loans                                                                                                    1.0              0.7
+      Other financial assets                                                                                 275.3            123.4
+    Other current assets                                                                                     529.2            499.3
+    Total current assets                                                                                  61,945.0         59,146.0
+    Total assets (1+2)                                                                                    63,169.9         60,441.7
+
+B EQUITY AND LIABILITIES
+3 Equity
+  Equity share capital                                                                                        850.5            850.4
+  Other equity                                                                                            52 ,913.3         50,214.4
+  Total equity                                                                                            53,763.8          51,064.8
+
+4   Non-current liabilities
+    Financial liabilities
+      Lease liabilities                                                                                       517.7            548.4
+    Deferred tax liabilities (net)                                                                          1,806.9          1,618.3
+    Other non-current liabilities                                                                             454 .8           541 .9
+    Total non-current liabilities                                                                           2,779.4          2,708.6
+5   Current liabilities
+    Financial liabilities
+      Lease liabilities                                                                                       272.4            296.7
+      Trade payable
+       Total outstanding dues of micro enterprises and small enterprises                                        3.8              6.5
+       Total outstanding dues of creditors other than micro enterprises and small enterprises                 170.7            161 .8
+       Other financial liabilities                                                                           714.3             654.8
+    Other current liabilities                                                                              5,144.5           5,391 .7
+    Liabilities for current tax (net)                                                                         40.3               -
+    Provision for employee benefits                                                                          280.7            156.8
+    Total current liabilities                                                                              6,626.7          6,668.3
+    Total equity and liabilities (3+4+5)                                                                  63,169.9         60,441.7
+Just Dial Limited
+STATEMENT OF CASH FLOW FOR THE HALF YEAR ENDED SEPTEMBER 30, 2026
+                                                                                                   ({ in million unless otherwise stated)
+Particulars                                                                                 Half vear ended          Half vear ended
+                                                                                          September 30, 2026 September 30, 2025
+
+                                                                                               Unaudited               Unaudited
+A. Cash flow from operating activities
+Profit before tax                                                                                       3,411 .6                3,459.2
+Adjustments for:
+Depreciation and amortisation expense                                                                     194.0                   229.5
+Employee stock compensation expense                                                                          -                      0.7
+Profit on sale of property, plant and equipments (net)                                                       (1 .2)                (0.6)
+Fair value change in financial instruments and profit on sale of mutual funds                          (1 ,612.7)              (1,774.2)
+ Interest income on income-tax refund                                                                        -                      (5.0)
+ Interest Income on fixed deposits                                                                       (122.7)                 (107.8)
+ Interest income from financial assets classified as fair value through profit and loss                  (113.8)                 (113.8)
+ Unwinding of interest on financial instruments                                                             (4.1)                   (3.9)
+ Cessation of lease liability                                                                               (5.5)                   (0.2)
+ Finance cost                                                                                              35.1                    52.4
+ Operating profit before working capital changes                                                         1,780.7                 1,736.3
+ Adjustments for:
+ Decrease in Other Financial Assets                                                                         33.5                   92 .4
+ (lncrease)/decrease in Other Assets                                                                       (33.1)                  39.9
+ (lncrease)/decrease in Loans                                                                               (0.2)                   0.5
+ Increase in Trade Payables                                                                                  6.2                   32.9
+ lncrease/(decrease) in Other Financial Liabilities                                                         59.4                  (52.9)
+ Increase in Provisions                                                                                     68.5                   43.9
+!(Decrease) in Other Liabilities                                                                         (334.4)                 (414.1)
+ Cash generated from operations                                                                          1,580.6                 1,478.9
+ Income-tax paid (net of refunds and interest on income tax refund)                                      (428.5)                 (328.7)
+ Net cash flows from operating activities (A)                                                            1,152.1                 1,150.2
+
+B. Cash flow from Investing activities
+Purchase of property, plant and equipments                                                                (41 .5)                  (14.2)
+Purchase of intangible assets                                                                               (5.8)                    -
+Proceeds from disposal of property, plant and equipments                                                     1.3                     0.6
+Purchase of investments                                                                               (6,219.1)                (8,049.4)
+Proceeds from sale/redemption of investments                                                          10,129.8                  5,331 .5
+Fixed deposits (placed)/redeemed net                                                                  (4 ,960.0)                1,500.0
+Interest received                                                                                          49.5                   158.1
+Net cash flows (used inl investina activities (Bl                                                     (1 ,045.8)               (1 073.4)
+
+C. Cash flow from Financing activities
+Proceeds from allotment of stock options                                                                     0.0                     0.0
+Interest paid                                                                                               (0.0)                   (9.6)
+Pavment of lease liability                                                                               (151.4                  (148.1'
+Net cash flows (used in) financina activities ( Cl                                                       (151 .4)                (157.7)
+Net (decrease) in cash and cash equivalents (A+B+C)                                                        (45.1)                 (80.9)
+Cash and cash equivalents at the beginning of the year                                                      67.2                  103.0
+Cash and cash equivalents at the end of the year                                                            22.1                   22.1
+ '0.0' Represents amounts less than {0.1 million
+  Notes:
+1 The above financial results have been reviewed by the Audit Committee and approved by the Board of Directors in their respective meetings held on October 19, 2026. These results have been subjected
+  to limited rev iew carried out by Statutory Auditors.
+
+2 The above financial results have been prepared in accordance with the recognition and measurement principles provided in Indian Accounting Standard (Ind AS}, the provisions of the Companies Act, 2013
+  (the Act}, as applicable and guidelines issued by the Securities and Exchange Board of India (SEBI} under SEBI (Listing Obligations and Disclosure Requirements} Regulations 2015, as amended.
+
+3 The Company operates in a single reporting segment namely, 'Search and search related services' hence there is no reportable segment as per requirements of Indian Accounting Standards 108 on
+  'Operating Segments'.
+
+4 During the half year ended September 30, 2026, the Company has issued and allotted 4,375 Equity shares upon conversion of Stock Options granted under the Company's Employees Stock Option
+  Scheme. Consequent to this allotment the paid-up Equity share capital of the Company stands increased to 85,049,032 Equity shares oft 10/- each i.e. t 850.5 million.
+
+5 'Revenue from operations' is a derived value arrived at by applying the applicable GST rate to the 'Net revenue from operations'.
+
+6 The Company does not have any subsidiary or associate company and consequently, the Company is not required to prepare consolidated financial results as per applicable laws and regulations.
+
+7 Other Income includes fair value gain on financial instruments measured at fair value through profit and loss aggregating~ 90.8 million and, 605.9 million for the quarter ended September 30, 2026 and
+  September 30, 2025, respectively and< 2,879.0 million for the year ended March 31 , 2026. Other Income also includes profit on sale of investments aggregating, 309.6 million and, 14.2 million for the
+  quarter ended September 30, 2026 and September 30, 2025 respectively and, 52.8 million for the year ended March 31 , 2026.
+
+8 Effective November 21 , 2025, the new labour code on Social Security, 2020, amended the definition of ''wages" for gratuity calculations and expanded coverage to fixed-term employees. Under Ind AS 19,
+  the revision to gratuity benefit resulting from new labour codes are considered as plan amendments and are treated as past service costs. Consequently, the Company has recognised a one-time, past
+  service cost of< 210.8 million on account of aforesaid revision as Exceptional item in the Statement of Profit and Loss for the year ended March 31 , 2026.
+
+
+
+
+                                                                                                                              For and on behalf of the board of directors of
+
+
+
+
+                                                                                                                              z::
+                                                                                                                              Just Dial Limited
+
+
+
+
+                                                                                                                              Chairman and Independent Director
+                                                                                                                              DIN:01029826
+                                                                                                                              Date: October 19, 2026
+

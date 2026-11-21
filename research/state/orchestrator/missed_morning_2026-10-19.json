@@ -1,0 +1,18 @@
+{
+  "status": "LATE_DEFERRED",
+  "intended_slot": "2026-10-19T10:00:00+05:30",
+  "deadline_at": "2026-10-19T10:15:00+05:30",
+  "checked_at": "2026-10-19T18:30:51.221880+05:30",
+  "execution_lane": "FAST",
+  "completed": false,
+  "reason": "No completed morning-slot record; heartbeat arrived at 18:30 IST after the original cutoff. Cause of delayed wake not established.",
+  "model_calls": 0,
+  "source_collection_calls": 0,
+  "next_scheduled_slot": "2026-10-19T21:00:00+05:30",
+  "next_action": "At the next eligible evening pass consume sealed sources, carry unresolved tasks and the missed Friday reconciliation into the next overnight allocation; retain original missed-slot deadline",
+  "prior_report": "research/stock_reports/pipeline_2026-10-16_210000",
+  "prior_market_asof": "2026-10-16",
+  "notification_key": "missed-morning-2026-10-19",
+  "completed_slots_unchanged": true,
+  "sheet_unchanged": true
+}

@@ -1,0 +1,33 @@
+{
+  "assessments": [
+    {
+      "symbol": "BHARTIARTL",
+      "mechanism": "Exchange metadata confirms submission of audited consolidated and standalone Q2 and half-year results for the period ended September 30, 2026. Board approval was on November 5, 2026. No verified financial figures are available, so any performance mechanism remains an untested hypothesis.",
+      "uncertainty": "High: only cover-letter metadata and unverified OCR are supplied. The quarter table, sector metrics and cash conversion are unverified.",
+      "next_check": "Verify the original quarter table, sector metrics, cash conversion and valuation from the primary filing. No price trigger is required.",
+      "evidence_ids": [
+        "nse-announcement-106847388"
+      ]
+    },
+    {
+      "symbol": "GLENMARK",
+      "mechanism": "Exchange metadata confirms the board approved unaudited standalone and consolidated results for the quarter and half year ended September 30, 2026, with a limited review report. No verified financials are supplied, so significance cannot be assessed beyond the disclosure event itself.",
+      "uncertainty": "High: the OCR excerpt is truncated and unverified. No line items, segment data or review-report content have been verified.",
+      "next_check": "Verify the original quarter table, sector metrics, cash conversion and valuation from the primary filing. No price trigger is required.",
+      "evidence_ids": [
+        "nse-announcement-106847618"
+      ]
+    },
+    {
+      "symbol": "M&M",
+      "mechanism": "Exchange metadata confirms the board meeting outcome and submission of unaudited standalone and consolidated Q2 and half-year results for the period ended September 30, 2026. The filing references Regulations 51 and 52, which suggests debt-related disclosures may be included; this is unverified.",
+      "uncertainty": "High: only letterhead and reference text are available. The financial tables and any debt-related disclosures are unverified.",
+      "next_check": "Verify the original quarter table, sector metrics, cash conversion and valuation from the primary filing. No price trigger is required.",
+      "evidence_ids": [
+        "nse-announcement-106846728"
+      ]
+    }
+  ],
+  "dossiers": [],
+  "brief": "FAST lane, editorial only. On November 5, 2026, three primary exchange filings confirm that results were submitted for the period ended September 30, 2026. BHARTIARTL filed audited Q2 and half-year results. GLENMARK and M&M filed unaudited standalone and consolidated results; GLENMARK's filing includes a limited review report. The evidence is metadata and unverified OCR only: no verified financials were supplied and no figures have been adopted. Significance is therefore limited to disclosure timing. Any performance drivers remain hypotheses until the original quarter tables are verified. Dossiers are intentionally empty under the FAST-lane rule, and existing dossiers are reused by the orchestrator. The next step for all three is verifying the primary-filing tables, sector metrics, cash conversion and valuation. Codex verification is pending. No trading calls or price targets are given."
+}

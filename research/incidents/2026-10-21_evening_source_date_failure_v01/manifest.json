@@ -1,0 +1,8 @@
+{
+  "committed": true,
+  "kind": "EXECUTION_FAILURE_INCIDENT",
+  "files": {
+    "failure.json": "120c209914801be145f0d6938f17f0862aca352e3807dc4ca27e8cadb5c15c4f",
+    "continuation.json": "466d00cdbfd566747c37fa950a2e55dcaba4a6d1f7f3fa56efb54683776e729c"
+  }
+}

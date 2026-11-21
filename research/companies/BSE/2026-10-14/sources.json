@@ -1,0 +1,51 @@
+[
+  {
+    "source_id": "S1",
+    "path": "sources/bse_fy26.pdf",
+    "url": "https://cdn.financialreports.eu/financialreports/media/filings/60293/2026/RNS/60293_rns_2026-07-23_22c4c13e-6d6a-4364-af7d-fcdf176db0ef.pdf",
+    "published_at": "2026-07-23",
+    "retrieved_on": "2026-10-14",
+    "sha256": "f775611f6dc7d8c63893febf0b26f057883a1ff3829fe5132293cec97fee696a",
+    "source_type": "Company-authored disclosure retrieved from third-party mirror; direct issuer retrieval unavailable"
+  },
+  {
+    "source_id": "S2",
+    "path": "sources/bse_results.pdf",
+    "url": "https://cdn.financialreports.eu/financialreports/media/filings/60293/2026/RNS/60293_rns_2026-08-04_d2be7527-3548-4096-8bd4-48f7b7a0208f.pdf",
+    "published_at": "2026-08-04",
+    "retrieved_on": "2026-10-14",
+    "sha256": "52f6e843c4e55607bacf8d6ddaac9e9c8dd1c254a1db450ff9efc253e06776dc",
+    "source_type": "Company-authored disclosure retrieved from third-party mirror; direct issuer retrieval unavailable"
+  },
+  {
+    "source_id": "S3",
+    "path": "sources/bse_q1fy27.pdf",
+    "url": "https://cdn.financialreports.eu/financialreports/media/filings/60293/2026/RNS/60293_rns_2026-08-04_2ec8dffb-c0d2-4cd0-bddc-6c51e193d44f.pdf",
+    "published_at": "2026-08-04",
+    "retrieved_on": "2026-10-14",
+    "sha256": "eeb4f86f04648d2a5fe78850d19e84485e7d0b070f2be9b8cac1b3018c5688d7",
+    "source_type": "Company-authored disclosure retrieved from third-party mirror; direct issuer retrieval unavailable"
+  },
+  {
+    "source_id": "S4",
+    "path": "sources/bse_transcript.pdf",
+    "url": "https://cdn.financialreports.eu/financialreports/media/filings/60293/2026/RNS/60293_rns_2026-08-10_843616e5-4145-4387-9d1e-be305d93c14a.pdf",
+    "published_at": "2026-08-10",
+    "retrieved_on": "2026-10-14",
+    "sha256": "825285bf5901a24057bf0700ea52a3b557cbc7f0ad2d666a8084a63890b52527",
+    "source_type": "Company-authored disclosure retrieved from third-party mirror; direct issuer retrieval unavailable"
+  },
+  {
+    "source_id": "S5",
+    "url": "https://upstox.com/stocks/bse-limited-share-price/",
+    "retrieved_on": "2026-10-14",
+    "quote_timestamp": "2026-10-13T15:59:00+05:30",
+    "source_type": "Secondary broker quote; accessed with web tool; raw page not archived"
+  },
+  {
+    "source_id": "S6",
+    "url": "https://www.kotakneo.com/stocks/bse-share-price/",
+    "retrieved_on": "2026-10-14",
+    "source_type": "Secondary broker quote corroboration; underlying feed independence unknown"
+  }
+]

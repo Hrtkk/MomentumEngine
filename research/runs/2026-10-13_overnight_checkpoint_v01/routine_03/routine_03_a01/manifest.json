@@ -1,0 +1,28 @@
+{
+  "committed": true,
+  "schema_version": "1.1",
+  "batch_id": "2026-10-13_overnight_checkpoint_v01",
+  "run_id": "routine_03_a01",
+  "artifacts": [
+    {
+      "path": "open_tasks.jsonl",
+      "sha256": "a09e1d717a3862e67c3a24b1d845c1aeaf1e7ee1bcdf554616ef36019ec4acc0"
+    },
+    {
+      "path": "readiness.json",
+      "sha256": "cae67cbe79e4be3ed05c1413692a7f49805e79edcd1d95b1a262345a8c8f0e62"
+    },
+    {
+      "path": "report.md",
+      "sha256": "26a4eab8720e9d944e7813e0070a1760fa190e08bc8068de4d682b72fc9f18d7"
+    },
+    {
+      "path": "stock_report_ref.json",
+      "sha256": "1e8524687b8b33e47ca409a67f323759f986f73b5966d074b3fb189822d452e5"
+    },
+    {
+      "path": "handoff.json",
+      "sha256": "83e50ec61c250b0f184bc3a74c19bc7ae7ea72ef5002f11bcbe3a61f3e3cfd57"
+    }
+  ]
+}

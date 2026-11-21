@@ -1,0 +1,38 @@
+{
+  "status": "PARTIAL",
+  "stock_count": 533,
+  "editorial_executed": true,
+  "editorial_executed_this_pass": true,
+  "analysis_reused": false,
+  "author": "Claude",
+  "economic_review": "PENDING",
+  "items": [
+    {
+      "symbol": "BHARATWIRE",
+      "mechanism": "Fact: exchange metadata states Bharat Wire Ropes submitted financial results for the period ended September 30, 2026. Document retrieval failed (CalledProcessError), so no content, figures or drivers are verified. Significance cannot be assessed beyond the filing event.",
+      "uncertainty": "High: source PDF not parsed; no verified financials; result direction and drivers unknown.",
+      "next_check": "Retrieve and verify the original quarter table from the exchange PDF; then review sector metrics and cash conversion against the prior comparable quarter.",
+      "evidence_ids": [
+        "nse-announcement-106840546"
+      ]
+    },
+    {
+      "symbol": "IDEAFORGE",
+      "mechanism": "Fact: board approved unaudited standalone and consolidated results for the quarter and half year ended September 30, 2026, with a limited review report by the statutory auditor (per cover letter excerpt). Financial tables are unverified OCR; no figures adopted. Any operating narrative remains a hypothesis pending verification.",
+      "uncertainty": "High: only the cover letter is available; Annexure A tables not verified.",
+      "next_check": "Verify Annexure A quarter table (standalone and consolidated) and any auditor review qualifications; compare with the prior comparable quarter.",
+      "evidence_ids": [
+        "nse-announcement-106840645"
+      ]
+    },
+    {
+      "symbol": "SFL",
+      "mechanism": "Fact: Sheela Foam filed unaudited standalone and consolidated results for the quarter and half year ended September 30, 2026, including Regulation 52(4) line items and a NIL security cover certificate for unsecured listed NCDs (per cover letter excerpt). No financial figures verified.",
+      "uncertainty": "High: tables are unverified OCR; debt-related ratios under Regulation 52(4) not yet reviewed.",
+      "next_check": "Verify the quarter table and Regulation 52(4) ratios from the original PDF; review cash conversion versus the prior comparable quarter.",
+      "evidence_ids": [
+        "nse-announcement-106840493"
+      ]
+    }
+  ]
+}

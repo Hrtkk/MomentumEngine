@@ -1,0 +1,145 @@
+{
+  "cutoff": "2026-10-14",
+  "inputs": {
+    "FY25": {
+      "revenue": 2957.34,
+      "parent_pat": 1325.89,
+      "continuing_group_pat": 1317.06,
+      "cfo_continuing": 410.15,
+      "capex": 153.23,
+      "eps": 32.18,
+      "source": "S1 printed pp153-154 (PDF164-165)"
+    },
+    "FY26": {
+      "revenue": 4833.95,
+      "parent_pat": 2496.98,
+      "continuing_group_pat": 2475.3,
+      "cfo_continuing": 3103.68,
+      "capex": 515.16,
+      "eps": 60.61,
+      "source": "S1 printed pp153-154 (PDF164-165)"
+    },
+    "Q1FY26": {
+      "revenue": 957.95,
+      "parent_pat": 539.41,
+      "group_pat": 538.17,
+      "investment_income": 79.06,
+      "eps": 13.09,
+      "source": "S2 PDF5"
+    },
+    "Q4FY26": {
+      "revenue": 1563.51,
+      "parent_pat": 797.33,
+      "group_pat": 795.47,
+      "investment_income": 61.69,
+      "eps": 19.35,
+      "source": "S2 PDF5"
+    },
+    "Q1FY27": {
+      "revenue": 1566.02,
+      "parent_pat": 874.02,
+      "group_pat": 872.66,
+      "investment_income": 135.18,
+      "eps": 21.22,
+      "source": "S2 PDF5"
+    }
+  },
+  "metrics": {
+    "fy26_revenue_growth_pct": 63.45601114515069,
+    "fy26_parent_pat_growth_pct": 88.3248233262186,
+    "q1_revenue_yoy_pct": 63.47617307792681,
+    "q1_revenue_qoq_pct": 0.16053622938132506,
+    "q1_parent_pat_yoy_pct": 62.032591164420396,
+    "q1_parent_pat_qoq_pct": 9.618351247287805,
+    "investment_income_qoq_increase_crore": 73.49000000000001,
+    "ttm_eps_reported": 68.74,
+    "ttm_parent_pat_crore": 2831.59,
+    "q1_eps_times_four_NOT_forecast": 84.88,
+    "fy26_cfo_to_continuing_group_pat": 1.2538601381650707,
+    "fy25_cfo_to_continuing_group_pat": 0.31141329931817835,
+    "two_year_cfo_to_continuing_group_pat": 0.9265549684101719,
+    "fy26_cfo_less_capex_NOT_distributable_cash": 2588.52,
+    "fy25_cfo_less_capex_NOT_distributable_cash": 256.91999999999996,
+    "fy26_other_liabilities_cashflow_contribution_crore": 727.67,
+    "fy26_other_liabilities_contribution_pct_cfo": 23.445393855036603,
+    "fy26_cfo_without_other_liabilities_increase_DIAGNOSTIC": 2376.0099999999998,
+    "fy26_owned_bank_balances_ex_interest_crore": 3001.11,
+    "fy26_contingent_claims_and_guarantees_crore": 330.16,
+    "indicative_price": 3375.4,
+    "indicative_ttm_pe": 49.10386965376782,
+    "indicative_fy26_pe": 55.69048011879228,
+    "indicative_annualized_q1_pe": 39.76672950047126
+  },
+  "reverse_expectations": [
+    {
+      "years": 3,
+      "assumed_terminal_pe": 25,
+      "assumed_annual_price_return_pct": 12,
+      "required_eps_cagr_pct": 40.263043818629086
+    },
+    {
+      "years": 3,
+      "assumed_terminal_pe": 35,
+      "assumed_annual_price_return_pct": 12,
+      "required_eps_cagr_pct": 25.38163071287731
+    },
+    {
+      "years": 3,
+      "assumed_terminal_pe": 45,
+      "assumed_annual_price_return_pct": 12,
+      "required_eps_cagr_pct": 15.30613741594895
+    },
+    {
+      "years": 5,
+      "assumed_terminal_pe": 25,
+      "assumed_annual_price_return_pct": 12,
+      "required_eps_cagr_pct": 28.18970986451077
+    },
+    {
+      "years": 5,
+      "assumed_terminal_pe": 35,
+      "assumed_annual_price_return_pct": 12,
+      "required_eps_cagr_pct": 19.847107670036724
+    },
+    {
+      "years": 5,
+      "assumed_terminal_pe": 45,
+      "assumed_annual_price_return_pct": 12,
+      "required_eps_cagr_pct": 13.972129680359192
+    }
+  ],
+  "operating_sensitivities": [
+    {
+      "case": "adverse",
+      "assumed_revenue_growth_pct": -15.0,
+      "assumed_operating_ebitda_margin_pct": 50.0,
+      "ebitda_index_vs_fy26_100": 66.73039757040308
+    },
+    {
+      "case": "steady",
+      "assumed_revenue_growth_pct": 10.0,
+      "assumed_operating_ebitda_margin_pct": 64.0,
+      "ebitda_index_vs_fy26_100": 110.53694091662067
+    },
+    {
+      "case": "expansion",
+      "assumed_revenue_growth_pct": 25.0,
+      "assumed_operating_ebitda_margin_pct": 67.0,
+      "ebitda_index_vs_fy26_100": 131.4981363887355
+    }
+  ],
+  "limitations": [
+    "Indicative secondary-source price only",
+    "No EV or DCF: distributable cash unresolved",
+    "Rounded published EPS used for TTM",
+    "Sensitivity assumptions are not forecasts"
+  ],
+  "extra_sources": {
+    "cash_and_contingencies": "S1 notes 11,12,37",
+    "fy26_operating_ebitda": "S3 PDF26, INR million divided by 10",
+    "price": [
+      "https://upstox.com/stocks/bse-limited-share-price/",
+      "https://www.kotakneo.com/stocks/bse-share-price/"
+    ]
+  }
+}

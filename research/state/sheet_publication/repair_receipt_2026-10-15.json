@@ -1,0 +1,25 @@
+{
+  "state": "VERIFIED",
+  "verified_at": "2026-10-15T17:54:43.528416+05:30",
+  "spreadsheet_id": "1uMgZd9anGrXOOleQlqwEHVT6zAXezsTBJxf9PnXTWK8",
+  "source_ref": {
+    "run_dir": "research/stock_reports/pipeline_2026-10-15_175040",
+    "manifest_sha256": "37a722c3d34e013ec82c289585700ad1ccbcfbfc77015cd6a5a8a67b70b6fddb"
+  },
+  "row_counts": {
+    "Research Dashboard": 17,
+    "Research Stocks": 63,
+    "Routine Runs": 67,
+    "Research Tasks": 39,
+    "Research Briefs": 3
+  },
+  "source_asof": "2026-10-14",
+  "claude_dossiers": 3,
+  "pending_tasks": 34,
+  "checks": "Exact connector values, unique history IDs, source dates, budget status and task resolutions verified",
+  "protected_original_tabs": [
+    "Strategy Allocation",
+    "Holdings",
+    "Watchlist"
+  ]
+}

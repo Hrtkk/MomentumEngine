@@ -1,0 +1,23 @@
+{
+  "batch_id": "2026-10-13_evening_snapshot_v01",
+  "scheduled_slot": "2026-10-13T21:00:00+05:30",
+  "runs": [
+    "research/runs/2026-10-13_evening_snapshot_v01/routine_01/routine_01_a01",
+    "research/runs/2026-10-13_evening_snapshot_v01/routine_02/routine_02_a01",
+    "research/runs/2026-10-13_evening_snapshot_v01/routine_03/routine_03_a01",
+    "research/runs/2026-10-13_evening_snapshot_v01/routine_04/routine_04_a01",
+    "research/runs/2026-10-13_evening_snapshot_v01/routine_05/routine_05_a01"
+  ],
+  "stock_report_ref": {
+    "run_dir": "research/stock_reports/2026-10-13_2000_7c9b6496a109",
+    "manifest_sha256": "e74cbfe73d52ba6a1b864c6b4dc158b25287747d0fda38d51da63c7e1837645e"
+  },
+  "status": "PARTIAL",
+  "authentication_followup_ref": {
+    "path": "research/readiness/2026-10-13_evening_auth_verified_v01",
+    "manifest_sha256": "f2f61247a1eb6dc8bcead6eb623a747f87121575fac5ffa231df45ca70b2d48a",
+    "checked_at": "2026-10-13T21:17:21.742291+05:30",
+    "status": "AUTHENTICATED",
+    "unattended_access_certified": false
+  }
+}

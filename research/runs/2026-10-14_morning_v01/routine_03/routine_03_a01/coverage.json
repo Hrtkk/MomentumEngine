@@ -1,0 +1,8 @@
+{
+  "active_accepted_theses": null,
+  "thesis_evaluated": 0,
+  "expiry_evaluated": 0,
+  "result": "NOT_EVALUATED",
+  "reason": "Accepted dossiers/trigger/expiry policies absent",
+  "paper_asof": "2026-10-09"
+}

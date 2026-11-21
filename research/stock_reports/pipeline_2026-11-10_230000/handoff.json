@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.1",
+  "artifact_kind": "FACTUAL_STOCK_QUEUE",
+  "runtime_version": "pipeline-1",
+  "pipeline_batch": "pipeline_2026-11-10_230000",
+  "status": "PARTIAL",
+  "production_eligible": false,
+  "cutoff_at": "2026-11-10T23:00:00+05:30",
+  "compiled_at": "2026-11-11T00:10:18.610135+05:30",
+  "market_asof": "2026-11-09",
+  "stock_count": 1039,
+  "executor": "Claude editorial; Codex factual validation",
+  "claude_interpretation_executed": false,
+  "news_updates": 3,
+  "upstream_runs": [
+    {
+      "run_dir": "research/runs/pipeline_2026-11-10_230000/routine_01/routine_01_a01",
+      "manifest_sha256": "260d67c5a7845d4f45213df19fbae3028d8d5a83fe9a9ff028f345a44b64f264"
+    },
+    {
+      "run_dir": "research/runs/pipeline_2026-11-10_230000/routine_02/routine_02_a01",
+      "manifest_sha256": "5a89a23c944309db1ebc72fb02c3cde91707c261807203ec2d461f27242bf32f"
+    },
+    {
+      "run_dir": "research/runs/pipeline_2026-11-10_230000/routine_03/routine_03_a01",
+      "manifest_sha256": "fe7a800303947432ca1942b8fbb928048fce2c24ae54b89705e90e6a71527f90"
+    },
+    {
+      "run_dir": "research/runs/pipeline_2026-11-10_230000/routine_04/routine_04_a01",
+      "manifest_sha256": "8fd5265e8a55ac9bd32277c540d95dc52155c1cc23f1f5043b35e860f5f9aa2e"
+    },
+    {
+      "run_dir": "research/runs/pipeline_2026-11-10_230000/routine_05/routine_05_a01",
+      "manifest_sha256": "df02cd935e456d38d881fd462aa9c27c946d836a5545e9a6e31de9277792c5e9"
+    }
+  ]
+}

@@ -1,0 +1,548 @@
+     Ref: STEX/SECT/2026
+     November 4, 2026
+
+       BSE Limited                              National Stock Exchange of India Limited
+       P. J. Towers Dalal Street,               Exchange Plaza, 5th Floor Plot No. C/1, G Block,
+       Fort, Mumbai - 400001                    Bandra – Kurla Complex, Bandra (East)
+                                                Mumbai - 400051
+
+       BSE Scrip Code: 500480                   NSE Symbol: CUMMINSIND
+
+
+      Sub.: Outcome of Board Meeting
+
+      Dear Sir/ Madam,
+
+      We wish to inform that, the Board of Directors (“Board”) of Cummins India Limited
+      (“Company”) at their meeting held today i.e., on Wednesday, November 4, 2026, inter-alia,
+      unanimously approved the Unaudited Financial Results for the quarter and half year ended
+      September 30, 2026. Copy of the said financial results along-with Statutory Auditor’s Limited
+      Review Report is enclosed herewith.
+
+      Board Meeting start time: 19:55 hrs. (IST)
+      Board Meeting end time: 21:00 hrs. (IST)
+
+      This intimation is also being uploaded on the website of the Company at
+      www.cumminsindia.com.
+
+      Kindly take this intimation on your record.
+
+      Thanking you.
+
+      Yours faithfully,
+      For Cummins India Limited
+       Vinaya Digitally   signed
+                 by Vinaya Abhijit
+       Abhijit Joshi
+                 Date: 2026.11.04
+       Joshi     22:27:42 +05'30'
+
+      Vinaya A. Joshi
+      Company Secretary & Compliance Officer
+      Membership No.: A25096
+
+      Encl.: As above
+
+
+
+
+Cummins India Limited
+Registered Office
+Cummins India Office Campus
+Tower A, 5th Floor, Survey No. 21, Balewadi
+Pune 411 045 Maharashtra, India
+Phone +91 20 67067000 Fax +91 20 67067015
+cumminsindia.com
+cil.investors@cummins.com                     CIN : L29112PN1962PLC012276
+       Price Waterhouse & Co Chartered Accountants LLP
+
+Review Report
+
+To
+The Board of Directors
+Cummins India Limited
+Cummins India Office Campus, Tower A,
+5th Floor, Survey No. 21, Balewadi, Pune 411045
+
+
+1.   We have reviewed the unaudited financial results of Cummins India Limited (the "Company") for the
+     quarter ended September 30, 2026 and the year to date results for the period April 01, 2026 to
+     September 30, 2026, and the notes that include the Statement of Assets and Liabilities as on that date
+     and the Statement of Cash Flows for the half-year ended on that date which are included in the
+     accompanying 'Unaudited standalone financial results for the quarter and half year ended September
+     30, 2026' (the "Statement"). The Statement has been prepared by the Company pursuant to
+     Regulation 33 of the SEBI (Listing Obligations and Disclosure Requirements) Regulations, 2015, as
+     amended (the "Listing Regulations, 2015"), which has been digitally signed by us for identification
+     purposes.
+
+2. This Statement, which is the responsibility of the Company's Management and approved by the Board
+   of Directors, has been prepared in accordance with the recognition and measurement principles laid
+   down in Indian Accounting Standard 34 "Interim Financial Reporting" ("Ind AS 34"), prescribed
+   under Section 133 of the Companies Act, 2013, and other accounting principles generally accepted in
+   India. Our responsibility is to express a conclusion on the Statement based on our review.
+
+3. We conducted our review of the Statement in accordance with the Standard on Review Engagements
+   (SRE) 2410 "Review of Interim Financial Information Performed by the Independent Auditor of the
+   Entity", issued by the Institute of Chartered Accountants of India. This Standard requires that we plan
+   and perform the review to obtain moderate assurance as to whether the Statement is free of material
+   misstatement. A review of interim financial information consists of making inquiries, primarily of
+   persons responsible for financial and accounting matters, and applying analytical and other review
+   procedures. A review is substantially less in scope than an audit conducted in accordance with
+   Standards on Auditing and consequently does not enable us to obtain assurance that we would
+   become aware of all significant matters that might be identified in an audit. Accordingly, we do not
+   express an audit opinion.
+
+4. Based on our review conducted as above, nothing has come to our attention that causes us to believe
+   that the Statement has not been prepared in all material respects in accordance with the recognition
+   and measurement principles laid down in the aforesaid Indian Accounting Standard and other
+   accounting principles generally accepted in India and has not disclosed the information required to be
+   disclosed in terms of Regulation 33 of the Listing Regulations, 2015 including the manner in which it
+   is to be disclosed, or that it contains any material misstatement.
+
+
+For Price Waterhouse & Co Chartered Accountants LLP
+Firm Registration Number: 304026E/E-300009
+                        Digitally signed by
+PRAVIN        PRAVIN VISHNU RAJANI
+VISHNU RAJANI Date: 2026.11.04 22:11:03
+              +05'30'
+Pravin Rajani
+Partner
+Membership Number: 127460
+
+UDIN: 26127460UVBCFH9858
+Place: Pune
+Date: November 04, 2026
+        Price Waterhouse & Co Chartered Accountants LLP, 7th Floor, Tower A - Wing 1, Business Bay, Airport Road, Yerwada
+        Pune - 411 006
+        T: +91 (20) 69050558
+
+        Registered office and Head office: Plot No. 56 & 57, Block DN, Sector-V, Salt Lake, Kolkata - 700 091
+
+        Price Waterhouse & Co. (a Partnership Firm) converted into Price Waterhouse & Co Chartered Accountants LLP (a Limited Liability Partnership with LLP identity no:
+        LLPIN AAC-4362) with effect from July 7, 2014 . Post its conversion to Price Waterhouse & Co Chartered Accountants LLP, its ICAI registration number is
+        304026E/E300009 (ICAI registration number before conversion was 304026E)
+       Price Waterhouse & Co Chartered Accountants LLP
+
+
+Review Report
+
+
+To
+The Board of Directors
+Cummins India Limited
+Cummins India Office Campus, Tower A,
+5th Floor, Survey No. 21, Balewadi, Pune 411045
+
+1.   We have reviewed the consolidated unaudited financial results of Cummins India Limited (the
+     "Company"), and its share of the net profit after tax and total comprehensive income of its joint venture
+     and associate company (refer Note 3 on the Statement) for the quarter ended September 30, 2026 and
+     the year to date results for the period April 01, 2026 to September 30, 2026 and the notes that include
+     the Consolidated Unaudited Statement of Assets and Liabilities as on that date and the Consolidated
+     Unaudited Statement of Cash Flows for the half-year ended on that date which are included in the
+     accompanying 'Unaudited consolidated financial results for the quarter and half year ended September
+     30, 2026' (the "Statement"). The Statement is being submitted by the Company pursuant to the
+     requirement of Regulation 33 of the SEBI (Listing Obligations and Disclosure Requirements)
+     Regulations, 2015, as amended (the "Listing Regulations, 2015" ), which has been digitally signed by
+     us for identification purposes.
+2.   This Statement, which is the responsibility of the Company's Management and has been approved by
+     the Company's Board of Directors, has been prepared in accordance with the recognition and
+     measurement principles laid down in Indian Accounting Standard 34 "Interim Financial Reporting",
+     prescribed under Section 133 of the Companies Act, 2013, and other accounting principles generally
+     accepted in India. Our responsibility is to express a conclusion on the Statement based on our review.
+3. We conducted our review of the Statement in accordance with the Standard on Review Engagements
+   ('SRE') 2410 "Review of Interim Financial Information Performed by the Independent Auditor of the
+   Entity", issued by the Institute of Chartered Accountants of India. This Standard requires that we plan
+   and perform the review to obtain moderate assurance as to whether the Statement is free of material
+   misstatement. A review of interim financial information consists of making inquiries, primarily of
+   persons responsible for financial and accounting matters, and applying analytical and other review
+   procedures. A review is substantially less in scope than an audit conducted in accordance with
+   Standards on Auditing and consequently does not enable us to obtain assurance that we would become
+   aware of all significant matters that might be identified in an audit. Accordingly, we do not express an
+     audit opinion.
+     We also performed procedures in accordance with the circular issued by the SEBI under Regulation
+     33 (8) of the SEBI (Listing Obligations and Disclosure Requirements) Regulations, 2015, as amended,
+     to the extent applicable.
+4. The Statement includes the results of the Company and the following entities:
+      N aine of the Company                                                                              As at September 30 , 2026
+                                                                                                       % holding     Con s olidated as
+      Cummins Generator Technologies India Private Limited                                                48.74%               Associate
+      Valvoline Cummins Private Limited                                                                        50%         Joint Venture
+
+
+
+       Price Waterhouse & Co Chartered Accountants LLP, 7th Floor, Tower A -Wing 1, Busines
+       Pune - 411 006
+       T: + 91 (20) 69050558
+       Registered office and Head office: Plot No. 56 & 57, Block ON, Sector-V, Salt Lake, Kolkata - 700 091
+
+       Price Waterhouse & Co. (a Partnership Firm) converted into Price Waterhouse & Co Chartered Accountants LLP (a Limited
+       LLPIN AAC-4362) with effect from July 7, 2014. Post its conversion to Price Waterhouse & Co Chartered Accountants
+       304026E/E300009 (ICAI registration number before conversion was 304026E)
+        Price Waterhouse & Co Chartered Accountants LLP
+
+5.   Based on our review conducted and procedures performed as stated in paragraph 3 above, nothing has
+     come to our attention that ca uses us to believe that the accompanying Statement has not been prepared
+     in all material respects in accordance with the recognition and measurement principles laid down in
+     the aforesaid Indian Accounting Standard and other accounting principles generally accepted in India
+     and has not disclosed the information required to be disclosed in terms of Regulation 33 of the Listing
+     Regulations, 2015 including the manner in which it is to be disclosed, or that it contains any material
+     misstatement.
+
+
+For Price Waterhouse & Co Chartered Accountants LLP
+Firm Registration Number: 304026E/E-300009
+PRAVIN             Digitally signed by
+                   PRAVIN VISHNU
+VISHNU             RAJANI
+                   Date: 2026.11.04
+RAJANI             22:11:46 +05'30'
+Pravin Rajani
+Partner
+Membership Number: 127460
+UDIN: 26127460OZBCRG1020
+
+Place: Pune
+Date: November 04, 2026
+                                                                                                            CUMMINS INDIA LIMITED
+                                                           Reg istered Office : Cummins India Office Campus, Tower A, 5th Floor, Survey No. 21, Balewadi, Pune 411 045, Maharashtra, India
+
+                                                                                     [CIN : l29112PN1962PLC012276], Telephone : 020 67067000, Fax : 020 67067015,
+                                                                                         Email : ciLinvestors@cummlns.com , Website : www.cumminsindia.com
+
+                                                                             Unaudited consolidated financial results for the quarter and hall year ended September 30, 2026
+                                                                                                                                                                                                                                     ("Crore)
+    Particulars                                                                                                                  Quarter ended                                            Hall year ended                    Year ended
+                                                                                                          September 30,             June 30,              September 30,          September 30,         September 30,         March 31 ,
+                                                                                                              2026                    2026                    2025                   2026                  2025                2026
+                                                                                                           (Unaudited )           (Unaudited)              (Unaudited)            (Unaudited)           (Unaudited)          (Audited )
+
+    Income
+    (a) Revenue from operations
+             Sales/Income from operations                                                                          3,247.47               3,374.93                3,121.58               6,622.40              5,980.29            11 ,949.73
+             Other operating income                                                                                   53.74                    51.08                 48.69                 104.82                 96.80               193.46
+    (b) Other income                                                                                                 137.23                 137.34                  122.77                 274.57                256.65               517.34
+    Total Income                                                                                                   3,438.44               3,563.35                3,293.04               7,001 .79             6,333.74            12,660.53
+2   Expensas
+    (a) Cost of materials consumed                                                                                 2,118.32               2,094.41                1,804.45               4,212.73              3,580.83             6,964.48
+    (b) Purchases of traded goods                                                                                    204. 11                214.95                  196.82                 419.06                411 .06              809.68
+    (c)   Change in inventories of linished goods, work-in-progress and traded goods                                 (81.30)                   (30.31 )              11 ,06               (111 .61)             (147.93)             (105.65)
+    (d) Employee benefils expense                                                                                    234.83                 233.12                  198.60                 467.95                398.03               794.68
+    (e) Finance cost                                                                                                      3.00                   3.90                    2.55                   6.90                  5.20                12.41
+    (f)   Depreciation and amortisation expense                                                                       53.93                    52.59                 49.18                 106.52                 97.11               198.56
+    (g) Olher expenses                                                                                               318.98                 297.68                  264.55                 616.66                516.81             1,085.09
+    Total expenses                                                                                                 2,851 .87              2,866.34                2,527.21               5,718.21              4,861 .11            9,759.25
+3   Profit before excepllonal Items and tax (1-2)                                                                    586.57                 697.01                  765.83               1,283.58              1,472.63             2,901 .28
+4   Excepllonal 11ems
+    (a) Impact of labour codes (Note 6)                                                                                                                                                                                               (94.20)
+    (b) Gain on sale of subsidiary (Note 3)                                                                                                                                                                       12.59                   12.59
+    Total excepllonaf Items (expensa) / Income                                                                                                                                                                    12.59               (81,61 )
+5   Profit after exceptional Items before share of profit of joint venture and associate and                         586,57                 697.01                  765.83               1,283.58              1,485.22             2,819.67
+    before tax (3+4)
+
+6 Share of profit of joint venture and associate after tax                                                            54.66                    89.83                 58.20                 144.49                123.48               266.28
+7   Profit before tax (5+6)                                                                                          641 .23                786.84                  824.03               1,428.07              1,608.70             3,085.95
+8 Tax expense
+    (a) Current tax                                                                                                  134.72                 176.85                  199.44                 311.57                379.81               706.37
+    (b) Deferred tax                                                                                                  (0.66)                     0.69                    2.26                   0.03                  2.66                 5.27
+    (c)   Tax for earlier years                                                                                                                                                                                                           12.56
+    Total tax expenaes                                                                                               134.06                 177.54                  201.70                 311 .60               382.47               724.20
+9 Profit after tax (7-8)                                                                                             507.17                 609.30                  622.33               1,116.47              1,226.23             2,361 .75
+10 Other comprehensive (expense) / income
+    (a) Items no1 to be reclass~ied to prnfit or loss in subsequenl periods
+              Remeasure ment (loss) / gain on defined benefil plans                                                  (21.87)                     0.04                17,86                 (21.83)                17. 19                  25.59
+              Income tax effect                                                                                           5.50                  (0.01 )              (4.50)                     5.49              (4.33)                  (6.44)
+    (b)    ttems 10 be reclass~ied to profit or loss in subsequen1 periods
+             Changes in the fair value of financial instruments                                                       (0.28)                    (0.06)               (0.84)                 (0.34)                    1.43                ( t .2t )
+              Income tax elfec1                                                                                           0.07                   0.02                    0.2 1                  0.09              (0.36)                   0,30
+    Other comprehensive (expensa) / Income, net of tax (a+b)                                                         (16.58)                    (0.01 )              12.73                 (16.59)                13.93                   18.24
+    Share in joint venture's and associate's OCI after tax (net) not to be reclassitied to profit or                  (0.52)                    (0.01 )                  0.80               (0.53)                    0.50                 2.41
+     ss in subsequent periods
+
+          I Other comprehensive (expense) / income, net of tax (10• 11)                                              (17.10)                    (0.02)               13.53                 (17.12)                14.43                   20.65
+            comprehensive Income (9+ 12)                                                                             490.07                 609.28                  635.86               1,099.35              1,240.66             2,382.40
+              equi1y share capital (Face value , 2 each)                                                              55.44                    55.44                 55.44                  55.44                 55.44                   55.44       *
+              uily                                                                                                                                                                                                                  8,419.72
+             gs per share
+          ,c and diMed EPS for the period on nel profil (Not annualised)( ' )                                         18.30                    21.98                 22.45                  40.28                 44.24                   85.20
+                                                                                                        CUMMINS INDIA LIMITED
+                                                      Registered Office : Cummins India Office Campus, Tower A, 5th Floor, Survey No. 21 , Balewad i, Pune 411045, Maharashtra, India
+
+                                                                                [CIN : L29112PN1962PLC012276), Telephone : 020 67067000, Fax : 020 67067015,
+                                                                                    Email : cll.lnvestors@cummins.com , Website : www.cummlnslndla.com
+
+                                                                          Unaudited standalone financial results for the quarter and half year ended September 30, 2026
+                                                                                                                                                                                                                                f Crore
+   Particulars                                                                                                              Quarter ended                                            Half year ended                     Yearended
+                                                                                                     September 30,             June 30,            September 30,          September 30,          September 30,           March 31 ,
+                                                                                                         2026                    2026                  2025                   2026                     2025                2026
+                                                                                                      (Unaudited)            (Unaudited)            (Unaudited)            (Unaudited)            (Unaudited)            (Audited)
+
+   Income
+   (a) Revenue from operations
+           Sales/Income from operations                                                                       3,247.47               3,374.93               3,121 .58             6,622.40                5,980.29            11 ,949.73
+          Other operating income                                                                                 53.74                  51 .08                 48.69                 104.82                    96.80              193.46
+   (b) Other income                                                                                             151.48                 161.09                 196.37                 312.57                   349.25              720.50
+   Total Income                                                                                               3,452.69               3,587.10               3,366:64              7,039.79                6,426.34            12,863.69
+2 Expenses
+   (a) Cost of materials consumed                                                                             2,118.32               2,094.41               1,804.45              4,212.73                3,580.83              6,964.48
+   (b) Purchases of traded goods                                                                                204.11                 214.95                 196.82                 419.06                   411.06              809.68
+   (c) Change in inventories of finished goods, work-in-progress and traded goods                               (81.30)                (30.31 )                11 .06                (111.61 )                (147.93)            (105.65)
+   (d) Employee benefits expense                                                                                234.83                 233.12                 198.60                  467.95                   398.03              794.68
+   (e) Finance cost                                                                                                3.00                    3.90                 2.55                     6.90                    5.20                 12.41
+   (f) Depreciation and amortisation expense                                                                     53.93                  52.59                 49.18                  106.52                    97.11              198.56
+   (g) Other expenses                                                                                           318.98                 297.68                264.55                  616.66                   516.81            1,085.09
+   Total expenses                                                                                             2,851.87               2,866.34               2,527.21              5,718.21                4,861.11              9,759.25
+3 Profit before exceptional Items and tax (1 ·2)                                                                600.82                 720.76                 839.43              1,321.58                1,565.23              3,104.44
+4 Exceptional items
+   (a) Impact of labour codes (Note 6)                                                                                                                                                                                             (94.20)
+   (b) Gain on sale of subsidary (Note 3)                                                                                                                                                                      44.15                  44.15
+   Total Exceptional items (expense) / income                                                                                                                                                                44.15                (50.05)
+5 Profit before tax (3+4)                                                                                       600.82                 720.76                839.43               1,321 .58               1,609.38              3,054.39
+6 Tax expense
+   (a) Current tax                                                                                              134.72                 176.85                 199.44                 311 .57                  379.81              706.37
+   (b) Deferred tax                                                                                               (0.79)                   0.90                 2.30                     0.11                   2.61                   5.28
+   (c) Tax for earlier years                                                                                                                                                                                                          12.56
+   Total tax expenses                                                                                           133.93                 1n.1s                 201 .74                31 1.68                 382.42                724.21
+7 Profit after tax (5-6)                                                                                        466.89                 543.01                637.69               1,009.90                1,226.96              2,330.18
+8 Other comprehensive (expense) / income
+   (a) Items not to be reclassified to profit or loss in subsequent periods
+           Remeasurement (loss)/ gain on defined benefit plans                                                   (21.87)                   0.04                17.86                  (21.83)                  17.19                  25.59
+           Income tax effect                                                                                       5.50                 (0.01 )                (4.50)                    5.49                   (4.33)                (6.44)
+   (b) Items to be reclassified to profit or loss in subsequent periods
+                                                                                                                  (0.28)                (0.06)                 (0.84)                  (0.34)                    1.43                 (1.21 )
+                 e tax effect                                                                                      0.07                    0.02                 0.21                     0.09                   (0.36)                 0.30
+                      rehensive (expense) / income, net of tax (a+b)                                            (16.58)                 (0.01)                12.73                  (16.59)                 13.93                 18.24
+                           Income, net of tax (7+8)                                                             450.31                 543.00                650.42                  993.31               1,240.89              2,348.42
+                           apital (Face value f 2 each)                                                          55.44                  55.44                  55.44                  55.44                    55.44                  55.44
+                                                                                                                                                                                                                                7,842.37
+
+
+                        S for the period on net profit (Not annualised) (f )                                     16.84                  19.59                  23.00                  36 .43                                          84.06
+Notes
+
+1.   STATEMENT OF ASSETS AND LIABILITIES
+                                                                                                                                                                   (f Crore)
+     Particulars                                                                                       Standalone                                 Consolidated
+                                                                                          As at September 30,  As at March 31 ,      As at September 30,   As at March 31 ,
+                                                                                                 2026               2026                    2026                2026
+                                                                                             (Unaudited)           (Audited)            (Unaudited)           (Audited)
+     ASSETS
+
+     Non-current assets
+     Property, plant and equipment                                                                  1,310.61            1,320.88               1,310.61            1,320.88
+     Capital work-in-progress (including investment property in progress)                              78.79               77. 40                 78.79               77.40
+     Right-of-use asset                                                                                47.11               46.88                  47.11               46.88
+     Investment properties                                                                            885.71              906.68                 885.71              906.68
+     Intangible assets                                                                                 96.13              108.92                  96.13              108.92
+     Intangible assets under development                                                               34.67               20.31                  34.67               20.31
+     Investments accounted for using the equity method                                                                                           708.05              602.09
+     Financial assets
+         Investments in a joint venture and an associate                                               25.24               25.24
+        Investments                                                                                     2.70                2.70                   2.70               2.70
+        Other non-current financial assets                                                             23.61               18.20                  23.6 1             18.20
+     Income tax assets (net)                                                                                                0.54                                      0.54
+     Other non-current assets                                                                         109.75               89.43                 109.75              89.43
+                                                                                                    2 614.32            2 617.1 8              3 297.13            3194.03
+
+     Current assets
+     Inventories                                                                                    1,354.60            1, 168.45              1,354.60            1,168.45
+     Financial assets
+        Investments                                                                                 2,129.48            1,548.43               2,129.48            1,548.43
+        Trade receivables                                                                           2,646.13            2,754.27               2,646.13            2,754 .27
+        Cash and cash equiva lents                                                                    166.27              500.01                 166.27              500.01
+        Other bank balances                                                                         1,462.48            1,874.06               1,462.48            1,874 06
+        Other current financial assets                                                                 80.22               66.77                  80.22               66.77
+     Other current assets                                                                             248. 38             194 .59                248.38              194.59
+     Assets classified as held for sale                                                                 1.74                3.60                   t .74               3.60
+                                                                                                    8 089.30            8110.18                8 089.30            81 10.18
+                                                                                                   10 703.62.          10 727.36              11 386.43           11 304.21
+     EQU ITY ANO LIABILITIES
+
+     Equity
+     Equity share capital                                                                              55.44               55.44                  55.44               55.44
+     Other equity
+         Retained earnings                                                                          6,357.92            6,639.73               7,041 .28           7,217.08
+         Other reserves                                                                             1,202.64            1,202.64               1,202.64            1,202.64
+                                                                                                    7 616.00            7 897.81               8 299.36            8,475.16
+
+     Non-current liabilities
+     Financial liabilities
+         Lease liabilities                                                                            26.08                20.03                  26.08               20.03
+         Other non-current financial liabilities                                                      62.58                4 1.80                 62.58               41 .80
+     Provisions                                                                                      215.97               208.82                 215.97              208.82
+     Deferred tax liabilities (net)                                                                   96.65                96.54                  96.10               96.07
+     Other non-current liabilities                                                                    39.73                22.63                  39.73               22.63
+                                                                                                     441 .01              389.82                 440.46              389.35
+     Current liabilities
+     Financial liabilities
+        Lease liabilities                                                                              11 .15              16.48                  11 .15              16.48
+        Trade Payables
+            Total outstanding dues of micro and small enterprises                                      63.60                92.66                 63.60               92.66
+            Total outs tanding dues of creditors other than micro and small enterprises             1,852.07            t ,557.35              1,852 .07           1,557.32
+        Other current financial liabilities                                                           223.78               24 1.50               223 .78             241.50
+     Current tax liabilities (net)                                                                     66.75                55.56                 66.75               55.56
+     Other current liabilities                                                                        237.43               292.25                237.43              292.25
+     Provisions                                                                                       191 .83              183.93                191 .83             183.93
+                                                                                                    2,646.61            2,439.73               2,646 .61           2,439.70
+                                                                                                   10 703.62           10 727.36              11 386.43           11 304.21
+Notes (continued)
+
+     2 STATEMENT OF CASH FLOWS
+                                                                                                                                                                          (f Crore)
+       Particulars                                                                                           Standalone                                 Consolidated
+                                                                                                Half year ended      Half year ended        Half year ended      Half year ended
+                                                                                              Seotember 30 2026 Seotember 30 2025         Seotember 30, 2026 Seo1ember 30, 2025
+                                                                                                  (Unaudited)          !Unaudited!            (Unaudited)          (Unaudited)
+I.     Cash generated from operating activities
+       Profit before tax                                                                                1,321 .58           1,609.38                 1,428.07              1,608.70
+
+ a) Adjustments to reconcile profit before tax to net cash flows
+    Depreciation and amortisation expense                                                                  106.52               97.11                  106.52                 97.11
+    Finance costs                                                                                            6.90                5.20                    6.90                  5.20
+    Interest income                                                                                        (74.38)           (101 .91)                 (74.38)              (101 .91)
+    Dividend income                                                                                        (38.00)             (92.60)
+    Loss/(gain) on assets sold, discarded , etc.                                                             1.34               (0.18)                   1.34                 (0.18)
+    (Gain)noss on redem ption /sale of investments (net)                                                   (66.11)             (32.43)                 (66.11)               (32.43)
+    Equity contribulion from Holding company                                                                                     8.04                                          8.04
+    Unrealised foreign exchange fluctuation (net)                                                           (4.21)              (1 .17)                  (4.21)               (1 .17)
+    Mark to market ('MTM') of financial instruments                                                         (0.29)               0.95                    (0.29)                0.95
+       Allowance for doubtful debts (net)                                                                    (1.10)             (0.25)                   (1 .10)              (0.25)
+       Share of profit of Joint venture and associate                                                                                                 (1 44.49)             (123.48)
+       Exceptional Items (Note 3)                                                                                              (44 .15)                                      (12.59)
+
+                                                                                                           (69.33)           (161.39)                 (175 .82)             (160.71
+ b) Working capital adjustments
+    Trade receivables                                                                                     110.26             (264.71)                  110.26               (264.71)
+       Inventories                                                                                       (186.15)            (139.77)                 (1 86.15)             (139.77)
+       Current and non-current financial assets                                                           (13.01 )            (18.29)                   (13.01)              (18.29)
+       Other current and non-current assets                                                               (55.17)             (52.45 )                  (55.17)              (52.45)
+       Trade payables                                                                                     257.21              (55.6 1)                 257.21                (55.61)
+       Current and non-current financial liabilities                                                        (2.25)            178.62                      (2.25)             178.62
+       Other current and non-current liabilities                                                          (37.72)             (58.82)                   (37.72)              (58.82)
+       Current and non-current provisions                                                                  (10.41)              5.19                    (1 0.4 1)              5.19
+                                                                                                            62.76            (405.84                     62.76              (405.84
+       Total adjustments (a+b)                                                                              (6.57            (567.23                  (113.06               (566.55
+       Cash generated from operating activities                                                         1,315.01            1,042.15                 1,315.01              1,042.15
+       Tax paid (net of refunds)                                                                         (294 .26)           (299.73)                 (294.26)              (299.73)
+       Net cash generated from operating activities                                                     1,020.75              742.42                 1,020.75                742.42
+
+ II. Cash flows (used ln)/lrom investing activities
+       Purchase of property, plant and equipment, intangible assets and investment property               (90.36)             (111 .10)                (90.36)              (111 .10)
+       Proceeds from sale of property, plant and equipment                                                  2.16                 0.40                     2. 16                0.40
+       Interest received                                                                                   74.38                93.22                   74.38                 93.22
+       Dividend received on investments in associate and joint venture                                     38.00                92.60                   38.00                 92.60
+       Purchase of short term investments                                                              (2,808.55)           (2,566.11)              (2,808.55)            (2,566.11)
+       Sale of short term investments                                                                   2,293.27             1,926.06                2,293.27              1,926.06
+       Investment in Term Deposits (including interest)                                                  (125.02)             (479.90)                (125.02)              (479.90)
+       Withdrawal of Term Deposits (including interest)                                                   531 .04            1,211 .12                 53 1.04             1,211 .12
+       Net cash (used in)/lrom investing activities                                                        (85.08)             166.29                  (85.08                166.29
+
+ Ill. Cash flows (used in)/lrom financing activities
+      Finance costs                                                                                           (3.27)            (1 .51)                   (3.27)              (1 .51)
+       Payment of principal portion of lease liabilities                                                      (5.11)            (4 .48)                   (5.11)              (4 .48 )
+       Dividend paid                                                                                    (1,272.66)           (928.62)               (1,272.66)              (928.62)
+       Net cash (used ln)/from financing activities                                                     {1 ,281 .04)         (934.61)               {1 ,281 .04)            {934.611
+
+ IV. Net change in cash and cash equivalents (1+11+111)                                                   (345.37)             (25.90)                (345.37)               (25.90
+
+ V. Net foreign exchange difference                                                                         11.63                5.06                    11 .63                5.06
+
+ VI. Cash and cash equivalents at the beginning of the year                                                500.01             234.99                   500.01                234.99
+
+VI I. Cash and cash equivalents at the end of the year (IV+V+VI)                                           166.27             214.15                   166.27               214.15
+       Components of cash and cash equivalents
+       Cash on hand
+       Bank Balances
+          In current accounts                                                                              166.27             214.15                   166.27               21 4.15
+       Total cash and cash equivalents                                                                     166.27             214.15                   166.27               214.15
+Notes (continued)
+
+ 3 The Consolidated financial results include results of the Company and the following entities :
+
+   Name of the Company                                As at September 30 , 2026 #                   As at June 30, 2026                  As at September 30 , 2025
+                                                      % holding    Consolidated as            % holding        Consolidated as          % hold ing   Consolidated as
+   Cumm ins Generator Technologies India                    48.74%     Associate                      48.74%       Associate                  48.74%     Associale
+   Private Limiled
+   Valvoli ne Cumm ins Private Limited                          50%      Joint Vent ure                  50%     Joint Venture                       50%          Joint Venture
+   # Same position as at March 31 , 2026
+
+   Exceptional items during the half year ended September 30 , 2025 and the year ended March 31 , 2026 pertain lo gain on sale ol 100% stake in its whol ly owned
+   subs idiary , namely, Cumm ins Sales & Serv ice Private Limited ("CSSPL") amounting to f 12.59 Cr. and f 44 .15 Cr. in consolidated financial results and standalone
+   financial results respectively. Consequent to the transfer of 100% of its shares, CSSPL ceased to be a subsidiary of the Company effective April 1, 2025, pursuant to
+   the requ isite approva ls.
+
+ 4 This statement has been reviewed by the Audit Comm ittee and approved by the Board of Directors at its meeting held on November 4, 2026.
+
+ 5 Ope rating segment information :
+
+   On a rev iew of all the relevant aspects includ ing, in particu lar, the system of internal financial reporting to the Board of Directors, which is the Chief Operating
+   Decision Maker ('CODM'), and considering the econom ic characteristics of the operations, the Company is of the view that it operates in two segments viz. 'Eng ines'
+   and 'Lubes'. Lubes segment comprises of a joint venture , wh ich is accounted fo r as per equity method under relevant Ind AS. The CODM evaluates the Company's
+   consolidated performance based on an analysis of various parameters. Eng ine segment comprises of the Company and its associate wh ich have been aggregated
+   cons idering the nature of products, class of customer etc.
+
+
+   Following information is provided to the CODM for Lubes segment for mon itoring its performance :
+                                                                                                                                                                        (f Crore)
+   Panlc ulars                                                         Quaner ended                                    Half year ended                            Year ended
+                                                   September 30,          June 30 ,         September 30 ,      September 30,     September 30,                    March 31 ,
+                                                       2026                2026                 2025                2026              2025                           2026
+                                                    (Unaudited)         (Unaudited)          (Unaudited)         (Unaud ited)      (Unaudited)                     (Audited)
+
+   Sales
+   Eng ines                                                3,247.47            3,374 .93            3,121 .58          6,622.40               5,980 .29                11,949 .73
+   Lubes·                                                  1,014.56            1,003 .37              710 .64          2,017 .93              1,353 .80                 3,009 .10
+   Total                                                   4,262 .03           4,378.30             3,832 .22          8,640.33               7,334 .09                14,958.83
+   Less : Eli mination/Adjustmenls                         1,01 4.56           1,003 .37              710.64           2,017.93               1,353 .80                 3,009 .10
+   Net sales                                               3,247 .47           3 374.93             3,121 .58          6,622.40               5,980.29                 11 ,949.73
+
+   Profit before tax
+   Eng ines                                                  621 .36             741 .08             804 .51           1,362.44               1,560 .31                 2,973.34
+   Lubes·                                                     53.66              122.78               52.59               176.44                130.18                    30 1.19
+   Total                                                     675.02              863.86              857.10            1,538.88               1,690 .49                 3,274.53
+   Less : Eli minalion/Adju stments                           33.79               17.02               33 .07            • 110.81                 81.79                    188.58
+   Total Profit before tax                                   641 .23             786.84              824.03            1 428.07               1,608.70                  3,085.95
+
+   Profit after tax
+   Eng ines                                                  487.30              563.54              602.81            1,050.84               1,177.84                  2,249.14
+   Lubes·                                                     39 .74              91 .53              39 .03             131 .27                 96 .78                   225.22
+   Total                                                     527.04              655.07              64 1.84           1,182.11               1,274.62                  2,474.36
+   Less : Eli mination/Adjustments                            19.87               45.77               19.51               65.64                  48 .39                   112.61
+   Total Profit after tax                                    507.17              609 .30             622 .33           1 116.47               1 226 .23                 2,36 1.75
+
+   • The above numbers represent full numbers in the Statement of Profit and Loss of Valvoli ne Cummins Private Limited and are not the proportionate share in the
+   consolidated fin ancial results.
+
+ 6 The Government of India, on November 21, 2025, notified the four Labour Codes - Code on Wages , 2019 ; Industrial Relations Code , 2020 ; Code on Social Security,
+   2020 ; and Occupational Safety, Health and Working Conditions Code , 2020 - subsuming 29 existing labour laws. Consequent to the notification , the Company had
+   assessed the impact and recorded a net expense of f 94 .20 crore for the year ended March 31, 2026. As this impact was material, regu latory-driven , and non-
+   recurring, the same was presented under "Exceptional Items" in the consolidated and standalone financial results for the year ended March 31 , 2026. The impact
+   corresponding to joint venture and associate amounting to a net expense of, 8.36 crore for the year ended March 31 , 2026 has been reported under "Share of profit
+   of joint venture and associate after tax" in the consolidated financial results .
+
+
+
+
+                                                                                                                                   For Cummins Ind ia Lim ited
+
+                                                                                                                                   Adegbile Digitally signed by
+                                                                                                                                            Adegbile Adedapo
+                                                                                                                                   Adedapo Adewunmi
+                                                                                                                                            Date: 2026.11.04
+                                                                                                                                   Adewunmi 21:28:31 +05'30'
+                                                                                                                                   Adegblle Adewunm l
+   Columbus IN, USA                                                                                                                Managing Director
+   Date : November 4, 2026                                                                                                         DIN: 11 962843
+
+
+
+
+                                PRAVIN Digitally
+                                       by PRAVIN
+                                                 signed
+
+                                VISHNU VISHNU    RAJANI
+                                       Date: 2026.11.04
+                                RAJANI 22:13:14 +05'30'
+

@@ -1,0 +1,48 @@
+{
+  "schema_version": "1.1",
+  "committed": true,
+  "batch_id": "2026-10-12_overnight_v01",
+  "run_id": "routine_04_a01",
+  "artifacts": [
+    {
+      "path": "events.jsonl",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "record_count": 0
+    },
+    {
+      "path": "open_tasks.jsonl",
+      "sha256": "a14fdcc2cdb07523f6eb72c17734fe9680f41254192d8ec991a5f0a6a68b937d",
+      "record_count": 30
+    },
+    {
+      "path": "ownership_queue.json",
+      "sha256": "7e7bf789579c7ad64683447d7b14e3adb36b5e9fb722d26ee86cca55f11bf38e",
+      "record_count": null
+    },
+    {
+      "path": "readiness.json",
+      "sha256": "163bcb9482b9a565ca81d8da9689d7297ec975d86ca88813f2f9481cfd6369cf",
+      "record_count": null
+    },
+    {
+      "path": "registry_ref.json",
+      "sha256": "091186a803c683972ac9cda525ecd0d392ba971ffde868412f9d976c916b19cc",
+      "record_count": null
+    },
+    {
+      "path": "report.md",
+      "sha256": "f9c361526b25916332ba76bc2bd403611e869cb5cded9c7c64091f621c53b439",
+      "record_count": null
+    },
+    {
+      "path": "source_health.json",
+      "sha256": "9da5f268ddf3192e44da6414b80d21ccaeff1cb6fce3375f37205a1c04cd4d9c",
+      "record_count": null
+    },
+    {
+      "path": "handoff.json",
+      "sha256": "f7b2e59e14d6d9a4f6356886fec1c30ca69076666c5c4c8fe5efa82e5abe6d99",
+      "record_count": 1
+    }
+  ]
+}

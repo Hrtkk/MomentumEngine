@@ -1,0 +1,97 @@
+{
+  "assessments": [
+    {
+      "symbol": "MRPL",
+      "mechanism": "Standalone Q2 FY27 revenue rose 37.1% YoY and PAT rose 194.5% YoY; for a refiner, profit leverage to throughput and refining margins is a hypothesis, not a verified driver, since no segment, throughput or margin disclosure is in the packet.",
+      "uncertainty": "No GRM, throughput, inventory-gain, forex or exceptional-item breakdown; standalone basis only; sustainability of the PAT step-up unknown.",
+      "next_check": "At the comparable quarter ending 2027-09-30, review whether pat_yoy_pct remains positive and confirm margin/throughput disclosure in the primary table.",
+      "evidence_ids": [
+        "fundamental-MRPL-20260930"
+      ]
+    },
+    {
+      "symbol": "CEATLTD",
+      "mechanism": "Revenue grew 22.9% YoY while PAT fell 18.8% and PBT before exceptional items declined from 270 to 232 crore, indicating profit compression alongside top-line growth; raw-material or pricing pressure is a hypothesis only.",
+      "uncertainty": "No input-cost, volume/mix, pricing or exceptional-item detail; standalone only, so subsidiary and consolidated effects are unobserved.",
+      "next_check": "At the comparable quarter ending 2027-09-30, check whether pat_yoy_pct turns positive and whether PBT before exceptional recovers.",
+      "evidence_ids": [
+        "fundamental-CEATLTD-20260930"
+      ]
+    },
+    {
+      "symbol": "ICICIGI",
+      "mechanism": "GWP grew 9.1% YoY and PAT 15.5%, while the combined ratio widened to 107.0 from 105.1, implying underwriting results and investment/other income move differently; attribution is hypothetical absent line-item data.",
+      "uncertainty": "No loss-ratio vs expense-ratio split, segment mix, reserve movement or investment-income detail; statutory insurer basis complicates comparability.",
+      "next_check": "At the comparable quarter ending 2027-09-30, review whether combined_ratio_pct improves below 107.0 and whether GWP growth holds.",
+      "evidence_ids": [
+        "fundamental-ICICIGI-20260930"
+      ]
+    }
+  ],
+  "dossiers": [
+    {
+      "symbol": "MRPL",
+      "hypothesis": "Elevated profitability is cycle-linked and may normalise toward prior-year levels in the comparable quarter.",
+      "assumptions": [
+        {
+          "assumption_id": "MRPL-A1",
+          "statement": "Profit growth stays positive in the comparable quarter.",
+          "metric": "pat_yoy_pct",
+          "operator": "gt",
+          "threshold": 0
+        }
+      ],
+      "missing_fields": [
+        "refining margin and throughput disclosure",
+        "consolidated results and inventory/exceptional-item breakdown"
+      ],
+      "evidence_ids": [
+        "fundamental-MRPL-20260930"
+      ]
+    },
+    {
+      "symbol": "CEATLTD",
+      "hypothesis": "Margin compression, not demand, drives the profit decline, so PAT may recover if cost pressure eases.",
+      "assumptions": [
+        {
+          "assumption_id": "CEAT-A1",
+          "statement": "Revenue growth remains above zero in the comparable quarter.",
+          "metric": "revenue_yoy_pct",
+          "operator": "gt",
+          "threshold": 0
+        }
+      ],
+      "missing_fields": [
+        "raw-material cost and volume/mix detail",
+        "consolidated results and exceptional-item explanation"
+      ],
+      "evidence_ids": [
+        "fundamental-CEATLTD-20260930"
+      ]
+    },
+    {
+      "symbol": "ICICIGI",
+      "hypothesis": "Underwriting deterioration is offset by non-underwriting income; combined ratio is the key variable to monitor.",
+      "assumptions": [
+        {
+          "assumption_id": "ICICIGI-A1",
+          "statement": "Combined ratio improves below the current level in the comparable quarter.",
+          "metric": "combined_ratio_pct",
+          "operator": "lt",
+          "threshold": 107.0
+        }
+      ],
+      "missing_fields": [
+        "loss-ratio vs expense-ratio split by segment",
+        "investment income and reserve-movement detail"
+      ],
+      "evidence_ids": [
+        "fundamental-ICICIGI-20260930"
+      ]
+    }
+  ],
+  "brief": "Three symbols have verified primary-table financials for the quarter ended 2026-09-30. MRPL shows revenue +37.1% and PAT +194.5% YoY (standalone). CEATLTD shows revenue +22.9% but PAT -18.8%, with PBT before exceptional items at 232 vs 270 crore. ICICIGI shows GWP +9.1%, PAT +15.5%, combined ratio 107.0 vs 105.1, solvency 2.75 vs 2.73. Any cause attributed to margins, costs, mix or underwriting is a hypothesis, not established fact. TARIL, TATAELXSI and SSRETAIL are supported only by exchange metadata and unverified OCR excerpts confirming that results were filed (SSRETAIL for the quarter ended 2026-06-30); no financial figures can be adopted and no dossiers were created for them. Main gaps across the packet: consolidated statements, segment and cost detail, insurer ratio decomposition, and cash-flow data. Claude owns research framing; Codex performed primary-table verification. No recommendations or valuation views are provided.",
+  "_meta": {
+    "note": "Secondary claims unverified; metadata-only symbols excluded from dossiers."
+  }
+}

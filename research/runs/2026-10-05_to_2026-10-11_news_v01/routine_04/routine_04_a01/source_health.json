@@ -1,0 +1,19 @@
+{
+  "coverage_mode": "targeted_web_scan",
+  "window_start": "2026-10-05",
+  "window_end": "2026-10-11",
+  "source_cursors_advanced": false,
+  "exchange_archive_complete": false,
+  "tender_archive_complete": false,
+  "source_failures": [
+    "BSE originals HTTP 403",
+    "some PIB detail bodies inaccessible",
+    "DMart investor page JavaScript-only",
+    "Anand Rathi investor page unavailable"
+  ],
+  "count_primary_verified": 8,
+  "count_leads": 17,
+  "cost_accounting": "additional paid CLI calls zero; connector search billing not independently available",
+  "lag_metrics": "not comparable: retrospective scan; publish timestamps incomplete",
+  "audit_miss_rate": null
+}

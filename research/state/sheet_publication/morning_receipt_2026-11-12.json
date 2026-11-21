@@ -1,0 +1,34 @@
+{
+  "state": "VERIFIED",
+  "verified_at": "2026-11-12T10:03:25.657420+05:30",
+  "spreadsheet_id": "1uMgZd9anGrXOOleQlqwEHVT6zAXezsTBJxf9PnXTWK8",
+  "source_ref": {
+    "run_dir": "research/stock_reports/pipeline_2026-11-12_100000",
+    "manifest_sha256": "69e4ba1bd11fbe4104478d0d9308747ed8b67de5b52f0c22f4c46745da80ea35"
+  },
+  "source_asof": "2026-11-11",
+  "scheduled_slot": "2026-11-12T10:00:00+05:30",
+  "row_counts": {
+    "Research Dashboard": 17,
+    "Research Stocks": 1088,
+    "Routine Runs": 233,
+    "Research Tasks": 43,
+    "Research Briefs": 66
+  },
+  "brief_part_ids": [
+    "pipeline_2026-11-12_100000",
+    "pipeline_2026-11-12_100000::part:02",
+    "pipeline_2026-11-12_100000::part:03",
+    "pipeline_2026-11-12_100000::part:04",
+    "pipeline_2026-11-12_100000::part:05"
+  ],
+  "checks": "Exact five-tab readback, unique keys, brief reassembled and matched sealed report.",
+  "reconciled_prior_slot": "2026-11-10T23:00:00+05:30",
+  "reconciled_routine_ids": [
+    "pipeline_2026-11-10_230000/routine_01/routine_01_a01",
+    "pipeline_2026-11-10_230000/routine_02/routine_02_a01",
+    "pipeline_2026-11-10_230000/routine_03/routine_03_a01",
+    "pipeline_2026-11-10_230000/routine_04/routine_04_a01",
+    "pipeline_2026-11-10_230000/routine_05/routine_05_a01"
+  ]
+}

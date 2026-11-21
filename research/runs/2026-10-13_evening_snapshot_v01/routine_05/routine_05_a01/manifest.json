@@ -1,0 +1,40 @@
+{
+  "schema_version": "1.1",
+  "committed": true,
+  "batch_id": "2026-10-13_evening_snapshot_v01",
+  "run_id": "routine_05_a01",
+  "artifacts": [
+    {
+      "path": "decision_queue.jsonl",
+      "sha256": "a09e1d717a3862e67c3a24b1d845c1aeaf1e7ee1bcdf554616ef36019ec4acc0"
+    },
+    {
+      "path": "digest.json",
+      "sha256": "aab822a8623083597ba76b47a32e531473b90ab2c9682487347d3ccc8768fa52"
+    },
+    {
+      "path": "notification_state.json",
+      "sha256": "6a70b68ee6346e1095b637f541c9e025da5aa4d71eeae3275f3e563353513c58"
+    },
+    {
+      "path": "open_tasks.jsonl",
+      "sha256": "a09e1d717a3862e67c3a24b1d845c1aeaf1e7ee1bcdf554616ef36019ec4acc0"
+    },
+    {
+      "path": "readiness.json",
+      "sha256": "1405894cf3f538684da4a0fdce7a79e0bef313ec38aff405fdab89fe953dfdd2"
+    },
+    {
+      "path": "report.md",
+      "sha256": "23662ab9e64524ceac7b59b6f97374ac96b1eca0ff43fe7a8369679c12a7ae83"
+    },
+    {
+      "path": "stock_report_ref.json",
+      "sha256": "1e8524687b8b33e47ca409a67f323759f986f73b5966d074b3fb189822d452e5"
+    },
+    {
+      "path": "handoff.json",
+      "sha256": "2f5d23192ef8ddbabe30bd402323bfc377b3c16b09aa9be4392d190819a37565"
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "at": "2026-10-22T11:01:51.094879+05:30",
+  "owner": "Codex",
+  "review_status": "PENDING_INDEPENDENT_REVIEW",
+  "code_path": "research/runtime/pipeline.py",
+  "code_sha256": "688afb4d36e899354e135edb1748388ef784ce0398710b89f20a5182d308f4d9",
+  "problem": "Rejected cached historical bhavcopy aborted otherwise verified primary-session prices",
+  "change": "Retain and exclude invalid historical overlays; withhold all history-derived volume ratios and technical signals while the historical gap is unresolved. Primary-date checks remain strict.",
+  "tests": {
+    "existing_failure_boundary_tests_passed": 11,
+    "integration_session": "2026-10-21",
+    "valid_primary_prices": 2340,
+    "technical_signals": 0,
+    "quarantined_universe": 500,
+    "invalid_primary_still_rejected": true
+  },
+  "recovery_run": "research/runs/pipeline_2026-10-22_100000",
+  "recovery_report": "research/stock_reports/pipeline_2026-10-22_100000",
+  "production_eligible": false,
+  "remaining_gap": "Reconcile the 20 October internal-date mismatch with official calendar/history; do not infer a holiday or restore technical signals yet"
+}

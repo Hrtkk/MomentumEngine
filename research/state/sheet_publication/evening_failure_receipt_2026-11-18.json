@@ -1,0 +1,23 @@
+{
+  "state": "VERIFIED",
+  "publication_kind": "EXECUTION_FAILURE_NOTICE",
+  "research_execution_status": "FAILED",
+  "verified_at": "2026-11-19T17:49:07.916795+05:30",
+  "spreadsheet_id": "1uMgZd9anGrXOOleQlqwEHVT6zAXezsTBJxf9PnXTWK8",
+  "scheduled_slot": "2026-11-18T21:00:00+05:30",
+  "failure_reason": "AssertionError: Unapproved redirect",
+  "failure_source_sha256": "68da15f8ed27d46b5f6a09e23cb24c3aa1c5a747fd35cd32ebbc47231f406fe8",
+  "reader_stock_report_ref": {
+    "run_dir": "research/stock_reports/pipeline_2026-11-12_230000",
+    "manifest_sha256": "ecbda22c6d7960107bb1183143fb88e30504282c93efd74fd0c9597d8709e15a"
+  },
+  "source_asof": "2026-11-12",
+  "row_counts": {
+    "Research Dashboard": 17,
+    "Research Stocks": 1206,
+    "Routine Runs": 246,
+    "Research Tasks": 44,
+    "Research Briefs": 72
+  },
+  "checks": "All five managed tabs matched expected readback."
+}

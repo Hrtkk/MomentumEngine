@@ -1,0 +1,38 @@
+{
+  "status": "PARTIAL",
+  "stock_count": 392,
+  "editorial_executed": true,
+  "editorial_executed_this_pass": true,
+  "analysis_reused": false,
+  "author": "Claude",
+  "economic_review": "PENDING",
+  "items": [
+    {
+      "symbol": "ADANIPORTS",
+      "mechanism": "Fact: board-approved unaudited standalone and consolidated results for the quarter and half year ended September 30, 2026 were filed with the exchange. No verified financial figures are supplied; any earnings or operating driver is an untested hypothesis.",
+      "uncertainty": "High: only exchange metadata and an OCR excerpt of the cover letter are available; the results table is unverified, so the direction and magnitude of performance are unknown.",
+      "next_check": "Verify the original quarter table, sector metrics (cargo volumes, segment mix), cash conversion and valuation context from the primary filing.",
+      "evidence_ids": [
+        "nse-announcement-106831802"
+      ]
+    },
+    {
+      "symbol": "AEROFLEX",
+      "mechanism": "Fact: the board approved unaudited results with limited review reports, gave in-principle approval to amalgamate wholly owned subsidiary Hyd-Air Engineering under Section 233, and approved a CFO transition from Mustafa Abid Kachwala to Drashti Bhil effective November 28, 2026. Hypothesis: the merger and CFO change may be structural or governance events, but their impact is not established.",
+      "uncertainty": "High: financial figures are unverified OCR; merger terms, timeline and approvals beyond in-principle status are not supplied; no stated reason for the CFO tenure completion.",
+      "next_check": "Verify the original quarter table and limited review reports; track amalgamation scheme filings and confirm CFO transition disclosures.",
+      "evidence_ids": [
+        "nse-announcement-106832664"
+      ]
+    },
+    {
+      "symbol": "BSOFT",
+      "mechanism": "Fact: the board approved unaudited standalone and consolidated results for the quarter and half year ended September 30, 2026. The excerpt is truncated, so other agenda items, if any, are unknown. Any demand or margin narrative is hypothesis only.",
+      "uncertainty": "High: only metadata and a truncated cover-letter excerpt are available; no verified revenue, margin or deal data.",
+      "next_check": "Verify the original quarter table, IT services metrics (constant-currency growth, margins, deal wins), cash conversion and valuation from the primary filing.",
+      "evidence_ids": [
+        "nse-announcement-106832484"
+      ]
+    }
+  ]
+}

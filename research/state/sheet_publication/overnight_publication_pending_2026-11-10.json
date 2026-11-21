@@ -1,0 +1,15 @@
+{
+  "state": "UNKNOWN",
+  "verified_at": null,
+  "recorded_at": "2026-11-11T23:20:40.037968+05:30",
+  "spreadsheet_id": "1uMgZd9anGrXOOleQlqwEHVT6zAXezsTBJxf9PnXTWK8",
+  "scheduled_slot": "2026-11-10T23:00:00+05:30",
+  "source_ref": {
+    "run_dir": "research/stock_reports/pipeline_2026-11-10_230000",
+    "manifest_sha256": "beeb9d21dd0738a1a9ac3c02e19de8b06d5993f21febcb819e7c16824ee0124e"
+  },
+  "source_asof": "2026-11-09",
+  "reason": "Connector automatic permission review timed out on the original write and the single allowed retry. Readback between attempts matched the original remote state. Final retry effects are unverified.",
+  "next_check": "Read fresh metadata and all managed tab values, then reconcile stable routine IDs before any future write. Stock evidence is unchanged and the 9 November brief should not be duplicated.",
+  "last_verified_slot": "2026-11-10T21:00:00+05:30"
+}

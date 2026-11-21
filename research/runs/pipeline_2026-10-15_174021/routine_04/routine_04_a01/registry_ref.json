@@ -1,0 +1,8 @@
+{
+  "immutable_registry_run": {
+    "run_dir": "research/runs/2026-10-14_evening_snapshot_v01/routine_04/routine_04_a01",
+    "manifest_sha256": "1651740e0d682f71db6be37f592752119ab272c73b6665488b4e6715fa61a5b4"
+  },
+  "record_count": 17,
+  "newness_evaluated": true
+}

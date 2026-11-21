@@ -1,0 +1,66 @@
+{
+  "batch_id": "2026-10-13_morning_v01",
+  "scheduled_slot": "2026-10-13T10:00:00+05:30",
+  "runs": [
+    "research/runs/2026-10-13_morning_v01/routine_01/routine_01_a01",
+    "research/runs/2026-10-13_morning_v01/routine_02/routine_02_a01",
+    "research/runs/2026-10-13_morning_v01/routine_03/routine_03_a01",
+    "research/runs/2026-10-13_morning_v01/routine_04/routine_04_a01",
+    "research/runs/2026-10-13_morning_v01/routine_05/routine_05_a01"
+  ],
+  "health": {
+    "asof": "2026-10-13T09:59:08.743608+05:30",
+    "intended_slot": "2026-10-13T10:00:00+05:30",
+    "calendar_certified": false,
+    "phase0_certified": false,
+    "budget_accounting_available": false,
+    "r2_accepted_registry_available": false,
+    "claude_current_context": {
+      "loggedIn": false,
+      "authMethod": "none"
+    },
+    "auth_context_status": "AUTH_CONTEXT_UNAVAILABLE",
+    "normal_login_previously_verified": true,
+    "last_eod_artifact": "live/ledgers/evening_2026-10-09.json",
+    "paper_positions": 15,
+    "paper_asof": "2026-10-09",
+    "c0_asof": "2026-10-09",
+    "c0_evaluation": "NOT_EVALUATED",
+    "prior_news_leads": 17,
+    "news_registry_ref": {
+      "path": "research/runs/2026-10-05_to_2026-10-11_news_v01/routine_04/routine_04_a01",
+      "manifest_sha256": "ec584ecd10f502a1505593032547080c9947b72ce17f880cade50979b08364fe"
+    },
+    "registration_checks": [
+      {
+        "path": "experiments/e2_strategies.py",
+        "expected_prefix": "b1a43b0979b46e1d",
+        "actual_sha256": "b1a43b0979b46e1dffce8926323be0bc20205c1626ff29d14316a6d1287cc144",
+        "matches": true
+      },
+      {
+        "path": "experiments/sim.py",
+        "expected_prefix": "4914041ef1b36f00",
+        "actual_sha256": "4914041ef1b36f0022957ba2809c5110bc8179a561a80fc97d8c78f7809a1839",
+        "matches": true
+      },
+      {
+        "path": "experiments/panels.py",
+        "expected_prefix": "e9290eb171614c71",
+        "actual_sha256": "e9290eb171614c71ef1f98ea5de64de63e4f3ce2c5110554da1e1c74e21dab3f",
+        "matches": true
+      },
+      {
+        "path": "experiments/pit_panels.py",
+        "expected_prefix": "51ba12760f8a63ef",
+        "actual_sha256": "51ba12760f8a63ef671bb94c5ea1ed82bc5783be2167db551c0938d0b059a53d",
+        "matches": true
+      }
+    ],
+    "metered_calls": 0,
+    "external_requests": 0,
+    "new_material_findings": false
+  },
+  "notify": false,
+  "repeat_notifications_suppressed": true
+}

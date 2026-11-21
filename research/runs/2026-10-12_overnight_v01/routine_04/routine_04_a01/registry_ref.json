@@ -1,0 +1,9 @@
+{
+  "immutable_registry_run": {
+    "path": "research/runs/2026-10-05_to_2026-10-11_news_v01/routine_04/routine_04_a01",
+    "manifest_sha256": "ec584ecd10f502a1505593032547080c9947b72ce17f880cade50979b08364fe"
+  },
+  "record_count": 17,
+  "new_event_count": 0,
+  "newness_evaluated": false
+}

@@ -1,0 +1,25 @@
+{
+  "source_url": "https://platform.claude.com/docs/en/about-claude/pricing",
+  "verified_at": "2026-10-24T09:19:06.558844+05:30",
+  "observed_prices_usd_per_million": {
+    "opus_5_5": {
+      "base_input": 4,
+      "output": 20,
+      "one_hour_cache_write": 8
+    },
+    "listed_legacy_opus_max": {
+      "base_input": 15,
+      "output": 75,
+      "one_hour_cache_write": 30
+    }
+  },
+  "us_geography_multiplier": 1.1,
+  "cache_write_max_multiplier": 2,
+  "conservative_existing_envelope_unchanged": {
+    "input": 33,
+    "output": 82.5
+  },
+  "reservation_check_usd": 0.99,
+  "reservation_usd_unchanged": 1.1,
+  "model_selection_unchanged": true
+}

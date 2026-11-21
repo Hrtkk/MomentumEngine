@@ -1,0 +1,18 @@
+{
+  "status": "LATE_DEFERRED",
+  "intended_slot": "2026-10-16T23:00:00+05:30",
+  "deadline_at": "2026-10-17T01:00:00+05:30",
+  "checked_at": "2026-10-17T09:00:05.013599+05:30",
+  "execution_lane": "OVERNIGHT",
+  "allocation": "FRIDAY_WEEKLY_RECONCILIATION_REPLACES_ORDINARY",
+  "reason": "No committed completion record for the Friday overnight slot; original deadline passed. Root cause not established.",
+  "completed": false,
+  "model_calls": 0,
+  "next_action": "Carry weekly reconciliation and unresolved owner tasks into the next eligible overnight allocation; no additional ordinary dossier allocation alongside it",
+  "next_scheduled_slot": "2026-10-19T10:00:00+05:30",
+  "prior_report": "research/stock_reports/pipeline_2026-10-16_210000",
+  "prior_report_market_asof": "2026-10-16",
+  "notification_key": "missed-friday-weekly-2026-10-16",
+  "prior_reports_preserved": true,
+  "completed_slots_unchanged": true
+}

@@ -1,0 +1,13 @@
+{
+  "report_ref": {
+    "run_dir": "research/stock_reports/2026-10-13_2000_7c9b6496a109",
+    "manifest_sha256": "e74cbfe73d52ba6a1b864c6b4dc158b25287747d0fda38d51da63c7e1837645e"
+  },
+  "deferred_count": 35,
+  "previous_queue_ref": {
+    "run_dir": "research/runs/2026-10-13_overnight_checkpoint_v01/routine_02/routine_02_a01",
+    "manifest_sha256": "504bdda74f195dcfbc2055524d3fd6e6d1649fbfff280a2357986863c66a42e5"
+  },
+  "new_transitions": 0,
+  "qualification_executed": false
+}

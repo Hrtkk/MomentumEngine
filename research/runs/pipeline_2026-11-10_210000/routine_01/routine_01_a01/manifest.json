@@ -1,0 +1,38 @@
+{
+  "committed": true,
+  "schema_version": "1.1",
+  "artifacts": [
+    {
+      "path": "budget_snapshot.json",
+      "sha256": "8d490d963938ad03e8aa4fd4075322480f21e9db4bb9fee6a7038e1758272c93"
+    },
+    {
+      "path": "metrics.jsonl",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "open_tasks.jsonl",
+      "sha256": "2651bf33122b87d685a4c5518c2d4e9ebdfdbba37a464f2cc0bb9e76bb3f4460"
+    },
+    {
+      "path": "quarantine.jsonl",
+      "sha256": "24dd0e9bcad23af25068f0e9633f84855875a70357d01cc7a624cb29693c2c3d"
+    },
+    {
+      "path": "readiness.json",
+      "sha256": "f59bfaa014e0c6e62e0a68ecff975cbba8ca36107a3a4465ad80255f1b2b925f"
+    },
+    {
+      "path": "report.md",
+      "sha256": "0acc902ebde9cff95ee1d5633e90c4925c9d07bea21d18ad7c39215a4f4b4fb6"
+    },
+    {
+      "path": "signals.jsonl",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "handoff.json",
+      "sha256": "5bf530f3fd9dc69f30d741e5209be2d754efea6cc682bc08616fa458eda2fd79"
+    }
+  ]
+}

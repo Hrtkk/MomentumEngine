@@ -1,0 +1,1064 @@
+Ref./No./FRACTAL/SE/2026-27/067
+
+Date: November 3, 2026
+
+
+    National Stock Exchange of India Limited                                      BSE Limited
+    Exchange Plaza, Plot No. C/1, G Block,                                        Phiroze Jeejeebhoy Towers,
+    Bandra Kurla Complex,                                                         Dalal Street, Fort,
+    Bandra (East), Mumbai 400051                                                  Mumbai 400 001
+    Maharashtra, India                                                            Maharashtra, India
+
+    Scrip Symbol: FRACTAL                                                         Scrip Code: 544700
+
+
+Sub: Outcome of Board Meeting
+
+Dear Ma’am / Sir,
+
+We wish to inform you that the Board of Directors of Fractal Analytics Limited (“the Company”) at their
+meeting held today, i.e. November 3, 2026, has, inter-alia, considered and approved the following items in
+terms of Regulation 30, and other applicable provisions of the SEBI (Listing Obligations and Disclosure
+Requirements) Regulations, 2015 (“SEBI Listing Regulations”), read with various circulars issued by the SEBI
+and Stock Exchanges:
+
+•    Financial Results:
+
+     Pursuant to Regulation 30 read with Schedule III of the SEBI Listing Regulations, we wish to inform you
+     that the Board of Directors of the Company have approved the unaudited consolidated and standalone
+     ﬁnancial results of the Company for the quarter and six months ended September 30, 2026, which have
+     been subject to Limited Review by B S R & Co. LLP, Chartered Accountants, Statutory Auditors of the
+     Company, in terms of Regulation 33 of SEBI Listing Regulations.
+
+     A copy of results along with Limited Review Reports on the ﬁnancial results are enclosed herewith and
+     the same are being uploaded on the website of the Company i.e. https://fractal.ai/investor-relations.
+
+•    Winding up of Analytics Vidhya Inc. step-down subsidiary of the Company:
+
+     Pursuant to Regulation 30 read with Schedule III of the SEBI Listing Regulations, we wish to inform you
+     that the Board of Directors of the Company have approved the winding up of Analytics Vidhya Inc., a
+     wholly-owned subsidiary of Analytics Vidhya Educon Private Limited and a step-down subsidiary of the
+     Company. This will lead to simpliﬁcation of the Group's corporate structure and reduce compliance,
+     administrative overheads and enhance operational eﬃciency, without any adverse impact on ongoing
+     business operations.
+
+     Details with respect to the said transaction as required under Listing Regulations and SEBI Master Circular
+     No. HO/49/14/14(7)2025-CFD-POD2/I/3762/2026 dated January 30, 2026, are provided in Annexure-A.
+
+The Board Meeting commenced at 6:45 p.m. IST and concluded at 9:48 p.m. IST.
+
+In terms of the Fractal’s Code on Prohibition of Insider Trading and the SEBI (Prohibition of Insider Trading)
+Regulations, 2015, the trading window for all the Designated Persons and their immediate relatives, in the
+shares of the Company shall remain closed up to and including November 05, 2026.
+
+
+
+
+Fractal Analytics Limited (formerly known as Fractal Analytics Private Limited)
+CIN: L72400MH2000PLC125369
+Registered address:
+Level 7, Commerz II, International Business Park, Oberoi Garden City,
+Off W. E. Highway Goregaon (E), Mumbai - 400063, Maharashtra, India.
+W: www.fractal.ai | P: +91 22 6850 5800 | E: investorrelations@fractal.ai
+This disclosure will also be hosted on the Company’s website at: https://fractal.ai/investor-relations
+
+Kindly take the same on records and arrange to bring this to the notice of all concerned.
+
+Thanking you.
+
+Yours sincerely,
+
+For Fractal Analytics Limited
+                Digitally signed by
+SOMYA SOMYA AGARWAL
+AGARWAL Date: 2026.11.03
+        22:23:32 +05'30'
+________________________
+Somya Agarwal
+Company Secretary and Compliance Oﬃcer
+Membership No: A17336
+
+Encl: a/a
+                                                                                                  14th Floor, Central B Wing and North C Wing
+BS R & Co. LLP                                                                                    Nesco IT Park 4, Nesco Center
+                                                                                                  Western Express Highway
+Chartered Accountants
+                                                                                                  Goregaon (East), Mumbai - 400 063, India
+                                                                                                  Telephone: +91 (22) 6257 1000
+                                                                                                  Fax: +91 (22) 6257 1010
+
+
+
+Limited Review Report on unaudited consolidated financial results of Fractal
+Analytics Limited for the quarter ended 30 September 2026 and year to date results
+for the period from 01 April 2026 to 30 September 2026 pursuant to Regulation 33 of
+Securities and Exchange Board of India (Listing Obligations and Disclosure
+Requirements) Regulations, 2015, as amended
+
+To the Board of Directors of Fractal Analytics Limited
+1.     We have reviewed the accompanying Statement of unaudited consolidated financial results of Fractal
+       Analytics Limited (hereinafter referred to as "the Parent") , and its subsid iaries (the Parent and its
+       subsidiaries together referred to as "the Group") and its share of the net loss after tax and total
+       comprehensive loss of its associate for the quarter ended 30 September 2026 and year to date results
+       for the period from 01 April 2026 to 30 September 2026 ("the Statement") , being submitted by the
+       Parent pursuant to the requirements of Regulation 33 of the Securities and Exchange Board of India
+       (Listing Obligations and Disclosure Requirements) Regulations, 2015, as amended ("Listing
+       Regulations") .
+       Attention is drawn to the fact that the figures for the corresponding quarter ended 30 September 2025
+       and the corresponding period from 01 April 2025 to 30 September 2025, as reported in the Statement
+       have been approved by the Parent's Board of Directors, but have not been subjected to review.
+2.     This Statement, which is the responsibility of the Parent's management and approved by the Parent's
+       Board of Directors, has been prepared in accordance with the recognition and measurement
+       principles laid down in Indian Accounting Standard 34 "Interim Financial Reporting" ("Ind AS 34"),
+       prescribed under Section 133 of the Companies Act, 2013, and other accounting principles generally
+       accepted in India and in compliance with Regulation 33 of the Listing Regulations . Our responsibility
+       is to express a conclusion on the Statement based on our review.
+3.     We conducted our review of the Statement in accordance with the Standard on Review Engagements
+       (SRE) 2410 "Review of Interim Financial Information Performed by the Independent Auditor of the
+       Entity", issued by the Institute of Chartered Accountants of India. A review of interim financial
+       information consists of making inquiries, primarily of persons responsible for financial and accounting
+       matters, and applying analytical and other review procedures. A review is substantially less in scope
+       than an audit conducted in accordance with Standards on Auditing and consequently does not enable
+       us to obtain assurance that we would become aware of all significant matters that might be identified
+       in an audit. Accordingly , we do not express an audit opinion.
+       We also performed procedures in accordance with the circular issued by the Securities and Exchange
+       Board of India under Regulation 33(8) of the Listing Regulations, to the extent applicable.
+4.     The Statement includes the results of the entities mentioned in Annexure I to the Statement.
+5.     Based on our review conducted and procedures performed as stated in paragraph 3 above and based
+       on the consideration of the review reports of the other auditors referred to in paragraph 6 below,
+       nothing has come to our attention that causes us to believe that the accompanying Statement,
+       prepared in accordance with the recognition and measurement principles laid down in the aforesaid
+       Indian Accounting Standard and other accounting principles generally accepted in India, has not
+       disclosed the information required to be disclosed in terms of Regulation 33 of the Listing Regulations ,
+       including the manner in which it is to be disclosed, or that it contains any material misstatement.
+
+
+
+
+                                                                                                        Registered Office:
+
+B S R & Co. (a pa rtnership firm with Registration No . BA61223) converted into B S R & Co. LLP (a      14th Floo r, Central B VVing and North C Wtng, Nesco IT Park 4 , Nesco
+Limited Liability Partnership with LLP Registration No . AAB-8181 ) with effect from October 14, 2013   Center, Western Express Highway, Goregaon (East), Mumbai -400063
+
+                                                                                                                                                            Page 1 of 4
+BS R & Co. LLP
+
+                                                            Limited Review Report (Continued)
+                                                                           Fractal Analytics Limited
+6.   We did not review the interim financial information of a step-down subsidiary included in the
+     Statement, whose interim financial information reflects total assets (before consolidation adjustments)
+     of Rs . 1,048 million as at 30 September 2026 and total revenues (before consolidation adjustments)
+     of Rs . 145 million and Rs . 271 million, total net loss after tax (before consolidation adjustments) of
+     Rs. 182 million and Rs . 349 million and total comprehensive loss (before consolidation adjustments)
+     of Rs. 182 million and Rs 349 million, for the quarter ended 30 September 2026 and for the period
+     from 1 April 2026 to 30 September 2026 respectively , and cash inflows (net) (before consolidation
+     adjustments) of Rs 182 million for the period from 1 April 2026 to 30 September 2026. as considered
+     in the Statement. This interim financial information has been reviewed by other auditor whose report
+     has been furnished to us by the Parent's management and our conclusion on the Statement, in so far
+     as it relates to the amounts and disclosures included in respect of this step-down subsidiary, is based
+     solely on the report of the other auditor and the procedures performed by us as stated in paragraph
+     3 above.
+     Our conclusion is not modified in respect of this matter.
+7.   The Statement includes the interim financial information of 22 subsidiaries (including step-down
+     subsidiaries) which have not been reviewed, whose interim financial information reflect total assets
+     (before consolidation adjustments) of Rs . 2,117 million as at 30 September 2026 and total revenues
+     (before consolidation adjustments) of Rs . 656 million and Rs . 1,268 million , total net profit after tax
+     (before consolidation adjustments) of Rs. 23 million and Rs. 23 million and total comprehensive
+     income (before consolidation adjustments) of Rs. 25 million and Rs 25 million, for the quarter ended
+     30 September 2026 and for the period from 1 April 2026 to 30 September 2026 respectively , and
+     cash inflows (net) (before consolidation adjustments) of Rs 172 million for the period from 1 April 2026
+     to 30 September 2026 as considered in the Statement. The Statement also includes the Group's
+     share of net (loss) after tax of Rs . 232 and Rs. 466 million and total comprehensive loss of Rs . 231
+     million and Rs. 464 million, for the quarter ended 30 September 2026 and for the period from 1 April
+     2026 to 30 September 2026 respectively as considered in the Statement, in respect of an associate,
+     based on its interim financial information which has not been reviewed. According to the information
+     and explanations given to us by the Parent's management, these interim financial information are not
+     material to the Group.
+     Our conclusion is not modified in respect of this matter.
+
+                                                                                      For B S R & Co. LLP
+                                                                                    Chartered Accountants
+                                                           Firm's Registration No.: 101248W/W-100022
+
+
+
+
+                                                                                             Rajesh Mehra
+                                                                                                      Partner
+Mumbai                                                                           Membership No.: 103145
+03 November 2026                                                          UDIN:26103145DWYEXV6351
+
+
+
+
+                                                                                                  Page 2 of 4
+                        BS R & Co. LLP
+
+                                                                                     Limited Review Report (Continued)
+                                                                                                  Fractal Analytics Limited
+                        Annexure I
+                        List of entities included in unaudited consolidated financial results .
+
+                            Sr.                   Name of component                                    Relationship
+                            No
+
+
+                             1     Fractal Analytics Limited                             Parent
+
+
+                             2     Fractal Analytics Inc.                                Subsidiary
+
+
+                             3     Fractal Private Limited                               Subsidiary
+
+
+                             4     Senseforth Al Research Private Limited                Subsidiary
+
+
+                             5     Analytics Vidya Educon Private Limited                Subsidiary
+
+
+                             6     Fractal L.L.C - FZ                                    Step-down Subsidiary
+
+
+                             7     Fractal Analytics UK Limited                          Step-down subsidiary
+
+
+                             8     Asper.Al Inc                                          Step-down subsidiary
+
+
+                             9     Senseforth, Inc                                       Step-down subsidiary
+
+
+                            10     Asper. Al Limited                                     Step-down subsidiary
+
+
+                            11     Fractal Analytics (Switzerland) GmbH                  Step-down subsidiary
+
+
+                            12     Fractal Analytics Malaysia SDN BHD                    Step-down subsidiary
+
+
+                            13     Fractal Analytics (Germany) GmbH                      Step-down subsidiary
+
+
+                            14     Fractal analytics (Canada) Inc.                       Step-down subsidiary
+
+
+                            15     Fractal Analytics Netherlands B.V.                    Step-down subsidiary
+
+
+                            16     Fractal Analytics Australia Pty Limited               Step-down subsidiary
+
+
+                            17     Fractal Analytics Sweden AB                           Step-down subsidiary (liquidated w.e.f 15
+                                                                                         July 2026)
+
+
+            -               18     Fractal Analytics (Shanghai) Limited                  Step-down subsidiary
+        I!,. Co---.. ~
+      ~         ·c.
+      ~~* j
+            4thfloor.              Asper.Al Technologies Private Limited                 Step-down subsidiary
+ <Central
+    cBV/1~ ~  and
+    North CWing.
+          scolTPar1<4,
+l0      Nesco Center,
+
+ * l ~,§'
+ ~
+   western Express Highway,
+       GO!egaon (East)
+      Mumbai • 400 06J
+                            ./!J
+                                                                                                  j~
+                                                                                                                        Page 3 of 4
+
+  <$)-?:          ~
+       ~red Acc0,s.
+             -
+BS R & Co. LLP
+
+                                                       Limited Review Report (Continued)
+                                                                     Fractal Analytics Limited
+
+ 20     Symphony (Ukraine) LLC                              Step-down subsidiary
+
+
+ 21     Final Mile Consulting LLC                           Step-down subsidiary
+
+
+ 22     Fractal Frontiers, Inc                              Step-down subsidiary (dissolved w.e.f 21
+                                                            July 2026)
+
+
+ 23     Eugenie.ai Inc                                      Step-down subsidiary
+
+
+ 24     Fractal Al Limited                                  Step-down subsidiary
+
+
+ 25     Analytics Vidhya Inc                                Step-down subsidiary
+
+
+ 26     FRACTAL Al QFZ LLC                                  Step-down subsidiary (incoporated on 28
+                                                            September 2026)
+
+
+Associate
+Qure.ai Technologies Private Limited (including its Subsidiaries Qure.ai Technologies Inc. and Qure.ai
+Technologies Limited , UK)
+
+
+
+
+                                                                                            Page 4 of 4
+                                                                                                       fracta l. • •
+                                                                                                 Fractal Analytics l imited
+                                                                                              CIN : L72400MH2000PLC125369
+                                 Regd. Office: Level 7, Commerz 11, Internationa l Business Park, Oberoi Garden City, Off. W. E. Highway, Goregaon (E), Mumbai, Maharashtra 400063
+                                                               Website: www.fractal.ai, Email Id : investorrelations@ fractal.ai, Tel : +91 22 6850 5800
+
+
+                                                                              Statement of Unaudited Consolidated Financial Results
+                                                                                                                                                                                           (in Rs Millions, except per sha re data)
+                                                                                                                        Three months ended                                   Six months ended                       Year ended
+                                                                                                      September                 June             September             September               Septem ber             March
+Particulars
+                                                                                                       30, 2026                30, 2026           30, 2025               30, 2026               30, 2025             31, 2026
+                                                                                                      Unaudited               Unaudited         Refer Note - 2          Un audited           Refer Note - 2          Aud ite d
+(1) Income
+{a) Revenue from operations                                                                                    9,565                   9,125             7,985                18,690                   15,590              32,997
+{b) Other income                                                                                                 288                    196                  209                    484                     353                  629
+Total Income                                                                                                   9,853                   9,321             8,194                19,174                   15,943              33,626
+(2) Expenses
+(a) Employee benefit s expense                                                                                 6,567                   6,319             5,711                12,886                   11,252              22,914
+(bl Employee stock option expense                                                                                 45                    112                  181                    157                     270                  634
+(c) Finance costs                                                                                                  53                     88                 115                    141                     233                  474
+(d) Depreciation and amortization expense                                                                        472                    398                  335                    870                     635             1,358
+(e) Other expenses                                                                                             1,452                   1,265             1,124                 2,717                    2,072               4,366
+Total Expenses                                                                                                 8,589                   8,182             7,466                16,771                   14,462              29,746
+(3} Profit b efore share of loss of an associate, exceptional items and tax expense (1-2)                      1,264                   1,139                 728               2,403                    1,481               3,880
+(4) Share of (loss) of an associate                                                                             (232)                  (234)              (222)                 (466)                       (445)            (703)
+(5) Profit before exceptional items and ta x exp ense (3+4)                                                    1,032                    905                  506               1,937                    1,036               3,177
+(6) Exceptional item (net) (Refer note 4)                                                                                                69                  (48)                    69                      (48)            (110)
+(7) Profit before tax expense (5+6)                                                                            1,032                    974                  458               2,006                        988             3,067
+(8) Tax expense
+{a) Current tax                                                                                                  219                    247                  130                    466                      284                 733
+(b) Deferred tax charge/ (credit)                                                                                 21                       4                  (4)                    25                       (5)            (534)
+Total t ax expe nse                                                                                              240                    251                  126                    491                     279                  199
+(9) Profit after tax (7-8)                                                                                       792                    723                  332               1,515                        709             2,868
+(10) Other Comprehensive Income
+(1) Items that will not be reclassified subsequently to profit or loss
+(a) Remeasurement of defined employee benefit plans                                                               54                     (47)                 42                      7                       51                 182
+(b) Income tax on item (a) above                                                                                  (13)                    12                  (9)                    (1)                     (12)                (46)
+(2) Items that will be reclassified subsequently to profit or loss
+(a) Effective port ion of (loss)/ gain on derivative designated as cash flow hedge                                (12)                    13              (152)                       1                     (177)            (330)
+(b) {loss) / Ga in due to changes in intrinsic value of derivatives designated as cash flow                        (4)                     3                                         (1)                                         (20)
+hedge
+(c) (Loss)/ Gain due to changes in time value of derivatives designated as cash flow hedge                         (4)                     6                                          2                                           (9)
+
+{d) Effective portion of gain/ (loss) on of derivatives designated as cash flow hedge                             71                    101                  50                     172                      50                  180
+reclassified to profit or loss
+(e) Income tax on items (a), (bl, (c) & (d) above                                                                 (13)                   (31)                26                     (44)                     32                   45
+(f) Share of loss of associate (net of taxes) recognised in other comprehensive income                              1                      1                     7                    2                       7                   11
+(g) Exchange differences on t ranslation of foreign operation s                                                    85                     81                  94                    166                     151                  353
+Total other comprehensive income                                                                                 165                    139                   58                    304                     102                  366
+Total Comprehensive Income (9+10)                                                                                957                    862                  390               1,819                        811             3,234
+
+
+Profit/ (Loss) for the period/ year attrib utab le t o:
+Owners of the parent                                                                                             812                    742                  343               1,554                        718             2,922
+Non-controlling Interest                                                                                          (20)                   (19)                (11)                   (39)                      (9)                (54)
+Total                                                                                                            792                    723                  332               1,515                        709             2,868
+
+
+Other comprehensive income/ (loss) for the period/ year attributable to:
+Owners of the parent                                                                                             165                    139                   58                    304                     102                  366
+Non-controlling Interest•                                                                                           0                      0                   0                      0                        0                   0
+Total                                                                                                            165                    139                   58                    304                     102                  366
+
+Total compreh ensive income / (loss) for th e period/ year attributab le to:
+Owners of the parent                                                                                             977                    881                  401               1,858                        820             3,288
+Non-co ntrolling Interest                                                                                         (20)                   (19)                (11)                   (39)                      (9)             (54)
+Total                                                                                                            957                    862                  390               1,819                        811             3,234
+
+
+Paid-up Equity Share Capital (Face value of Rs 1 each)                                                           174                    172                  142                    174                     142                  172
+Other Equity                                                                                                                                                                                                               31,677
+
+
+Earnings Per Share for the period / year (Rupees per share) {Refer note 5)
+Face value of Rs 1 each
+   - Basic EPS (not annualised except for year ended March 31, 2026)                                            4.71                    4.31              2.15                  9.03                        4.55            18.20
+   - Diluted EPS (not annual ised except for year ended March 31, 2026)                                         4.48                    4.09              1.93                  _.ILS7                      4.09            17.19
+
+                                                                                                                                                                       ~ & Co, I.
+• Amount is less than Rs 0.5 million
+See accompanying notes to the unaudited consolidated financial results
+
+        -                                                                                                                                                        (QC,;; Cen11a1
+                                                                                                                                                                            Hl h~ I.
+                                                                                                                                                                                v ''9 and (,(;)
+~6a~~LYr1l'tl'                                                                                                                                               *               Norlt C ,ng.
+                                                                                                                                                                            Nescc T ar1<4,
+                                                                                                                                                                                    enter.            *
+ MUMBAI;,                                                                                                                                                     ()
+                                                                                                                                                                          ~
+                                                                                                                                                                      Wes I           H,~way.
+                                                                                                                                                                                                     ,/!?
+                                                                                                                                                               ~<$)      Mumbai - 400 063          ,f
+        63            ~                                                                                                                                              i"1,          ~
+~ * <:)~                                                                                                                                                                ~red Acco,s
+                                                                                                                                                                             -
+                                                                                         fracta l.••
+                                                                                         Fractal Analytics Limited
+                                                                                        Consolidated Balance Sheet
+
+
+                                                                                                                           As at                   Asal
+Particulars
+                                                                                                                     September 30, 2026        March 31, 2026
+                                                                                                                         Unaudited                Audited
+
+ASSETS
+(A) Non-current assets
+   (a ) Property, plant and equipment                                                                                                   797                    821
+   (b) Right-of-u se asset s                                                                                                          1,183                  1,217
+   (c) Goodwill                                                                                                                       3,919                  3,854
+   (d ) Other Intangible assets                                                                                                       1,773                  1,757
+   (e) Intangib le assets under development                                                                                             310                    356
+   (0 Investment accoun t ed for using the equ ity method                                                                             3,102                  3,566
+   (g) Financia l asse t s
+       (i) Investments                                                                                                                  70                        68
+       (ii) Loa ns                                                                                                                     364                       349
+       (iii) Ot he r financial assets
+           - Bank deposits                                                                                                                9                      9
+           - Others                                                                                                                     205                    188
+   (h) Deferred tax assets (net)                                                                                                      1,172                  1,219
+   (i) Income tax assets (net)                                                                                                          286                    315
+   (j) Other non -current asset s                                                                                                        26                     23
+Total non-current assets (A)                                                                                                         13,216                 13,742
+
+(B) Cu rrent assets
+    (a) Financial assets
+       (i) Investments                                                                                                                7,771                 8,741
+       (i i) Trade receivables                                                                                                        8,429                 7,102
+       (iii) Cash and cas h equ ivalen ts                                                                                             3,240                 2,067
+       (iv) Bank balances other than {iii) above                                                                                      6,139                 9,585
+       (v) Othe r financial assets
+            - Ba nk depos its                                                                                                           118                    118
+            -Others                                                                                                                     429                    591
+   (b) Other cu rre nt assets                                                                                                         2,415                  2,125
+Total current assets {B)                                                                                                             28,541                 30,329
+Total assets (A+B)                                                                                                                   41,757                 44,071
+
+EQUITY AND LIABILITIES
+(C) Equity
+    (a) Share capital                                                                                                                   174                    172
+    (b) Othe r eq uity                                                                                                               34,124                 31,677
+Equity attributable to owners of the Company                                                                                         34,298                 31,849
+   (c) Non-controll ing inte rest                                                                                                       (24)                    14
+Total equity (C)                                                                                                                     34,274                 31,863
+
+(D) Liabilities
+(E) Non-current liabilities
+       (a) Fin ancia l liabilities
+           (i) Lease liab ilities                                                                                                       868                    921
+           (ii) Other financial liabilities                                                                                             386                    408
+       (bl Provisions                                                                                                                   137                     69
+       (c) Defe rred tax liab il ities                                                                                                  688                    688
+Total non-current liabilities (E)                                                                                                     2,079                  2,086
+
+(F) Current liabilities
+    (a) Financia l liabilities
+        (i) Borrowings                                                                                                                                          2,860
+        (ii) Lease liabilities                                                                                                          441                       403
+        (iii) Trade payables
+             - Total outstand ing dues of micro and small ente rprises                                                                   68                     95
+             - Total outstand ing dues of creditors othe r than micro and small enterprises                                           1,210                  1,261
+        (iv) Other financial liabilities                                                                                              1,692                  3,092
+   (b) Other current liabilit ies                                                                                                     1,789                  2,023
+   (c) Provisions                                                                                                                       106                    160
+   (d ) Cu rrent tax liabi lities {net)                                                                                                  98                    228
+Total current liabilities (Fl                                                                                                         5,404                 10,122
+Total liabilities (D=E+F)                                                                                                             7,483                 12,208
+Total Equity and Liabilities (C+D)                                                                                                   41,757                 44,071
+                                                                                         fracta l.• •
+                                                                                           Fractal Analytics limited
+                                                                                   Consolidated Statement of Cash Flows
+
+
+
+                                                                                                                                     Six months period ended      Six months period ended
+Particulars                                                                                                                             September 30, 2026          September 30, 2025
+                                                                                                                                           Unaudited                   Refer Note - 2
+
+(A} Cash flo ws from operating activities
+Profit before tax expense                                                                                                                               2,006                            988
+Adjustment for:
+Depreciation and amortisation expense                                                                                                                     637                            422
+Depreciation on right of use assets                                                                                                                       233                            213
+Fi nance cost s                                                                                                                                           139                            231
+Interest income on bank deposits and loan to directors                                                                                                   (274)                           (17)
+Gains (net) on investments mandatorily measured at fair va lue through profit or loss/ redemption / sa le of financial instruments                       (258)                           (173 )
+Fair va lue (gain)/ loss (net) on derivative contracts carried at fair value through profit or loss                                                      (196)                            115
+Interest income on unwinding of security deposits                                                                                                           (9)                             (8)
+Groups share of losses in an associ ate                                                                                                                  466                             445
+(Gain) on early te rm ination of leases                                                                                                                                                    (2)
+(Gain) on sale of property plant and equiptment                                                                                                            (2)
+Unrealised foreign exchange loss/ (gain) (net)                                                                                                             86                            (145)
+Em ployee stock option expense                                                                                                                            157                             270
+Bad Debts                                                                                                                                                  (3)                              3
+Provision for expected cred it loss and doubtful advances                                                                                                  13                             (10)
+Sha re of upside con side ration expense                                                                                                                                                   48
+Operating cash flows before working capital changes                                                                                                     2,995                           2,380
+
+Adjustment for changes in working capital :
+(Increase)/ Decrease in trade receivables                                                                                                              (1,400)                             97
+Decrea se in other current fina ncial assets                                                                                                              356                               1
+(Increase) in othe r non curre nt financia l assets                                                                                                         (7)
+(Increase) in other cu rrent assets                                                                                                                      (260)                           (874)
+(Increase)/ Decrease in othe r non current assets                                                                                                           (3)                             7
+(Decrease) in trade payables                                                                                                                              (84)                           (109)
+{Decrease) in other non current financial liabilities                                                                                                     (31)                          (6)
+(Decrease) in other current financial liabilities                                                                                                        (996)                      (1,008)
+Increase in provisions                                                                                                                                     21                              37
+(Decrease) in othe r current liabilities                                                                                                                 (265)                           (437)
+Cash generated from operations                                                                                                                            326                              88
+Tax paid (net of refunds)                                                                                                                                (563)                           (302)
+Net cash used in op erating activities                                                                                                                   (237)                           (214)
+
+{BJ Cash flows from investing activities
+Payment for purc hase of prop erty, plant and equ ipment and intangible assets                                                                           (606)                      (1,242)
+Proceeds from redemption of bank deposits (net)                                                                                                         3,446                          115
+Purchase of mutual fund units                                                                                                                          (8,838)                      (6,092)
+Maturity proceeds on redemption of mutual fu nd units                                                                                                  10,066                        5,188
+Interest on bank deposits                                                                                                                                  69                              10
+Net cash generat ed from/ {used in) investing activiti es                                                                                               4,137                       (2,021)
+
+(CJ Cash flows from financing activities
+Proceeds from issue of equity shares and share app lication money pending allotment                                                                      433                             985
+Proceeds from issue of equity shares issued by subsidiary compa ny to Non control ling interest•                                                            0                             26
+Repayment of lease liabi li t ies                                                                                                                        (279)                          (254)
+Interest paid during the period                                                                                                                           (50)                          (130)
+Repayments of borrowing                                                                                                                                12,887)                           (34)
+Net cash (us ed in)/ generated from financing activities                                                                                               (2,783)                           593
+
+Net Increase/ (Decrease) in cash and cash equivalents (A+B+C)                                                                                           1117                        fl 6421
+
+Cash and cash equivalents at the beginning of the period                                                                                                2,067                           2,649
+Effect of exchange rate changes                                                                                                                            56                              95
+Cash and cas h eauivalents at the end of the oeriod                                                                                                     3 240                           1,102
+* Amount 1s less than Rs 0.5 mllhon
+                                                                                              fracta~..
+    Notes to Stat ement of Un audited Consolid ated Finan cia l Results
+
+
+1   These unaudited consolidated financial results of Fracta l Analytics Limited (the "Holding Company" or the "Company") and its subsidiaries (together referred to as "the Group") and its share in the
+    results of associate have been prepared in accordance w it h the Indian Account ing Standards ("lnd AS") as prescribed under Section 133 of the Companies Act, 2013, as amended, read with relevant
+    rules the reunder and in compliance with Regulation 33 of the SEBI (listing Obligation and Disclosure Requirements) Regulations 2015 ("the Regulations"). These unaudited conso lidated financia l results
+    have been reviewed by the Audit Committee and approved by the Board of Directors in their respective meetings held on November 03, 2026. The statutory aud itors have issued an unmodified review
+    report on the above unaudited consolidated financial results.
+
+
+2   The Company's equity shares were listed on the National Stock Exchange of India Lim ited (NSE) and Bombay Stock Exchange limited (BSE) on February 16, 2026. The figures for the correspo nding three
+    months and six months ended Septembe r 30, 2025 as reported in these consolidated financial results had been approved by the Company's Board of Directors but had not been subjected to limited
+    review, since the requirement of submiss ion of qua rterly consolidated financia l results was applicable on listing of equity shares of the Company effective from the period ended December 31, 2025 .
+
+
+
+
+3   The segment reporting of the Group has been prepared in accordance with Ind AS 108 on "Operating Segments".
+    The Chief executive officer of the Group has been identified as Chief Operating Decision Maker (CODM) who allocates the resources based on analysis of various performance indicators of the Group as
+    disclosed for the Fractal.a i and Fractal Alpha segment. Whi le Fractal.ai and Fractal Alpha are distinct segments of the Fractal Group, both segments contribute collaboratively to create solu t ions with
+    both products and services in thei r scope t o solve business problems of clients and cater to both the Al services and software markets.
+
+
+    The Board of Directors in its meeting held on March 20, 2026 had approved the transfer of businesses of FAA, Edtech and lqigai from Fractal Ana lytics Limited to Analytics Vidhya Educon Private
+    Limited, wholly owned subsidiary. The said businesses have been transferred effective May 01, 2026. Since, the transfer of these businesses were from Fractal.ai to Fractal Alpha segment, the segment
+    results of previous pe riods and previous year have been restated for comparative purposes.
+
+
+    Segment w ise r evenue and results are as follo ws:
+                                                                                                                   Three mo nths ended                              Six mo nths en ded                 Year ended
+                                                                                                 Sept em ber              June             September           Sept ember          September             Ma rch
+    Part iculars
+                                                                                                  30, 2026              30, 2026            30, 2025            30, 2026            30, 2025            31, 202 6
+                                                                                                 Unaudited             Un audited         Refer Note - 2       Unaud ited         Refer Not e - 2       Aud it ed
+    Segment Reven ue
+    Fractal.ai                                                                                           9,361                   8,942             7,758             18,303               15,173              32,165
+    Fractal Alpha                                                                                            340                   240                 243                 580                 444                  901
+    lntersegment eliminatio n                                                                             (136)                    (57)                 (16)              (193)                 (27)                {69)
+    Total                                                                                                9,565                   9,125             7,985             18,690               15,590              32,997
+
+
+    Seg ment resu lt
+    Fractal.ai                                                                                           1,613                   1,577             1,135              3,190                 2,241              5,587
+    Fracta l Alpha                                                                                        (112)                   (148)                 (87)              (260)              (130)                (348)
+    Unallocated                                                                                                0                    (0)                 (79)                                 (115)                (156)
+    Total                                                                                                 1,501                  1,429                 969            2,930                 1,996              5,083
+
+
+    Sh are of (loss) of associat e                                                                        (232)                   (234)             (222)                 (466)              (445)                (703)
+
+
+    Unallocated:
+       Other income                                                                                          288                   196                 209                 484                 353                  629
+       Finance cost                                                                                          (53)                  {88)             (115)                 (141)              (233)                (474)
+       Depreciation and amortisation                                                                      (472)                   (398)             (335)                 (870)              (635)            (1,358)
+       Exceptional items                                                                                                            69                  (48)                69                  (48)              {110)
+    Profit b efore t ax                                                                                   1,032                    974                 458            2,006                    988             3,067
+
+
+    Segment w ise asset s and lia bilit ies are as follows:
+                                                                                                                                           Se pt ember            Jun e            Septemb er            M arch
+    Particul ars
+                                                                                                                                             30, 2026           30, 2026             30, 2025           31, 2026
+                                                                                                                                            Unaudited          Unaudited          Refer Not e - 2       Aud it ed
+    Segment Asset
+    Fractal.ai                                                                                                                                    20,982             18,870               16,285              19,137
+    Fractal Alpha                                                                                                                                  4,796              4,624                 4,730              4,321
+    Unallocated                                                                                                                                   15,979             16,095                 8,639             20,613
+    Total                                                                                                                                         41,757             39,589               29,654              44,071
+
+
+    Segment Liabilities
+    Fractal.ai                                                                                                                                     4,860              4,145                 4,527              6,281
+    Fractal Alpha                                                                                                                                  1,126              1,013                 1,106              1,197
+    Unallocated                                                                                                                                    1,497              1,595                 4,226              4,730
+    Total                                                                                                                                          7,483              6,753                 9,859             12,208
+                                                                                              fracta~••
+4   Except ional item includes:
+                                                                                                                Three month s ended                                   Six months ended                   Year ended
+                                                                                                  September              June            September             September           September
+    Particulars                                                                                                                                                                                        March 31, 2026
+                                                                                                   30, 2026            30, 2026            30, 2025             30, 2026            30, 2025
+                                                                                                  Unaudited           Unaudited         Refer Note - 2         Unaud ited        Refer Note - 2           Audited
+    Statu t ory impact of new Labour Codes                                                                                        69                                        69                                    (110)
+    (Refer note below)
+    Share of upside consideration expense                                                                                                             (48)                                     (48)
+    Total                                                                                                                         69                  (48 )                 69                 (48 )              (110)
+
+
+    On 21 November, 2025, the Government of India notified the four Labour Codes - the Code on Wages, 2019, t he Ind ustrial Relations Code, 2020, the Code on Social Security, 2020, and the Occupational
+    Safety, Health and Working Conditions Code, 2020 - consolidating 29 exist ing labour laws. Conside ring the materiality and regu latory-driven, non -recurring nature of this impact, the Group has
+    presented incrementa l impact under "Exceptiona l items" in the statement of profit and loss for the respective periods.
+
+
+S   The Holding Compa ny issued bonus shares in acco rdance with Section 63 of the Companies Act, 2013 in the ratio of 1:4 (fo r every one equity sha re four bonus sha res were issued) to all equity
+    shareholders with equity shares on July 29, 2025 as approved by shareholders. Further, Board of. Directors in its meet ing on Ja nuary 23, 2026 approved the conversion of Compulso ri ly Convertible
+    Preference Shares {CCPS) into equity shares. Accordingly, the CCPS holders were issued 22,618,020 equity shares in lieu of the CCPS held by them in accordance with terms of sha reholde r agreement.
+
+
+    The weighted average number of shares for the three months and six months ended September 30, 2025 have been adjusted to reflect the impact of the above as per Ind AS 33.
+
+
+
+
+6   During the year ended March 31, 2026, the Ho lding Company has completed its Initial Public Offer (IPO) of 31,523,948 eq uity shares of face va lue of Rs 1 each at an issue price of Rs 900 per share
+    (including a share prem ium of Rs 899 per share). A discount of Rs 85 per share was offe red to eligible employees bidding in the employee reservation po rtion of 383,008 equity shares . The issue
+    comprised of a fresh issue of 11,408,394 equity shares aggregating to Rs 10,235 mill ion and offer for sale of 20,115,5S4 equity shares by se ll ing shareholders aggregating to Rs 18,104 million. Pursuant
+    to the !PO, the equity shares of the Company were listed on Nationa l Stock Exchange of India Limited (NSE) and BSE Limited (BSE) on February 16, 2026.
+
+
+    Utilisation of IPO proceed s:
+    Objects of th e issue as per prospectus                                                                                                                   Amount to be       Amount util ised          Amount
+                                                                                                                                                              ut ilised as per   upto September           remaining
+                                                                                                                                                               prospectus           30, 2026              unutilised
+                                                                                                                                                               (net of offer
+                                                                                                                                                                ex enses
+    Investment in one of our Subsidiaries, Fracta l USA, for pre-payment and/ or schedu led repayment, in full or in part, of its borrowing                              2,649            (2,649)
+    Purchase of laptops                                                                                                                                                    571              (155)                   416
+    Setting-up new office premises in India                                                                                                                              1,211                                    1,211
+    Investment in {a) research and development; and (b) sales and marketing under Fracta l Alpha                                                                         3,551              (711)                2,840
+    Funding Inorganic growth through unidentified acquisitions and other st rategic initiatives, and genera l corporate purposes                                         1,611                                    1,611
+    Total                                                                                                                                                                9,593            {3,515)                6,078
+
+
+7   Subsequent to the pe r iod end, on November 02, 2026, Asper.a i Inc. ("Asper USA"), step-down subsidiary of Fractal Analytics limited, has contracted with ce rtain key employees, acqui red certain assets
+    and taken up certain liabilities of Pricing One SA, a company limited by shares, incorpora t ed under Swiss law for an aggregate net consideration of Rs 152 million, subject t o any final calculation and
+    adjustment to be made due to exchange rate fluctuations.
+
+
+8   The above unaudited consolidated financial results of the Group are available on the Company's website www.fractal.ai and also that of NSE (www.nse india.com) and BSE {www.bse india.com).
+
+
+    For and on behalf of the Board of Directors of
+    Fractal Anal    cs   m it ed
+
+
+
+
+    Who/
+    DIN: 01722758
+
+
+    Place: Mumbai
+    Date: November 03, 2026
+                                                                                                  14th Floor, Central B Wing and North C Wing
+BS R & Co. LLP                                                                                    Nesco IT Park 4, Nesco Center
+                                                                                                  Western Express Highway
+Chartered Accountants
+                                                                                                  Goregaon (East), Mumbai - 400 063, India
+                                                                                                  Telephone: +91 (22) 6257 1000
+                                                                                                  Fax: +91 (22) 6257 1010
+
+
+
+Limited Review Report on unaudited standalone financial results of Fractal Analytics
+Limited for the quarter ended 30 September 2026 and year to date results for the
+period from 01 April 2026 to 30 September 2026 pursuant to Regulation 33 of
+Securities and Exchange Board of India (Listing Obligations and Disclosure
+Requirements) Regulations, 2015, as amended
+
+To the Board of Directors of Fractal Analytics Limited
+1.     We have reviewed the accompanying Statement of unaudited standalone financial results of Fractal
+       Analytics Limited (hereinafter referred to as "the Company") for the quarter ended 30 September 2026
+       and year to date results for the period from 01 April 2026 to 30 September 2026 ("the Statement").
+       Attention is drawn to the fact that the figures for the corresponding quarter ended 30 September 2025
+       and the corresponding period from 01 April 2025 to 30 September 2025, as reported in the Statement
+       have been approved by the Company's Board of Directors, but have not been subjected to review.
+2.     This Statement, which is the responsibility of the Company's management and approved by its Board
+       of Directors, has been prepared in accordance with the recognition and measurement principles laid
+       down in Indian Accounting Standard 34 "Interim Financial Reporting' ("Ind AS 34"), prescribed under
+       Section 133 of the Companies Act, 2013, and other accounting principles generally accepted in India
+       and in compliance with Regulation 33 of the Securities and Exchange Board of India (Listing
+       Obligations and Disclosure Requirements) Regulations , 2015, as amended ("Listing Regulations").
+       Our responsibility is to issue a report on the Statement based on our review .
+3.     We conducted our review of the Statement in accordance with the Standard on Review Engagements
+       (SRE) 2410 "Review of Interim Financial Information Performed by the Independent Auditor of the
+       Entity", issued by the Institute of Chartered Accountants of India. A review of interim financial
+       information consists of making inquiries, primarily of persons responsible for financial and accounting
+       matters, and applying analytical and other review procedures. A review is substantially less in scope
+       than an audit conducted in accordance with Standards on Auditing and consequently does not enable
+       us to obtain assurance that we would become aware of all significant matters that might be identified
+       in an audit. Accordingly, we do not express an audit opinion.
+4.     Based on our review conducted as above, nothing has come to our attention that causes us to believe
+       that the accompanying Statement, prepared in accordance with the recognition and measurement
+       principles laid down in the aforesaid Indian Accounting Standard and other accounting principles
+       generally accepted in India, has not disclosed the information required to be disclosed in terms of
+       Regulation 33 of the Listing Regulations, including the manner in which it is to be disclosed , or that it
+
+
+
+
+                                                                                                        Registered Office:
+
+BS R & Co . (a partnersh ip firm with Registration No . BA61223) converted into BS R & Co . LLP (a      14th Floor, Central B VVing and North C \flling , Nesco IT Park 4, Nesco
+limited Liability Partnership with LLP Registration No . AAB-8181) 'Nith effect from October 14, 2013   Center, Western Express Highway, Goregaon (East), Mumbai - 400063
+
+                                                                                                                                                             Page 1 of2
+BS R & Co. LLP
+
+                                          Limited Review Report (Continued)
+                                                     Fractal Analytics Limited
+   contains any material misstatement.
+
+                                                              For B S R & Co. LLP
+                                                            Chartered Accountants
+                                         Firm's Registration No.: 101248W/W-100022
+
+
+
+
+                                                                    Rajesh Mehra
+                                                                           Partner
+Mumbai                                                    Membership No.: 103145
+03 November 2026                                      UDIN :26103145DDPBXX5199
+
+
+
+
+                                                                        Page 2 of 2
+                                                                                                      fracta l. •
+                                                                                                       Fractal Analytics Umlted
+                                                                                                   ON: L72400MHZOOOPLCU5369
+                                        Regd. Office: level 7, Commerz II, International Business Park, Oberoi Garden Oty, Off. W. E. Highway, Goregaon (E), Mumbai, Maharashtra 400063
+                                                                         Website: www.fractal.ai, Email Id: investorrelatlo ns@fractal.ai, Tel: +9122 6850 5800
+
+                                                                                        Statement of Unaudited Standalone Financial Results
+                                                                                                                                                                                                 (in Rs Millions, except per share data)
+                                                                                                                   Three months ended                                          Six months ended                       Year ended
+Particulars                                                                               September 30, 2026          June 30, 2026        September 30, 2025       September 30, 2026      September 30, 2025       March 31, 2026
+                                                                                               Unaudited               Unaudited              Refer note 2              Unaudited              Refer note 2              Audited
+11) Income
+(a) Revenue from operations                                                                             5,342                   5,060                   4,429                  10,402                    8,646                  18,662
+(b) Other Income                                                                                          285                     225                     162                     510                      331                     631
+Total Income                                                                                            5,627                   5,285                   4,591                  10,912                    8,977                  19,293
+(2) Expenses
+(a) Employee benefits expense                                                                           3,758                   3,483                   3,176                   7,241                    6,287                  13,020
+(b) Employee stock option expense                                                                          28                      86                     134                     114                      195                     465
+{c) Finance costs                                                                                          31                      30                      43                      61                       93                     192
+(d) Depreciation and amortisation expense                                                                 208                     196                     163                     404                      303                     680
+(e) Other expenses                                                                                        652                     573                     526                   1,225                    1,008                   2,163
+Total Expenses                                                                                          4,677                   4,368                   4,042                   9,045                    7,886                  16,520
+(3) Profit before exceptional items and tax expense (1-2)                                                 950                     917                     549                   1,867                    1,091                   2,773
+(4) Exceptional items {net) (Refer note 4)                                                                                         67                    (209)                     67                     (209)                   (302)
+(5) Profit before tax expense (3+4}                                                                        950                    984                     340                   1,934                      882                   2,471
+(6) Tax expense
+(a) Current tax                                                                                            197                     220                   113                      417                         251                    658
+(b) Deferred tax charge/ (credit)                                                                           19                      11                    (6)                      30                          (8)                   (5 2)
+Total tax expense                                                                                          216                     231                   107                      447                         243                    606
+(7) Profit after t .. (5-6)                                                                                734                     753                   233                    1,487                         639                  1,865
+(B) Other Comprehensive Income/ (loss}
+(1) Items that will not be reclassified subsequently to profit or loss
+(a) Remeasurement of defined employee benefit plans                                                         52                     (47)                       42                       5                       51                   176
+{b) In come tax on item (a) above                                                                          (13)                     12                       (10)                     (1)                     (13)                   (44)
+(Z) Items that will be reclassified subsequently to profit or loss
+(a) Effective portion of (loss)/ gain on derivative designated as cash flow hedge                          (12)                       13                 (152)                        1                   (177)                     (330)
+{b) (Loss)/ Gain due to changes in intrinsic value on derivatives designated as cash                         (4)                      3                                               (1)                                            (20)
+flow hedge
+(c} (loss)/ Gain due to changes in time value of derivatives designated as cash flow                         (4)                       6                                              2                                               (9)
+hedge
+(d) Effective portion of gain on derivatives design.ited .is cash flow hedge                                71                     101                       50                     172                        50                   180
+reclassified to profit or loss
+(e) Income tax on items (a ), (b}, (c} & (d} above                                                         (13)                    (31)                       26                    (44)                       32                     45
+Total other comprehensive income/ (loss}                                                                    77                      57                       (44)                 134                         (57)                    (2)
+Total Comprehensive Income (7+8)                                                                           811                     810                       189                1,621                         582                  1,863
+
+
+Paid-up Equity Share Capital (Face value of Rs 1 each)                                                     174                     172                       142                    174                       142                  172
+Other Equity                                                                                                                                                                                                                    32,612
+
+Earnings Per Share fo r the period (Rs per share) (Refer note 5)
+Face value of Rs 1 each
+      Basic EPS (not annualised except for year ended March 31, 2026}                                      4.26                    4.38                  1.46                       8.64                   4.05                    11.62
+   - Diluted EPS {not annualised except for year ended March 31, 2026)                                     4.05                    4.16                  1.31                       8.20                   3.60                    10.97
+See accompanying notes to the unaudited standalone financia l results
+                                                                          fracta l. ••
+                                                                           Fractal Analytics Limited
+                                                                          Standalone Balance Sheet
+
+                                                                                                             Asat                 Asat
+Particulars                                                                                            September 30, 2026     March 31, 2026
+                                                                                                           Unaudited             Audited
+
+ASSETS
+(A) Non-current assets
+   (a) Property, plant and equipment                                                                                    698                  732
+   (b) Right-of-use assets                                                                                              904                1,055
+   (c) Goodwill                                                                                                         596                  596
+   (d) Other Intangible assets                                                                                          404                  279
+   (e) Intangible assets under development                                                                               94                  296
+   (f) Financial assets
+       (i) Investments                                                                                               11,466                6,950
+       (ii) Other financial assets                                                                                      181                  173
+   (g) Deferred tax assets (net)                                                                                        102                  176
+   (h) Income tax assets (net)                                                                                          141                  140
+   (i) Other non-current assets                                                                                          11                   46
+Total non-current assets (A)                                                                                         14,597               10,443
+
+(B) Current assets
+   (a) Financial assets
+      (i) Investments                                                                                                 7,771                8,741
+      (ii) Trade receivables                                                                                          6,440                6,948
+      (iii) Cash and cash equivalents                                                                                 2,025                  578
+      (iv) Bank balances other than (iii) above                                                                       6,135                9,571
+      (v) Other financial assets
+          - Bank deposits                                                                                               118                  118
+          -Others                                                                                                       514                  769
+  (b) Other curr ent assets                                                                                             761                  550
+Total current assets (B)                                                                                             23,764               27,275
+Total assets (A+B)                                                                                                   38,361               37,718
+
+EQUITY AND LIABILITIES
+(C) Equity
+   (a) Share capital                                                                                                    174                  172
+   (b) Other equity                                                                                                  34,818               32,612
+Total equity (C)                                                                                                     34,992               32,784
+
+(D) Liabilities
+(E) Non-current liabilities
+     (a) Financial liabilities
+        (i) Lease liabilities                                                                                           652                    806
+     (b) Provisions                                                                                                      83                     29
+Total non-current liabilities (E)                                                                                       735                    835
+
+(F) Current liabilities
+   (a) Financial liabilities
+      (i) Lease liabilities                                                                                             336                    315
+     (ii) Trade payables
+         - Total outstanding dues of micro and small enterprises                                                        134                  100
+         - Total outstanding dues of creditors other than micro and small enterprises                                   548                  908
+     (iii) Other financial liabilities                                                                                1,101                2,063
+  (b) Other current liabilities                                                                                         409                  421
+  (c) Provisions                                                                                                         35                   96
+  (d) Current tax liabilities (net)                                                                                      71                  196
+Total current liabilities (F)                                                                                         2,634                4,099
+Total liabilities (D=E+F)                                                                                             3,369                4,934
+Total Equity and Liabilities (C+D)                                                                                   38,361               37,718
+                                                                                       fracta L.                •
+                                                                                        Fractal Analytics Limited
+                                                                                  Stancalone Statement of cash Flows
+
+
+
+                                                                                                                                                Six months ended          Six months ended
+Particulars                                                                                                                                    S.ntember 30, 2026        September 30, 202S
+                                                                                                                                                   Unaudited                 Refer note 2
+
+{A) Cash flows from operating activities
+Profit before tax expense                                                                                                                                      1,934                      882
+                                                                                                                                                                                              I
+Acjustment for:
+Depreciation and amortisation expense                                                                                                                            226                      130
+Depreciation on richt of use assets                                                                                                                              178                      173
+Finance costs                                                                                                                                                     60                       93
+Interest income on intercompany loan                                                                                                                                                       (7)
+Interest income on bank deposits                                                                                                                                (261)                      (4)
+Gains (net) on investments mandatorily measured at fair value through profit or loss/ redemption/ sale of fi nancial instruments                                (253)                     (51)
+Fair value (gain)/ loss (net} on derivative contracts carried at fa ir value through profit or loss                                                             (196)                     115
+Interest income on unwinding of security deposits                                                                                                                  (8)                     (8)
+Guarantee commission (income)                                                                                                                                      (2)                    (13)
+(Gain ) on early te rminat ion of leases•                                                                                                                          (0)
+(Gain ) on sale of property plant and equiptment                                                                                                                   (2)
+Unrealised foreign exch ange loss/ (ga in) (net)                                                                                                                  73                      (67)
+Employee stock option eKpense                                                                                                                                    114                      195
+Bad Debts                                                                                                                                                                                   4
+Prov ision for eKpected credit loss and doubtful advances•                                                                                                          0                     (10)
+Loss on cancellation of guarantee                                                                                                                                   2
+Gain on business transfer                                                                                                                                         (20)
+Share of upside consideration expense                                                                                                                                                      25
+Investment / Receivable balances from subsidiaries written off/ Impairment provision reversed on investments in and amounts recoverable from                                             (184)
+subsidia ries (net)
+Operating cash flows before workine: capital changes                                                                                                           1,845                    1,273
+
+Adjustment for chane:es in workine: capital :
+Decrease in trade receivables                                                                                                                                    435                    2,341
+Decrease in other current financial assets                                                                                                                       450                       43
+(Increase)/ Decrease in other non current financia l assets•                                                                                                       (0)                      1
+(Increase) in other current assets                                                                                                                              (211)                    (590)
+Decrease in other non current assets                                                                                                                              34                       10
+{Decrease)/ Increas e in trade payables                                                                                                                         (283)                     344
+(Decrease ) in other curre nt financial liabilities                                                                                                             (520)                    (517)
+Increase in provisions                                                                                                                                              3                      37
+{Decrease ) in other current liabilities                                                                                                                         (12)                    (163)
+Cash generated from operations                                                                                                                                 1,741                    2,779
+Tax pa id (net of refunds)                                                                                                                                      (543)                    12271
+Net cash generated from operating activities                                                                                                                   1,198                    2,552
+
+(BJ Cash flows from Investing activities
+Payment for purthase of property, plant and eq uipment and int ang ible assets                                                                                  (327)                    (573)
+lntercompany loan given during the period                                                                                                                                                 (29)
+Interest on lntercom pany loan received during the period                                                                                                                                   1
+Payment towards investment in equity shares in subsidia ries                                                                                                   (4,475)
+Proceeds on account of subs idiaries merged and capital red uction thereof                                                                                                                 47
+Proceeds from redemption of bank deposits (net)                                                                                                                3,436                       94
+Purchase of mutual fund un its                                                                                                                                 (5,170)                 (4,880)
+Maturity proceeds on redemption of mutual fund units                                                                                                            6,392                   1,996
+Interest on ban k deposits                                                                                                                                         64                       4
+Co nsideratio n received on business transfer                                                                                                                     116
+Net cash (used in) investing activities                                                                                                                            36                  (3,340)
+
+
+(CJ Cash flows from financing activiti,s
+Proceeds from issue of equity shares and share applicatlon mon ey pending allotment                                                                              433                      985
+Repayment of lease liabilities                                                                                                                                  (210)                    (207)
+Interest pa id during the period                                                                                                                                  110!                    (19)
+Net cash generated from financing activities                                                                                                                     213                      759
+
+Net Increase/ (Decrease) in cash and cash equivalents (A+B+C)                                                                                                  1,447                      1291
+
+
+Cash and cash equivalents at the beginning of the pe riod                                                                                                        578                      223
+Cash and cash equivalents at the end of the period                                                                                                             2,025                      194
+•Amount 1s less than Rs 0.5 m1lhon
+                                                                                                         fracta l. •
+    Notes to Statement of Unaudited Standalone Financial Results
+
+
+1   These unaudited standalone financial results of Fractal Analytics Limited (the "CompanyM) have been prepared in accordance with the Indian Accountina: Standards (• Ind AS") as prescribed under Section 133 of the Companies Act, 2013, as
+    amended, read with relevant rull!s thereunder and in compli;mce with Regulation 33 of the SEBI (Listing Obligation ilnd Disclosure Requirements) Reguliltions 2015 (nthe Regulo1tions"), These unaudited standalone financial results have been
+    reviewed bv the Audit Committee and approved by the Board of Directors in their respective meetings held on November 03, 2026. The statutory auditor5 have issued an unmodified review report on the above uniiudited standalone
+    financial results.
+
+2   The Company's equity sha re s were listed on the National Stock Exchange of India Limited (NSE) and Bombay Stock Exchange Limited (BSE) on February 16, 2026. The fi&ures for the correspondin& three months and six months ended
+    September 30, 2025 as reportr:d in these standalone financial results had been approved by the Company's Board of Directors but had not been subjected to limited review, since the requirement of submission of quarterly standalone
+    financial results was applicable on listing of equity shares of the Company effective from the period ended December 31, 2025.
+
+
+3   The Company publishes these unaudited standalone financial results along with the unaudited consolidated financial results. 1n accordance with Ind A5 108, •operating Segments", the Company has disdosed the segment information in the
+    unaudited consolidated financial results.
+
+
+4   Exceptional Items Includes:
+                                                                                                             Three months ended                                                           Six months ended                             Year ended
+    Particulars                                                                 September 30, 2026              June 30, 2026             September 30, 2025            September 30, 2026            September 30, 2025             Man:h 31, 2026
+                                                                                     Ullludited                   Unaudited                    Refer note 2                  Ullludited                  Refer note 2                    Audited
+    Investment in/ Receivable balances from subsidiaries (written off)                                                                                                                                                                                (346)
+    Impairment provision (created)/ reversed on investments in and                                                                                            (184)                                                      (184)                         146
+    amounts recoverable from subsidiaries (net)
+    Share of upside consideration expense                                                                                                                      (25)                                                        (25)
+    Statutory impact of new Labour Codes (Refer note below)                                                                        67                                                         67                                                      (102)
+    Total                                                                                                                          67                         (209)                           67                         (209)                        (302)
+
+
+    On 21 November, 2025, the Government of India notified the four Labour Codes- the Code on Wa&es, 2019, the Industrial Relations Code, 2020, the Code on Social Security, 2020, and the Occupational Safety, Health and Workin& Conditions
+    Code, 2020 - consolidatini:: 29 existini:: labour laws. Considerini:: the materiality and rei::ulatory-driven, non-recurrin&: nature of th is impact, the Company has presented incremental impact under " Exceptional items" in the statement of profit
+    and loss for the respective periods.
+
+
+S   The Company issu@d bonus shares in accordanc@with Section 63 of the Companies Act, 2013 in the ratio of 1:4 (for every on e equity shar@ four bonus shar@s were issu@d) to all equity shareholders with equity shares on July 29, 2025 as
+    approved by shareholders. Furth@r, Board of Directors in its meeting on January 23, 2026 approved the conversion of Compulsorily Convertible Preferen~ Shares (CCPS) into equity shares. Accordingly, the CCPS holders w@r@ issued
+    22,618,020 equity shares in lieu of the CCPS held by them in accordance with terms of shareholder agreement.
+
+    The wei&:hted average number of shares for the three months and six months ended September 30, 2025 have been adjusted to reflect the impact of the above as per Jnd AS 33.
+
+
+6   During the year ended March 31, 2026, the Company has completed its Initial Public Offer (IPO) of 31,523,948 equity shares of face value of Rs 1 each at an issue price of Rs 900 PM share (including a share premium of Rs 899 per share). A
+    discount of Rs 85 p@r shar@ was offered to el igible employe@s blddlng in the @mployel!!! r@servation portion of 383,008 equity shares. The issu@ comprised of a fresh issu@ of 11,408,394 @qulty shares auregating to Rs 10,23S million and offer
+    for sale of 20,115,554 equity shares by selling shareholders aur@gating to Rs 18,104 million. Pursuant to the IPO, the equity shares of the Company were listed on National Stock Exchang@ of India Limited (NSE) and BSE Limited JBSE) on
+    February 16, 2026.
+
+
+
+    Utilisation of IPO proceeds:
+    Objects of the issue as per prospectus                                                                                                                            Amount to be utilised as          Amount utilised            Amount remainin1
+                                                                                                                                                                          per prospectus            upto September 30, 2026           unutnls@d
+                                                                                                                                                                       net of offer ex enses
+    Investment in one of our Subsidiaries, Fractal USA, for pre-payment and/ or scheduled                                                                                                2,649                          (2,649)
+    r@payment, in full or in part, of its borrowing
+    Purchase of laptops                                                                                                                                                                      571                         (155)                         416
+    Setting-up new office premises in India                                                                                                                                                 i211                                                     i211
+    Investment in (a) research and development; and (b) sales and marketing under Fractal Alpha                                                                                            3,551                          (711)                      2,840
+    Funding inorganic growth through unidentified aaiulsitions and other strategic initiatives, and                                                                                         1,611                                                    1,611
+    general corporate purposes
+    Total                                                                                                                                                                                  9,593                        (3,515)                      6,078
+
+
+7   The Board of Directors in its meeting held on March 20, 2026 had approved the transfer of businesses of FM, Edtech and lqigai from Fractal Analytics Limited to Analytics Vidhya Educon Private Limited, a wholly owned subsidiary. The sa id
+    businesses have been transferred effective May 01, 2026 for an aggr@gate consideration of Rs 116 million . The excess of consideration receM!d over net assets transferred has been accounted under Other Income.
+
+
+
+
+    Place: Mumbai
+    Date: November 03, 2026
+                                                Annexure - A
+
+Disclosure of information pursuant to Regulation 30 of the SEBI Listing Regulations read with SEBI
+Master Circular No. HO/49/14/14(7)2025-CFD-POD2/I/3762/2026 dated January 30, 2026
+
+  Sr                Particulars                                             Details
+  no.
+   1.   details    and      reasons      for    The winding-up of Analytics Vidhya Inc., is being carried out for
+        restructuring                           simpliﬁcation of the Group's corporate structure to reduce
+                                                compliance and administrative overheads and enhance
+                                                operational eﬃciency, without any adverse impact on ongoing
+                                                business operations.
+   2.   quantitative and/or       qualitative       a. Reduce duplicative compliance and administrative
+        eﬀect of restructuring                          overheads
+
+                                                    b.  Simpliﬁcation of the corporate group structure and
+                                                        enhance operational eﬃciency
+   3.   details of beneﬁt, if any, to the       There is no beneﬁt to the promoter / promoter group / group
+        promoter/promoter group/group           companies from the proposed restructuring.
+        companies from
+        such proposed restructuring
+   4.   brief details    of   change in         Not applicable.
+        shareholding pattern (if any) of all
+        entities                                The Company is not party to the winding-up and the shareholding
+                                                pattern of the Company remains unchanged.
+

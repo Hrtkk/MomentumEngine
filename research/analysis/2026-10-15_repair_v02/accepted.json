@@ -1,0 +1,95 @@
+{
+  "assessments": [
+    {
+      "symbol": "MRPL",
+      "mechanism": "Reported standalone quarter shows revenue and PAT both higher year over year; refining throughput or margin mix is a hypothesis, not evidenced in packet.",
+      "uncertainty": "Packet gives no segment, volume, GRM or one-off detail; standalone only; single quarter cannot distinguish durable margin from cyclical swing.",
+      "next_check": "Quarter ending 2026-12-31 results filing",
+      "evidence_ids": [
+        "fundamental-MRPL-20260930"
+      ]
+    },
+    {
+      "symbol": "CEATLTD",
+      "mechanism": "Standalone revenue rose year over year while PAT and PBT before exceptional fell, implying cost or mix pressure between topline and profit.",
+      "uncertainty": "No input-cost, pricing or exceptional-item breakdown supplied; consolidated view absent; divergence direction unconfirmed as persistent.",
+      "next_check": "Quarter ending 2026-12-31 results filing",
+      "evidence_ids": [
+        "fundamental-CEATLTD-20260930"
+      ]
+    },
+    {
+      "symbol": "ICICIGI",
+      "mechanism": "Statutory quarter shows premium and PAT growth alongside a higher combined ratio, so underwriting and non-underwriting drivers may diverge.",
+      "uncertainty": "No line-of-business, reserving, catastrophe or investment-income split; combined ratio movement cause unknown; solvency context limited.",
+      "next_check": "Quarter ending 2026-12-31 results filing",
+      "evidence_ids": [
+        "fundamental-ICICIGI-20260930"
+      ]
+    }
+  ],
+  "dossiers": [
+    {
+      "symbol": "MRPL",
+      "hypothesis": "Refining-cycle earnings leverage, not structural change, explains the observed year-on-year profit and revenue expansion in this single standalone quarter.",
+      "assumptions": [
+        {
+          "assumption_id": "MRPL-A1",
+          "statement": "Profit growth momentum must persist; a year-on-year PAT decline triggers risk review.",
+          "metric": "pat_yoy_pct",
+          "operator": "lt",
+          "threshold": 0
+        }
+      ],
+      "missing_fields": [
+        "Gross refining margin and throughput disclosure",
+        "Consolidated basis statement and exceptional-item detail"
+      ],
+      "evidence_ids": [
+        "fundamental-MRPL-20260930"
+      ]
+    },
+    {
+      "symbol": "CEATLTD",
+      "hypothesis": "Margin compression from cost or product-mix pressure offsets volume-led revenue growth, producing simultaneous topline gain and profit decline.",
+      "assumptions": [
+        {
+          "assumption_id": "CEAT-A1",
+          "statement": "Revenue growth must continue supporting the margin thesis; growth below threshold triggers risk review.",
+          "metric": "revenue_yoy_pct",
+          "operator": "lt",
+          "threshold": 5
+        }
+      ],
+      "missing_fields": [
+        "Raw-material cost and realisation breakdown",
+        "Segment and geography revenue split"
+      ],
+      "evidence_ids": [
+        "fundamental-CEATLTD-20260930"
+      ]
+    },
+    {
+      "symbol": "ICICIGI",
+      "hypothesis": "Premium growth and profit growth coexist with weaker underwriting efficiency, so earnings may lean on non-underwriting contributions this quarter.",
+      "assumptions": [
+        {
+          "assumption_id": "ICICIGI-A1",
+          "statement": "Underwriting efficiency must not deteriorate further; combined ratio above threshold triggers risk review.",
+          "metric": "combined_ratio_pct",
+          "operator": "gt",
+          "threshold": 108
+        }
+      ],
+      "missing_fields": [
+        "Line-of-business claims and expense ratio split",
+        "Investment income and reserving/catastrophe disclosure"
+      ],
+      "evidence_ids": [
+        "fundamental-ICICIGI-20260930"
+      ]
+    }
+  ],
+  "brief": "Facts: For the quarter ended 2026-09-30, primary filings visually verified by Codex show MRPL (standalone) with year-on-year growth in both revenue and PAT; CEATLTD (standalone) with revenue growth but lower PAT and lower PBT before exceptional items; and ICICIGI (insurer statutory) with growth in gross written premium and PAT alongside a higher combined ratio and broadly similar solvency ratio (fundamental-MRPL-20260930, fundamental-CEATLTD-20260930, fundamental-ICICIGI-20260930).\n\nInterpretations (hypotheses, unconfirmed): MRPL's result may reflect refining-cycle leverage; CEATLTD's divergence may reflect cost or mix pressure; ICICIGI's profit growth may lean on non-underwriting drivers. Causes are not evidenced.\n\nGaps: no segment, cost, reserving or consolidated detail; single quarter establishes a baseline only. No industrial debt test is applied to the insurer.\n\nAll three dossiers are provisional and unqualified. Ownership: Claude research; Codex verification. Next check: quarter ending 2026-12-31.",
+  "_note": "news metadata excluded from brief per instruction"
+}

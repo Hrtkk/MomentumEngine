@@ -1,0 +1,33 @@
+{
+  "assessments": [
+    {
+      "symbol": "BSE",
+      "mechanism": "Primary exchange metadata confirms BSE Limited submitted financial results for the quarter and six months ended September 30, 2026 via a Regulation 30 board meeting outcome filing. No financial figures are verified; any operating driver (e.g., transaction or listing revenue trends) remains a hypothesis only.",
+      "uncertainty": "High: only cover-letter OCR and metadata available; result tables unverified, so direction and magnitude of performance are unknown.",
+      "next_check": "Verify original quarter table, sector metrics, cash conversion and valuation from the filed PDF; no price trigger required.",
+      "evidence_ids": [
+        "nse-announcement-106845063"
+      ]
+    },
+    {
+      "symbol": "CUMMINSIND",
+      "mechanism": "Primary exchange metadata confirms the Board approved unaudited results for the quarter and half year ended September 30, 2026, with a Statutory Auditor's Limited Review Report stated as enclosed. Underlying demand or margin drivers are unverified hypotheses.",
+      "uncertainty": "High: result tables are unverified OCR; no financial numbers may be adopted.",
+      "next_check": "Verify original quarter table and limited review report, sector metrics, cash conversion and valuation; no price trigger required.",
+      "evidence_ids": [
+        "nse-announcement-106845926"
+      ]
+    },
+    {
+      "symbol": "M&M",
+      "mechanism": "Primary exchange metadata confirms submission of unaudited standalone and consolidated results for Q2 and half year ended September 30, 2026 under SEBI LODR Regulations 30, 33, 51 and 52. Segment drivers across standalone vs consolidated are unverified hypotheses.",
+      "uncertainty": "High: only letterhead/cover OCR available; standalone vs consolidated figures and segment data unverified.",
+      "next_check": "Verify original standalone and consolidated quarter tables, segment metrics, cash conversion and valuation; no price trigger required.",
+      "evidence_ids": [
+        "nse-announcement-106846728"
+      ]
+    }
+  ],
+  "dossiers": [],
+  "brief": "FAST lane editorial summary. Three primary exchange filings confirm results submissions for the period ended September 30, 2026: BSE (quarter and six months), Cummins India (unaudited quarter and half year, with limited review report stated as enclosed), and Mahindra & Mahindra (unaudited standalone and consolidated Q2 and half year). All evidence is metadata and cover-letter OCR only; no financial tables are verified, so no performance direction, causes or magnitudes are asserted. Facts: filings occurred on the stated dates. Hypotheses: none adopted beyond the occurrence of reporting events. Gaps: verified quarter tables, sector metrics, cash conversion and valuation for each company. No dossiers allocated in this lane; existing dossiers are reused by the orchestrator. Research by Claude; verification pending with Codex. No trading calls or price targets."
+}

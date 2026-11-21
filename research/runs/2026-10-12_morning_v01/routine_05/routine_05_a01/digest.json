@@ -1,0 +1,9 @@
+{
+  "status": "BLOCKED",
+  "result": "NOT_EVALUATED",
+  "editorial_owner": "Claude",
+  "editorial_executed": false,
+  "fallback_owner": "Codex",
+  "items": [],
+  "health_report": "report.md"
+}

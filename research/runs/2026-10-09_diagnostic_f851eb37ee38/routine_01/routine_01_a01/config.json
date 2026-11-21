@@ -1,0 +1,18 @@
+{
+  "version": "r1-diagnostic-1",
+  "universe": "diagnostic Liquid-500 reproduction",
+  "membership_date": "2026-09-30",
+  "adjustment": "none; quarantine any recorded action in trailing 320 observed sessions",
+  "atr": "14-session simple mean true range / close",
+  "thresholds": {
+    "gain": 0.05,
+    "relative_volume": 2,
+    "volatility_multiple": 1.5,
+    "drawdown": -0.1
+  },
+  "disabled": [
+    "sector_relative_strength",
+    "sector_breadth"
+  ],
+  "production_eligible": false
+}

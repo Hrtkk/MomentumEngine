@@ -1,0 +1,25 @@
+{
+  "state": "VERIFIED",
+  "verified_at": "2026-11-05T21:04:38.303096+05:30",
+  "spreadsheet_id": "1uMgZd9anGrXOOleQlqwEHVT6zAXezsTBJxf9PnXTWK8",
+  "source_ref": {
+    "run_dir": "research/stock_reports/pipeline_2026-11-05_210000",
+    "manifest_sha256": "6fe4514eb243b7aa013f7e9d7b0a65edc27662293d028c50a4480e94ff93b1f2"
+  },
+  "row_counts": {
+    "Research Dashboard": 17,
+    "Research Stocks": 853,
+    "Routine Runs": 187,
+    "Research Tasks": 42,
+    "Research Briefs": 46
+  },
+  "source_asof": "2026-11-05",
+  "scheduled_slot": "2026-11-05T21:00:00+05:30",
+  "brief_part_ids": [
+    "pipeline_2026-11-05_210000",
+    "pipeline_2026-11-05_210000::part:02",
+    "pipeline_2026-11-05_210000::part:03",
+    "pipeline_2026-11-05_210000::part:04"
+  ],
+  "checks": "All five managed tabs matched expected readback. Unique history and task IDs. Brief parts reassembled and matched sealed report."
+}

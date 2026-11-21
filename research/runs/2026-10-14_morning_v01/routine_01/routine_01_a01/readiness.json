@@ -1,0 +1,64 @@
+{
+  "scheduled_slot": "2026-10-14T10:00:00+05:30",
+  "deadline_at": "2026-10-14T10:15:00+05:30",
+  "claude": {
+    "status": "AUTHENTICATED",
+    "logged_in_in_current_context": true,
+    "auth_method": "claude.ai",
+    "subscription_type": "max",
+    "checked_at": "2026-10-14T20:55:49.258605+05:30",
+    "execution_context": "Approved normal-context read-only CLI check",
+    "checked_after_scheduled_cutoff": true,
+    "model_call_made": false
+  },
+  "budget_accounting_available": false,
+  "phase0_certified": false,
+  "calendar_certified": false,
+  "current_eod_batch_present": false,
+  "current_raw_bhavcopy_present": false,
+  "available_official_observation_session": "2026-10-13",
+  "stock_evidence_cutoff": "2026-10-13T20:00:00+05:30",
+  "stock_report_ref": {
+    "run_dir": "research/stock_reports/2026-10-13_2000_7c9b6496a109",
+    "manifest_sha256": "e74cbfe73d52ba6a1b864c6b4dc158b25287747d0fda38d51da63c7e1837645e"
+  },
+  "full_registry_ref": {
+    "run_dir": "research/runs/2026-10-05_to_2026-10-11_news_v01/routine_04/routine_04_a01",
+    "manifest_sha256": "ec584ecd10f502a1505593032547080c9947b72ce17f880cade50979b08364fe"
+  },
+  "full_registry_records": 17,
+  "additional_news_records": 8,
+  "new_fetches": 0,
+  "paid_cli_calls": 0,
+  "registration_checks": [
+    {
+      "path": "experiments/e2_strategies.py",
+      "matches": true
+    },
+    {
+      "path": "experiments/sim.py",
+      "matches": true
+    },
+    {
+      "path": "experiments/panels.py",
+      "matches": true
+    },
+    {
+      "path": "experiments/pit_panels.py",
+      "matches": true
+    }
+  ],
+  "paper_positions_inventoried": 15,
+  "latest_paper_session": "2026-10-09",
+  "c0_asof": "2026-10-09",
+  "c0_evaluation_status": "NOT_EVALUATED",
+  "actual_exposure_known": false,
+  "fundamental_screen_enabled": false,
+  "fundamental_screen_result": "NOT_EVALUATED",
+  "dossiers_completed": 0,
+  "weekly_reconciliation_due": false,
+  "next_morning_slot": "2026-10-14T10:00:00+05:30",
+  "authentication_evidence_sha256": "27fca100aef80f2f64684e6d57c822d349aa8131e28d2c887cf1c3e3053e99d0",
+  "deadline_missed": true,
+  "late_deferred": true
+}

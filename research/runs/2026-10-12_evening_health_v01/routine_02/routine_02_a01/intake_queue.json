@@ -1,0 +1,12 @@
+{
+  "admitted_candidates": [],
+  "deferred_registry_refs": {
+    "routine_id": "routine_04",
+    "path": "research/runs/2026-10-05_to_2026-10-11_news_v01/routine_04/routine_04_a01",
+    "manifest_sha256": "ec584ecd10f502a1505593032547080c9947b72ce17f880cade50979b08364fe",
+    "status": "PARTIAL",
+    "production_eligible": false
+  },
+  "deferred_records": 17,
+  "reason": "identity/registry gates unavailable"
+}

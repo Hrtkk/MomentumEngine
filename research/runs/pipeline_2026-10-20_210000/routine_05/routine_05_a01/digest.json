@@ -1,0 +1,38 @@
+{
+  "status": "PARTIAL",
+  "stock_count": 117,
+  "editorial_executed": true,
+  "editorial_executed_this_pass": true,
+  "analysis_reused": false,
+  "author": "Claude",
+  "economic_review": "PENDING",
+  "items": [
+    {
+      "symbol": "JUSTDIAL",
+      "mechanism": "Fact: exchange metadata shows Just Dial submitted unaudited Q2 and half-year results for the period ended September 30, 2026, with an Independent Auditor's Review Report. Hypothesis: the filing may update the view on the listing and search business, but its significance cannot be judged without verified tables.",
+      "uncertainty": "High. Only cover-letter metadata and unverified OCR are available. No financial figures are verified.",
+      "next_check": "Verify the original quarter table, segment and operating metrics, cash conversion and valuation against the primary PDF. No price trigger is required.",
+      "evidence_ids": [
+        "nse-announcement-106822417"
+      ]
+    },
+    {
+      "symbol": "ULTRACEMCO",
+      "mechanism": "Fact: exchange metadata shows the UltraTech board approved standalone and consolidated unaudited results for the quarter and half year ended September 30, 2026, with Limited Review Reports and a press release attached. Hypothesis: the results may inform views on cement volume and cost trends, but this is unverified.",
+      "uncertainty": "High. The excerpt is a cover letter only. The financial tables are unverified OCR.",
+      "next_check": "Verify standalone and consolidated quarter tables, volume and cost metrics, and cash conversion from the primary PDF. No price trigger is required.",
+      "evidence_ids": [
+        "nse-announcement-106821830"
+      ]
+    },
+    {
+      "symbol": "UNIONBANK",
+      "mechanism": "Fact: exchange metadata shows Union Bank of India submitted financial results for the period ended September 30, 2026. Hypothesis: the results may affect views on asset quality and margins, but no verified data supports any direction.",
+      "uncertainty": "Very high. The OCR excerpt is heavily garbled bilingual header text. No tables are verified.",
+      "next_check": "Verify the original quarter table and banking metrics, including asset quality, margins and capital, from the primary PDF. No price trigger is required.",
+      "evidence_ids": [
+        "nse-announcement-106821746"
+      ]
+    }
+  ]
+}

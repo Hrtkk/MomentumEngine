@@ -1,0 +1,38 @@
+{
+  "status": "PARTIAL",
+  "stock_count": 84,
+  "editorial_executed": true,
+  "editorial_executed_this_pass": true,
+  "analysis_reused": false,
+  "author": "Claude",
+  "economic_review": "PENDING",
+  "items": [
+    {
+      "symbol": "MRPL",
+      "mechanism": "Exchange metadata confirms standalone and consolidated un-audited results for the quarter and half-year ended September 30, 2026 were filed on 2026-10-14. No verified line items are available, so refining margin, throughput or leverage effects remain untested hypotheses rather than observed outcomes.",
+      "uncertainty": "OCR excerpt covers only the cover letter; no result table verified. Direction and magnitude of earnings, revenue and any exceptional items are unknown.",
+      "next_check": "At the next comparable quarter filing, verify the primary result table, sector throughput/margin disclosure and cash conversion from the source PDF.",
+      "evidence_ids": [
+        "nse-announcement-106817822"
+      ]
+    },
+    {
+      "symbol": "TATACOMM",
+      "mechanism": "Board meeting outcome dated 2026-10-15 records approval of unaudited standalone and consolidated results for the quarter and half-year ended September 30, 2026, with a limited review report carrying an unmodified opinion. Unmodified opinion is a procedural fact, not a performance signal.",
+      "uncertainty": "Attachment A figures are not verified; segment mix, data services trajectory and any other board decisions are unread. Secondary characterisations of performance are unverified.",
+      "next_check": "At the next comparable quarter result filing, extract and verify the consolidated result table, segment disclosure and cash flow statement from the primary document.",
+      "evidence_ids": [
+        "nse-announcement-106818507"
+      ]
+    },
+    {
+      "symbol": "POLYCAB",
+      "mechanism": "Exchange metadata records submission of financial results for the period ended September 30, 2026 on 2026-10-15 via a board meeting outcome filing. Document retrieval failed, so only the filing event itself is established.",
+      "uncertainty": "Document fetch returned an error status; no text excerpt or hash available. Whether the filing includes dividend, capex or other board items is unknown, as are all financial figures.",
+      "next_check": "Re-fetch the source document and, at the next comparable quarter filing, verify the result table and any accompanying board decisions.",
+      "evidence_ids": [
+        "nse-announcement-106818441"
+      ]
+    }
+  ]
+}

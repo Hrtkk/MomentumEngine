@@ -1,0 +1,31 @@
+{
+  "state": "VERIFIED",
+  "verified_at": "2026-11-10T10:03:31.851719+05:30",
+  "spreadsheet_id": "1uMgZd9anGrXOOleQlqwEHVT6zAXezsTBJxf9PnXTWK8",
+  "source_ref": {
+    "run_dir": "research/stock_reports/pipeline_2026-11-10_100000",
+    "manifest_sha256": "a1fc0a4e782bb538df25e9d72a79a9670cdd7fc4cc527951668f5b11996399b8"
+  },
+  "reader_stock_report_ref": {
+    "run_dir": "research/stock_reports/pipeline_2026-11-09_210000",
+    "manifest_sha256": "380c6ae1555ac62323baf6420c922c072d949e50e767e25f0d9cefd9a30103f1"
+  },
+  "stock_report_deduplicated": true,
+  "source_asof": "2026-11-09",
+  "scheduled_slot": "2026-11-10T10:00:00+05:30",
+  "row_counts": {
+    "Research Dashboard": 17,
+    "Research Stocks": 1039,
+    "Routine Runs": 218,
+    "Research Tasks": 43,
+    "Research Briefs": 61
+  },
+  "brief_part_ids": [
+    "pipeline_2026-11-09_210000",
+    "pipeline_2026-11-09_210000::part:02",
+    "pipeline_2026-11-09_210000::part:03",
+    "pipeline_2026-11-09_210000::part:04",
+    "pipeline_2026-11-09_210000::part:05"
+  ],
+  "checks": "Exact five-tab readback, unique keys, brief reassembled and matched retained evening report."
+}

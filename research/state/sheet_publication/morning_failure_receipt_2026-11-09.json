@@ -1,0 +1,23 @@
+{
+  "state": "VERIFIED",
+  "publication_kind": "EXECUTION_FAILURE_NOTICE",
+  "research_execution_status": "FAILED",
+  "verified_at": "2026-11-09T11:18:17.656815+05:30",
+  "spreadsheet_id": "1uMgZd9anGrXOOleQlqwEHVT6zAXezsTBJxf9PnXTWK8",
+  "scheduled_slot": "2026-11-09T10:00:00+05:30",
+  "failure_reason": "TimeoutError: The read operation timed out",
+  "failure_source_sha256": "552a86d799ee817ff1a2017467bd353600bf37bb9f9599e5b90cf4ab0466ff01",
+  "reader_stock_report_ref": {
+    "run_dir": "research/stock_reports/pipeline_2026-11-06_210000",
+    "manifest_sha256": "b7f267e782e4a75783bfb8a2d665f64d0bf00b38336cf187a348684ed0d26db4"
+  },
+  "source_asof": "2026-11-06",
+  "row_counts": {
+    "Research Dashboard": 17,
+    "Research Stocks": 1036,
+    "Routine Runs": 208,
+    "Research Tasks": 43,
+    "Research Briefs": 56
+  },
+  "checks": "Exact five-tab readback; retained stock evidence and brief; no duplicate IDs."
+}

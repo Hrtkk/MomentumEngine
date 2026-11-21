@@ -1,0 +1,19 @@
+[
+  {
+    "id": "P1",
+    "url": "https://stockinsights-ai.s3.amazonaws.com/in/announcements/159926e7-8f51-49ed-b2e4-91a396ce779c.pdf",
+    "published_at": "2026-05-11",
+    "retrieved_on": "2026-10-14",
+    "path": "sources/mcx_fy26.pdf",
+    "sha256": "d6355ce34d555c7a9ab162efbd9ccff21508181fbf7e0d14d520bc1f2f90a410",
+    "status": "company-authored PDF retrieved from mirror"
+  },
+  {
+    "id": "P2",
+    "url": "https://noticeblue.com/circulars/88a10820-7907-4c81-8133-1af19b9d807e",
+    "original_url": "https://nsearchives.nseindia.com/web/pressrelease/2026-05/PR_cc_05052026_20260505191148.pdf",
+    "published_at": "2026-05-05",
+    "retrieved_on": "2026-10-14",
+    "status": "issuer release reproduced by third-party; direct original retrieval failed"
+  }
+]

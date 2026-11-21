@@ -1,0 +1,415 @@
+{
+  "schema_version": "1.1",
+  "routine_id": "routine_04",
+  "batch_id": "2026-10-05_to_2026-10-11_news_v01",
+  "run_id": "routine_04_a01",
+  "session_date": "2026-10-11",
+  "started_at": "2026-10-11T22:27:00+05:30",
+  "started_at_precision": "approximate task start; exact retrieval timestamps not retained for initial lookups",
+  "completed_at": "2026-10-12T12:24:58.381742+05:30",
+  "cutoff_at": "2026-10-11T23:59:59+05:30",
+  "timezone": "Asia/Kolkata",
+  "status": "PARTIAL",
+  "result": "CHANGED",
+  "execution_lane": "OVERNIGHT",
+  "production_eligible": false,
+  "readiness_ref": null,
+  "budget_ref": null,
+  "budget_usage": {
+    "additional_paid_cli_calls": 0,
+    "external_connector_requests": null,
+    "unknown_reason": "initial web request count not durably metered"
+  },
+  "deferred_counts": {
+    "claude_interpretations": 17,
+    "original_verification": 9
+  },
+  "owner": "Claude",
+  "executor": "Codex evidence collection only",
+  "reviewer": "Codex",
+  "review_status": "PENDING",
+  "previous_success_run_id": null,
+  "supersedes_run_id": null,
+  "bootstrap": true,
+  "upstream_runs": [],
+  "input_versions": {
+    "research/04_news_intelligence_plan.md": "64a14528d74ba89df74dd1f8e3592e64aa011cc3941e256d7aa5b2c91f06d855"
+  },
+  "config_version": "seven-day-targeted-evidence-1",
+  "code_revision": "1b0b24d1786ffc77677537c6b8d7e7073cca4ef2",
+  "coverage": {
+    "coverage_mode": "targeted_web_scan",
+    "window_start": "2026-10-05",
+    "window_end": "2026-10-11",
+    "source_cursors_advanced": false,
+    "exchange_archive_complete": false,
+    "tender_archive_complete": false,
+    "source_failures": [
+      "BSE originals HTTP 403",
+      "some PIB detail bodies inaccessible",
+      "DMart investor page JavaScript-only",
+      "Anand Rathi investor page unavailable"
+    ],
+    "count_primary_verified": 8,
+    "count_leads": 17,
+    "cost_accounting": "additional paid CLI calls zero; connector search billing not independently available",
+    "lag_metrics": "not comparable: retrospective scan; publish timestamps incomplete",
+    "audit_miss_rate": null
+  },
+  "freshness": {
+    "retrieved_at": "2026-10-12T12:24:58.381742+05:30",
+    "retrospective": true,
+    "published_at_precision": "date for most items; no historical point-in-time eligibility claimed"
+  },
+  "limitations": [
+    "BSE originals HTTP 403",
+    "some PIB detail bodies inaccessible",
+    "DMart investor page JavaScript-only",
+    "Anand Rathi investor page unavailable",
+    "Claude interpretation not executed",
+    "no full census or verified exposure mapping"
+  ],
+  "artifacts": [
+    {
+      "path": "event_registry.jsonl",
+      "sha256": "0517732e01a070c5661781a41c7e57edc707e641d73c97b80312255d1a59a44a",
+      "record_count": 17
+    },
+    {
+      "path": "events.jsonl",
+      "sha256": "0517732e01a070c5661781a41c7e57edc707e641d73c97b80312255d1a59a44a",
+      "record_count": 17
+    },
+    {
+      "path": "evidence.jsonl",
+      "sha256": "1ff1a5fe4b4656997c487221d0d7baec547a87f31bca36ee3910bb01e95e937e",
+      "record_count": 17
+    },
+    {
+      "path": "open_tasks.jsonl",
+      "sha256": "4aff25bb75c613d33215462fc5ea0bf38f06d0820cbf0be1a79f96cc694f1c79",
+      "record_count": 17
+    },
+    {
+      "path": "report.md",
+      "sha256": "23d317bfbeb7812d0d91c8b9e005721c3ed89d93eeb13cd7ba0f39f9623c357b",
+      "record_count": null
+    },
+    {
+      "path": "source_health.json",
+      "sha256": "4ae2b8df0e4bf70e7a3f4eec7798cd89a672650dff7b784762edcead78455d06",
+      "record_count": null
+    }
+  ],
+  "source_cursors": {},
+  "processed_event_ids": [
+    "news-sme-fund",
+    "news-itla",
+    "news-brahmos",
+    "news-veerai",
+    "news-chennai",
+    "news-gst",
+    "news-cancer-pricing",
+    "news-kec1030",
+    "news-kec1014",
+    "news-ncc",
+    "news-sepc",
+    "news-ashoka",
+    "news-ircon",
+    "news-bajel",
+    "news-tcs",
+    "news-dmart",
+    "news-anandrathi"
+  ],
+  "open_tasks": [
+    {
+      "task_id": "verify-sme-fund",
+      "owner": "Codex",
+      "security_id": null,
+      "description": "Obtain fund launch, allocation and named-investee disclosures.",
+      "priority": "P2",
+      "status": "OPEN",
+      "created_run_id": "routine_04_a01",
+      "due_at": null,
+      "trigger": "next R4 verification pass",
+      "blocking_reason": "original/source/financial context incomplete",
+      "evidence_refs": [
+        "evidence-sme-fund"
+      ]
+    },
+    {
+      "task_id": "verify-itla",
+      "owner": "Codex",
+      "security_id": null,
+      "description": "Track implementation rules and identifiable project approvals; no listed beneficiary established.",
+      "priority": "P2",
+      "status": "OPEN",
+      "created_run_id": "routine_04_a01",
+      "due_at": null,
+      "trigger": "next R4 verification pass",
+      "blocking_reason": "original/source/financial context incomplete",
+      "evidence_refs": [
+        "evidence-itla"
+      ]
+    },
+    {
+      "task_id": "verify-brahmos",
+      "owner": "Codex",
+      "security_id": null,
+      "description": "Seek named supplier awards and contract terms; no listed-company award established here.",
+      "priority": "P2",
+      "status": "OPEN",
+      "created_run_id": "routine_04_a01",
+      "due_at": null,
+      "trigger": "next R4 verification pass",
+      "blocking_reason": "original/source/financial context incomplete",
+      "evidence_refs": [
+        "evidence-brahmos"
+      ]
+    },
+    {
+      "task_id": "verify-veerai",
+      "owner": "Codex",
+      "security_id": null,
+      "description": "Track funding conditions and partners; do not assign the support to unrelated listed semiconductor firms.",
+      "priority": "P2",
+      "status": "OPEN",
+      "created_run_id": "routine_04_a01",
+      "due_at": null,
+      "trigger": "next R4 verification pass",
+      "blocking_reason": "original/source/financial context incomplete",
+      "evidence_refs": [
+        "evidence-veerai"
+      ]
+    },
+    {
+      "task_id": "verify-chennai",
+      "owner": "Codex",
+      "security_id": null,
+      "description": "Retrieve release 2321985 and package/award details before naming beneficiaries.",
+      "priority": "P2",
+      "status": "OPEN",
+      "created_run_id": "routine_04_a01",
+      "due_at": null,
+      "trigger": "next R4 verification pass",
+      "blocking_reason": "original/source/financial context incomplete",
+      "evidence_refs": [
+        "evidence-chennai"
+      ]
+    },
+    {
+      "task_id": "verify-gst",
+      "owner": "Codex",
+      "security_id": null,
+      "description": "Verify legal effective dates, company exposure and actual refund collection.",
+      "priority": "P2",
+      "status": "OPEN",
+      "created_run_id": "routine_04_a01",
+      "due_at": null,
+      "trigger": "next R4 verification pass",
+      "blocking_reason": "original/source/financial context incomplete",
+      "evidence_refs": [
+        "evidence-gst"
+      ]
+    },
+    {
+      "task_id": "verify-cancer-pricing",
+      "owner": "Codex",
+      "security_id": null,
+      "description": "Get the notified molecule/brand list and company revenue/margin exposure. Patient savings are not government capex.",
+      "priority": "P1",
+      "status": "OPEN",
+      "created_run_id": "routine_04_a01",
+      "due_at": null,
+      "trigger": "next R4 verification pass",
+      "blocking_reason": "original/source/financial context incomplete",
+      "evidence_refs": [
+        "evidence-cancer-pricing"
+      ]
+    },
+    {
+      "task_id": "verify-kec1030",
+      "owner": "Codex",
+      "security_id": null,
+      "description": "Verify incremental scope, execution periods, customer concentration, margins and latest dated revenue.",
+      "priority": "P2",
+      "status": "OPEN",
+      "created_run_id": "routine_04_a01",
+      "due_at": null,
+      "trigger": "next R4 verification pass",
+      "blocking_reason": "original/source/financial context incomplete",
+      "evidence_refs": [
+        "evidence-kec1030"
+      ]
+    },
+    {
+      "task_id": "verify-kec1014",
+      "owner": "Codex",
+      "security_id": null,
+      "description": "Reconcile exchange filing dates and economic-event identity; do not sum the two announcements yet.",
+      "priority": "P1",
+      "status": "OPEN",
+      "created_run_id": "routine_04_a01",
+      "due_at": null,
+      "trigger": "next R4 verification pass",
+      "blocking_reason": "original/source/financial context incomplete",
+      "evidence_refs": [
+        "evidence-kec1014"
+      ]
+    },
+    {
+      "task_id": "verify-ncc",
+      "owner": "Codex",
+      "security_id": null,
+      "description": "Retrieve original award disclosure and compare order value with dated revenue/backlog.",
+      "priority": "P2",
+      "status": "OPEN",
+      "created_run_id": "routine_04_a01",
+      "due_at": null,
+      "trigger": "next R4 verification pass",
+      "blocking_reason": "original/source/financial context incomplete",
+      "evidence_refs": [
+        "evidence-ncc"
+      ]
+    },
+    {
+      "task_id": "verify-sepc",
+      "owner": "Codex",
+      "security_id": null,
+      "description": "Retrieve original filing and August LOA; reconcile value net of tax credits and funding/execution terms.",
+      "priority": "P2",
+      "status": "OPEN",
+      "created_run_id": "routine_04_a01",
+      "due_at": null,
+      "trigger": "next R4 verification pass",
+      "blocking_reason": "original/source/financial context incomplete",
+      "evidence_refs": [
+        "evidence-sepc"
+      ]
+    },
+    {
+      "task_id": "verify-ashoka",
+      "owner": "Codex",
+      "security_id": null,
+      "description": "Retrieve original contract scope, value/tax basis and dated annual financials.",
+      "priority": "P2",
+      "status": "OPEN",
+      "created_run_id": "routine_04_a01",
+      "due_at": null,
+      "trigger": "next R4 verification pass",
+      "blocking_reason": "original/source/financial context incomplete",
+      "evidence_refs": [
+        "evidence-ashoka"
+      ]
+    },
+    {
+      "task_id": "verify-ircon",
+      "owner": "Codex",
+      "security_id": null,
+      "description": "Retrieve contract and verify recurring scope, start date, pricing and execution costs.",
+      "priority": "P2",
+      "status": "OPEN",
+      "created_run_id": "routine_04_a01",
+      "due_at": null,
+      "trigger": "next R4 verification pass",
+      "blocking_reason": "original/source/financial context incomplete",
+      "evidence_refs": [
+        "evidence-ircon"
+      ]
+    },
+    {
+      "task_id": "verify-bajel",
+      "owner": "Codex",
+      "security_id": null,
+      "description": "Verify the original filing, value band, related-party terms and project schedule.",
+      "priority": "P2",
+      "status": "OPEN",
+      "created_run_id": "routine_04_a01",
+      "due_at": null,
+      "trigger": "next R4 verification pass",
+      "blocking_reason": "original/source/financial context incomplete",
+      "evidence_refs": [
+        "evidence-bajel"
+      ]
+    },
+    {
+      "task_id": "verify-tcs",
+      "owner": "Codex",
+      "security_id": null,
+      "description": "Reconcile statutory Ind AS/IFRS results, exceptional items and currency effects before comparing profit-growth headlines.",
+      "priority": "P2",
+      "status": "OPEN",
+      "created_run_id": "routine_04_a01",
+      "due_at": null,
+      "trigger": "next R4 verification pass",
+      "blocking_reason": "original/source/financial context incomplete",
+      "evidence_refs": [
+        "evidence-tcs"
+      ]
+    },
+    {
+      "task_id": "verify-dmart",
+      "owner": "Codex",
+      "security_id": null,
+      "description": "Retrieve audited quarterly/half-year filing; keep standalone and consolidated bases separate.",
+      "priority": "P1",
+      "status": "OPEN",
+      "created_run_id": "routine_04_a01",
+      "due_at": null,
+      "trigger": "next R4 verification pass",
+      "blocking_reason": "original/source/financial context incomplete",
+      "evidence_refs": [
+        "evidence-dmart"
+      ]
+    },
+    {
+      "task_id": "verify-anandrathi",
+      "owner": "Codex",
+      "security_id": null,
+      "description": "Retrieve original Q2/H1 FY27 results and resolve apparent unit/identity inconsistencies.",
+      "priority": "P1",
+      "status": "OPEN",
+      "created_run_id": "routine_04_a01",
+      "due_at": null,
+      "trigger": "next R4 verification pass",
+      "blocking_reason": "original/source/financial context incomplete",
+      "evidence_refs": [
+        "evidence-anandrathi"
+      ]
+    },
+    {
+      "task_id": "r4-claude-interpretation",
+      "owner": "Claude",
+      "security_id": null,
+      "description": "Assess economic significance of verified packet",
+      "priority": "P1",
+      "status": "BLOCKED",
+      "created_run_id": "routine_04_a01",
+      "due_at": null,
+      "trigger": "budget and authorized auth context ready",
+      "blocking_reason": "no shared metered-call accounting",
+      "evidence_refs": [
+        "events.jsonl"
+      ]
+    },
+    {
+      "task_id": "r4-tender-archive",
+      "owner": "Codex",
+      "security_id": null,
+      "description": "Obtain dated procurement/award history for requested window",
+      "priority": "P1",
+      "status": "OPEN",
+      "created_run_id": "routine_04_a01",
+      "due_at": null,
+      "trigger": "next R4 pass",
+      "blocking_reason": "live listing lacks verified publication history",
+      "evidence_refs": [
+        "https://eprocure.gov.in/epublish/app"
+      ]
+    }
+  ],
+  "resolved_task_ids": [],
+  "next_run": {
+    "instructions": "Do not advance source watermarks; resume verification leads and Claude assessment. Preserve exact 5\u201311 October window and actual first-seen times."
+  }
+}

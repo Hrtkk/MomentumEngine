@@ -1,0 +1,43 @@
+{
+  "schema_version": "1.1",
+  "committed": true,
+  "batch_id": "2026-10-05_to_2026-10-11_news_v01",
+  "run_id": "routine_04_a01",
+  "artifacts": [
+    {
+      "path": "event_registry.jsonl",
+      "sha256": "0517732e01a070c5661781a41c7e57edc707e641d73c97b80312255d1a59a44a",
+      "record_count": 17
+    },
+    {
+      "path": "events.jsonl",
+      "sha256": "0517732e01a070c5661781a41c7e57edc707e641d73c97b80312255d1a59a44a",
+      "record_count": 17
+    },
+    {
+      "path": "evidence.jsonl",
+      "sha256": "1ff1a5fe4b4656997c487221d0d7baec547a87f31bca36ee3910bb01e95e937e",
+      "record_count": 17
+    },
+    {
+      "path": "open_tasks.jsonl",
+      "sha256": "4aff25bb75c613d33215462fc5ea0bf38f06d0820cbf0be1a79f96cc694f1c79",
+      "record_count": 17
+    },
+    {
+      "path": "report.md",
+      "sha256": "23d317bfbeb7812d0d91c8b9e005721c3ed89d93eeb13cd7ba0f39f9623c357b",
+      "record_count": null
+    },
+    {
+      "path": "source_health.json",
+      "sha256": "4ae2b8df0e4bf70e7a3f4eec7798cd89a672650dff7b784762edcead78455d06",
+      "record_count": null
+    },
+    {
+      "path": "handoff.json",
+      "sha256": "ca8e1bd3ce8d8f8b8223569858351eb83daf6d256de3cee32f204dc74122465b",
+      "record_count": 1
+    }
+  ]
+}

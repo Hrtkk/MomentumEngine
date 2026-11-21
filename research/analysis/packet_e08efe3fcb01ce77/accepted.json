@@ -1,0 +1,33 @@
+{
+  "assessments": [
+    {
+      "symbol": "BHARATWIRE",
+      "mechanism": "Exchange metadata indicates Bharat Wire Ropes submitted financial results for the period ended September 30, 2026. Document retrieval failed (CalledProcessError), so no content, drivers or figures are available; any operating mechanism is unverified.",
+      "uncertainty": "High: only filing metadata is available; the results document was not parsed.",
+      "next_check": "Retrieve and verify the original quarter table from the source filing, then review sector metrics and cash conversion.",
+      "evidence_ids": [
+        "nse-announcement-106840546"
+      ]
+    },
+    {
+      "symbol": "IDEAFORGE",
+      "mechanism": "Board outcome letter states approval of unaudited standalone and consolidated results for the quarter and half year ended September 30, 2026, with a limited review report by the statutory auditors. The excerpt contains no financial figures; performance drivers remain unknown.",
+      "uncertainty": "High: the text is unverified OCR covering only the cover letter; no results table was verified.",
+      "next_check": "Verify the Annexure A results table and limited review report for qualifications, then assess order flow and cash conversion disclosures.",
+      "evidence_ids": [
+        "nse-announcement-106840645"
+      ]
+    },
+    {
+      "symbol": "SFL",
+      "mechanism": "Board outcome letter states unaudited standalone and consolidated results for the quarter and half year ended September 30, 2026, Regulation 52(4) line items, and a NIL security cover certificate for listed unsecured NCDs. This indicates listed debt disclosures accompany the results; no performance figures were verified.",
+      "uncertainty": "High: the text is unverified OCR of the cover letter only; financial tables and Regulation 52(4) ratios were not verified.",
+      "next_check": "Verify the consolidated quarter table and Regulation 52(4) line items such as leverage and coverage ratios from the original filing.",
+      "evidence_ids": [
+        "nse-announcement-106840493"
+      ]
+    }
+  ],
+  "dossiers": [],
+  "brief": "Three NSE filings dated November 2, 2026 report results submissions for the period ended September 30, 2026: Bharat Wire Ropes, ideaForge Technology and Sheela Foam. All evidence is exchange metadata or unverified OCR of cover letters, so no financial figures, growth rates or drivers can be stated as fact. The Bharat Wire document failed to process. ideaForge notes a limited review by its statutory auditors. Sheela Foam includes Regulation 52(4) debt line items and a NIL security cover certificate for unsecured NCDs. No verified financials were supplied, so the dossiers are empty and no review-trigger rules are proposed. Gaps: the quarter tables, segment data, cash conversion, auditor observations and valuation context for all three companies. Codex should verify the source documents before any hypothesis is formed. This is not investment advice and contains no trading view."
+}

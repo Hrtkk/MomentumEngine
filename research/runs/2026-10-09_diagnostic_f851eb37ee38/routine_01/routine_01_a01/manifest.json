@@ -1,0 +1,43 @@
+{
+  "schema_version": "1.1",
+  "committed": true,
+  "batch_id": "2026-10-09_diagnostic_f851eb37ee38",
+  "run_id": "routine_01_a01",
+  "artifacts": [
+    {
+      "path": "config.json",
+      "sha256": "275ac9d6507b82096085e15b8ec9886028a3c39575c5367f34353cd67c148a04",
+      "record_count": null
+    },
+    {
+      "path": "evidence.jsonl",
+      "sha256": "63282bfe446f011dd9d2b991843c6f03f09d3c0616e72c2aa990a307472d62a9",
+      "record_count": 2
+    },
+    {
+      "path": "metrics.jsonl",
+      "sha256": "292d3256b5744988a1143d6ca660322196021db69f1a847f46eaaf44445f5941",
+      "record_count": 63
+    },
+    {
+      "path": "quarantine.jsonl",
+      "sha256": "a77c66c3466cf208a2d31085ee56651370c117c11cff3be8ebf2bb1846f17076",
+      "record_count": 437
+    },
+    {
+      "path": "report.md",
+      "sha256": "2680c51ac8e31a2848ca385306e7fc9f3ffe9fa0bdd2d2ac6f7de27297c73943",
+      "record_count": null
+    },
+    {
+      "path": "signals.jsonl",
+      "sha256": "789abdfb4f7d9db1d6972aadd5f00138106f739f537a82040002098738c0012e",
+      "record_count": 19
+    },
+    {
+      "path": "handoff.json",
+      "sha256": "718c781b47df69488a5547567c30cd91e8620f718e458e11aa9e6efc282b1f24",
+      "record_count": 1
+    }
+  ]
+}

@@ -1,0 +1,6 @@
+{
+  "status": "FAILED",
+  "at": "2026-11-19T23:05:41.205157+05:30",
+  "reason": "AssertionError: Unapproved redirect",
+  "next_check": "Reconcile this failure and retain the last sealed report; do not advance source cursors"
+}

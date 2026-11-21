@@ -1,0 +1,34 @@
+{
+  "committed": true,
+  "schema_version": "1.1",
+  "artifacts": [
+    {
+      "path": "budget_snapshot.json",
+      "sha256": "8d490d963938ad03e8aa4fd4075322480f21e9db4bb9fee6a7038e1758272c93"
+    },
+    {
+      "path": "decision_queue.jsonl",
+      "sha256": "2651bf33122b87d685a4c5518c2d4e9ebdfdbba37a464f2cc0bb9e76bb3f4460"
+    },
+    {
+      "path": "digest.json",
+      "sha256": "7d6074cd2831fa271b0a834c8135bed653543ff1937008e1989e5486301caef0"
+    },
+    {
+      "path": "open_tasks.jsonl",
+      "sha256": "2651bf33122b87d685a4c5518c2d4e9ebdfdbba37a464f2cc0bb9e76bb3f4460"
+    },
+    {
+      "path": "readiness.json",
+      "sha256": "f59bfaa014e0c6e62e0a68ecff975cbba8ca36107a3a4465ad80255f1b2b925f"
+    },
+    {
+      "path": "report.md",
+      "sha256": "0acc902ebde9cff95ee1d5633e90c4925c9d07bea21d18ad7c39215a4f4b4fb6"
+    },
+    {
+      "path": "handoff.json",
+      "sha256": "602ca793cfdcff7aad7971ecc8234f8cf12985dea11c55623fbb873e40446257"
+    }
+  ]
+}

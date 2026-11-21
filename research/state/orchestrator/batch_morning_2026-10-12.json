@@ -1,0 +1,15 @@
+{
+  "batch_id": "2026-10-12_morning_v01",
+  "slot": "2026-10-12T10:00:00+05:30",
+  "routine_runs": [
+    "research/runs/2026-10-12_morning_v01/routine_03/routine_03_a01",
+    "research/runs/2026-10-12_morning_v01/routine_05/routine_05_a01"
+  ],
+  "routines": {
+    "routine_01": "PRIOR_DIAGNOSTIC_ONLY",
+    "routine_02": "BLOCKED_NOT_ENABLED",
+    "routine_03": "BLOCKED_THESIS_CHECKS",
+    "routine_04": "UNSEALED_EXCLUDED",
+    "routine_05": "BLOCKED_HEALTH_FALLBACK"
+  }
+}

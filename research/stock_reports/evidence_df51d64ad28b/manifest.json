@@ -1,0 +1,18 @@
+{
+  "committed": true,
+  "signature": "df51d64ad28b",
+  "artifacts": [
+    {
+      "path": "handoff.json",
+      "sha256": "bce98f53b9201e13379dc0ae80427013df68f9914c58f6fba9b9cbe58fbec230"
+    },
+    {
+      "path": "report.md",
+      "sha256": "2bf2ce3014883f5ad7461f203c103d7b1eee4d6f1fa2b70a392b7c56d5dc74e0"
+    },
+    {
+      "path": "stocks.jsonl",
+      "sha256": "0a3d8a0bb8450ef893033a126f641ce7e8cbf069db9168b40b481dd4495845f2"
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "calendar_certified": false,
+  "point_in_time_fundamentals_certified": false,
+  "metered_budget_available": false,
+  "auth_current_context": {
+    "loggedIn": false,
+    "authMethod": "none"
+  },
+  "auth_context_status": "AUTH_CONTEXT_UNAVAILABLE",
+  "normal_login_previously_verified": true,
+  "current_eod_batch_present": false,
+  "current_bhavcopy_present": false,
+  "registration_checks": [
+    {
+      "path": "experiments/e2_strategies.py",
+      "expected_prefix": "b1a43b0979b46e1d",
+      "actual_sha256": "b1a43b0979b46e1dffce8926323be0bc20205c1626ff29d14316a6d1287cc144",
+      "matches": true
+    },
+    {
+      "path": "experiments/sim.py",
+      "expected_prefix": "4914041ef1b36f00",
+      "actual_sha256": "4914041ef1b36f0022957ba2809c5110bc8179a561a80fc97d8c78f7809a1839",
+      "matches": true
+    },
+    {
+      "path": "experiments/panels.py",
+      "expected_prefix": "e9290eb171614c71",
+      "actual_sha256": "e9290eb171614c71ef1f98ea5de64de63e4f3ce2c5110554da1e1c74e21dab3f",
+      "matches": true
+    },
+    {
+      "path": "experiments/pit_panels.py",
+      "expected_prefix": "51ba12760f8a63ef",
+      "actual_sha256": "51ba12760f8a63ef671bb94c5ea1ed82bc5783be2167db551c0938d0b059a53d",
+      "matches": true
+    }
+  ],
+  "immutable_registry_ref": {
+    "path": "research/runs/2026-10-05_to_2026-10-11_news_v01/routine_04/routine_04_a01",
+    "manifest_sha256": "ec584ecd10f502a1505593032547080c9947b72ce17f880cade50979b08364fe"
+  },
+  "retained_news_leads": 17,
+  "open_task_count": 30,
+  "new_metered_calls": 0,
+  "external_source_requests": 0
+}

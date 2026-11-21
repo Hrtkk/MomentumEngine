@@ -1,0 +1,33 @@
+{
+  "committed": true,
+  "artifacts": [
+    {
+      "path": "handoff.json",
+      "sha256": "6014819b14ddf1482ea2ca90d477cbc848fec070118c6fc5a8ef382bc1b263b9"
+    },
+    {
+      "path": "metrics.jsonl",
+      "sha256": "c81a05bb1ff1e6b9ca02208fd2052489c7f249591e857dabc6ba4817d9ca504a"
+    },
+    {
+      "path": "news_updates.jsonl",
+      "sha256": "f41142977a14b6ec74f5895ce883b4b16b9585750ce687944e016081dfe52d38"
+    },
+    {
+      "path": "quarantine.jsonl",
+      "sha256": "c02d4d63b0ac065e78c786be960afab8ff28de2761f986a750120a2dbc00c29d"
+    },
+    {
+      "path": "report.md",
+      "sha256": "bac917d78f90aceabb4c6d61a2c07a7b592ea48fd72219c88697165c397685d2"
+    },
+    {
+      "path": "stats.json",
+      "sha256": "e60c755adcdea8842cf7d1e05ae86997dfb8da7be9ae17d23ed64d1e317ee182"
+    },
+    {
+      "path": "stocks.jsonl",
+      "sha256": "7ce4bd35ab81cff5540294eb5625328f587266e4991ce5d6ea8489520a560231"
+    }
+  ]
+}

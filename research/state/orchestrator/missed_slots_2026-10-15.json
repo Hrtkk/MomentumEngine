@@ -1,0 +1,28 @@
+{
+  "checked_at": "2026-10-16T07:48:41.519421+05:30",
+  "status": "MISSED_SLOTS_DETECTED",
+  "slots": [
+    {
+      "slot": "2026-10-15T21:00:00+05:30",
+      "deadline_at": "2026-10-15T21:30:00+05:30",
+      "status": "LATE_DEFERRED",
+      "reason": "No completed-slot record found after the original deadline; cause not established",
+      "model_calls": 0,
+      "next_action": "Carry unresolved tasks into the next eligible scheduled lane"
+    },
+    {
+      "slot": "2026-10-15T23:00:00+05:30",
+      "deadline_at": "2026-10-16T01:00:00+05:30",
+      "status": "LATE_DEFERRED",
+      "reason": "No completed-slot record found after the original deadline; cause not established",
+      "model_calls": 0,
+      "next_action": "Carry unresolved tasks into the next eligible scheduled lane"
+    }
+  ],
+  "next_slot": "2026-10-16T10:00:00+05:30",
+  "prior_report": "research/stock_reports/pipeline_2026-10-15_175040",
+  "prior_market_asof": "2026-10-14",
+  "prior_reports_preserved": true,
+  "completed_slots_unchanged": true,
+  "notification_key": "missed-2026-10-15-evening-overnight"
+}

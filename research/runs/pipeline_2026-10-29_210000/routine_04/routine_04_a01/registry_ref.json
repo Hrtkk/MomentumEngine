@@ -1,0 +1,8 @@
+{
+  "immutable_registry_run": {
+    "run_dir": "research/runs/pipeline_2026-10-29_100000/routine_04/routine_04_a01",
+    "manifest_sha256": "2bade33472f5a24b3501454a0614f93ea4bd5621df60aa2040011ed86c145188"
+  },
+  "record_count": 345,
+  "newness_evaluated": true
+}

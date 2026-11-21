@@ -1,0 +1,22 @@
+{
+  "updated_at": "2026-10-15T17:47:08.106233+05:30",
+  "runtime": "research/runtime/pipeline.py",
+  "execution_status": "RUNNABLE_DIAGNOSTIC",
+  "production_qualified": false,
+  "implemented": [
+    "SQLite atomic budget reservations/reconciliation, conservative failed outcomes and known usage incident accounting",
+    "Allowlisted request/storage-bounded NSE EOD, UDiFF issuer/price reconciliation and action-day exclusions",
+    "Publication-cutoff filtering and price-independent financial-results discovery",
+    "Original results PDF collection with hash-pinned table verification",
+    "Authenticated tool-disabled default-model Claude adapter; compact one-turn output and source-reference checks",
+    "Provisional company registry, original hypothesis retention and future-quarter/expiry monitoring",
+    "Manifest-sealed five-routine runs, dated named reports, deduplicated Google Sheet publication"
+  ],
+  "remaining": [
+    "Historical session calendar, effective-dated identity/action entitlement and sector benchmark certification",
+    "Structured numerical parsing and independent verification beyond three audited financial tables",
+    "Full dossiers, valuation/cash conversion/governance review and monitoring beyond three initial baselines",
+    "Formal Claude economic challenge and production qualification; no names qualified"
+  ],
+  "incident": "First test response exceeded aggregate output reservation; provider usage reconciled and output rejected. Worker changed to compact one-turn mode; two subsequent successful responses stayed below 4000 output tokens."
+}

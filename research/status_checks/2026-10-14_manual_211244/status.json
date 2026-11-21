@@ -1,0 +1,99 @@
+{
+  "checked_at": "2026-10-14T21:12:44.379103+05:30",
+  "status": "PARTIAL",
+  "compiler_executed": true,
+  "compiler_result": "REUSED_UNCHANGED",
+  "stock_report_ref": {
+    "run_dir": "research/stock_reports/2026-10-13_2000_7c9b6496a109",
+    "manifest_sha256": "e74cbfe73d52ba6a1b864c6b4dc158b25287747d0fda38d51da63c7e1837645e"
+  },
+  "market_asof": "2026-10-13",
+  "evidence_cutoff_at": "2026-10-13T20:00:00+05:30",
+  "stock_count": 35,
+  "claude_authentication": "AUTHENTICATED",
+  "authentication_method": "Fresh normal-context CLI auth status during this manual run",
+  "claude_research_executed": false,
+  "budget_accounting_available": false,
+  "current_eod_batch_present": false,
+  "current_raw_bhavcopy_present": false,
+  "new_stock_observations": 0,
+  "paid_calls": 0,
+  "open_tasks": 38,
+  "routine_refs": [
+    {
+      "run_dir": "research/runs/2026-10-14_evening_snapshot_v01/routine_01/routine_01_a01",
+      "manifest_sha256": "ffad09135f501f771eccae2a77c72108b1837dc7ba8563177623d3ab3d992522"
+    },
+    {
+      "run_dir": "research/runs/2026-10-14_evening_snapshot_v01/routine_02/routine_02_a01",
+      "manifest_sha256": "c2389a7b85febe36b88e6bf4e856e4bbefe837f6c5ede7b88fc03bf29a10dae1"
+    },
+    {
+      "run_dir": "research/runs/2026-10-14_evening_snapshot_v01/routine_03/routine_03_a01",
+      "manifest_sha256": "2c5a9bcd2cc76fb52fe12953f3fa4b0e863c6600d67c7f3771d01beb8a3800af"
+    },
+    {
+      "run_dir": "research/runs/2026-10-14_evening_snapshot_v01/routine_04/routine_04_a01",
+      "manifest_sha256": "1651740e0d682f71db6be37f592752119ab272c73b6665488b4e6715fa61a5b4"
+    },
+    {
+      "run_dir": "research/runs/2026-10-14_evening_snapshot_v01/routine_05/routine_05_a01",
+      "manifest_sha256": "0b57ab7e7922bc9d78a53de418b114e3c0414ce8b090aaae29134d8652f6d2d5"
+    }
+  ],
+  "routine_statuses": [
+    {
+      "routine": 1,
+      "status": "PARTIAL",
+      "result": "NOT_EVALUATED",
+      "reason": "Existing 2026-10-13 diagnostic reused; 2026-10-14 production scan NOT_EVALUATED"
+    },
+    {
+      "routine": 2,
+      "status": "PARTIAL",
+      "result": "NOT_EVALUATED",
+      "reason": "35 factual leads carried into a deferred queue; no qualified transitions or fundamental screen"
+    },
+    {
+      "routine": 3,
+      "status": "BLOCKED",
+      "result": "NOT_EVALUATED",
+      "reason": "Paper inventory/hash checks only; thesis comparisons NOT_EVALUATED"
+    },
+    {
+      "routine": 4,
+      "status": "PARTIAL",
+      "result": "NOT_EVALUATED",
+      "reason": "Full prior registry and cutoff updates pinned; no fresh ingestion or Claude significance pass"
+    },
+    {
+      "routine": 5,
+      "status": "PARTIAL",
+      "result": "NOT_EVALUATED",
+      "reason": "Codex factual assembly; Claude editorial drafting remains BLOCKED"
+    }
+  ],
+  "full_registry_ref": {
+    "run_dir": "research/runs/2026-10-05_to_2026-10-11_news_v01/routine_04/routine_04_a01",
+    "manifest_sha256": "ec584ecd10f502a1505593032547080c9947b72ce17f880cade50979b08364fe"
+  },
+  "legacy_events": 17,
+  "registration_checks": [
+    {
+      "path": "experiments/e2_strategies.py",
+      "matches": true
+    },
+    {
+      "path": "experiments/sim.py",
+      "matches": true
+    },
+    {
+      "path": "experiments/panels.py",
+      "matches": true
+    },
+    {
+      "path": "experiments/pit_panels.py",
+      "matches": true
+    }
+  ]
+}

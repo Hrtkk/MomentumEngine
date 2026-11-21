@@ -1,0 +1,13 @@
+{
+  "committed": true,
+  "artifacts": [
+    {
+      "path": "observation.json",
+      "sha256": "2dfb750a889ca68d78d04b4f7e13ce694fad8b00134971fa481299ddfa6efc3b"
+    },
+    {
+      "path": "report.md",
+      "sha256": "de9bcf779005ae34a66bef9111ab84f99d04e740c955527525f917558529f94f"
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "state": "VERIFIED",
+  "verified_at": "2026-10-22T11:04:21.669277+05:30",
+  "spreadsheet_id": "1uMgZd9anGrXOOleQlqwEHVT6zAXezsTBJxf9PnXTWK8",
+  "source_ref": {
+    "run_dir": "research/stock_reports/pipeline_2026-10-22_100000",
+    "manifest_sha256": "d9dc2c6ae83b63b1d0258e7d657c991209f95c70fab9fbf81c2e210b8953692d"
+  },
+  "row_counts": {
+    "Research Dashboard": 17,
+    "Research Tasks": 40,
+    "Routine Runs": 117,
+    "Research Briefs": 12,
+    "Research Stocks": 131
+  },
+  "source_asof": "2026-10-21",
+  "scheduled_slot": "2026-10-22T10:00:00+05:30",
+  "repair_ref": "research/repairs/2026-10-22_overlay_date_validation.json",
+  "publication_method": "Append-only missing historical IDs after fresh reconciliation; existing history untouched",
+  "checks": "All managed values exactly matched readback; unique IDs; prior remote repair task retained OPEN; five sealed manifests validated; original portfolio tabs untouched"
+}

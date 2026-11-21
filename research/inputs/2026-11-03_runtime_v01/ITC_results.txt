@@ -1,0 +1,1169 @@
+                                                                                                          ITC Limited
+                                                                                                          Virginia House
+                                                                                                          37 J. L. Nehru Road
+                                                                                                          Kolkata 700 071. India
+                                                                                                          Tel.: 9133 2288 9371
+                                                                                       Enduring Value     Fax: 91 33 2288 2258122591 2260
+
+
+                                                                                                       2nd November, 2026
+
+ The Manager                                                               The General Manager
+ Listing Department                                                        Dept. of Corporate Services
+ National Stock Exchange of India Ltd.                                     BSE Ltd.
+ Exchange Plaza, Plot No. C-1, G Block                                     P. J. Towers, Dalal Street
+ Bandra-Kurla Complex, Sandra (East)                                       Mumbai 400 001
+ Mumbai 400 051
+
+
+  Dear Sirs,
+                          Unaudited Financial Results of the Company for the
+                          Quarter and Six Months ended 30th September, 2026
+
+  Further to our letter dated 16th October, 2026, we write to advise that the Board of Directors of
+  the Company at the meeting held today has, inter alia, approved / noted the following:
+
+  (i)   Approved the Unaudited Financial Results and the Unaudited Segment-wise Revenue,
+        Results, Assets and Liabilities of the Company, both Standalone and Consolidated, for the
+        Quarter and Six Months ended 30th September, 2026;
+
+ (ii) Approved the Unaudited Balance Sheet, both Standalone and Consolidated, as at
+      30th September, 2026;
+
+ (iii) Approved the Unaudited Statement of Cash Flows, both Standalone and Consolidated,
+       for the half year ended 30th September, 2026; and
+
+ (iv) Noted the Limited Review Reports from the Statutory Auditors of the Company,
+      S R B C & CO LLP, Chartered Accountants, on the aforesaid Financial Results.
+
+ The aforesaid documents are enclosed in terms of Regulation 33 of the SEBI (Listing
+ Obligations and Disclosure Requirements) Regulations, 2015.
+
+
+ The Board Meeting commenced at 2.45 p.m. and concluded at                           .�:.�? ...��m.
+ Yours faithfully,
+ ITC Limited
+
+
+
+
+�hi)
+Executive Vice President &
+Company Secretary
+ Encl: as above.
+
+             FMCG • PAPERBOARDS & PACKAGING• AGRI-BUSINESS • INFORMATION TECHNOLOGY
+           Visit us at www.itcportal.com • Corporate Identity Number: Ll6005W81910PLC001985 •e-mail: enduringvalue@itc.in
+cc:   Securities Exchange Commission
+      Division of Corporate Finance
+      Office of International Corporate Finance
+      Mail Stop 3-9
+      450 Fifth Street
+      Washington DC 20549
+      U.S.A.
+
+
+cc:   Societe de la Bourse de Luxembourg
+      35A Boulevard Joseph II
+      L-1840 Luxembourg
+                                                                                   Endurin� Value
+                                                                                    ITC Limited
+
+ Statement of Unaudited Standalone Financial Results for the Quarter and Six Months ended 30th September, 2026
+                                                                                                                                                       ff in Croresl
+ Particulars                                                                               Corresponding    Preceding
+                                                                               3 Months         3 Months     3 Months      6 Months      6 Months    Twelve Months
+                                                                                 ended            ended        ended          ended        ended             ended
+                                                                             30.09.2026       30.09.2025   30.06.2026    30.09.2026    30.09.2025       31.03.2026
+                                                                             (Unaudited)     (Unaudited)   (Unaudited)   (Unaudited)   (Unaudited)        (Audited)
+
+ Gross Revenue from sale of products and services                      (i)    28152.21         19207.82     26794.47      54946.68      40129.60         80867.49
+ Other operating revenue                                              (ii)       165.46          233.68        148.76        314.22        381.71           772.62
+ REVENUE FROM OPERATIONS [(i)+(ii))                                    1      28317.67         19441.50     26943.23      55260.90      40511.31         81640.11
+ OTHER INCOME                                                          2         807.52          899.47        645.33      1452.85       1561.50          3287.18
+ TOTAL INCOME (1+2)                                                    3      29125.19         20340.97     27588.56      56713.75      42072.81         84927.29
+
+ EXPENSES
+  a)     Cost of materials consumed                                            7481.97          6502.88      6826.87      14308.84      12680.99         25939.49
+  b)     Purchases of Stock-in-Trade                                           1687.41          1574.33      2905.17       4592.58       5490.16          8791.91
+  c)     Changes in inventories of finished goods, Stock-in-
+                                                                                 24.30           146.03    (1110.12)     (1085.82)        131.76        (2482.79)
+         Trade, work-in-progress and intermediates
+  d)     Excise duty                                                           9916.65          1360.74     10035.63      19952.28       2669.81          9656.33
+  e)     Employee benefits expense                                              954.46           880.02       978.63       1933.09       1796.71          3629.28
+
+  f)     Finance costs                                                           31.76            16.76        33.78         65.54         30.16             69.94
+  g)     Depreciation and amortization expense                                  427.85           373.58       366.48        794.33        739.45          1473.99
+  h)     Other expenses                                                        3093.38          2727.36      2792.71       5886.09       5231.02         10897.67
+TOTAL EXPENSES                                                         4      23617.78         13581.70     22829.15      46446.93      28770.06         57975.82
+
+PROFIT BEFORE EXCEPTIONAL ITEMS AND TAX (3-4)                         5        5507.41          6759.27      4759.41      10266.82      13302.75         26951.47
+EXCEPTIONAL ITEMS(Refer Note 6)                                       6        (25.66)            88.08                    (25.66)         88.08         (183.87)
+PROFIT BEFORE TAX(5+6)                                                7        5481.75          6847.35      4759.41      10241.16      13390.83         26767.60
+TAX EXPENSE                                                           8        1344.63          1671.65      1180.59       2525.22       3304.40          6481.18
+ a)      Current Tax                                                           1293.30         1642.49       1181.29       2474.59       3220.45          5822.16
+ b)      Deferred Tax                                                            51.33            29.16       (0.70)         50.63         83.95           659.02
+PROFIT FOR THE PERIOD (7-8)                                           9        4137.12         5175.70       3578.82       7715.94      10086.43         20286.42
+
+
+OTHER COMPREHENSIVE INCOME                                            10      (178.27)         (188.32)       443.11        264.84          0.51         (809.96)
+A (i) Items that will not be reclassified to profit or loss                   (179.03)          (96.23)       463.54        284.51         80.80         (832.80)
+         Income tax relating to items that will not be reclassified
+  (ii)                                                                           23.44           12.88       (64.34)       (40.90)       (14.31)           112.63
+         to profit or loss
+B (i) Items that will be reclassified to profit or loss                        (26.80)         (138.62)        58.95         32.15       (91.48)         (120.22)
+       Income tax relating to items that will be reclassified to
+  (ii)                                                                            4.12           33.65       (15.04)       (10.92)         25.50            30.43
+       profit or loss
+TOTAL COMPREHENSIVE INCOME (9+10)                                     11      3958.85          4987.38       4021.93       7980.78     10086.94         19476.46
+
+PAID UP EQUITY SHARE CAPITAL(Ordinary Shares of� 1/-
+                                                                      12      1253.05          1252.71      1252.95       1253.05        1252.71         1252.95
+each)
+RESERVES EXCLUDING REVALUATION RESERVES                               13                                                                                68675.66
+EARNINGS PER SHARE(of � 1/- each)(not annualised):                    14
+(a) Basic(�)                                                                      3.30            4.13          2.86          6.16          8.06            16.20
+(b) Diluted (�)                                                                   3.30            4.13          2.86          6.16          8.05            16.19
+ Notes:
+ 1.    The unaudited· Standalone Financial Results, Segment Results, Balance Sheet and Statement of Cash Flows were
+       reviewed by the Audit Committee, and approved by the Board of Directors of the Company at its meeting held on 2nd
+       November, 2026.
+
+ 2.    The continuing significant brand building costs covering a range of personal care and branded packaged food products
+       are reflected under 'Other expenses' stated above and in Segment Results under 'FMCG-Others'.
+
+ 3.    10,48,850 Ordinary Shares of t 1/- each were issued and allotted under the Company's Employee Stock Option
+       Schemes during the quarter ended 3oth September, 2026. Consequently, the issued and paid-up Share Capital of the
+       Company stands increased to t 1253,05,17,081/- as on 30th September, 2026.
+
+4.    The Company on 1st August, 2026 completed acquisition of the pulp and paper business of Aditya Birla Real Estate
+      Limited, operated under the name of 'Century Pulp and Paper', along with the assets, liabilities, contracts, employees
+      etc., as a going concern on a slump sale basis, in accordance with the Business Transfer Agreement dated 31st March,
+      2025.
+
+      The fair value of assets and liabilities of 'Century Pulp and Paper' have been provisionally determined and recorded in
+      accordance with Ind AS 103 - 'Business Combinations'. Accordingly, the financial results of the Company and
+      'Paperboards, Paper & Packaging' segment include those of 'Century Pulp and Paper' from 1st August, 2026 and
+      consequently are not comparable with previous periods.
+
+
+5.    The Company on 28th September, 2026 acquired additional 13,445 Equity Shares of t 10/- each of Sproutlife Foods
+      Private Limited ('Sproutlife'), consequent to which Sproutlife became a wholly owned subsidiary of the Company with
+      effect from the said date.
+
+      Further, the Board of Directors of the Company at the meeting held today i.e. 2nd November, 2026 has approved,
+      subject to necessary approvals, the Scheme of Amalgamation of Sproutlife Foods Private Limited, with the Company
+      under Sections 230 and 232 of the Companies Act, 2013. Pending approval, no effect of the same has been given in
+      these Results.
+
+6.    Exceptional Items for the quarter and six months ended 30th September, 2026 of t 25.66 crores represent expenses
+      incurred in relation to the acquisition of the pulp and paper business of Aditya Birla Real Estate Limited, operated under
+      the name of 'Century Pulp and Paper' (Refer Note 4 above).
+
+      Exceptional Items for the quarter and six months ended 30th September, 2025 of t 88.08 crores represent final
+      settlement of the insurance claim towards leaf tobacco stocks, which were destroyed due to fire at a third party owned
+      warehouse in an earlier year.
+
+7.    Consequent to expiry of the GST Compensation Cess, the Government of India increased GST and Central Excise duty
+      on cigarettes with effect from 1st February, 2026. In accordance with Ind AS 115 - Revenue from Contracts with
+      Customers and Schedule Ill to the Companies Act, 2013, GST and GST Compensation Cess are excluded from Gross
+      Revenue from sale of products, whereas Excise duty is not excluded. Consequently, Gross Revenue from sale of
+      products and services and Excise duty for the quarters ended 30th September, 2026, 30th June, 2026 and six months
+      ended 30th September, 2026 reflect the impact of sharp increase in Excise duty and are not strictly comparable with
+      those of the previous periods.
+
+8.    This statement is as per Regulation 33 of the SEBI (Listing Obligations and Disclosure Requirements) Regulations,
+      2015.
+
+Limited Review
+The Company is required to file its financial results with the relevant stock exchanges as required under Regulation 33 of the
+SEBI (Listing Obligations and Disclosure Requirements) Regulations, 2015. Accordingly, the financial results have been
+subjected to Limited Review by the Statutory Auditors of the Company, who have issued an unmodified report on the same.
+                                                                                       ITC LIMITED
+                                                                   Segment-wise Revenue, Results, Assets and Liabilities
+                                                                for the Quarter and Six Months ended 30th September, 2026
+                                                                                                                                                                       If in Crores)
+                                                                                                                STANDALONE
+ Particulars                                                                             Corresponding       Preceding
+                                                                           3 Months           3 Months        3 Months     6 Months                  6 Months Twelve Months
+                                                                              ended              ended           ended        ended                     ended         ended
+                                                                          30.09.2026         30.09.2025      30.06.2026  30.09.2026                 30.09.2025    31.03.2026
+                                                                          (Unaudited)       (Unaudited)      (Unaudited)        (Unaudited         (Unaudited)           (Audited)
+
+ 1.     Segment Revenue
+
+        a)      FMCG - Cigarettes                                           15536.13           8722.83         15383.55            30919.68           17242.87           37099.65
+                     - Others                                                6967.17           6023.52          6481.95            13449.12           11810.86           24209.75
+
+                Total FMCG                                                 22503.30          14746.35         21865.50           44368.80            29053.73           61309.40
+
+        b)      Agri Business                                                4451.69           3976.24           8082.06          12533.75            13661.27           20296.40
+        c)      Paperboards, Paper & Packaging                               3015.85           2219.92           2307.24           5323.09             4335.68            8765.61
+        d)      Others                                                        101.14             75.66             96.89            198.03              144.17             341.79
+                Total                                                      30071.98          21018.17         32351.69           62423.67            47194.85           90713.20
+
+        Less: Inter-segment revenue                                          1919.77           1810.35           5557.22            7476.99            7065.25            9845.71
+
+ Gross Revenue from sale of products and services                          28152.21          19207.82         26794.47           54946.68           40129.60           80867.49
+ 2.     Segment Results
+
+       a)      FMCG - Cigarettes                                             3813.45           5240.66          3341.23            7154.68           10385.94           21051.12
+                    - Others [Note (i)]                                       558.30            436.85           478.61            1036.91             832.87            1802.63
+               Total FMCG                                                   4371.75           5677.51          3819.84            8191.59           11218.81           22853.75
+
+       b)      Agri Business                                                 510.67             459.10           353.79             864.46              892.98           1496.46
+       c)      Paperboards, Paper & Packaging                                281.93             191.01           224.22             506.15              353.63            796.71
+       d)      Others                                                         {7.80)             {6.90)           (5.80)            {13.60)             {13.18)            {8.06)
+               Total                                                        5156.55           6320.72          4392.05            9548.60           12452.24           25138.86
+
+       Less:       i)    Finance Costs                                        31.76              16.76             33.78              65.54              30.16              69.94
+                  ii)    Other un-allocable (income) net of
+                                                                            (382.62)           (455.31)         (401.14)           (783.76)           (880.67)          (1882.55)
+                         un-allocable expenditure (Note (ii)]
+                  iii)   Exceptional Items*                                   25.66             (88.08)              -                25.66            (88.08)             183.87
+
+Profit Before Tax                                                           5481.75           6847.35          4759.41           10241.16           13390.83           26767.60
+3.     Segment Assets
+
+       a)      FMCG - Cigarettes                                           13637.07           10769.40         13204.05           13637.07           10769.40           13283.91
+                    - Others                                               16220.47           15545.47         17108.07           16220.47           15545.47           13130.13
+
+               Total FMCG                                                 29857.54           26314.87         30312.12           29857.54           26314.87           26414.04
+
+       b)      Agri Business                                                7154.63            8613.16          7766.92            7154.63            8613.16            6699.33
+       c)      Paperboards, Paper & Packaging                              14026.51            9779.55          9899.53           14026.51            9779.55            9781.88
+       d)      Others                                                        224.06             203.11           212.03             224.06             203.11             209.03
+               Total                                                      51262.74           44910.69         48190.60           51262.74           44910.69           43104.28
+
+               Unallocated Corporate Assets                                38839.46          41107.87          47585.04           38839.46           41107.87           45811.58
+
+Total Assets                                                              90102.20           86018.56         95775.64           90102.20           86018.56           88915.86
+4.     Segment Liabilities
+
+       a)      FMCG - Cigarettes                                            9532.88           6321.46           9771.49            9532.88            6321.46            5534.50
+                    - Others                                                3400.54           2913.29           3290.78            3400.54            2913.29            3081.03
+
+               Total FMCG                                                 12933.42            9234.75        13062.27           12933.42             9234.75            8615.53
+
+       b)      Agri Business                                                1256.48           1518.86           1615.52            1256.48            1518.86            1729.57
+       c)      Paperboards, Paper & Packaging                               2288.11           1312.00           1509.87            2288.11            1312.00            1381.15
+       d)      Others                                                         62.03             45.33             52.96              62.03              45.33              49.32
+               Total                                                      16540.04          12110.94         16240.62           16540.04           12110.94            11775.57
+
+               Unallocated Corporate Liabilities                            5553.94           5335.47           5535.63            5553.94            5335.47            7211.68
+
+Total Liabilities                                                         22093.98          17446.41         21776.25           22093.98           17446.41            18987.25
+
+• Refer Note 6 to the Standalone Financial Results.
+Note (i): In respect of FMCG-Others segment, earnings before interest, taxes, depreciation and amortization (EBITDA) for the quarter and six months ended 30.09.2026 is t 722.86
+Crores and t 1353.92 Crores respectively (quarter ended 30.09.2025 - t 593.45 Crores; quarter ended 30.06.2026 - t 631.06 Crores; six months ended 30.09.2025 - t 1138.10
+Crores and twelve months ended 31.03.2026 - t 2411.94 Crores).
+Note (ii): As stock options and stock appreciation rights are granted to align the interests of employees with those of shareholders and also to attract and retain talent for the
+enterprise as a whole, the charge thereof do not form part of the segment performance reviewed by the Corporate Management Committee.
+                                                   ITC Limited
+                                                                                                  (f in Crores)
+Balance Sheet                                                                       STANDALONE
+                                                                                       As at              As at
+Particulars                                                             30th Seotember, 2026  31st March, 2026
+                                                                                  (Unaudited)          (Audited)
+  A    ASSETS
+
+  1    Non-current assets
+        (a) Property, Plant and Equipment                                            18997.39              16501.73
+        (b) Capital work-in-progress                                                  1893.98               1472.56
+        (c) Investment Property                                                        373.49                378.03
+        (d) Goodwill                                                                   908.86                608.25
+        (e) Other Intangible assets                                                   2686.74               2558.56
+         (f) Intangible assets under development                                        88.48                 81.62
+        (g) Right-of-use assets                                                        453.81                425.22
+        (h) Financial Assets
+             (i) Investments                                                         15398.80              19409.05
+             (ii) Loans                                                                  2.52                  3.69
+             (iii) Others                                                               74.18                324.21
+        (i) Other non-current assets                                                  1194.18               1009.55
+                                         Non-current assets                          42072.43              42772.47
+                                                                      1----------+-
+ 2    Current assets
+       (a) Inventories                                                               22147.09              17931.90
+       (b) Financial Assets
+            (i) Investments                                                          16632.01              19701.54
+            (ii) Trade receivables                                                    3381.95               2925.60
+            (iii) Cash and cash equivalents                                            298.83                110.02
+            (iv) Bank Balances other than (iii) above                                 2302.71               2025.50
+            (v) Loans                                                                    6.71                  7.95
+            (vi) Others                                                               1759.96               1952.45
+       (c) Other current assets                                                       1500.51               1488.43
+                                                Current assets                       48029.77              46143.39
+                                                                      1----------+-
+
+                                                    Total Assets                     90102.20              88915.86
+                                                                      1-------:....:.....--+-----=:....:.....--=-=---l
+ B    EQUITY AND LIABILITIES
+
+      EQUITY
+       (a) Equity Share capital                                           1253.05             1252.95
+       (b) Other Equity                                                  66755.17           68675.66
+                                                           Equity 1------6 _80_0_8 _.2_2 ___6_9_9 _28_. _61
+                                                                                        -+-               ---1
+
+      LIABILITIES
+
+ 1    Non-current liabilities
+       (a) Financial Liabilities
+            (i) Lease Liabilities                                                     106.69                   97.09
+            (ii) Other financial liabilities                                          284.53                 352.94
+       (b) Provisions                                                                  374.88                280.05
+       (c) Deferred tax liabilities (Net)                                            3165.48                3065.25
+                                            Non-current liabilities                  3931.58                3795.33
+                                                                      l------       _;_:....:....._-4-_____: _;_ __:-=---l
+
+ 2    Current liabilities
+       (a) Financial Liabilities
+            (i) Borrowings                                                                -                2026.22
+            (ii) Lease Liabilities                                                      40.60                39.08
+            (iii) Trade payables
+                   (A) total outstanding dues of micro and small
+                                                                                       360.32                  345.97
+                  enterprises; and
+                  (B) total outstanding dues of creditors other
+                                                                                     5491.98               4925.93
+                  than micro and small enterprises
+            (iv) Other financial liabilities                                         1586.47               1598.79
+       (b) Other current liabilities                                                 8713.39               4897.84
+       (c) Provisions                                                                 243.92                303.43
+       (d) Current Tax Liabilities (Net)                                             1725.72               1054.66
+                                              Current liabilities                   18162.40              15191.92
+                                                                      1----------+-
+
+                                   Total Equity and Liabilities                     90102.20              88915.86
+     ITC Limited
+     Standalone Statement of Cash Flows for the half year ended 30th September, 2026
+                                                                                                                      For the half year ended             For the half year ended
+                                                                                                                       30th September, 2026                30th September, 2025
+                                                                                                                                 (I!' in Crores)                     (I!' in Crores)
+     A. Cash Flow from Operating Activities
+        PROFIT BEFORE TAX                                                                                                           10241.16                            13390.83
+        ADJUSTMENTS FOR :
+              Depreciation and amortization expense                                                                794.33                              739.45
+              Share based payments to employees                                                                     59.70                               62.12
+             Finance costs                                                                                          65.54                               30.16
+             Interest Income                                                                                     (526.53)                             (602.77)
+             Dividend Income                                                                                     (336.30)                             (357.41)
+             Net loss on sale of property, plant and equipment, lease termination                                    4.92                                3.47
+             Inventory write-offs/ write-downs (net of reversals)                                                   90.63                              183.08
+             Doubtful and bad debts                                                                                  7.49                                2.70
+             Doubtful and bad advances, loans and deposits                                                                                               0.70
+            Gain recognised on divestment of shares held in associate                                                 -                                 (0.01)
+            Net gain arising on financial instruments measured at amortised cost/ fair value through profit
+                                                                                                                 (519.09)                            (506.35)
+            or loss/ fair value through other comprehensive income
+            Foreign currency translations and transactions - Net                                                   (4.89)            (364.20)         (11.22)            (456.08)
+        OPERATING PROFIT BEFORE WORKING CAPITAL CHANGES                                                                              9876.96                            12934.75
+        ADJUSTMENTS FOR :
+             Trade receivables, advances and other assets                                                        (289.42)                           (1748.54)
+             Inventories                                                                                        (3740.88)                           (3151.19)
+            Trade payables, other liabilities and provisions                                                     3723.53             (306.77)         256.70           (4643.03)
+        CASH GENERATED FROM OPERATIONS                                                                                               9570.19                             8291.72
+             Income tax paid (net of refunds)                                                                                      (1804.61)                           (2553.05)
+        NET CASH FROM OPERATING ACTIVITIES                                                                                           7765.58                             5738.67
+
+ B. Cash Flow from Investing Activities
+             Purchase of property, plant and equipment, intangibles, ROU asset etc.                              (977.13)                           (1007.11)
+             Sale of property, plant and equipment                                                                 23.69                               10.83
+             Purchase of current investments                                                                  (44246.52)                           (22788.75)
+             Sale/redemption of current investments                                                            48550.48                             25035.85
+             Payment towards business combination, including cash and cash equivalents assumed                 (3366.75)                             (284.65)
+             Investment in subsidiaries                                                                         (631.11)                              (45.00)
+             Investment in associates                                                                             (29.98)                            (181.84)
+            Divestment of shares held in associate                                                                                                       0.01
+            Purchase of non-current investments                                                                 (204.33)                           (1632.71)
+            Sale/redemption of non-current investments                                                          4500.14                              2514.27
+            Dividend received                                                                                     231.87                              281.65
+            Interest received                                                                                     575.71                              394.20
+            Investment in bank deposits (original maturity more than 3 months)                                 (2072.84)                             (319.82)
+            Redemption / maturity of bank deposits (original maturity more than 3 months)                       1794.84                              1707.49
+            Investment in deposit with financial institution                                                    (438.68)                            (SOD.OD)
+            Maturity of deposit with financial institution                                                       775.13                               450.00
+            Loans given to employees                                                                              (2.47)                               (1.42)
+            Loans realised from employees                                                                           6.59                                6.01
+       NET CASH FROM INVESTING ACTIVITIES                                                                                           4488.64                             3639.01
+
+c. Cash Flow from Financing Activities
+            Proceeds from issue of share capital                                                                  19.95                               348.14
+            Repayment of current borrowings                                                                    (2001.00)                             (40.82)
+            Repayment of non-current borrowings                                                                      -                                 (5.46)
+            Principal payment of lease liabilities                                                               (21.28)                             (20.82)
+            Interest paid                                                                                        (53.19)                             (22.94)
+            Net decrease in statutory restricted accounts balances                                                (0.73)                               (9.73)
+            Dividend paid                                                                                     (10023.57)                           (9823.58)
+            Dividend distribution tax refund received                                                             39.68
+       NET CASH USED IN FINANCING ACTIVITIES                                                                                     (12040.14)                           (9575.21)
+       NET INCREASE/ (DECREASE) IN CASH AND CASH EQUIVALENTS                                                                         214.08                             (197.53)
+       OPENING CASH AND CASH EQUIVALENTS                                                                                              84.77                              222.41
+       CLOSING CASH AND CASH EQUIVALENTS                                                                                             298.85                                24.88
+
+Notes:
+1. The above Statement of Cash Flows has been prepared under the "Indirect Method" as set out in Ind AS - 7 "Statement of Cash Flows".
+
+                                                                                                                                     As at                               As at
+2.     CASH AND CASH EQUIVALENTS:                                                                                    30th September, 2026                30th September, 2025
+
+           Cash and cash equivalents as per Balance Sheet                                                                            298.83                               24.89
+           Less: Unrealised gain/ (loss) on foreign currency cash and cash equivalents                                                (0.02)                               0.01
+           Cash and cash equivalents as per Statement of Cash Flows                                                                  298.85                               24.88
+Notes:
+(1)        The Company's corporate strategy aims at creating multiple drivers of growth anchored on its core competencies. The Company is currently
+           focused on three business groups : FMCG, Paperboards, Paper & Packaging and Agri Business. The Company's organisational structure and
+           governance processes are designed to support effective management of multiple businesses while retaining focus on each one of them.
+
+           The Operating Segments have been reported in a manner consistent with the internal reporting provided to the Corporate Management Committee,
+           which is the Chief Operating Decision Maker.
+
+(2)        The business groups comprise the following :
+
+           FMCG            Cigarettes                                   Cigarettes, Cigars etc.
+                           Others                                       Branded Packaged Foods Businesses (Staples & Meals; Snacks; Dairy & Beverages;
+                                                                        Biscuits & Cakes; Chocolates, Coffee & Confectionery); Education and Stationery
+                                                                        Products; Personal Care Products; Safety Matches and Agarbattis.
+           Paperboards, Paper & Packaging                              Paperboards, Paper including Specialty Paper & Packaging including Flexibles.
+
+           Agri Business                                               Agri commodities such as wheat, rice, spices, coffee, soya and leaf tobacco.
+
+           Others                                                      ITC Grand Central Hotel, Mumbai; Fresh Food etc.
+
+(3)        Segment results of 'FMCG Others' are after considering • significant business development, brand building and gestation costs of Branded
+           Packaged Foods businesses and Personal Care Products business.
+
+(4 )       Figures for the previous periods are re-arranged, wherever necessary, to conform to the figures of the current period.
+
+
+
+Registered Office
+Virginia House, 37 J.L. Nehru Road,                                               </;;?''"'"m�esM�/
+Kolkata 700 071, India
+
+Dated : 2nd November, 2026
+Place : Bengaluru, India
+                                                                                                                   Chairman & Managing Director
+                                                                                                                               (DIN: 00280529)
+
+
+
+       Website: www.itcportal.com I E-mail: enduringvalue@itc.in I Phone: +91-33-2288 9371 I Fax: +91-33-2288 0655 I CIN: L16005WB1910PLC001985
+                                                                                                   Enduring Value
+                                                                                                    ITC Limited
+
+  Statement of Unaudited Consolidated Financial Results for the Quarter and Six Months ended 30th September, 2026
+                                                                                                                                                                   If in Crores)
+                                                                                                      Corresponding    Preceding
+  Particulars                                                                          3 Months            3 Months     3 Months      6 Months      6 Months     Twelve Months
+                                                                                          ended               ended        ended         ended         ended             ended
+                                                                                      30.09.2026          30.09.2025   30.06.2026    30.09.2026    30.09.2025        31.03.2026
+
+                                                                                      (Unaudrted)        (Unaudited)   (Unaudited)   (Unaudited)   (Unaudited)         (Audited)
+ Gross Revenue from sale of products and services                               (i)    30431.01           21047.45      29409.82      59840.83      44054.94          89258.21
+ Other operating revenue                                                    (ii)         147.39              208.41       113.48        260.87        330.27            655.12
+ REVENUE FROM OPERATIONS [(i)+(ii)]                                              1     30578.40           21255.86      29523.30      60101.70      44385.21          89913.33
+ OTHER INCOME                                                                    2       507.36              584.40       655.71       1163.07       1266.61           2425.80
+ TOTAL INCOME (1+2)                                                              3     31085.76           21840.26      30179.01      61264.77      45651.82         92339.13
+
+
+ EXPENSES
+ a)       Cost of materials consumed                                                    7729.01            6577.45       6982.15      14711.16      12815.75         26272.33
+ b)       Purchases of Stock-in-Trade and Biological Assets                             1666.59            1565.71       2865.95       4532.54       5459.90          8826.01
+ c)       Changes in inventories of finished goods, Stock-in-Trade,
+          work-in-progress, intermediates and Biological Assets                         (180.69)              (1.74)     (957.34)     (1138.03)        96.25          (2550.46)
+
+ d)       Excise duty                                                                 10309.77             1754.23      10408.93      20718.70       3388.79         11044.93
+ e)       Employee benefits expense                                                     1886.52            1654.49       1877.01       3763.53       3330.34          6781.50
+ f)       Finance costs                                                                   38.27              20.05         39.78         78.05         36.52             85.17
+ g)       Depreciation and amortization expense                                          490.60             434.80        427.73        918.33        857.76          1710.53
+ h)       Other expenses                                                               3522.37             3011.03      3165.74        6688.11      5783.02          12221.11
+ TOTAL EXPENSES                                                             4         25462.44            15016.02     24809.95      50272.39      31768.33          64391.12
+
+ SHARE OF PROFIT / (LOSS) OF ASSOCIATES AND JOINT                           5             96.96              66.36         85.91        182.87        135.12           377.08
+ VENTURES
+ PROFIT BEFORE EXCEPTIONAL ITEMS AND TAX (3-4+5)                            6          5720.28             6890.60      5454.97      11175.25      14018.61          28325.09
+EXCEPTIONAL ITEMS (Refer Note 6)                                            7            (25.66)             88.08       405.88        380.22          88.08          (291.70)
+PROFIT BEFORE TAX (6+7)                                                     8          5694.62             6978.68      5860.85      11555.47      14106.69          28033.39
+TAX EXPENSE                                                                 9          1465.29             1792.13      1352.06       2817.35       3576.73           7015.24
+a)        Current Tax                                                                  1410.12             1769.40      1358.35       2768.47       3507.99           6412.97
+b)        Deferred Tax                                                                   55.17               22.73         (6.29)        48.88        68.74            602.27
+PROFIT FOR THE PERIOD (8-9)                                                10          4229.33             51B6.55      4508.79       8738.12      10529.96          21018.15
+
+OTHER COMPREHENSIVE INCOME                                                 11          (133.09)            (135.37)      365.71        232.62         78.68           (643.29)
+A (i) Items that will not be reclassified to profit or loss                             (170.81)           (104.69)      466.92        296.11         82.32           (835.27)
+      (ii) Income tax relating to items that will not be reclassified to                 21.38               14.25        (64.34)       (42.96)       (12.94)          111.65
+           profit or loss
+B (i) Items that will be reclassified to profit or loss                                  10.96              (80.30)       (19.43)        (8.47)       (17.80)           44.92
+      (ii) Income tax relating to items that will be reclassified to                      5.38               35.37        (17.44)      (12.06)        27.10             35.41
+           profit or loss
+TOTAL COMPREHENSIVE INCOME (10+11)                                         12          4096.24            5051.18       4874.50       8970.74      10608.64          20374.86
+
+
+PROFIT FOR THE PERIOD ATTRIBUTABLE TO:
+ OWNERS OF THE PARENT                                                                  4168.40            5126.11       4394.13       8562.53      10370.31          20689.47
+ NON-CONTROLLING INTERESTS                                                               60.93              60.44        114.66        175.59        159.65            328.68
+OTHER COMPREHENSIVE INCOME FOR THE PERIOD
+ATTRIBUTABLE TO:
+ OWNERS OF THE PARENT                                                                  (132.67)            (134.06)      365.71        233.04         79.99           (642.20)
+ NON-CONTROLLING INTERESTS                                                               (0.42)              (1.31)                     (0.42)        (1.31)            (1.09)
+TOTAL COMPREHENSIVE INCOME FOR THE PERIOD
+ATTRIBUTABLE TO:
+ OWNERS OF THE PARENT                                                                 4035.73             4992.05      4759.84        8795.57      10450.30         20047.27
+ NON-CONTROLLING INTERESTS                                                               60.51              59.13        114.66        175.17        158.34           327.59
+
+
+PAID UP EQUITY SHARE CAPITAL (Ordinary Shares off 1/-                                 1253.05             1252.71      1252.95       1253.05       1252.71           1252.95
+each)                                                                      13
+
+RESERVES EXCLUDING REVALUATION RESERVES                                    14                                                                                       71254.35
+EARNINGS PER SHARE (off 1/- each) (not annualised):                        15
+ (a) Basic (f)                                                                            3.32               4.09          3.51          6.83          8.28            16.52
+ (b) Diluted (t)                                                                          3.32               4.09          3.51          6.83          8.27            16.51
+ Notes:
+ 1.    The unaudited Consolidated Financial Results, Segment Results, Balance Sheet and Statement of Cash Flows were reviewed by the Audit
+       Committee, and approved by the Board of Directors of the Company at its meeting held on 2nd November, 2026.
+
+ 2.    The continuing significant brand building costs covering a range of personal care and branded packaged food products are reflected under
+       'Other expenses' stated above and in SeQment Results under 'FMCG-Others'.
+
+ 3.    10,48,850 Ordinary Shares oft 1/- each were issued and allotted under the Company's Employee Stock Option Schemes during the quarter
+       ended 30th September, 2026. Consequently, the issued and paid-up Share Capital of the Company stands increased tot 1253,05,17,081/­
+       as on 30th September, 2026.
+
+ 4.    The Group on 1st August, 2026 completed acquisition of the pulp and paper business of Aditya Birla Real Estate Limited, operated under the
+       name of 'Century Pulp and Paper', along with the assets, liabilities, contracts, employees etc., as a going concern on a slump sale basis, in
+       accordance with the Business Transfer Agreement dated 31st March, 2025.
+
+       The fair value of assets and liabilities of 'Century Pulp and Paper' have been provisionally determined and recorded in accordance with Ind AS
+       103 - 'Business Combinations'. Accordingly, the financial results of the Group and 'Paperboards, Paper & Packaging' segment include those
+       of 'Century Pulp and Paper' from 1st August, 2026 and consequently are not comparable with previous periods.
+
+ 5.   Sproutlife Foods Private Limited ('Sproutlife') became a subsidiary of the Company with effect from 1st April, 2026, consequent to the
+      Company acquiring the right to nominate majority of Directors on its Board.
+
+      In accordance with Ind AS 103 - Business Combinations, the Group has re-measured its existing interest in Sproutlife at fair value.
+
+      The fair values of assets and liabilities of Sproutlife have been provisionally determined and recorded in accordance with Ind AS 103 -
+      Business Combinations and have been reflected in 'FMCG - Others' segment. The financial results of the Group and 'FMCG-Others' segment
+      include those of Sproutlife with effect from 1st April, 2026. Accordingly, results of the quarter and six months ended 30th September, 2026 are
+      not comparable with previous periods.
+
+      The Company on 28th September, 2026 acquired additional 13,445 Equity Shares of t10/- each of Sproutlife, consequent to which Sproutlife
+      became a wholly owned subsidiary of the Company with effect from the said date.
+
+      Further, the Board of Directors of the Company at the meeting held today i.e. 2nd November, 2026 has approved, subject to necessary
+      approvals, the Scheme of Amalgamation of Sproutlife with the Company under Sections 230 and 232 of the Companies Act, 2013.
+
+6.    Exceptional Items for the six months ended 30th September, 2026 oft 380.22 Crores represents :
+
+      a) expenses of t 25.66 crores during the quarter ended 30th September, 2026 incurred in relation to the acquisition of the pulp and paper
+      business of Aditya Birla Real Estate Limited, operated under the name of 'Century Pulp and Paper' (Refer Note 4 above).
+
+      b) gain of t 405.88 crores during the quarter ended 30th June, 2026 on remeasurement of existing interest in Sproutlife at fair value in
+      accordance with Ind AS 103 - Business Combinations (Refer Note 5 above).
+
+      Exceptional Items for the quarter and six months ended 30th September, 2025 of t 88.08 crores represent final settlement of the insurance
+      claim towards leaf tobacco stocks, which were destroyed due to fire at a third party owned warehouse in an earlier year.
+
+7.    Consequent to expiry of the GST Compensation Cess, the Government of India increased GST and Central Excise duty on cigarettes with
+      effect from 1st February, 2026. In accordance with Ind AS 115 - Revenue from Contracts with Customers and Schedule Ill to the Companies
+      Act, 2013, GST and GST Compensation Cess are excluded from Gross Revenue from sale of products, whereas Excise duty is not excluded.
+      Consequently, Gross Revenue from sale of products and services and Excise duty for the quarters ended 30th September, 2026, 30th June,
+      2026 and six months ended 30th September, 2026 reflect the impact of sharp increase in Excise duty and are not strictly comparable with
+      those of the previous periods.
+
+8.    This statement is as per Regulation 33 of the SEBI (Listing Obligations and Disclosure Requirements) Regulations, 2015.
+
+Limited Review
+The Company is required to file its financial results with the relevant stock exchanges as required under Regulation 33 of the SEBI (Listing
+Obligations and Disclosure Requirements) Regulations, 2015. Accordingly, the financial results have been subjected to Limited Review by the
+Statutory Auditors of the Company, who have issued an unmodified report on the same.
+                                                                             ITC LIMITED
+                                                       Segment-wise Revenue, Results, Assets and Liabilities
+                                                     for the Quarter and Six Months ended 30th September, 2026
+                                                                                                                                                            1, in Crores)
+                                                                                                                CONSOLIDATED
+                                                                                             Corresponding        Preceding                                       Twelve
+ Particulars                                                                     3 Months         3 Months         3 Months      6 Months       6 Months         Months
+                                                                                    ended            ended            ended         ended          ended           ended
+                                                                                30.09.2026       30.09.2025      30.06.2026     30.09.2026     30.09.2025     31.03.2026
+                                                                               (Unaudited)      (Unaudited)     (Unaudited)    (Unaudited)    (Unaudited)       (Audited)
+ 1.      Segment Revenue
+
+         a)      FMCG - Cigarettes                                             16237.11          9414.34        16596.67       32833.78       18968.20        40601.00
+                      - Others                                                  7218.36          6059.12         6687.90       13906.26       11859.56        24321.55
+                 Total FMCG                                                    23455.47         15473.46        23284.57       46740.04       30827.76        64922.55
+         b)      Agri Business                                                  4550.60          4037.80         8137.81       12688.41       13761.64        20787.33
+         c)      Paperboards, Paper & Packaging                                 3017.45          2220.32         2310.27        5327.72        4336.94         8768.58
+         d)      Others                                                         1449.87          1244.62         1379.50        2829.37        2427.21         5036.23
+                Total                                                          32473.39         22976.20       35112.15        67585.54       51353.55        99514.69
+
+        Less : Inter-segment revenue                                            2042.38          1928.75         5702.33        7744.71        7298.61        10256.48
+ Gross Revenue from sale of products and services                              30431.01         21047.45       29409.82        59840.83       44054.94        89258.21
+ 2.     Segment Results
+
+        a)      FMCG - Cigarettes                                               4044.49          5462.10         3769.11        7813.60       10961.03        22245.62
+                     - Others                                                    576.69           438.72          484.97        1061.66         837.75         1811.82
+                Total FMCG                                                      4621.18          5900.82        4254.08         8875.26      11798.78         24057.44
+
+        b)      Agri Business                                                    518.41           453.61          359.54         877.95         888.28         1584.24
+        c)      Paperboards, Paper & Packaging                                   273.32           181.39          216.81         490.13         332.79          754.06
+        d)      Others                                                           176.10           182.65          165.26         341.36         337.53          670.40
+                Total                                                          5589.01           6718.47        4995.69       10584.70       13357.38        27066.14
+
+        Less:        i)    Finance Costs                                          38.27            20.05           39.78          78.05          36.52           85.17
+                    ii)    Other un-allocable (income) net of
+                                                                                 (72.58)         (125.82)        (413.15)       (485.73)       (562.63)        (967.04)
+                           un-allocable expenditure (Refer Note)
+                    iii)   Exceptional Items*                                     25.66           (88.08)        (405.88)       (380.22)        (88.08)         291.70
+        Add:         i)    Share of Profit / {Loss) of associates and joint       96.96            66.36           85.91         182.87         135.12          377.08
+                           ventures
+Profit Before Tax                                                              5694.62           6978.68        5860.85       11555.47       14106.69        28033.39
+3.      Segment Assets
+
+        a)      FMCG - Cigarettes                                             14376.24         11504.72        13794.77       14376.24       11504.72        13995.56
+                     - Others                                                 17997.21         15778.11        18832.39       17997.21       15778.11        13359.44
+                Total FMCG                                                    32373.45         27282.83        32627.16       32373.45       27282.83        27355.00
+
+        b)      Agri Business                                                  8255.89          9589.59         8856.85        8255.89        9589.59         7792.23
+        c)      Paperboards, Paper & Packaging                                14265.65         10024.14        10144.81       14265.65       10024.14        10021.21
+        d)      Others                                                         3278.25          3176.65         3238.78        3278.25        3176.65         2997.45
+                Total                                                         58173.24         50073.21        54867.60       58173.24       50073.21        48165.89
+
+                Unallocated Corporate Assets                                  38182.28         40715.18        47495.66       38182.28       40715.18        45626.49
+Total Assets                                                                  96355.52         90788.39       102363.26       96355.52       90788.39        93792.38
+4.     Segment Liabilities
+
+       a)       FMCG - Cigarettes                                              9833.01          6594.16        10041.74        9833.01        6594.16         5749.63
+                     - Others                                                  3555.68          2921.35         4100.00        3555.68        2921.35         3089.15
+               Total FMCG                                                     13388.69          9515.51       14141.74        13388.69        9515.51         8838.78
+
+       b)      Agri Business                                                   1411.51          1589.24        1587.97         1411.51        1589.24         1784.43
+       c)      Paperboards, Paper & Packaging                                  2302.19          1323.41        1527.80         2302.19        1323.41         1395.22
+       d)      Others                                                          1282.70          1038.14        1251.98         1282.70        1038.14         1231.17
+               Total                                                          18385.09         13466.30       18509.49        18385.09       13466.30        13249.60
+
+               Unallocated Corporate Liabilities                               6030.44          5727.61        6057.39         6030.44        5727.61         7669.76
+Total Liabilities                                                             24415.53         19193.91       24566.88        24415.53       19193.91        20919.36
+* Refer Note 6 to the Consolidated Financial Results.
+Note: As stock options and stock appreciation rights are granted to align the interests of employees with those of shareholders and also to attract and retain
+talent for the Group as a whole, the charge thereof do not form part of the segment performance reviewed by the Corporate Management Committee.
+                                                                  ITC Limited
+                                                                                                                     If in Crores)
+Balance Sheet                                                                                        CONSOLIDATED
+                                                                                                       As at                 As at
+Particulars                                                                             30th Seotember 20 2 6   31st March 2 02 6
+                                                                                                  /Unaudited              (Audited
+     A    ASSETS
+
+     1    Non-current assets
+            (a) Property, Plant and Equipment                                     20010.38                                               17471.20
+            (b) Capital work-in-progress                                             1924.26                                              1499.41
+            (c) Investment Property                                                     300.24                                             303.36
+            (d) Goodwill                                                            1514.65                                                993.29
+            (e) Other Intangible assets                                             4267.22                                               3173.66
+             (f) Intangible assets under development                                    121.24                                             102.47
+            (g) Right-of-use assets                                                     552.53                                             501.02
+            (h) Investment accounted for using the equity method                    5150.29                                               5288.24
+             (i) Financial Assets
+                 (i) Investments                                                    7475.13                                             12089.55
+                 (ii) Loans                                                                   3.66                                          4.87
+                 (iii) Others                                                           113.37                                            343.22
+           U) Deferred tax assets (Net)                                                 148.37                                            155.18
+           (k) Income Tax Assets (Net)                                                      58.02                                          70.05
+           (I) Other non-current assets                                             1291.44                                              1088.45
+                                                                                  42 930.80 +---
+                                                     Non-current assets 1---------'-::..:...c:.=-::..c....                              43083.97
+
+  2      Current assets
+          (a) Inventories                                                                               22975.37                        18622.96
+          (b) Biological assets other than bearer plants                                                  283.52                          249.69
+           (c) Financial Assets
+               (i) Investments                                                          17509.81                                  20750.64
+               (ii) Trade receivables                                                     4753.79                                   3922.86
+               (iii) Cash and cash equivalents                                                834.62                                   643.46
+               (iv) Bank balances other than (iii) above                                  3178.37                                   2365.33
+               (v) Loans                                                                              7.38                                    8.52
+               (vi) Others                                                                2009.19                                   2361.34
+          (d) Other current assets                                                        1872.67                                   1783.61
+                                                                Current assets 1--------=-::....:..::....:..;;:....=...-1-----
+                                                                                        53424.72                                  50708.41
+                                                                                                                               ---=-::..:..::..::.:..�
+
+                                                                   Total Assets 1-------=-=-===-          937 92 . 38
+                                                                                        96355.52 -1-------=-::..:..:==--1
+ B       EQUITY AND LIABILITIES
+
+         Equity
+          (a) Equity Share capital                                               1253.05                                                 1252.95
+          (b) Other Equity                                                     70148.67                                                 71254.35
+                             Attributable to the owners of the parent 1--------'-..:....:..;�:....=...
+                                                                               7 1401. 72 +---                                          72507.30
+
+         Non-controlling interests                                                            538.27                365.72
+                                                                                          7 1939. 99 +-------'-�c...;;.;.
+                                                                    Total Equity 1--------'--'-'-''-""-::..c.... 72 87 3.02
+                                                                                                                         �
+
+         LIABILITIES
+
+ 1       Non-current liabilities
+          (a) Financial Liabilities
+               (i) Borrowings                                                              60.00                            60.00
+               (ii) Lease liabilities                                                     170.27                       140.86
+               (iii) Other financial liabilities                                          416.23                       510.40
+          (b) Provisions                                                                  472.25                       389.43
+          (c) Deferred tax liabilities (Net)                                           3185.52                    3089.62
+          (d) Other non-current liabilities                                                43.32                           41.78
+                                                        Non-current liabilities l------4-"34:..:7..:c.5:.:9 ______4..:c2::.:3::.:2:.:..0:.:9
+                                                                                                          =-
+                                                                                                                 :..+                       =--i
+
+
+ 2       Current liabilities
+          (a) Financial Liabilities
+               (i) Borrowings                                                             182.93                                         2126.22
+               (ii) Lease liabilities                                                         78.18                                        71.98
+               (iii) Trade payables
+                     (A) Total outstanding dues of micro and small
+                                                                                         365.88                                           350.13
+                     enterprises
+                     (B) Total outstanding dues of creditors other than
+                                                                                       5916.75                                           5289.42
+                     micro and small enterprises
+               (iv) Other financial liabilities                                        2176.49                                          2099.15
+          (b) Other current liabilities                                                9026.09                                          5037.64
+          (c) Provisions                                                                 408.06                                          423.91
+          (d) Current Tax Liabilities (Net)                                            1913.56                                          1288.82
+                                                                                     2 0067.9
+                                                         Current liabilities 1-------=;;..;;..;;....;.;  4 +---
+                                                                                                       c...;...                        16687.2 7
+
+                                                   Total Eauitv and Liabilities                         6 55.52
+                                                                                                      9 3                                 7
+                                                                                                                                       93 92 3 . 8
+  ITC Limited
+  Consolidated Statement of Cash Flows for the half year ended 30th September, 2026
+                                                                                                          For the half year ended              For the half year ended
+                                                                                                           30th September, 2026                 30th September, 2025
+                                                                                                                      (� in Crores)                       (� in Crores)
+  A. Cash Flow from Operating Activities
+     PROFIT BEFORE TAX                                                                                                  11555.47                            14106.69
+     ADJUSTMENTS FOR:
+         Depreciation and amortization expense                                                         918.33                               857.76
+         Share based payments to employees                                                              61.59                                 63.93
+          Finance costs                                                                                 78.05                                 36.52
+          Interest Income                                                                             (553.79)                             (635.09)
+          Dividend Income                                                                              (15.14)                               (15.14)
+          Net loss on sale of property, plant and equipment, lease termination                           4.23                                  3.33
+          Inventory write-offs/ write-downs (net of reversals)                                          94.08                               187.34
+          Doubtful and bad debts                                                                         5.91                                  3.11
+          Doubtful and bad advances, loans and deposits                                                  0.43                                  0.71
+          Impairment of investment in joint venture                                                      0.03                                  0.04
+          Gain recognised on divestment of shares held in associate                                                                           (0.01)
+          Share of {profit)/ loss of associates and joint ventures                                    (182.87)                             (135.12)
+          Net gain arising on financial instruments measured at amortised cost/ fair value
+                                                                                                      (534.10)                             (528.46)
+          through profit or loss/ fair value through other comprehensive income
+          Gain on fair valuation of existing stake in an associate consequent to business
+                                                                                                      (405.88)
+         combination
+          Foreign currency translations and transactions - Net                                          (1.36)          (530.49)            (23.91)          (184.99)
+     OPERATING PROFIT BEFORE WORKING CAPITAL CHANGES                                                                   11024.98                             13921.70
+     ADJUSTMENTS FOR:
+         Trade receivables, advances and other assets                                                 (688.96)                           (1968.87)
+         Inventories and biological assets other than bearer plants                                 (3856.93)                            (3244.35)
+         Trade payables, other liabilities and provisions                                            4016.72             (529.17)          289.06           (4924.16)
+     CASH GENERATED FROM OPERATIONS                                                                                    10495.81                              8997.54
+         Income tax paid (net of refunds)                                                                              (2132.84)                            (2834.94)
+     NET CASH FROM OPERATING ACTIVITIES                                                                                 8362.97                              6162.60
+
+ B. Cash Flow from Investing Activities
+         Purchase of property, plant and equipment, intangibles, ROU asset etc.                      (1085.98)                            (1062.09)
+         Sale of property, plant and equipment                                                          24.48                                11.25
+         Purchase of current investments                                                           (46894.52)                           (25448.46)
+         Sale/redemption of current investments                                                     51353.36                             27936.73
+         Investment in associates                                                                      (29.98)                             (181.84)
+         Divestment of shares held in associate                                                                                               0.01
+        Purchase of non-current investments                                                         (229.34)                             (1753.89)
+        Sale/redemption of non-current investments                                                  4500.14                                2514.27
+        Payment towards business combination, including cash and cash equivalents
+                                                                                                    (3994.28)                             (279.13)
+        assumed / acquired
+        Dividend received from associates and joint venture                                           112.93                                29.19
+        Dividend received from others                                                                  15.14                                15.14
+        Interest received                                                                             614.20                               430.77
+        Investment in bank deposits (original maturity more than 3 months)                          (2751.95)                             (888.63)
+        Redemption/ maturity of bank deposits (original maturity more than 3 months)                 1917.12                             1967.76
+        Investment in deposit with financial institution                                             (438.68)                            (500.00)
+        Maturity of deposit with financial institution                                                775.13                               450.00
+        Loans given to employees                                                                       (2.66)                               (1.53)
+        loans realised from employees                                                                   6.72                                 6.15
+    NET CASH FROM INVESTING ACTIVITIES                                                                                 3891.83                              3245.70
+
+C. cash Flow from Financing Activities
+       Proceeds from issue of share capital                                                           19.95                               348.14
+       Proceeds from current borrowings                                                               68.97                                 59.74
+       Repayment of current borrowings                                                             (2033.40)                               (40.64)
+       Repayment of non-current borrowings                                                                                                  (7.02)
+       Principal payment of lease liabilities                                                         (40.02)                              (32.44)
+       Interest paid                                                                                  (65.54)                             (36.90)
+       Net decrease in statutory restricted accounts balances                                           (0.73)                              (9.73)
+       Dividend paid                                                                              (10026.20)                            (9827.08)
+       Dividend distribution tax (paid)/ refund received                                               39.68                                (0.52)
+   NET CASH USED IN FINANCING ACTIVITIES                                                                             (12037.29)                            (9546.45)
+   NET INCREASE/ (DECREASE) IN CASH AND CASH EQUIVALENTS                                                                217.51                              (138.15)
+   OPENING CASH AND CASH EQUIVALENTS                                                                                    618.83                               622.38
+   CLOSING CASH AND CASH EQUIVALENTS                                                                                    836.34                               484.23
+
+Notes:
+1. The above Statement of Cash Flows has been prepared under the "Indirect Method" as set out in Ind AS• 7 "Statement of Cash Flows".
+                                                                                                                          As at                               As at
+2. CASH AND CASH EQUIVALENTS:                                                                            30th September, 2026                 30th September, 2025
+
+        Cash and cash equivalents as per Balance Sheet                                                                  834.62                               484.20
+        Less: Unrealised gain/ (loss) on foreign currency cash and cash equivalents                                       (1.72)                              (0.03)
+        Cash and cash equivalents as per Statement of Cash Flows                                                        836.34                               484.23
+ Notes:
+(1)        The Group's corporate strategy aims at creating multiple drivers of growth anchored on its core competencies. The Group is currently focused
+           on three business groups: FMCG, Paperboards, Paper & Packaging and Agri Business. The Group's organisational structure and governance
+           processes are designed to support effective management of multiple businesses while retaining focus on each one of them.
+
+           The Operating Segments have been reported in a manner consistent with the internal reporting provided to the Corporate Management
+           Committee, which is the Chief Operating Decision Maker.
+
+
+(2)       The business groups comprise the following :
+
+          FMCG            Cigarettes                                     Cigarettes, Cigars etc.
+                          Others
+                                                                         Branded Packaged Foods Businesses (Staples & Meals; Snacks; Dairy &
+                                                                         Beverages; Biscuits & Cakes; Chocolates, Coffee & Confectionery); Education and
+                                                                         Stationery Products; Personal Care Products; Safety Matches and Agarbattis.
+
+
+          Paperboards, Paper & Packaging                                 Paperboards, Paper including Specialty Paper & Packaging including Flexibles.
+
+
+          Agri Business                                                  Agri commodities such as wheat, rice, spices, coffee, soya, leaf tobacco and
+                                                                         potato.
+
+          Others                                                         Information Technology services; ITC Grand Central Hotel, Mumbai; Fresh Food
+                                                                         etc.
+
+(3)       Segment results of 'FMCG : Others' are after considering significant business development, brand building and gestation costs of Branded
+          Packaged Foods businesses and Personal Care Products business.
+
+(4)       Figures for the previous periods are re-arranged, wherever necessary, to conform to the figures of the current period.
+
+
+
+Registered Office
+Virginia House, 37 J.L. Nehru Road,                                                       For and on behalf of the Board
+Kolkata 700 071, India
+
+
+
+
+Dated : 2nd November, 2026                      Director & Chie     • ancial Officer                                        Chairman & Managing Director
+Place : Bengaluru, India                                          (DIN : 01804345)                                                      (DIN : 00280529)
+
+      Website: www.itcportal.com I E-mail: enduringvalue@itc.in I Phone: +91-33-2288 9371 I Fax: +91-33-2288 06551 CIN: L16005WB1910PLC001985
+                                                                                                                     A
+                                                                                                                     Endurl1111 Yalu�
+                                                                                                                      ITC Limited
+
+
+                                                 Extract of Unaudited Standalone and Consolidated Financial Results for the Quarter and Six Months ended 30th September, 2026
+                                                                                                                                                                                                                                          (' in Crores)
+                                                                                                                                                Standalone                                                          Consolidated
+ SI. No.   Particulars                                                                                                                                                Corresponding                                                    Corresponding
+                                                                                                                                  3 Months             6 Months              3 Months                3 Months             6 Months            3 Months
+                                                                                                                                        ended             ended                 ended                   ended                ended               ended
+                                                                                                                                 30.09.2026           30.09.2026           30.09.2025              30.09.2026            30.09.2026         30.09.2025
+    1      Total Income from operations                                                                                           29125.19             56713.75             20340.97                31085.76              61264.77           21840.26
+    2      Net Profit/ (Loss) for the period (before tax and Exceptional items)                                                     5507.41            10266.82               6759.27                 5720.28             11175.25             6890.60
+    3      Net Profit/ (Loss) for the period before tax (after Exceptional items)                                                   5481.75            10241.16               6847.35                 5694.62             11555.47             6978.68
+    4      Net Profit/ (Loss) for the period after tax (after Exceptional items)                                                    4137.12             7715.94               5175.70                 4229.33              8738.12             5186.55
+    5      Total Comprehensive Income for the period [Comprising Profit/ (Loss) for the period (after tax) and
+           Other Comprehensive Income (after tax)]                                                                                  3958.85             7980.78               4987.38                 4096.24              8970.74             5051.18
+
+    6      Equity Share Capital                                                                                                     1253.05             1253.05               1252.71                 1253.05              1253.05             1252.71
+    7      Earnings Per Share (oft 1/ - each) (not annualised):
+           1. Basic (t):                                                                                                                 3.30               6.16                  4.13                       3.32             6.83                 4.09
+           2. Diluted (t):                                                                                                               3.30               6.16                  4.13                       3.32             6.83                 4.09
+
+Note:
+a) The above is an extract of the detailed format of the Statements of Unaudited Standalone and Consolidated Financial Results filed with the Stock Exchanges under Regulation 33 of the SEBI (Listing Obligations and Disclosure Requirements)
+Regulations, 2015. The unaudited Financial Results and Segment Results were reviewed by the Audit Committee, and approved by the Board of Directors of the Company at its meeting held on 2nd November, 2026. The complete Statements of
+Unaudited Standalone and Consolidated Financial Results are available on the Company's website at https://itcportal.com/investors/quarterly-results.html and on the websites of the National Stock Exchange of India Limited (www.nseindia.com) and
+BSE Limited (www.bseindia.com). The same can also be accessed by scanning the QR Code provided below.
+
+b) Exceptional items in the Standalone and Consolidated Financial Results for the quarter and six months ended 30th September, 2026 represent expenses oft 25.66 Crores incurred in relation to acquisition of the pulp and paper business of Aditya
+Birla Real Estate Limited, operated under the name of 'Century Pulp and Paper', and for the quarter and six months ended 30th September, 2025 represent final settlement of the insurance claim oft 88.08 Crores towards leaf tobacco stocks, which
+were destroyed due to fire at a third party owned warehouse in an earlier year.
+
+Further, exceptional items in the Consolidated Financial Results for the six months ended 30th September, 2026 also include gain oft 405.88 Crores on remeasurement of the Group's existing interest in Sproutlife Foods Private Limited ('Sproutlife')
+in accordance with Ind AS 103 - Business Combinations, upon Sproutlife becoming a subsidiary of the Company.
+
+c) The Limited Review for the Standalone and Consolidated Financial Results, as required under Regulation 33 of the SEBI (Listing Obligations and Disclosure Requirements) Regulations, 2015, has been completed by the statutory auditors of the
+Company, who have issued an unmodified report on the same which has been forwarded to the Stock Exchanges.
+
+
+
+
+Registered Office                                                                                                                                                                        hall of the Boo<d
+Virginia House, 37 J.L. Nehru Road,
+Kolkata 700 071, India                                                                                                                                      �
+
+Dated : 2nd November, 2026
+Place Bengaluru, India                                                                                                                                                 Financial Officer                                   Chairman & Managing Director
+                                                                                                                                                                      (DIN: 01804345)                                                  (DIN : 00280529)
+
+
+                                                     Website: www.itcportal.com I E-mail: enduringvalue@itc.in I Phone: +91-33-2288 9371 I Fax: +91-33-2288 06551 CIN: L16005WB1910PLC001985
+                                                                                                           }I (      ''ilr!!"'
+                                                                                                            lr f loor Olnd   n
+                                                                                                           l'01•11:n 700 Olli lrldiR
+
+                                                                                                           ro1 ,g11101 400()
+
+    lndq1c11dt·nt \11,tii,11 ', Ut'\11'" n •1io11 011 th,· «}111111nly 11nd 11 to lhi!c• ll1111udltnJ Sf:iud11lrm
+    Finnndnl lir�ull of lht· ( ompAll) 11111 111111 fo flu I{ ul Hon 1, or lh \J nr (f Mln,t OhliRAfion,
+    and t)ii.dornn' Hcquirrnwnlll) H\' ulalion�, 201 "-, 11, 1me111lc•,J
+
+   Rnft" Rtpon to
+   11,r 80111-d ot Ohwton
+   IJCUmift'd
+
+        1.     We have 1�v1l'wed the ,1ccompa11ying !ilutcmcnl of unaudited standalone financial result of
+              ITC Limited (the "Company'') for the quarter ended September 30, 2026 and year to date from
+              April 01. 2026 to September 30, 2026 (the "Statement') attached herewith, being submitted by
+              the Company pursuant to the requirements of Regulation 33 of the SEBf {Listing Obligations
+              and Disclosure Requirements) Regulations, 2015, as amended (the "Listing Regulations").
+    2.         The Company's Management is responsible for the preparation of the Statement in accordance
+              with the recognition and measurement principles laid down in Indian Accounting Standard 34,
+              (Ind AS 34) "Interim Financial Reporting" prescribed under Section 133 of the Companies Act,
+              2013 as amended, read with relevant rules issued thereunder and other accounting principles
+              generally accepted in India and in compliance with Regulation 33 of the Listing Regulations.
+              The Statement has been approved by the Company's Board of Directors. Our responsibility is
+              to express a conclusion on the Statement based on our review.
+   3.         We conducted our review of the Statement in accordance with the Standard on Review
+              Engagements (SRE) 2410, "Review of Interim Financial Infonnation Perfonned by the
+             Independent Auditor of the Entity" issued by the Institute of Chartered Accountants of India.
+             This standard requires that we plan and perfonn the review to obtain moderate assurance as to
+             whether the Statement is free of material misstatement. A review is limited primarily to
+             inquiries of company personnel and analytical procedures applied to financial data and thus
+             provide less assurance than an audit. We have not performed an audit and accordingly, we do
+             not express an audit opinion.
+
+   4.         Based on our review conducted as above, nothing has come to our attention that causes us to
+             believe that the accompanying Statement, prepared in accordance with the recognition and
+             measurement principles laid down in the aforesaid Indian Accounting Standards ('Ind AS')
+             specified under Section 133 of the Companies Act, 2013 as amended, read with relevant rules
+             issued therewlder and other accounting principles generally accepted in India, has not disclosed
+             the information required to be disclosed in terms of the Listing Regulations, including the
+             manner in which it is to be disclosed, or that it contains any material misstatement.
+
+ForSRBC& CO LLP
+Chartered Acco  nts
+ICAJ Firm regi a • n number: 324982F/E300003
+
+
+
+
+perArvnJ�itffl
+Partner
+Membership No.: 89802
+UDJN: 26089802.UG)'IQN 1(4111
+Place: New York, United States
+Date: November 02, 2026
+
+
+                               SR 8 C & (0 UP.• llmll<G u..i,111yP11IM<1hlp Wllh llP lotn�ty No ,Ul·4lll
+s
+                                                                                                            22, Camac Street
+
+             C           COLL                                                                               3rd Floor. Block 'B'
+                                                                                                            Kolkata - 700 016, India
+ Chartered Accountants
+                                                                                                            Tel· +91 33 6134 4000
+
+
+
+ Independent Auditor's Review Report on the Quarterly and Year to Date Unaudited
+ Consolidated Financial Results of the Company Pursuant to the. Regulation 33 of the SEBI
+ (Listing Obligations and Disclosure Requirements) Regulations, 2015, as amended
+
+ Review Report to
+ The Board of Directors
+ ITC Limited
+
+ I. We have reviewed the accompanying Statement of Unaudited Consolidated Financial Results of
+    ITC Limited (the "Holding Company") and its subsidiaries (the Holding Company and its
+    subsidiaries together referred to as "the Group"), its associates and joint ventures for the quarter
+    ended September 30, 2026 and year to date from April 01, 2026 to September 30, 2026 (the
+    "Statement") attached herewith, being submitted by the Holding Company pursuant to the
+    requirements of Regulation 33 of the SEBI (Listing Obligations and Disclosure Requirements)
+    Regulations, 2015, as amended (the "Listing Regulations").
+
+2. The Holding Company's Management is responsible for the preparation of the Statement in
+   accordance with the recognition and measurement principles laid down in Indian Accounting
+   Standard 34, (Ind AS 34) "Interim Financial Reporting" prescribed under Section 133 of the
+   Companies Act, 2013 as amended, read with relevant rules issued thereunder and other accounting
+   principles generally accepted in India and in compliance with Regulation 33 of the Listing
+   Regulations. The Statement has been approved by the Holding Company's Board ofDirectors . Our
+   responsibility is to express a conclusion on the Statement based on our review.
+
+3. We conducted our review of the Statement in accordance, with the Standard on Review
+   Engagements (SRE) 2410, "Review ofInterim Financial Information Performed by the Independent
+   Auditor of the Entity" issued by the Institute of Chartered Accountants of India. This standard
+   requires that we plan and perform the review to obtain moderate assurance as to whether the
+   Statement is free of material misstatement. A review of interim financial information consists of
+   making inquiries, primarily of persons responsible for financial and accounting matters, and
+   applying analytical and other review procedures. A review is substantially less in scope than an
+   audit conducted in accordance with Standards on Auditing and consequently does not enable us to
+   obtain assurance that we would become aware of all significant matters that might be identified in
+   an audit. Accordingly, we do not express an audit opinion.
+
+    We also performed procedures in accordance with the Master Circular issued by the Securities and
+    Exchange Board of India under Regulation 33(8) of the Listing Regulations, to the extent
+    applicable.
+
+4. The Statement includes the results of the entities as mentioned in Annexure 1.
+
+5. Based on our review conducted and procedures performed as stated in paragraph 3 above and based
+   on the consideration ofthe review reports of other auditors referred to in paragraph 6 below, nothing
+   has come to our attention that causes us to believe that the accompanying Statement, prepared in
+   accordance with recognition and measurement principles laid down in the aforesaid Indian
+   Accounting Standards ('Ind AS') specified under Section 133 of the Companies Act, 2013, as
+   amended, read with relevant rules issued thereunder and other accounting principles generally
+   accepted in India, has not disclosed the information required to be disclosed in terms of the Listing
+   Regulations, including the manner in which it is to be disclosed, or that it contains any material
+   misstatement.
+
+
+
+
+                            SR BC &CO LLP, a Limited Liability Partnership with LLP Identity No. AAB-4318
+ SRB                        0 I.I.I'
+ 11 C I 11n1k,i
+ I\, ,.,. 2 1'f 4
+
+ C\.    11lc ,K\.'(ll1\(l,ltl)'lll!,( Stuknwnt tndtulcs the 1111u111lttcd in\crun financial result� and other financial
+       mfo11111\llo11, m resp�'.! of twenty suh.si<liarics, whose unaudited interim financial results include
+       totill as�cts nf Rs. 4,668.28 crorcs oi. at September 30, 2026. total revenue� of Rs l ,335.42 crores
+       and Rs. 2,5Q9.52 crorcs, total net profit after tax of Rs. 152.59 crores and Rs. 299.21 crores. total
+       comprehensive income of Rs. 158.02 crores and Rs. 310.91 crores, for the quarter ended September
+       30, 2026 and the period ended on that date respectively, and net cash outflows of Rs. 59.44 crores
+       for the period from April 01, 2026 to September 30. 2026, as considered in the Statement which
+       have been reviewed by their respective independent auditors.
+
+       The independent auditor's reports on interim financial results of these entities have been furnished
+       to us by the Management and our conclusion on the Statement, in so far as it relates to the amounts
+       and disclosures in respect of these subsidiaries is based solely on the report of such auditors and
+       procedures perfonned by us as stated in paragraph 3 above.
+
+       Our conclusion on the Statement in respect of matters stated in para 6 above is not modified with
+       respect to our reliance on the work done and the reports of the other auditors.
+
+
+For SR BC & CO LLP
+Chartered Accountants
+ICAI Firm registration number: 324982E/E300003
+
+
+
+
+per Arvin
+Partner
+Membership No.: 89802
+
+UDIN: 2 608980lNRZCC Q9 066
+
+Place: New York, United States
+Date: November 02, 2026
+SR                       COLP
+ Chartered Accountants
+
+
+ ITC Limited
+ Page 3 of 4
+
+ Annexure-1
+ List of subsidiaries/associates/joint ventures
+
+ Subsidiaries
+
+    s.     Name
+   No.
+    1    Russell Credit Limited
+    2    Greenacre Holdings Limited
+    3    Technico Agri Sciences Limited
+    4    Pavan Poplar Limited (under liquidation)
+    5    ITC lnfotech India Limited
+    6    ITC lnfotech Do Brasil LTDA. *
+    7    ITC lnfotech Limited UK*
+    8    ITC lnfotech (USA), Inc.*
+    9    Indivate Inc.*
+   10    ITC lnfotech GmbH *
+   11    ITC lnfotech France SAS *
+   12 ITC Infotech Malaysia SDN. BHD. *
+   13    ITC lnfotech de Mexico, S.A. de C.V.*
+   14 ITC lnfotech Arabia Limited*
+   15 ITC lnfotech Italia s.r.l. *
+   16 ITC Infotech Australia Pty. Ltd. (name changed from Blazeclan Technologies Pty. Ltd.,
+         Australia w.e.f. 03.07.2026) *
+   17 Blazeclan Technologies Limited. New Zealand*
+   18    Blazeclan Technologies Pte Limited. Singaoore*
+   19 Blazeclan Technolo1des SDN. BHD. Malavsia*
+  20 Blazeclan Technolo11.ies Corporation Philinnines*
+  21 Blazeclan Europe SRL., Belgium*
+  22 Blazeclan Technologies LLC. USA*
+  23 ITC Infotech Canada Inc. (name changed from Blazeclan Technologies Inc., Canada w.e.f.
+        10.08.2026) *
+  24 Fyve Elements LLC USA
+  25 Sresta Global FZE, UAE
+  26 Technico Pty Limited
+  27 Technico Technologies Inc.*
+  28    Technico Asia Holdings Pty Limited*
+  29 Technico Horticultural (Kunming) Co. Limited*
+  30 ITC Integrated Business Services Limited
+  31 MRR Trading & Investment Company Limited*
+  32 Gold Flake Corporation Limited
+  33 Surya Nepal Private Limited
+  34 Surya Nepal Ventures Pvt. Ltd.*
+  35 North East Nutrients Private Limited
+  36 ITC IndiVision Limited
+  37 ITC Fibre Innovations Limited
+  38 Sproutlife Foods Private Limited
+*Represents step-down subsidiaries
+SR BC & COLLP
+Chartered Accountants
+
+
+ITC Limited
+Page 4 of4
+
+Associates
+  S.No. Name
+    I     ATC Limited #
+    2     Divya Management Limited #
+    3     Antrang Finance Limited #
+    4     Russell Investments Limited #
+    5    Mother Sparsh Baby Care Private Limited
+    6    ITC Hotels Limited
+    7    Ample Foods Private Limited
+# Represents associate of subsidiaries
+
+
+Joint Ventures
+  S.No. Name
+     I     Logix Develooers Private Limited
+                                A
+    2      ITC Filtrona Limited
+A
+  Joint venture of a subsidiary
+

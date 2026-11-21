@@ -1,0 +1,18 @@
+{
+  "state": "VERIFIED",
+  "verified_at": "2026-10-22T08:58:50.008626+05:30",
+  "spreadsheet_id": "1uMgZd9anGrXOOleQlqwEHVT6zAXezsTBJxf9PnXTWK8",
+  "publication_kind": "EXECUTION_FAILURE_NOTICE",
+  "notice_id": "2026-10-21_evening_source_date_failure_v01",
+  "research_execution_status": "FAILED",
+  "source_incident": "research/incidents/2026-10-21_evening_source_date_failure_v01",
+  "prior_report": "research/stock_reports/pipeline_2026-10-21_100000",
+  "row_counts": {
+    "Research Dashboard": 17,
+    "Routine Runs": 112,
+    "Research Tasks": 40,
+    "Research Briefs": 11,
+    "Research Stocks": 117
+  },
+  "checks": "All five managed tables reconciled and matched readback; stock table unchanged; unique history/task IDs; no Claude review claimed; portfolio tabs untouched"
+}

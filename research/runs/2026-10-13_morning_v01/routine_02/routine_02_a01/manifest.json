@@ -1,0 +1,28 @@
+{
+  "schema_version": "1.1",
+  "committed": true,
+  "batch_id": "2026-10-13_morning_v01",
+  "run_id": "routine_02_a01",
+  "artifacts": [
+    {
+      "path": "open_tasks.jsonl",
+      "sha256": "a14fdcc2cdb07523f6eb72c17734fe9680f41254192d8ec991a5f0a6a68b937d",
+      "record_count": 30
+    },
+    {
+      "path": "readiness.json",
+      "sha256": "b4665f17fff98877329d70849462209306e462afce212e72d01ecc0431f6e974",
+      "record_count": null
+    },
+    {
+      "path": "report.md",
+      "sha256": "1a46ce9038833397e25a576326c2b2822ff10fcd8e4464815b9ec557c0155add",
+      "record_count": null
+    },
+    {
+      "path": "handoff.json",
+      "sha256": "0f74a53d1beb27deec1fa927a592a4240280d2ddeb4e7a12ab1e5f8f8dee5132",
+      "record_count": 1
+    }
+  ]
+}

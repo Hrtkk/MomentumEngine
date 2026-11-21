@@ -1,0 +1,38 @@
+{
+  "status": "PARTIAL",
+  "stock_count": 518,
+  "editorial_executed": true,
+  "editorial_executed_this_pass": true,
+  "analysis_reused": false,
+  "author": "Claude",
+  "economic_review": "PENDING",
+  "items": [
+    {
+      "symbol": "JPL",
+      "mechanism": "Fact: exchange filing states Board approved unaudited consolidated and standalone results for quarter and half year ended September 30, 2026, with auditor review report attached. Hypothesis: the results may be informative for the platform business, but no verified figures are supplied.",
+      "uncertainty": "High: metadata and unverified OCR only; no quarter table, sector metrics or cash conversion verified.",
+      "next_check": "Verify original quarter table, sector metrics, cash conversion and valuation from the primary filing.",
+      "evidence_ids": [
+        "nse-announcement-106837268"
+      ]
+    },
+    {
+      "symbol": "RELIANCE",
+      "mechanism": "Fact: Board approved unaudited consolidated and standalone results for quarter and half year ended September 30, 2026, and passed an enabling resolution for non-convertible debentures up to Rs. 15,000 crore via private placement. Hypothesis: enabling resolution may relate to funding needs; purpose and timing are not stated in the excerpt.",
+      "uncertainty": "High: no verified financial figures; NCD resolution is enabling only, issuance not confirmed.",
+      "next_check": "Verify original quarter table, segment metrics, cash conversion, and any stated use of NCD proceeds.",
+      "evidence_ids": [
+        "nse-announcement-106837394"
+      ]
+    },
+    {
+      "symbol": "SUZLON",
+      "mechanism": "Fact: Board approved limited-reviewed standalone and consolidated results for quarter and six months ended September 30, 2026; filing also references an acquisition of 1,00,000 equity shares (excerpt truncated). Hypothesis: acquisition may be a strategic or subsidiary transaction; details unverified.",
+      "uncertainty": "High: OCR truncated; target entity and terms of acquisition unknown; no verified financials.",
+      "next_check": "Verify original quarter table, order book metrics, cash conversion, and acquisition target and terms.",
+      "evidence_ids": [
+        "nse-announcement-106834353"
+      ]
+    }
+  ]
+}

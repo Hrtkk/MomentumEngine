@@ -1,0 +1,18 @@
+{
+  "request_id": "claude-10e7ccf2d6954ea32c250aad",
+  "cost_proxy_usd": 0,
+  "input_tokens": 0,
+  "output_tokens": 0,
+  "actual_model_usage": {},
+  "num_turns": 1,
+  "auth": {
+    "status": "AUTHENTICATED",
+    "logged_in_in_current_context": true,
+    "auth_method": "claude.ai",
+    "subscription_type": "max",
+    "checked_at": "2026-11-09T21:01:02.156058+05:30"
+  },
+  "default_model_preserved": true,
+  "tools_disabled": true,
+  "reconciled_at": "2026-11-09T21:01:04.248349+05:30"
+}

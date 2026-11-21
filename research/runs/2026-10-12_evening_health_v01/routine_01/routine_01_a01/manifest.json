@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.1",
+  "committed": true,
+  "batch_id": "2026-10-12_evening_health_v01",
+  "run_id": "routine_01_a01",
+  "artifacts": [
+    {
+      "path": "open_tasks.jsonl",
+      "sha256": "a14fdcc2cdb07523f6eb72c17734fe9680f41254192d8ec991a5f0a6a68b937d",
+      "record_count": 30
+    },
+    {
+      "path": "readiness.json",
+      "sha256": "de5828e22204fdd12ed94fef99517a04b21bb96d22d50ca6cf7803b58254848f",
+      "record_count": null
+    },
+    {
+      "path": "report.md",
+      "sha256": "06d05017bfac08d0d565b22d4265f65cbd981afef99b8ca0eaa58ea5b2cc33a1",
+      "record_count": null
+    },
+    {
+      "path": "signals.jsonl",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "record_count": 0
+    },
+    {
+      "path": "handoff.json",
+      "sha256": "43981e9c779e68aeb50d5028d284ffa8a5f4945ef45e0ee804cf0b8a622e79f6",
+      "record_count": 1
+    }
+  ]
+}

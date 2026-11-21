@@ -1,0 +1,38 @@
+{
+  "committed": true,
+  "schema_version": "1.1",
+  "artifacts": [
+    {
+      "path": "budget_snapshot.json",
+      "sha256": "cf8f9e327c9d010047fa89a6bc7bc73949562fbb4075978ddad2141505fdb69d"
+    },
+    {
+      "path": "claude_receipt.json",
+      "sha256": "983e3a1f15f587bfe5ffb0d076544ab8cef73efa9f7cd798349522947f4c8c5c"
+    },
+    {
+      "path": "decision_queue.jsonl",
+      "sha256": "2651bf33122b87d685a4c5518c2d4e9ebdfdbba37a464f2cc0bb9e76bb3f4460"
+    },
+    {
+      "path": "digest.json",
+      "sha256": "1b7c1233ad582d2378fd80808359e70955692cd46d73239a04ea12297942df0b"
+    },
+    {
+      "path": "open_tasks.jsonl",
+      "sha256": "2651bf33122b87d685a4c5518c2d4e9ebdfdbba37a464f2cc0bb9e76bb3f4460"
+    },
+    {
+      "path": "readiness.json",
+      "sha256": "c5d395b39ddf7d3a3df0fe48d21880c3ce9c7bca08b0f178e351a4da2a6c4d6a"
+    },
+    {
+      "path": "report.md",
+      "sha256": "c303ee6b67d8959fbb830e89e4017b1c19de7c5d5ad40769826e31dad3feb4fa"
+    },
+    {
+      "path": "handoff.json",
+      "sha256": "fd88497461059df96efc8c5672155ab07bedcc36a5a916c6cc3573865f31c3f6"
+    }
+  ]
+}

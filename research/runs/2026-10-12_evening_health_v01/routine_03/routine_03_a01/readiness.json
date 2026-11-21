@@ -1,0 +1,61 @@
+{
+  "scheduled_slot": "2026-10-12T21:00:00+05:30",
+  "deadline_at": "2026-10-12T21:30:00+05:30",
+  "current_eod_batch_present": false,
+  "current_raw_bhavcopy_present": false,
+  "latest_paper_session": "2026-10-09",
+  "calendar_certified": false,
+  "phase0_certified": false,
+  "budget_accounting_available": false,
+  "claude": {
+    "logged_in_in_current_context": false,
+    "auth_method_in_current_context": "none",
+    "status": "AUTH_CONTEXT_UNAVAILABLE",
+    "normal_login_previously_verified": true,
+    "inference": "No claim of human logout"
+  },
+  "paper_position_records": 15,
+  "actual_exposure_known": false,
+  "prior_news_records": 17,
+  "prior_primary_verified": 8,
+  "new_news_fetches": 0,
+  "paid_cli_calls": 0,
+  "c0_coverage": {
+    "source": "ledgers/state.json",
+    "asof": "2026-10-09",
+    "portfolio_names": [
+      "c0.003",
+      "c0.006",
+      "c0.010",
+      "frac0.006"
+    ],
+    "status": "NOT_EVALUATED",
+    "reason": "No certified per-portfolio thesis/trigger layer; C0 exposure checks pending"
+  },
+  "registration_checks": [
+    {
+      "path": "experiments/e2_strategies.py",
+      "expected_prefix": "b1a43b0979b46e1d",
+      "actual_sha256": "b1a43b0979b46e1dffce8926323be0bc20205c1626ff29d14316a6d1287cc144",
+      "matches": true
+    },
+    {
+      "path": "experiments/sim.py",
+      "expected_prefix": "4914041ef1b36f00",
+      "actual_sha256": "4914041ef1b36f0022957ba2809c5110bc8179a561a80fc97d8c78f7809a1839",
+      "matches": true
+    },
+    {
+      "path": "experiments/panels.py",
+      "expected_prefix": "e9290eb171614c71",
+      "actual_sha256": "e9290eb171614c71ef1f98ea5de64de63e4f3ce2c5110554da1e1c74e21dab3f",
+      "matches": true
+    },
+    {
+      "path": "experiments/pit_panels.py",
+      "expected_prefix": "51ba12760f8a63ef",
+      "actual_sha256": "51ba12760f8a63ef671bb94c5ea1ed82bc5783be2167db551c0938d0b059a53d",
+      "matches": true
+    }
+  ]
+}

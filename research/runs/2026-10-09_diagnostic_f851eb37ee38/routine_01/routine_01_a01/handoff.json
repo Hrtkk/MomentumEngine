@@ -1,0 +1,185 @@
+{
+  "schema_version": "1.1",
+  "routine_id": "routine_01",
+  "batch_id": "2026-10-09_diagnostic_f851eb37ee38",
+  "run_id": "routine_01_a01",
+  "session_date": "2026-10-09",
+  "started_at": "2026-10-11T22:26:19.623298+05:30",
+  "completed_at": "2026-10-11T22:26:36.796059+05:30",
+  "cutoff_at": "2026-10-09T15:30:00+05:30",
+  "timezone": "Asia/Kolkata",
+  "status": "PARTIAL",
+  "result": "CHANGED",
+  "execution_lane": "FAST",
+  "production_eligible": false,
+  "readiness_ref": null,
+  "budget_ref": null,
+  "budget_usage": {
+    "additional_model_calls": 0,
+    "external_fetches": 0
+  },
+  "deferred_counts": {
+    "phase0": 437,
+    "benchmark_scans": 2,
+    "claude_review": 1
+  },
+  "owner": "Codex",
+  "reviewer": "Claude",
+  "review_status": "UNAVAILABLE",
+  "previous_success_run_id": null,
+  "supersedes_run_id": null,
+  "bootstrap": true,
+  "upstream_runs": [],
+  "input_versions": {
+    "experiments/data/pit/bhav_2025.parquet": "e0bbf7d00064f325de562dd0e1ec32da183b3b66f9480584a15d93ef139ac094",
+    "experiments/data/pit/bhav_2026.parquet": "4668b431c18ba2c9c3148f423b2c94a69a57a09f93e7a16d07b13972351a9c07",
+    "experiments/data/pit/ca.parquet": "99d5d6a24c3b703e5ad0fa2b7aac2b08e4dfd389af812de3bc3ab0545fbcdb15",
+    "data/raw/bhav/2026-10-09.csv": "08cce5711c359146c89a2a25e6b3ec7b5a4bb047611456ae43d6644a905602b6",
+    "ROADMAP.md": "d8d45cc71a0c869433acce43540329c5105ad68eea0adfcc63824d8b53702e67"
+  },
+  "config_version": "r1-diagnostic-1",
+  "code_revision": {
+    "git_head": "1b0b24d1786ffc77677537c6b8d7e7073cca4ef2",
+    "scanner_sha256": "cc8f518b143d1855c50cb64c50199ed1cc9a801069a05a2eee0feb850ff00d0a"
+  },
+  "coverage": {
+    "expected": 500,
+    "processed": 63,
+    "quarantined": 437
+  },
+  "freshness": {
+    "latest_cached_session": "2026-10-09",
+    "live": false,
+    "raw_internal_date_verified": true
+  },
+  "limitations": [
+    "Phase 0 calendar, historical identity and corporate-action completeness are not certified.",
+    "Universe reproduction is diagnostic, not an approved membership snapshot.",
+    "Broad/sector relative strength and sector breadth are NOT_EVALUATED: benchmark readiness absent.",
+    "No previous committed R1 baseline: bootstrap, not claims of newly discovered signals.",
+    "Claude review NOT performed: shared metered-call budget accounting is not implemented.",
+    "Available data are dated 2026-10-09, not a live/current-session scan."
+  ],
+  "artifacts": [
+    {
+      "path": "config.json",
+      "sha256": "275ac9d6507b82096085e15b8ec9886028a3c39575c5367f34353cd67c148a04",
+      "record_count": null
+    },
+    {
+      "path": "evidence.jsonl",
+      "sha256": "63282bfe446f011dd9d2b991843c6f03f09d3c0616e72c2aa990a307472d62a9",
+      "record_count": 2
+    },
+    {
+      "path": "metrics.jsonl",
+      "sha256": "292d3256b5744988a1143d6ca660322196021db69f1a847f46eaaf44445f5941",
+      "record_count": 63
+    },
+    {
+      "path": "quarantine.jsonl",
+      "sha256": "a77c66c3466cf208a2d31085ee56651370c117c11cff3be8ebf2bb1846f17076",
+      "record_count": 437
+    },
+    {
+      "path": "report.md",
+      "sha256": "2680c51ac8e31a2848ca385306e7fc9f3ffe9fa0bdd2d2ac6f7de27297c73943",
+      "record_count": null
+    },
+    {
+      "path": "signals.jsonl",
+      "sha256": "789abdfb4f7d9db1d6972aadd5f00138106f739f537a82040002098738c0012e",
+      "record_count": 19
+    }
+  ],
+  "source_cursors": {},
+  "processed_event_ids": [
+    "d4d8ba8fcc4e1f3315f5",
+    "4a26859999101fa7bb18",
+    "6bd2041e7cd1bcebafb5",
+    "c65b14629e2616102dac",
+    "9ff1260dc6254baf9f7d",
+    "4a4ad7d12faacd4439f4",
+    "a67a5697e275ad77b1b3",
+    "c9d61dfaf56bd8bb9251",
+    "2327d202dec66202a760",
+    "8a463378a8a9dfb1cdad",
+    "9f03e4df3ecfa27e3449",
+    "e7ef6974f374f7ade102",
+    "ddccbe668d8c0123a52a",
+    "d19f08550a7cdda49e60",
+    "89e06f2029bd297e541e",
+    "073e5b285042661ca171",
+    "ff53c7cab746964c4f8e",
+    "72bfe04ea3631cd20931",
+    "0a41cdd592e2725b3074"
+  ],
+  "open_tasks": [
+    {
+      "task_id": "r1-readiness",
+      "owner": "Codex",
+      "security_id": null,
+      "description": "Certify applicable Phase 0 data gates",
+      "priority": "P1",
+      "status": "BLOCKED",
+      "created_run_id": "routine_01_a01",
+      "due_at": null,
+      "trigger": "before production run",
+      "blocking_reason": "Certify applicable Phase 0 data gates",
+      "evidence_refs": [
+        "ROADMAP.md"
+      ]
+    },
+    {
+      "task_id": "r1-benchmarks",
+      "owner": "Codex",
+      "security_id": null,
+      "description": "Verify benchmark/sector input series",
+      "priority": "P1",
+      "status": "BLOCKED",
+      "created_run_id": "routine_01_a01",
+      "due_at": null,
+      "trigger": "before production run",
+      "blocking_reason": "Verify benchmark/sector input series",
+      "evidence_refs": [
+        "ROADMAP.md"
+      ]
+    },
+    {
+      "task_id": "r1-budget",
+      "owner": "Codex",
+      "security_id": null,
+      "description": "Implement shared metered-call accounting",
+      "priority": "P1",
+      "status": "BLOCKED",
+      "created_run_id": "routine_01_a01",
+      "due_at": null,
+      "trigger": "before production run",
+      "blocking_reason": "Implement shared metered-call accounting",
+      "evidence_refs": [
+        "ROADMAP.md"
+      ]
+    },
+    {
+      "task_id": "r1-review",
+      "owner": "Claude",
+      "security_id": null,
+      "description": "Review diagnostic after budget readiness",
+      "priority": "P1",
+      "status": "BLOCKED",
+      "created_run_id": "routine_01_a01",
+      "due_at": null,
+      "trigger": "before production run",
+      "blocking_reason": "Review diagnostic after budget readiness",
+      "evidence_refs": [
+        "ROADMAP.md"
+      ]
+    }
+  ],
+  "resolved_task_ids": [],
+  "next_run": {
+    "resume_from": "2026-10-09_diagnostic_f851eb37ee38/routine_01_a01",
+    "allow_candidate_promotion": false,
+    "instructions": "Retain these tasks; verify prerequisites; consume diagnostic signals only as quarantined leads."
+  }
+}

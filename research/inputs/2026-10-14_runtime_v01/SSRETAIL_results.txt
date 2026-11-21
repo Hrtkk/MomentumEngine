@@ -1,0 +1,298 @@
+Date: 13/10/2026
+
+ The Secretary, Listing Department                      The Secretary, Listing Department
+ National Stock Exchange of India Limited               BSE Limited
+ Exchange Plaza, C-1, Block G, Bandra Kurla             Phiroze Jeejeebhoy Towers,
+ Complex, Bandra Kurla (E), Mumbai – 400 051            Dalal Street, Mumbai – 400 001
+
+ Symbol: SSRETAIL                                       Scrip Code: 544934
+ ISIN: INE1EQW01028                                     ISIN: INE1EQW01028
+
+Dear Sir/Madam,
+
+Sub.: Outcome of the Board Meeting under Regulation 30 and 33 read with Part A of Schedule III
+of the Securities and Exchange Board of India (Listing Obligations and Disclosure Requirements
+Regulations), 2015 ("Listing Regulations").
+
+This is reference to Board Meeting intimation dated October 06, 2026, pursuant to Regulations 30
+and 33 of the SEBI (Listing Obligations and Disclosure Requirements) Regulations, 2015 (“Listing
+Regulations”), we wish to inform you that the Board of Directors of the Company, at its meeting
+held today i.e. Tuesday, October 13, 2026 considered and approved, inter alia, the following items
+of business:
+
+1. The un-audited Financial Results (Standalone and Consolidated) for the quarter and ended June
+   30, 2026. In this regard, please find enclosed:
+   a. Un-audited Standalone and Consolidated Financial Results of the Company for the quarter
+       ended June 30, 2026;
+   b. Auditor’s Limited Review Report in respect of the Un-audited Standalone and
+       Consolidated Financial Results of the Company for the quarter ended June 30, 2026;
+
+The Meeting of the Board of Directors of the Company commenced at 4.30 PM (IST) and
+concluded at 7.45 PM (IST).
+
+This submission is also available on the Company’s website under the tab “Investor Relations” at
+WWW.SSMOBILE.COM
+
+You are requested to take the above information on record
+
+Thanking You,
+Yours faithfully,
+For SS Retails Limited
+Kishor   Digitally signed by
+
+Babaso   Kishor Babaso Hupare
+         Date: 2026.10.13
+
+Hupare   20:00:03 +05'30'
+
+
+
+
+Kishor Hupare
+Designation: Company Secretary & Compliance Officer
+M. No. F10716
+  SS RETAIL LIMITED ( FORMERLY KNOWN AS SS RETAIL PRIVATE LIMITED & SS COMMUNICATION AND SERVICES PRIVATE LIMITED)
+                                                                  CIN-U51599PN2016PLC164991
+
+
+            Registered Office: 399, E, Basant Bahar Road, Ratikamal Complex, Shop 6-7, Kolhapur -416003, Maharashtra , India.
+                       Phone No: +91 9096191222 Email: compliance@ssmobile.com Website: www.ssmobile.com
+
+
+
+                                  Statement of Unaudited Standalone Financial Results for the quarter ended June 30, 2026
+                                                                                                                                           (₹ in Million except Earnings per share data)
+
+Sr No Particulars                                                                                       For the Quarter Ended                                For Year Ended
+                                                                                          June 30, 2026   March 31, 2026      June 30, 2025                  March 31, 2026
+                                                                                                              (Audited Refer        (Audited Refer
+                                                                                          (Unaudited)            Note 6)               Note 7)                    (Audited)
+
+  1   Income
+      a) Revenue from Operations                                                               7,694.93              6,540.66              4,976.41                    23,342.31
+      b) Other Income                                                                              8.69                 16.45                  3.40                        22.63
+      Total Income                                                                             7,703.62              6,557.11              4,979.81                    23,364.94
+
+  2   Expenses
+      a) Purchases of Traded Goods                                                             7,602.45              6,389.44              4,471.15                    21,524.91
+      b) Changes in Inventories of Traded Goods                                                 (882.18)              (668.33)              (104.37)                   (1,012.83)
+      c) Employee Benefit Expense                                                                128.82                115.77                 79.98                       384.06
+      d) Finance Costs                                                                            52.68                 64.31                 36.03                       163.71
+      e) Depreciation and Amortisation Expenses                                                   84.84                 81.22                 57.77                       286.59
+      f) Other Expenses                                                                          400.52                331.51                231.04                     1,178.47
+      Total Expenses                                                                           7,387.13              6,313.92              4,771.60                    22,524.91
+
+  3   Profit before Tax for the period/ Year (1-2)                                               316.48                243.19                 208.21                        840.03
+
+  4   Tax expense
+      a) Current tax                                                                               79.65                 55.87                  52.40                       220.00
+      b) Current tax expense relating to the previous year                                                               (1.58)                   -                          (0.56)
+      c) Deferred tax (net)                                                                        (1.88)                (0.56)                  7.25                         2.55
+      Total Tax Expenses                                                                           77.77                 53.73                  59.65                       221.99
+
+  5   Profit for the period / year (3-4)                                                         238.71                189.46                 148.56                        618.04
+
+  6   Other comprehensive income / (loss) for the period / Year
+      a) Items that will not be reclassified to profit or loss
+      (i) Remeasurement of post-employment benefit plans (net)                                      0.05                  0.43                  (2.29)                        (1.01)
+      (ii) Income-tax relating to items that will not be reclassified to profit or loss            (0.01)                (0.11)                  0.58                          0.25
+      Total other comprehensive income / (loss) for the period / year, net of tax                   0.04                  0.32                  (1.71)                        (0.75)
+
+  7   Total comprehensive income for the period / year (5+6)                                     238.75                189.78                 146.85                        617.29
+
+  8   Paid-up equity share capital ( Face value of INR 10 each)                                  658.64                658.64                 131.50                       658.64
+  9   Other Equity                                                                                                                                                       1,543.21
+
+ 10   Earnings per equity share ("EPS") ( Face value of INR 10 each)
+      Basic EPS (in INR)                                                                            3.62                   2.88                   2.29                          9.41
+      Diluted EPS ( in INR)                                                                         3.62                   2.88                   2.29                          9.41
+                                                                                           (Not Annualised)      (Not Annualised)      (Not Annualised)                 (Annualised)
+    Explanatory notes to the Statement of Unaudited Standalone Financial Results for the quarter ended June 30, 2026.
+
+
+    The unaudited standalone financial results of SS Retail Limited ("the Company") have been prepared in accordance with the recognition and measurement principles laid down in the
+    Indian Accounting Standard 34 "Interim Financial Reporting" ("Ind AS 34") (Ind AS), prescribed under Section 133 of the Companies Act, 2013 read with the relevant rules issued
+1
+    thereunder and other accounting principles generally accepted in India and in compliance with the presentation and disclosure requirements of Regulation 33 of the Securities and
+    Exchange Board of India (SEBI) Listing Obligations and Disclosure Requirements Regulations (LODR), 2015, as amended.
+
+    The unaudited standalone financial results for the quarter ended June 30, 2026 were reviewed and recommended for approval by the Audit Committee and approved by the Board of
+2   Directors of the Company at the meeting held on October 13, 2026. These unaudited standalone financial results have been subjected to limited review by the statutory auditors of the
+    Company.
+
+    The Chief Financial Officer (CFO) monitors the operating results of the Company as a whole for the purpose of making decisions about resource allocation and performance
+3   assessment. The Company is engaged in the business of multi – brand retail chain for mobile phones, accessories and other electronic items. Accordingly, in the context of Ind AS 108,
+    Operating Segments, the Company is considered to constitute a single primary segment, and there are no separate geographical segments.
+
+    Subsequent to the quarter ended June 30, 2026, the Company had completed its Initial Public Offer (IPO) of 85,04,075 equity shares of face value of INR 10 each at an issue price of
+    INR 424 per share (including a share premium of INR 414 per share) as Fresh Issue and an offer for sale of 33,01,884 shares with an issue price of INR 424 per share. The issue
+4
+    consisted of a fresh issue aggregating to INR 3,600.00 million and an offer for sale by selling shareholders aggregating to INR 1,400.00 million. The equity shares of the Company were
+    listed on the National Stock Exchange of India Limited ("NSE") and BSE Limited ("BSE") on September, 23 2026.
+    On November 21, 2025, the Government of India notified four Labour Codes – the Code on Wages, 2019, the Industrial Relations Code, 2020, the Code on Social Security, 2020, and
+    the Occupational Safety, Health and Working Conditions Code, 2020 – consolidating 29 existing labour laws. The Ministry of Labour & Employment published Central Rules and
+5
+    FAQs to enable assessment of the financial impact due to changes in regulations. The Company has assessed and considered the incremental impact of these changes on the basis of best
+    information available, consistent with the guidance provided by the Institute of Chartered Accountants of India.
+
+    The Company continues to monitor the Central / State Rules and clarifications from the Government on other aspects of the Labour Code and would provide appropriate accounting
+    effect on the basis of such developments, as needed.
+
+
+
+    The figures for the quarter ended March 31, 2026 are the balancing figures between the audited figures in respect of full financial year and the unaudited figures up to the end of the
+6
+    third quarter of the relevant financial year which have been approved by the Company's Board of Directors.
+
+
+    The figures for the quarter ended June 30, 2025 have been extracted from the Audited Special Purpose Standalone Interim Financial Statements, which was approved by the Company's
+7
+    Board of Directors on October 27, 2025.
+
+    The unaudited standalone financial results for the quarter ended June 30, 2026, are available on the BSE website (URL: www.bseindia.com/corporates), the NSE website (URL:
+8   www.nseindia.com/corporates) and on the Company's website (www.ssmobile.com).
+
+
+
+    For and on behalf of the Board
+
+
+
+
+    Siddharth Gunvant Shah
+    Managing Director
+    DIN: 07530121
+    Place: Kolhapur
+    Date: October 13, 2026.
+  SS RETAIL LIMITED ( FORMERLY KNOWN AS SS RETAIL PRIVATE LIMITED & SS COMMUNICATION AND SERVICES PRIVATE LIMITED)
+                                              CIN-U51599PN2016PLC164991
+
+           Registered Office: 399, E, Basant Bahar Road, Ratikamal Complex, Shop 6-7, Kolhapur -416003, Maharashtra , India.
+                      Phone No: +91 9096191222 Email: compliance@ssmobile.com Website: www.ssmobile.com
+
+                                 Statement of Unaudited Consolidated Financial Results for the quarter ended June 30, 2026
+                                                                                                                                          (₹ in Million except Earnings per share data)
+Sr No Particulars                                                                                             For the Quarter Ended               For Year Ended
+                                                                                          June 30, 2026        March 31, 2026       June 30, 2025 March 31, 2026
+                                                                                                               (Audited Refer (Audited Refer Note
+                                                                                          (Unaudited)              Note 8)                7)         (Audited)
+
+  1   Income
+      a) Revenue from Operations                                                               7,890.47              6,647.90              4,976.41                   23,510.31
+      b) Other Income                                                                              6.05                 12.05                  3.40                       18.23
+      Total Income                                                                             7,896.52              6,659.95              4,979.81                   23,528.54
+
+  2   Expenses
+      a) Purchases of Traded Goods                                                             7,844.54              6,496.26              4,471.15                   21,741.13
+      b) Changes in Inventories of Traded Goods                                                 (960.78)              (684.79)              (104.37)                  (1,094.96)
+      c) Employee Benefit Expense                                                                138.21                125.87                 79.98                      407.72
+      d) Finance Costs                                                                            53.00                 64.35                 36.03                      164.68
+      e) Depreciation and Amortisation Expenses                                                   86.52                 82.92                 57.77                      290.53
+      f) Other Expenses                                                                          420.22                351.97                231.04                    1,204.93
+      Total Expenses                                                                           7,581.71              6,436.59              4,771.60                   22,714.03
+
+  3   Profit before Tax for the period/ Year (1-2)                                               314.81                223.36                 208.21                       814.51
+
+  4   Tax expense
+      a) Current tax                                                                               80.25                 55.87                     52.40                   220.00
+      b) Current tax expense relating to the previous year                                                               (1.58)                      -                      (0.56)
+      c) Deferred tax (net)                                                                        (2.19)                (0.63)                     7.25                     2.25
+      Total Tax Expenses                                                                           78.06                 53.66                     59.65                   221.69
+
+  5   Profit for the period / year (3-4)                                                         236.75                169.70                 148.56                       592.82
+
+  6   Other comprehensive income / (loss) for the period / Year
+      a) Items that will not be reclassified to profit or loss
+      (i) Remeasurement of post-employment benefit plans (net)                                     (0.03)                 0.48                     (2.29)                    (0.95)
+      (ii) Income-tax relating to items that will not be reclassified to profit or loss             0.01                 (0.12)                     0.58                      0.24
+      Total other comprehensive income / (loss) for the period / year, net of tax                  (0.02)                 0.36                     (1.71)                    (0.71)
+
+  7   Total comprehensive income for the period / year (5+6)                                     236.73                170.06                 146.85                       592.11
+
+  8   Net Profit Attributable to:
+      a) Owners of the Company                                                                   235.81                173.80       Refer Note 7                           598.28
+      b) Non Controlling Interest                                                                  0.94                 (4.10)      Refer Note 7                            (5.46)
+
+  9   Other Comprehensive Income Attributable to:
+      a) Owners of the Company                                                                      0.01                  0.34      Refer Note 7                             (0.73)
+      b) Non Controlling Interest                                                                  (0.03)                 0.02      Refer Note 7                              0.02
+
+ 10   Total Comprehensive Income Attributable to:
+      a) Owners of the Company                                                                   235.82                174.14       Refer Note 7                           597.55
+      b) Non Controlling Interest                                                                  0.91                 (4.08)      Refer Note 7                            (5.44)
+
+
+ 11   Paid-up equity share capital ( Face value of INR 10 each)                                  658.64                658.64                 131.50                      658.64
+ 12   Other Equity                                                                                                                                                      1,595.85
+
+ 13   Earnings per equity share ("EPS") ( Face value of INR 10 each)
+      Basic EPS (in INR)                                                                             3.58                  2.64                     2.29                       9.11
+      Diluted EPS ( in INR)                                                                          3.58                  2.64                     2.29                       9.11
+                                                                                           (Not Annualised)      (Not Annualised)    (Not Annualised)                  (Annualised)
+    Explanatory notes to the Statement of Unaudited Consolidated Financial Results for the quarter ended June 30, 2026
+
+
+    The unaudited consolidated financial results of SS Retail Limited (the "Holding Company") and its subsidiaries (together referred as "Group"), have been prepared in accordance with
+    the recognition and measurement principles laid down in the Indian Accounting Standard 34 "Interim Financial Reporting" ("Ind AS 34") (Ind AS) prescribed under Section 133 of the
+1   Companies Act, 2013, read together with the Companies (Indian Accounting Standards) Rules, 2015 (as amended) and other accounting principles generally accepted in India and in
+    compliance with the presentation and disclosure requirements of Regulation 33 of the Securities and Exchange Board of India (Listing Obligations and Disclosure Requirements), 2015
+    as amended.
+
+    The unaudited consolidated financial results for the quarter ended June 30, 2026 were reviewed and recommended for approval by the Audit Committee and approved by the Board of
+2   Directors of the Holding Company at the meeting held on October 13, 2026. These unaudited consolidated financial results have been subjected to limited review by the statutory
+    auditors of the Company.
+
+    The Chief Financial Officer (CFO) monitors the operating results of the Holding Company as a whole for the purpose of making decisions about resource allocation and performance
+3   assessment. The Holding Company is engaged in the business of multi – brand retail chain for mobile phones, accessories and other electronic items. Accordingly, in the context of Ind
+    AS 108, Operating Segments, the Company is considered to constitute a single primary segment, and there are no separate geographical segments.
+
+
+    The unaudited consolidated financial results of the Holding Company consist the financial results of its subsidiaries, Olineo Nexus India Private Limited & Nexora Smart Tech Private
+4
+    Limited
+
+    Subsequent to the quarter ended June 30, 2026, the Holding Company had completed its Initial Public Offer (IPO) of 85,04,075 equity shares of face value of INR 10 each at an issue
+    price of INR 424 per share (including a share premium of INR 414 per share) as Fresh Issue and an offer for sale of 33,01,884 shares with an issue price of INR 424 per share. The
+5
+    issue consisted of a fresh issue aggregating to INR 3,600.00 million and an offer for sale by selling shareholders aggregating to INR 1,400.00 million. The equity shares of the Holding
+    Company were listed on the National Stock Exchange of India Limited ("NSE") and BSE Limited ("BSE") on September, 23 2026.
+
+    As on the date of approval of the financial results, the Holding Company has initiated the process of utilising the funds as per object clause, as mentioned in the prospectus and certain
+    portion of net proceeds are temporarily deposited with scheduled commercial banks.
+
+    On November 21, 2025, the Government of India notified four new Labour Codes – the Code on Wages, 2019, the Industrial Relations Code, 2020, the Code on Social Security, 2020
+    and the Occupational Safety, Health and Working Conditions Code, 2020 – consolidating 29 existing labour laws. The Ministry of Labour & Employment published Central Rules and
+6
+    FAQs to enable assessment of the financial impact due to changes in regulations. The Group has assessed and considered the incremental impact of these changes on the basis of best
+    information available, consistent with the guidance provided by the Institute of Chartered Accountants of India.
+
+    The Group continues to monitor the Central / State Rules and clarifications from the Government on other aspects of the Labour Code and would provide appropriate accounting effect
+    on the basis of such developments, as needed
+
+
+
+    The figures for the quarter ended June 30, 2025 have been extracted from the Audited Special Purpose Standalone Interim Financial Statements, which was approved by the Company's
+7
+    Board of Directors on October 27, 2025. These Figures are presented on standalone basis and thus are not comparable with the current reporting period.
+
+
+    The figures for the quarter ended March 31, 2026 are the balancing figures between the audited figures in respect of full financial year and the unaudited figures up to the end of the
+8
+    third quarter of the relevant financial year which have been approved by the Holding Company's Board of Directors.
+
+    The unaudited consolidated financial results for the quarter ended June 30, 2026, are available on the BSE website (URL: www.bseindia.com/corporates), the NSE website (URL:
+9   www.nseindia.com/corporates) and on the Holding Company's website (www.ssmobile.com).
+
+
+
+    For and on behalf of the Board
+
+
+
+
+    Siddharth Gunvant Shah
+    Managing Director
+    DIN: 07530121
+    Place: Kolhapur
+    Date: October 13, 2026.
+

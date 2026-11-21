@@ -1,0 +1,826 @@
+                                                                   October 30, 2026
+
+BSE Limited                               National Stock Exchange of India Limited
+Phiroze Jeejeebhoy Towers,                Exchange Plaza, Plot No. C/1,
+Dalal Street,                             G Block, Bandra - Kurla Complex,
+Mumbai 400 001                            Bandra (East), Mumbai 400 051
+
+Scrip Code: 545004                        Trading Symbol: JPL
+
+
+Dear Sirs,
+
+Sub: Consolidated and Standalone Unaudited Financial Results for the quarter
+     and half year ended September 30, 2026
+
+In continuation of our letter dated October 27, 2026 and pursuant to Regulation 33 of
+the Securities and Exchange Board of India (Listing Obligations and Disclosure
+Requirements) Regulations, 2015, we attach the Unaudited Financial Results
+(Consolidated and Standalone) for the quarter and half year ended
+September 30, 2026, along with Independent Auditor's Review Report thereon.
+
+The said Financial Results were duly reviewed and recommended by the Audit
+Committee and approved by the Board of Directors of the Company, at their respective
+meetings held today.
+
+The meeting of the Board of Directors commenced at 4:15 p.m. (IST) and concluded
+at 5:05 p.m. (IST).
+
+This is for information and records.
+
+Thanking you
+
+Yours faithfully,
+
+For Jio Platforms Limited
+Venkataraman Digitally signed by
+              Venkataraman Ramachandran
+
+Ramachandran +05'30'
+              Date: 2026.10.30 18:57:21
+
+
+Venkataraman Ramachandran
+Compliance Officer
+
+
+Encl.: as above
+  Deloitte Haskins & Sells LLP                                    Chaturvedi & Shah LLP
+  Chartered Accountants                                           Chartered Accountants
+  One International Center                                        912, Tulsiani Chambers
+  Tower 3, 31 st Floor                                            212 Nariman Point
+  Senapati Bapat Marg                                             Mumbai -400021
+  Elphinstone Road (West)                                         Maharashtra, India
+  Mumbai - 400013
+  Maharashtra, India
+
+
+
+Independent Auditor's Review Report on t he Quarterlv and Year to date Unaudited Consolidated
+Financial Results of Jio Platforms Limited ("the Company"} pursuant to the Regulations 33 of the SEBI
+(Listing Obligation and Disclosure Requirements) Regulation 2015, as amended.
+
+Review Report
+To The Board Of Directors
+Jio Platforms Limited
+
+
+1. We have reviewed the accompanying Statement of Unaudited Consolidated Financial Results of
+   Jio Platforms Limited ("the Parent"), its subsidiaries (the Parent and its subsidiaries together referred to
+   as "the Group") and its share of the net profit /{loss) after tax and total comprehensive income of its
+   joint venture for the quarter and half year ended September 30, 2026 {"the Statement; being
+   submitted by the Parent pursuant to the requirements of Regulation 33 of the SEBI (Listing
+   Obligations and Disclosure Requirements) Regulations, 2015, as amended (the -usting Regulations").
+
+2. This Statement, which is the responsibility of the Parent's Management and approved by the Parent's
+   Board of Directors, has been prepared in accordance with the recognition and measurement
+   principles laid down in the Indian Accounting Standard 34 "Interim Financial Reporting" ("Ind AS 34"),
+   prescribed under Section 133 of the Companies Act, 2013 as amended, read with relevant rules issued
+   thereunder and other accounting principles generally accepted in India and in compliance with
+   Regulation 33 of the Listing Regulations. Our responsibility is to express a conclusion on the
+   Statement based on our review.
+
+3. We conducted our review of the Statement in accordance with the Standard on Review Engagements
+   (SRE) 2410 •Review of Interim Financial Information Performed by the Independent Auditor of the
+   Entity", issued by the Institute of Chartered Accountants of India (ICAI). This standard requires that we
+   plan and perform the review to obtain moderate assurance as to whether the statement is free of
+   material misstatement A review of interim financial information consists of making inquiries, primarily
+   of Parent's personnel responsible for financial and accounting matters and applying analytical and
+   other review procedures. A review is substantially less in scope than an audit conducted in
+   accordance with Standards on Auditing specified under Section 143(10) of the Companies Act, 2013
+   and consequently does not enable us to obtain assurance that we would become aware of all
+   significant matters that might be identified in an audit. Accordingly, we do not express an audit
+   opinion.
+
+   We also performed procedures In accordance with the Circular No. CIR/CFD/CMDl/44/2019 dated 29th
+   March, 2019 issued by the Securities and Exchange Board of India under Regulation 33(8) of the Listing
+   Regulations, to the extent applicable.
+4. The Statement includes the results of the following entities:
+
+   Parent:
+   1. Jio Platforms Limited
+
+    List of Subsidiaries:
+    2. Reliance Jio lnfocomm Limited
+    3. Jio Estonia 00
+   4. Surajya Services Limited
+   5. Jio Haptik Technologies Limited
+   6. Reverie Language Technologies Limited
+   7. New Emerging World of Journalism Limited
+   8. Tesseract Imaging Limited
+   9. SankhyaSutra Labs Limited
+   10. Accops Systems Private Limited
+   11. Accops Systems FZ-LLC
+   12. Jio Media Limited
+   13. Jio Things Limited
+   14. lndiavldual Leaming Limited
+   15. Jio Satellite Communications Limited
+   16. Mimosa Neti.vorks Bil~m Teknolojleri Limited ~irkeli
+   17. Mimosa Networks, Inc
+   18. Radisys Corporation
+   19. Radisys India Limited
+   20. Radisys B.V.
+   21 . Radisys Canada Inc
+  22. Radisys Cayman Limited'"
+  23. Radisys Convedia (Ireland) Limited
+  24. Radisys GmbH
+  25. Radisys International LLC
+  26. Radisys International Singapore Ple. Ltd
+  27. Radisys Spain S.LU
+  28. Radisys Systems Equipment Trading (Shanghai) Co, Ltd
+  29. Radisys Technologies (Shenzhen) Co., Ltd
+  30. Radisys UK Limited
+  31. Saavn Media Limited
+  32. Reliance Jio lnfocomm USA, Inc
+  33. Reliance Jlo lnfocomm Pte. Ltd
+  34. Reliance Jio lnfocomm UK Limited
+  35. Reliance Jio Global Resources, LLC
+
+      *Radisys Cayman Limited has been merged with Radisys International LLC on 31st July, 2026,
+
+
+   List of Joint venture:
+
+  36. Jio Space Technology Limited
+5. Based on our review conducted and procedures as stated in paragraph 3 above and based on the
+   consideration of the review report of the other auditors referred to in paragraph 7 belo,,v, nothing
+   has come to our attention that causes us to believe that the accompanying Statement, prepared in
+   accordance with the recognition and measurement principles laid down in the aforesaid Indian
+   Accounting Standard ("IND AS") specified under section 133 of the Companies Act, 2013 as
+   amended, read with relevant rules issued thereunder and other accounting principles generally
+   accepted in India, has not disclosed the information required to be disclosed in terms of Regulation 33
+   of the Listing Regulations, including the manner in which it is to be disclosed or that it contains any
+   material misstatement.
+
+6 . The accompanying Statement includes financial results of 19 sub~idiaries and unaudited consolidated
+   financial results of 1 subsidiary (which includes its 13 step-down subsidiaries), which reflect total
+   assets of Rs. 5,78,618 crores as at September 30,2026, total revenues of Rs. 37,629 crores and
+   Rs. 73,936 crores, total net profit after tax of Rs. 7,973 crores and Rs. 15,343 crores and total
+   comprehensive income of Rs. 8,080 crores and Rs. 15,509 crores for the quarter and half year ended
+   September 30, 2026 respectively and total cash inflow (net) of Rs. 666 crores for the half year ended
+   September 30, 2026, as considered in the Statement which have been reviewed by one of us. The
+   unaudited consolidated financial results also includes the Group's share of net profit after tax of Rs.
+   0.02 crores and Rs. 0.03 crores and total comprehensive income of Rs. 0.02 crores and Rs. 0.03
+   crores for the quarter and half year ended September 30, 2026 respectively, as considered in the
+   Statement in respect of 1 joint venture, which have been reviewed by one of us.
+7. We did not review the interim financial results of 1 subsidiary included in the unaudited consolidated
+   financial results, whose interim financial results reflect total assets of Rs. 0.94 crores as at September
+   30,2026, total revenues of Rs. 0.66 crores and Rs. 1.47 crores, total net (loss}/ profit after tax of Rs.
+   (0.03) crores and Rs. 0.02 crores and total comprehensive (loss}/ profit of Rs. (0.03) crores and Rs.
+   0.02 crores for the quarter and half year ended September 30, 2026 respectively and cash Inflow (net)
+   of Rs. 0.09 crores for the half year ended September 30, 2026 as considered in the Statement. These
+   interim financial results have been reviewed by the other auditors whose report have been furnished to
+   us by the Management and our conclusion on the Statement, in so far as it relates to the amounts and
+   disclosures included in respect of this subsidiary is based solely on the report of the other auditors.
+
+   Our conclusion on the Statement is not modified in respect of above matter.
+
+
+
+
+For Deloitte Haskins & Sells LLP                  For Chaturvedi & Shah LLP
+Chartered Accountants                             Chartered Accountants
+Firm's Registration No.117366W/W-100018           Firm's Reglstrati No. 101720W/W100355
+
+
+
+
+KetanVora
+Partner                                           Partner
+Membership No. 100459                             Membership No. 122179
+UDIN: 26100459OSLVUl9939                          UDIN: 26122179SZJZEM4346
+
+
+Mumbai                                            Mumbai
+Dated: October 30, 2026                           Dated: October 30, 2026
+.......    ..... ............. ... .0
+• •• • •• •• • • • •• • • • • • •• • • • • •
+                                  ••••
+                                                                                         ............................
+                                                                                         •••••••••••••••• •  ••••
+                                                                                                                      .       •      ••           •••••
+• •• ••• ••• •••• •••••••• ••••• •• •                                                    •••••••••• • •• • • • • •• • • •• • •• •••
+• •• •••••• •••• ••• ••• • •• •• •• • • •
+••• •••••• ••••• ••••• ••••• ••• ••
+                                                                                   •     • • • •• • • • •• • • • • •••••• ••••••• ••
+                                                                                         •• ••••••••••• •• •• • • • ••• •••• ••
+•••••••••••••••••••••••••••••                                                            • ••• ••••••• •• •••••••• •••••• ••
+                                                 JIO PLATFORMS LIMITED
+             UNAUDITED CONSOLIDATED FINANCIAL RESULTS FOR THE QUARTER / HALF YEAR ENDED 30TH SEPTEMBER 2026
+                                                                                                                        (tin crore, except per share data)
+
+                                                                                  Quarter Ended                                                 Year ended
+                                                                                                                     Half year Ended
+                            Particulars                                                                                                         /Audited)
+                                                                    30th Sep'26    30th Jun'26*   30th Sep'25   JOU. Sep'26       30th Sep'25    31•1Mar'26
+ INCOME
+ Value of Sales & Services (Revenue)                                    47,485          45,961         42,652       93,446            83,706       1,72,317
+ Less: GST Recovered                                                     7,010           6,788          6,320       13,798            12,342         25,432
+ Revenue from Operations                                                40,475          39,173         36,332       79,648            71,364       1,46,885
+ Other Income                                                              978           1,025           654         2,003              1,308        2,874
+                                                     Total Income       41,453          40,198        36,986        81,651            72,672      1,49,759
+ EXPENSES
+ Network Operating Expenses                                              8,813           8,873         8,528        17,686            17,045        34,492
+ Access Charges                                                            400             390           490           790               789         1,637
+ License Fees / Spectrum Charges                                         3,159           3,107         2,917         6,266             5,738        11,710
+ Employee Benefits Expense                                               1,699           1,684         1,650         3,383             3,261         6,649
+ Finance Costs                                                           3,009           2,980         2,145         5,989             4,250         8,653
+ Depreciation and Amortisation Expense                                   7,611           7,458         6,675        15,069            13,154        27,249
+ Selling and Distribution Expenses                                       1,249           1,190         1,101         2,439             2,149         4,565
+ Other Expenses                                                          4,254           4,089         3,543         8,343             6,798        14,451
+                                                 Total Expenses         30,194         29,771         27,049        59,965            53,184      1,09,406
+ Profit Before Tax                                                      11,259         10,427          9,937        21,686            19,488        40,353
+Tax Expenses
+ Current Tax                                                                30             30             47            60                68           118
+Deferred Tax                                                             2,842          2,633          2,511         5,475             4,931        10,182
+Profit After tax                                                         8,387          7,764          7,379        16,151            14,489        30,053
+Share of Profit / (Loss) of Associate and Joint Venture                      0               0            (4)            0                (4)          (4)
+Profit after Tax and Share of Profit I (Loss) of Associate
+                                                                         8,387          7,764          7,375        16,151            14,485        30,049
+and Joint Venture
+Other Comprehensive Income
+{i) Items that will not be reclassified to profit or loss                   21            (21)            24             0                27          817
+(ii) Income tax relating to items that will not be reclassified
+to profit or loss
+                                                                           (5)               5            (3)          (0}                (4)        (117)
+(iii) Items that will be reclassified to profit or loss                   144              25             37          169              (134}          263
+ (iv} Income tax relating to items that will be reclassified to
+                                                                          (38)             44            (5)             6                37          (24)
+ profit or loss
+Total Other Comprehensive Income for the period I
+                                                                          122              53             53          175               (74)          939
+vear (Net of Tax)
+Total Comprehensive Income for the period / year                        8,509           7,817          7,428       16,326            14,411        30,988
+Net Profit I (Loss) Attributable to:
+a) Owners of the Company                                                8,389           7,765          7,379       16,154            14,494        30,064
+b) Non-Controlling Interest                                                (2)             (1)           (4)           (3)               (9)          (15)
+Other Comprehensive Income Attributable to:
+a) Owners of the Company                                                  122              53            53           175               (74)          939
+b) Non-Controlling Interest                                                 0              (0)           (0)           (0)               (0)            0
+Total Comprehensive Income Attributable to:
+a) Owners of the Company                                                8,511           7,818          7,432       16,329            14,420        31,003
+b) Non-Controllino Interest                                                (2)             (1)           (4)           (3)               (9)          (15)
+Earnings per Equity share of face value of f 10/- each -
+(Not Annualised for the quarter/half year ended)
+Basic (int)                                                              9.38            8.69           8.25        18.07             16.21         33.63
+Diluted (in ~)                                                           9.37            8.68          8.24         18.05             16.19         33.59
+Paid up Equity Share Capital, Equity Shares of t10/- each               8,939           8,939         8,939         8,939             8,939         8,939
+Other Equity                                                                                                                                     3,27,038
+... .........
+     •
+              .................
+•••• ••••••••••  •••• • • •••
+                               0 ............
+                                 •••
+                                •• • •
+                                              ......... .......
+                                            ••••• •         •
+                                                                .                     ••••••••                  •••••••••             •••
+••• ••• •••••••••• ••••••••• ••••                                           •••••••••••••••••••••••••••••
+• •• •• • •• •• • ••• •• •• • • •• • •• •• • •
+• •• •• • ••• •• • • • • • •• • • • • • • • • • • •
+                                                                       •    •• • • • ••• • • • • • •• • ••• • • • •••• • ••
+                                                                            ••••• • • •• • • • • •• ••• • • • • • • •• • ••
+•••••••••••••••••••••••••••••                                               • • • • • • • ••••• • •• • •• ••• • • • •• • ••
+                                                      JIO PLATFORMS LIMITED
+                           UNA\,IDITED CONSOLIDATED l;IALANCE SHEET AS AT 39th SEPTEMBER, 2026
+                                                                                                                      (fin crore)
+                                                                                                                As at 31 st Mar'26
+    Particulars                                                                           As at 30th Sep'26
+                                                                                                                    Audited
+    ASSETS
+    Non • Current Assets
+    Property, Plant and Equipment                                                                   2,50,514               2,50,992
+    Spectrum                                                                                        1,83,890               1,88,120
+    Other Intangible Assets                                                                           33,966                 33,797
+    Goodwill                                                                                           6,093                  6,079
+    Capital Work-in-Progress                                                                          16,638                 14,467
+    Spectrum Under Development                                                                         8,818                  8,611
+    Other Intangible Assets Under Development                                                          8,181                  6,828
+    Financial Assets
+        Investments                                                                                    3,796                  3,775
+       Other Financial Assets                                                                             86                    114
+    Deferred Tax Assets (Net)                                                                             58                     53
+    Other Non-Current Assets                                                                          31,167                 30,001
+    Total Non-Current Assets                                                                        5,43~07                5,42,837
+    Current Assets
+    Inventories                                                                                          520                    263
+    Financia1Assets
+        Investments                                                                                   33,306                 26,645
+       Trade Receivables                                                                               3,783                  2,527
+       Cash and Cash Equivalents                                                                      16,815                 16,557
+       Other Bank Balances                                                                               389                    390
+       Other Financial Assets                                                                          7,634                  7,182
+    Other Current Assets                                                                              17,822                 19,193
+    Total Current Assets                                                                              ,o,i.69                72,757
+    Total Assets                                                                                   .ij;23,476              6,15,594
+    EQUITY AND LIABILITIES
+    Equity
+    Equity Share Capital                                                                               8,939                  8,939
+    Other Equity                                                                                    3,43,367               3,27,038
+    Non - Controlling Interest                                                                         1,095                  1,099
+    Total Equity                                                                                    3,53,401               3,37,076
+    Liabilities
+    Non - Current Liabilities
+     Financial liabilities
+        Borrowings                                                                                    49,798                 51,455
+        Lease Liabilities                                                                              5,306                  7,562
+        Deferred Payment Liabilities                                                                  96,727                 99,552
+        Other Financial Liabilities                                                                   10,177                  8,711
+     Provisions                                                                                          274                    248
+     Deferred Tax Liabilities (Net}                                                                   46,698                 41,210
+     other Non-Current liabilities                                                                     2,168                  2,599
+     Total Non-Current Liabilities                                                                  2,11,148               2,11,337
+     Current Liabilities
+     Financial Liabilities
+        Borrowings                                                                                     9,145                 19,326
+        Lease Liabilities                                                                              5,102                  6,326
+       Trade Payables                                                                                 10,610                  8,932
+        Deferred Payment Liabilities                                                                   5,149                  4,962
+        Other Financial Liabilities                                                                   14,723                 11,628
+     Other Current Liabilities                                                                        13,893                 15,743
+     Provisions                                                                                          305                    264
+     Total Current Liabilities                                                                        58,927                 67,181
+     Total Liabilities                                                                              2170,0'75              2,78,518
+    Total Equit and Liabilities                                                                     6,23,476               6,15,594
+         Jio Platforms Limited                  Corporate Office                          Registered Office
+         CIN: U72900GJ2019PLC110816             TC-22, 5th Floor, A Wing, Reliance        Office - 101, Saffron, Nr. Centre
+                                                Corporate Park, Thane Belapur Road,       Point, Panchwati 5 Rasta,
+         www.jio.com                            Ghansoli, Navi Mumbai - 400 701,          Ambawadi, Ahmedabad - 380 006,
+         jpl.investorrelations@jio.com          Maharashtra, India                        Gujarat, India
+                                                +91 22 7967 0000                          +91 79 3503 1200
+ • • • • • • • e • • • • • • • • e • e ••• • • • • • • • 0                           • • • e • e e • • e e • • • • e e • II • e • • • • e • • •
+  • • • • •• • •• • • • • •• • • • • • • •••• •• ••                                  • • • • • • •••••• • • • • • • • • • • • • • •• ••
+  •••• ••• • • •• •• • • •• • • • • • • • • • • • •                                  •• • • • • • • • • • • • • • ••• • •• • • • • • • • •
+• • • • • • • • • • • • • • • • • • • • • • • • • • • • • •
+  ••• •• •• • •• • • • • •••• • •••••• • • • •
+                                                                               •     •••• • • • •• • •• •• •• • • • • ••••• ••••
+                                                                                     • • • ••• ••• • •• • • • •• • • •• • • •••• ••
+  ••• ••••• •• • •• • • • • •• • • • • • • • • ••                                    • •• • •• • • • • • • • • ••••• • • • • •• • • • •
+                                               JIO PLATFORMS LIMITED
+           UNAUPITED CONSOLIDATED C~SH FLOW STATEMENT FOR THE HALF YEAR ENDED 30TH SEPTEMBER, 2026
+                                                                                                                                    (tin crore}
+
+     Particulars                                                                                        Half Year Ended      Half Year Ended
+                                                                                                          3Q1h 5ep'26         30th Sep'25
+      CASH FLOW FROM OPERATING ACTIVITIES:
+     Profit before tax as per Statement of Profit and Loss                                                        21,686                  19,488
+     Adjusted for:
+        Loss on Sale I Discard of Property, Plant and Equipment and Other Intangible Assets (Net)                       12                     15
+        Depreciation and Amortisation Expense                                                                      15,069                 13,154
+        Effect of Exchange Rate Change                                                                                143                     (8)
+        Gain on Investments (Net)                                                                                   {360)                  (301)
+        Dividend Income                                                                                                {5)
+        Interest Income                                                                                           (1,533)                  (950)
+        Finance Costs                                                                                               5,989                  4,250
+     Operating Profit before Working Capital Changes                                                              41,001                  35,648
+     Adjusted for:
+       Trade and Other Receivables                                                                                (1,569)                (1,432}
+         Inventories                                                                                                (257)                    (35)
+       Trade and Other Payables                                                                                     2,504                  5,346
+     Cash Generated from Operations                                                                               41,679                 39,527
+     Tax (Paid)/ Refund (Net}                                                                                           23                   (91)
+     Net Cash flow from Operating Activities                                                                      41,702                 39,436
+
+     CASH FLOW FROM INVESTING ACTIVITIES:
+     Expenditure on Property, Plant and Equipment. Spectrum and Other Intangible Assets                         (10,637)                (20,693)
+    Proceeds from Disposal of Property, Plant and Equipment                                                           23                      17
+    Purchase of Investment in Subsidiaries                                                                           (1)
+    Purchase of Non-current Investment                                                                              (21)                    (44)
+    Purchase of Investments                                                                                     (93,009)                (81,875)
+    Proceeds from Safe of Investments                                                                             86,718                  78,658
+    Payment of Deferred Payment Liabilities                                                                      (2,638)                 (2,412)
+    Maturity of Fixed Deposits with banks (Net)                                                                        0                       0
+    Interest Income                                                                                                  603                     763
+    Dividend Income                                                                                                    4
+    Net Cash flow used in Investing Activities                                                                  (18,958)                (25,586)
+
+    CASH FLOW FROM FINANCING ACTIVITIES:
+    Payment of Lease Liabilities                                                                                  (3,517)             (2,959)
+    Proceeds from Borrowings - Non-current (including Current Maturities)                                             182               8,750
+    Repayment of Borrowings - Non-current (including Current Maturities)                                         (1,733)              (5,183)
+    Borrowings - Current (Net)                                                                                  (10,795)              (4,268)
+    Finance Cost paid                                                                                            (6,623)              {8,088)
+    Net Cash Flow used in Financing Activities                                                                  (22,486)            (11,748)
+
+    Net Increase in Cash and Cash Equivalents                                                                       258                   2,102
+
+    Opening Balance of Cash and Cash Equivalents                                                                 16,557                   8,012
+    Closi Balance of Cash and Cash Equivalents                                                                   16,815                  10,114
+
+
+
+
+                     rms Limited                 Corporate Office                                   Registered Office
+                   900GJ2019PLC110816            TC-22, 5th Floor, A Wing, Reliance                 Office - 101, Saffron, Nr. Centre
+                                                 Corporate Park, Thane Belapur Road,                Point, Panchwati 5 Rasta,
+         www.jio.com                             Ghansoli, Navi Mumbai - 400 701,                   Ambawadi, Ahmedabad - 380 006,
+         jpl.investorrelations@jio.com           Maharashtra, India                                 Gujarat, India
+                                                 +91 22 7967 0000                                   +91 79 3503 1200
+............                  ...... ....... ....0                        ............................ .
+•   •• ••••••••• •• ••••••••
+                        •                  ••••••
+.• .• .• . .• .• ..• ..• . .• .. . .. .. . . .• .• .• . .• .•• .•• .
+••••
+      ••• •••••• ••• ••••••••••
+            • • • ••• ••• •••                ••
+                                                     •
+                                                     •
+• • • • • • • • • • • • •• • ••• • • • • • • • • • • •
+                                                                       . .. ...... ....... .... ....... ... .
+                                                                          ••••••••••      • •••••
+                                                                                          •••••• •
+                                                                          •• • •• • • •• • • •• ••• •• • •••• •••• ••
+                                                                          • • •• • •••••• •••• • •• •• ••••• • • • •
+                                                                          •••••• • •••• •• ••• •• • • • • • •••• ••
+                                                                                                                        ••••••
+
+
+
+
+         NOTES:
+
+
+             1. The figures for the corresponding previous periods have been regrouped / rearranged
+                wherever necessary, to make them comparable.
+
+
+             2. The Group is mainly engaged in Digital Services (including Platform, Application and
+                Software) Business. All activities of the Group revolve around this business. Accordingly, the
+                Group has single segment as per the requirements of Ind AS 108 - Operating Segments.
+
+
+             3. The equity shares of the Company have been listed on the National Stock Exchange of India
+                Limited (NSE) and BSE Limited (BSE) with effect from 281h October, 2026 upon completion
+                of the Initial Public Offer by way of fresh issue of 27,00,00,000 equity shares of face value of
+                Rs. 1O each at an issue price of Rs. 1,119 per equity share (including a securities premium
+                of Rs. 1,109 per equity share) ("Issue"). The Gross Proceeds from the Issue, after accounting
+                for employee discount of Rs. 54 per equity share, aggregated Rs. 30,188 crore.
+
+             4. An aggregate amount of Rs. 27,500 crore from the Net Proceeds has been utilized towards
+                prepayment, in full or in part, of the principal amount outstanding of certain External
+                Commercial Borrowings availed by Reliance Jio lnfocomm Limited, material subsidiary of the
+                Company and the balance amount will be utilised towards general corporate purposes, in
+                line with the Objects of the Issue as set out in the Prospectus.
+
+             5. The Audit Committee has reviewed and the Board of Directors have approved the above
+                results and its release at their respective meetings held on 301h October, 2026. The Statutory
+                Auditors of the Company have carried out a Limited Review of the results for the quarter and
+                half year ended 30th September, 2026.
+
+
+
+
+          Jio Platforms Limited               Corporate Office                      Registered Office
+          CIN: U72900GJ2019PLC110816          TC-22, 5th Floor, A Wing, Reliance    Office - 101, Saffron, Nr. Centre
+                                              Corporate Park, Thane Belapur Road,   Point, Panchwati 5 Rasta,
+          www.jio.com                         Ghansoli, Navi Mumbai - 400 701,      Ambawadi, Ahmedabad - 380 006,
+          jpl.investorrelations@jio.com       Maharashtra, India                    Gujarat, India
+                                              +91 22 7967 0000                      +91 79 3503 1200
+ Deloitte Haskins & Sells LLP                                 Chaturvedi & Shah LLP
+ Chartered Accountants                                        Chartered Accountants
+ One International Center                                     912, Tulsiani Chambers
+ Tower 3, 31st Floor                                          212 Nariman Point
+ Senapati Bapat Marg                                          Mumbai - 400021
+ Elphinstone Road (West)                                      Maharashtra, India
+ Mumbai - 400013
+ Maharashtra, India
+
+Independent Auditor's Review Report on the Quarterly and Year to date Unaudited
+Standalone Financial Results of Jio Platforms limited ("the Company"> pursuant to the
+Regulation 33 of the SEBI (Listing Obligation and Disclosure Requirements) Regulation 2015,
+as amended.
+
+Review Report
+To The Board Of Directors
+Jio Platforms Limited
+
+ 1. We have reviewed the accompanying Statement of Unaudited Standalone Financial
+    Results of Jio Platforms Limited ("the Company") for the quarter and half year ended
+    September 30, 2026 ("the Statement") being submitted by the Company pursuant to the
+    requirement of Regulation 33 of the SEBI (Listing Obligations and Disclosure
+    Requirements) Regulations, 2015, as amended ("the Listing Regulations").
+
+2. This Statement, which is the responsibility ofthe Company's Management, and approved
+   by the Company's Board of Directors, has been prepared in accordance with the
+   recognition and measurement principles laid down in the Indian Accounting Standard 34,
+   "Interim Financial Reporting" ("Ind AS 34") prescribed under Section 133 of the
+   Companies Act, 2013 as amended, read with relevant rules issued thereunder and other
+   accounting principles generally accepted in India and in compliance with Regulation 33
+   of the Listing Regulations. Our responsibility is to express a conclusion on the Statement
+   based on our review.
+
+3. We conducted our review of the Statement in accordance with the Standard on Review
+    Engagements (SRE) 2410 'Review of Interim Financial Information Performed by the
+   Independent Auditor of the Entity', issued by the Institute of Chartered Accountants of
+   India ("ICAl"J. This standard requires that we plan and perform the review to obtain
+   moderate assurance as to whether the Statement is free from material misstatement. A
+   review of interim financial information consists of making inquiries, primarily of the
+   Company's personnel responsible for financial and accounting matters and applying
+   analytical and other review procedures. A review is substantially less in scope than an
+   audit conducted in accordance with Standards on Auditing specified under section
+   143(10) of the companies Act, 2013 and consequently does not enable us to obtain
+   assurance that we would become aware of all significant matters that might be identified
+   in an audit. Accordingly, we do not express an audit opinion.
+ 4. Based on our review conducted as stated in paragraph 3 above, nothing has come t o our
+    attention that causes us to believe that the accompanying Statement, prepared in
+    accordance with t he recognition and measurement principles laid down in the aforesaid
+    Indian Accounting Standard ("Ind AS"J specified under Section 133 of the Companies Act,
+    2013 as amended, read wit h relevant rules issued thereunder and other account ing
+    principles generally accepted in India, has not disclosed the information required to be
+    disclosed in terms of Regulation 33 of Listing Regulations as amended, including the
+    manner in which It is to be disclosed or that it contains any material misstatement.
+
+
+
+
+For Deloitte Haskins & Sells LLP               For Chaturvedi & Shah LLP
+Chartered Accountants                          Chartered Accountants
+Firm's Registration No.117366W/W-100018        Firm's Registration No.101720W/W100355
+
+
+
+
+Ketan Vora
+Partner                                       Partner
+Membership No. 100459                         Membership No. 122179
+UDIN: 26100459ZEEMIM3972                      UDIN: 26122179SCMUTA7802
+Mumbai                                        Mumbai
+Dated: October 30, 2026                       Dated: October 30, 2026
+.............................
+   • ••• • ••••• •••••• ••
+• ••      •          • ••
+                              e ........
+                                •   • •••
+                                         .... .... ... ..• .......
+                                              •            • • •••
+                                                                 •
+                                                                   .   ••                    ••• •          •••••••••• • •• •
+••• ••••• • •••• • ••• •• •• ••• • • • • •                                                 • • • •• • • • • • • •• • • •• •• • • • • • • • •• •
+••• ••••••••••• ••••• ••••••••••
+••• ••••••••••••••••••••• •• •• •
+                                                                                     •     •••••••••••••••••••••••••••••
+                                                                                           •••••• •• •• ••• •• •••• ••• • • • ••• •
+• •••••••• ••••• ••• •• ••••• •• •••                                                       •••••••••••••••••••••••••••••
+
+                                               JIO PLATFORMS LIMITED
+       UNAUDITED STANDALONE FINANCIAL RES ULTS FOR THE QUARTER / HALF YEAR ENDED 30TH SEPTEMBER 2026
+                                                                                                                          {~ in crore. except per share data)
+
+                                                                                    Quarter Ended                                               Year ended
+                                                                                                                      Half year Ended
+                           Particulars                                                                                                           (Audited)
+                                                                     30th Sep'26     30th Jun'26~   30th Sep'25   30th Sep'26   30th Sep'25     31 st Mar'26
+ INCOME
+ Value of Sales & Services (Revenue)                                        5,760          5,601          4,651       11,361          8,992          19,077
+ Less: GST Recovered                                                          879            854            710        1,733          1,372           2,910
+ Revenue from Operations                                                    4,881          4,747          3,941        9,628          7,620          16,167
+ Other Income                                                                 102            107             16          209             33             148
+                                                   Total Income             4,983          4,854          3,957        9,837          7,653          16,315
+EXPENSES
+Employee Benefits Expense                                                     860            882            808        1,742          1,612           3,300
+Depreciation and Amortisation Expense                                         341            339            177          680            345             863
+Other Expenses                                                              3,220          3,097          2,568        6,317          4,909          10,432
+                                                 Total Expenses             4,421          4,318          3,553        8,739          6,866          14,595
+Profit Before Tax                                                             562            536            404        1,098            787           1,720
+Tax Expenses
+Current Tax
+Deferred Tax                                                                 143
+                                                                                -           137
+                                                                                               -
+                                                                                                           103
+                                                                                                              -
+                                                                                                                         280
+                                                                                                                            -
+                                                                                                                                        201
+                                                                                                                                           -
+                                                                                                                                                        439
+                                                                                                                                                           -
+Profit After tax                                                             419            399            301           818            586           1,281
+Other Comprehensive Income
+(i) Items that will not be reclassified to profit or loss                     20             (8)             14            12             19            812
+(ii) Income tax relating to items that will not be reclassified               (5)              2            (4)           (3)            (5)          (116)
+to profit or loss
+(iii) Hems that will be reclassified to profit or loss                          -              -              -            -               -              -
+(iv) Income tax relafing to items that will be reclassified to                  -              -              -            -               -              -
+profit or loss
+Total Other Comprehensive Income for the period/                              15             {6)            10             9             14            696
+year (Net of Tax)
+Total Comprehensive Income for the period / year                             434            393            311          827             600          1,977
+Earnings per Equity share (Face value of t10/-)
+(Not annualised for the quarter/ half year)
+
+Basic (in~)                                                             0.47            0.45          0.34            0.92            0.66            1.43
+Diluted (in t)                                                          0.47            0.45          0.34            0.92            0.66            1.43
+Paid up Equity Share Capital (Equity Shares of face value             8,939           8,939          8,939           8,939          8,939            8,939
+oft 10/- each)
+Other Equity                                                                                                                                      2,03,352
+     • Figures for the quarter ended June 30, 2026 are as per the Special Purpose Interim Standalone Financial Statements, audited solely for
+       the purpose of inclusion in !he offer document.
+
+
+
+
+         Jio Platforms Limited                           Corporate Office                                Registered Office
+         CIN: U72900GJ2019PLC110816                      TC-22, 5th Floor, A Wing, Reliance              Office - 101, Saffron. Nr. Centre
+                                                         Corporate Park, Thane Belapur Road,             Point, Panchwati 5 Rasta,
+         www.jio.com                                     Ghansoli, Navi Mumbai - 400 701,                Ambawadi, Ahmedabad - 380 006,
+         jpl.investorrelations@jio.com                   Maharashtra. India                              Gujarat, India
+                                                         +91 22 7967 0000                                +91 79 3503 1200
+......
+. .......   .................
+            .                 0 .......................... ...
+                                                           .  .
+                                                              .                                                                          ~
+       •• • •• •• • ••
+•••••• •••               ••••    • •••
+                                  ••••••    ••••     ••••••••                   •       ••••••              •••••                     •
+••••••••• ••• ••••••••••••••• ••
+• ••••••••••• •••••••• •• •••••••
+                                                                         •    • • • • • • • • • • • • • • • • • • • • • • • • • • • • ••
+                                                                              ••• •• • • • ••••• •• •• • •• •••••••••
+• • •• • • ••• •• • • • • • • • • • • • • •• • • ••                           ••••••••••••• ••••••• •••••••••
+
+                                                    JIO PLATFORMS LIMITED
+                             UNAUDITED STANDALONE BALANCE SHEET AS AT 30th SEPTEMBER, 2026
+                                                                                                                          {~ in crore)
+                                                                                                                  As at 31•1 Mar'26
+    Particulars                                                                            As at 30th Sep'26         !Audited)
+    ASSETS
+    Non - Current Assets
+    Property, Plant and Equipment                                                                       2,489                   2,691
+    Capital Work-in-Progress                                                                              361                     116
+    Intangible Assets                                                                                  18,65'2                 19,116
+    Intangible Assets Under Development                                                                 2,889                   2,256
+    Financial Assets
+        Investments                                                                                  1,82,663                1,82,641
+    Other Non-Current Assets                                                                            4.2~                    3,658
+    Total Non-Current Assets                                                                         2,11J38                 2,10,478
+    Current Assets
+    Financial Assets
+        Investments                                                                                     1,721                   1,444
+       Trade Receivables                                                                                1,842                     755
+       Cash and Cash Equivalents                                                                        4,076                   4,484
+       Other Financial Assets                                                                             656                     494
+    Other Current Assets                                                                                1,694                   1,108
+    Total Current Assets                                                                                9,989                   8,285
+    Total Assets                                                                                     2,21,327                2,18,763
+    EQUITY AND LIABILITIES
+    Equity
+    Equity Share Capital                                                                                8,939                   8,939
+    Other Equity                                                                                     2,04,179                2,03,352
+    Total Equity                                                                                     2,13,118                2,12,291
+
+    Liabilities
+    Non • Current Liabilities
+     Deferred Tax Liabilities (Net)                                                                     2,169                   1,886
+    Total Non-Current Liabilities                                                                       2,169                   1,886
+     Current Liabilities
+     Financial Liabilities
+       Trade Payables due to
+           Micro enterprises and small enterprises                                                        107                      88
+            Other than micro enterprises and small enterprises                                          4,510                   3,172
+       Other Financial Liabilities                                                                        $22                     628
+     Other Current Liabilities                                                                            672                     570
+     Provisions                                                                                           129                     128
+    Total Current Liabilities                                                                           6,040                   4,586
+    Total Liabilities                                                                                   8,209                   6,472
+    Total Equity and Liabilities                                                                     2,it,321.•              2,18,763
+
+
+
+
+          Jio Platforms Limite d                  Corporat e Office                        Registered Office
+          CIN: U72900GJ2019PLC110816              TC-22, 5t h Floor, A Wing, Reliance      Office - 101, Saffron, Nr. Centre
+                                                  Corporate Park, Thane Belapur Road,      Point, Panchw ati 5 Rasta,
+          www.jio.com                             Ghansoli, Navi Mumbai - 400 701,         Ambawadi, Ahmedabad - 380 006,
+          jpl.investorrelations@jio.com           Maharashtra, India                       Gujarat, India
+                                                  +91 22 7967 0000                         +91 79 3503 1200
+• • • • • • • • • • • • • • • • • • • • • • • ;; .; ;
+• • • • • • • • • • • • • • • • • • • • • • • •• •• •• •• •• ••
+                                                                 .•          .; ; ~; . : ... ... ..... ... ..... .. .
+                                                                             • • • • • • • • • • • • • • • • • • • • • • • • • • • • t
+                                                                         •   • •• • •• • •• • •••• • • • • • ••• • • • •• • t
+. ...~· ... .... .. ... ... . .
+r • • • • • • • • • • • • • • • • • • • • • •
+• •~• • • • • • • • • • • • • • • • • • • • • • • • • • •                    • • •• • • •••• ••• •• •• • •• •• • • •• • • •
+                                              •••• •                         •••••••••••••••••••••••••••••
+                                              JIO PLATFORMS LIMITED
+           UNAUDITED STANDALONE CASH FLOW STATEMENT FOR THE HALF YEAR ENDED 30TH SEPTEMBER, 2026
+                                                                                                                        (~ in crore)
+                                                                                             Half Year Ended     Half Year Ended
+    Particulars
+                                                                                              3O1h Sep'26         301h Sep'25
+    CASH FLOW FROM OPERATING ACTIVITIES:
+    Profit before tax as per Statement of Profit and Loss                                               1,098                   787
+    Adjusted for:
+      Depreciation and Amortisation Expense                                                               680                    345
+      Net Gain on Financial Assets                                                                        (48)                  (15)
+      Effect of Exchange Rate Change                                                                       {1)                     1
+      Interest Income                                                                                   (161)                   (18)
+    Operating Profit before Working Capital Changes                                                     1,568                 1,100
+    Adjusted for:
+      Trade and Other Receivables                                                                     (2,327)                (1,324)
+      Trade and Other Payables                                                                          1,449                    485
+    Cash Generated from Operations                                                                        690                    261
+    Tax Refund (Net)                                                                                       10                      7
+    Net Cash flow from Operating Activities                                                              700                     268
+
+    CASH FLOW FROM INVESTING ACTIVITIES:
+    Expenditure on Property, Plant and Equipment and Intangible Assets                                  {871)                 (346)
+    Investment in Subsidiaries                                                                            (1)                  (15)
+    Purchase of Non-current Investment                                                                   (21)                  (44)
+    Loan given to Subsidiary                                                                                -                   (1)
+    Purchase of Current Investments                                                                   (6,458}                (4,113)
+    Proceeds from Sale of Current Investments                                                           6,228                  4,102
+    Interest Income                                                                                        15                    18
+    Net Cash flow used in Investing Activities                                                        (1,108)                 (399)
+
+    CASH FLOW FROM FINANCING ACTIVITIES:
+
+   Net Decrease in Cash and Cash Equivalents                                                            (408)                 (131)
+
+   Opening Balance of Cash and Cash Equivalents                                                        4,484                    240
+
+   Closing Balance of Cash and Cash Equivalents                                                        4,076                    109
+
+
+
+
+        Jio Platforms Limited                  Corporate Office                          Regist ered Office
+        CIN: U72900GJ2019PLC110816             TC-22, 5th Floor, A Wing, Reliance        Office - 101, Saffron, Nr. Centre
+                                               Corporate Park, Thane Belapur Road,       Point, Panchwati 5 Rasta,
+        www.jio.com                            Ghansoli, Navi Mumbai - 400 701,          Ambawadi, Ahmedabad - 380 006,
+        jpl.investorrelations@jio.com          Maharashtra, India                        Gujarat, India
+                                               +91 22 7967 0000                          +91 79 3503 1200
+                                         --- ---e --- -------- ------- --
+•••••••••••••••••••••••••••••
+•••••••••••••••••••••••••••••
+••••••••••••••••••
+•••••••••••••••••••••••••••••
+••••••••••••••••••
+                                        .... .......
+                                        ...........               . ...........................
+                                                                       • ••• •••• • •• • ••••• ••••• •• •• •
+                                                                                               ·. .
+                                                                       • •• • • ••• • •• •• •••• ••• • ••••
+                                                                      .................... .. . ..
+                                                                       •••••••••••••••••••••• •• •••
+                                                                                                            ~·•
+                                                                                                                     ~ ~   ~
+
+
+
+
+    NOTES:
+
+
+
+   1.     The figures for the corresponding previous periods have been regrouped / rearranged wherever
+          necessary to make them comparable.
+
+   2.     The Company is mainly engaged in the software business inter alia providing software support
+          services and development of Consumer and Enterprise Platform and Applications. Accordingly,
+          the Company has single segment as per the requirements of Ind AS 108 - Operating Segments.
+
+   3.     The equity shares of the Company have been listed on the National Stock Exchange of India
+          Limited (NSE) and BSE Limited (BSE) with effect from 28th October, 2026 upon completion of the
+          Initial Public Offer by way of fresh issue of 27,00,00,000 equity shares of face value of Rs. 10
+          each at an issue price of Rs. 1,119 per equity share (including a securities premium of Rs. 1,109
+          per equity share) ("Issue"). The Gross Proceeds from the Issue, after accounting for employee
+          discount of Rs. 54 per equity share, aggregated Rs. 30, 188 crore.
+
+   4.     An aggregate amount of Rs. 27,500 crore from the Net Proceeds has been utilized towards
+          prepayment, in full or in part, of the principal amount outstanding of certain External Commercial
+          Borrowings availed by Reliance Jio lnfocomm Limited, material subsidiary of the Company and
+          the balance amount will be utilised towards general corporate purposes, in line with the Objects
+          of the Issue as set out in the Prospectus.
+
+   5.     The Audit Committee has reviewed, and the Board of Directors have approved the above results
+          and its release at their respective meetings held on 30th October, 2026. The Statutory Auditors of
+          the Company have carried out a Limited Review of the results for the quarter and half year ended
+          30th September, 2026.
+
+
+
+             For Jio Platforms Limited
+
+
+
+
+               ~~y
+             Akash M. Ambani
+             Managing Director
+
+             30th October, 2026
+
+
+
+
+        Jio Platforms Limited              Corporate Office                      Registered Office
+        CIN: U72900GJ2019PLC110816         TC-22, 5th Floor, A Wing, Reliance    Office - 101, Saffron, Nr. Centre
+                                           Corporate Park, Thane Belapur Road,   Point, Panchwati 5 Rasta,
+        www.jio.com                        Ghansoli, Navi Mumbai - 400 701,      Ambawadi, Ahmedabad - 380 006,
+        jpl.investorrelations@jio.com      Maharashtra, India                    Gujarat, India
+                                           +91 22 7967 0000                      +91 79 3503 1200
+

@@ -1,0 +1,37 @@
+{
+  "checked_at": "2026-10-31T23:48:45.536997+05:30",
+  "status": "LATE_DEFERRED",
+  "slots": [
+    {
+      "intended_slot": "2026-10-30T10:00:00+05:30",
+      "deadline_at": "2026-10-30T10:15:00+05:30",
+      "status": "LATE_DEFERRED",
+      "allocation": "MORNING_ASSEMBLY",
+      "completed": false
+    },
+    {
+      "intended_slot": "2026-10-30T21:00:00+05:30",
+      "deadline_at": "2026-10-30T21:30:00+05:30",
+      "status": "LATE_DEFERRED",
+      "allocation": "FAST_EVENING",
+      "completed": false
+    },
+    {
+      "intended_slot": "2026-10-30T23:00:00+05:30",
+      "deadline_at": "2026-10-31T01:00:00+05:30",
+      "status": "LATE_DEFERRED",
+      "allocation": "FRIDAY_WEEKLY_RECONCILIATION_REPLACES_ORDINARY",
+      "completed": false
+    }
+  ],
+  "reason": "No committed completions found; all original deadlines passed. Saturday is outside the weekday cadence. Cause of missing execution not established.",
+  "model_calls": 0,
+  "next_scheduled_slot": "2026-11-02T10:00:00+05:30",
+  "continuation": "Carry unresolved owners and weekly reconciliation to next eligible overnight allocation, replacing ordinary dossier allocation; morning uses sealed available artifacts.",
+  "prior_report": "research/stock_reports/pipeline_2026-10-29_210000",
+  "prior_market_asof": "2026-10-29",
+  "pending_task_owners_preserved": true,
+  "completed_slots_unchanged": true,
+  "sheet_unchanged": true,
+  "notification_state": "SUPPRESSED_UNCHANGED_DELAYED_EXECUTION_PATTERN"
+}

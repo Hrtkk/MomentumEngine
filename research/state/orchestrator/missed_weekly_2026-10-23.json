@@ -1,0 +1,18 @@
+{
+  "status": "LATE_DEFERRED",
+  "intended_slot": "2026-10-23T23:00:00+05:30",
+  "deadline_at": "2026-10-24T01:00:00+05:30",
+  "checked_at": "2026-10-24T09:19:06.558844+05:30",
+  "allocation": "FRIDAY_WEEKLY_RECONCILIATION_REPLACES_ORDINARY",
+  "completed": false,
+  "reason": "The original overnight stop time passed before this pass could dispatch. Do not start paid review after deadline.",
+  "next_action": "Carry pending weekly reconciliation, source-gap repair and all assigned research tasks to the next eligible overnight allocation; weekly review replaces ordinary dossier work",
+  "prior_report": "research/stock_reports/pipeline_2026-10-23_210000",
+  "prior_market_asof": "2026-10-23",
+  "completed_slots_unchanged": true,
+  "sheet_unchanged": true,
+  "model_calls": 0,
+  "pricing_refreshed": true,
+  "next_scheduled_slot": "2026-10-26T10:00:00+05:30",
+  "notification_state": "SUPPRESSED_UNCHANGED_DELAYED_EXECUTION_PATTERN"
+}

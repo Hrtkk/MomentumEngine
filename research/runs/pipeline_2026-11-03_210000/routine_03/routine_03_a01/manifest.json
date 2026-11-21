@@ -1,0 +1,42 @@
+{
+  "committed": true,
+  "schema_version": "1.1",
+  "artifacts": [
+    {
+      "path": "budget_snapshot.json",
+      "sha256": "366509af9670f75abff6e8291184f46d4d8c7bb24db57791bbfe4b4f6c0f4aae"
+    },
+    {
+      "path": "changes.jsonl",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "coverage.json",
+      "sha256": "119a318a0fcea4746706116cec8194fda20f07eac1d992b20f147a891876d37d"
+    },
+    {
+      "path": "monitor_state.jsonl",
+      "sha256": "c40542f5f6fcf990c996b2371bdc78830955a637f692c3cd03da896797e8eaf2"
+    },
+    {
+      "path": "open_tasks.jsonl",
+      "sha256": "2651bf33122b87d685a4c5518c2d4e9ebdfdbba37a464f2cc0bb9e76bb3f4460"
+    },
+    {
+      "path": "paper_coverage.jsonl",
+      "sha256": "65f4f1b943f84e5f03d4d4881e2a18759ab7b24ef46861d23c824c968c05feff"
+    },
+    {
+      "path": "readiness.json",
+      "sha256": "6924bc4c734970329e03794ac4c2dc894b7ec3fe7d4e6f13931b40a36190d7b3"
+    },
+    {
+      "path": "report.md",
+      "sha256": "5c81ccdc75ba22051b14e810dc1abcf96c6162483fb1ddd73ee65a336a1966bd"
+    },
+    {
+      "path": "handoff.json",
+      "sha256": "751847c8821abd741ebf161dde7003d3f04610156c22ebaa3902d84b6eab64db"
+    }
+  ]
+}

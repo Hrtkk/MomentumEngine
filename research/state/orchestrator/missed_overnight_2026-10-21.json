@@ -1,0 +1,11 @@
+{
+  "status": "LATE_DEFERRED",
+  "intended_slot": "2026-10-21T23:00:00+05:30",
+  "deadline_at": "2026-10-22T01:00:00+05:30",
+  "checked_at": "2026-10-22T08:58:52.545615+05:30",
+  "reason": "Original overnight stop time passed; prior source-date failure unresolved. No blind rerun or paid calls.",
+  "pending_owners_preserved": true,
+  "next_scheduled_slot": "2026-10-22T10:00:00+05:30",
+  "model_calls": 0,
+  "completed": false
+}

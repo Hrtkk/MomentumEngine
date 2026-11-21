@@ -1,0 +1,46 @@
+[
+  {
+    "kind": "bhav",
+    "date": "2026-10-12",
+    "url": "https://nsearchives.nseindia.com/products/content/sec_bhavdata_full_12102026.csv",
+    "http_status": 200,
+    "retrieved_at": "2026-10-13T20:23:33.217235+05:30",
+    "internal_date_verified": true,
+    "rows": 3525,
+    "path": "/Users/khritik/workspace/StartupIdea/MomentumEngine/research/inputs/2026-10-13_2000/bhav_2026-10-12.csv",
+    "sha256": "98ac6f67a08d3b122bbe10920754162b259b46a299bdf7db38c29222d90099a8"
+  },
+  {
+    "kind": "index",
+    "date": "2026-10-12",
+    "url": "https://nsearchives.nseindia.com/content/indices/ind_close_all_12102026.csv",
+    "http_status": 200,
+    "retrieved_at": "2026-10-13T20:23:33.556899+05:30",
+    "internal_date_verified": true,
+    "rows": 167,
+    "path": "/Users/khritik/workspace/StartupIdea/MomentumEngine/research/inputs/2026-10-13_2000/index_2026-10-12.csv",
+    "sha256": "e8e8f6ec16018d437c97aa302c17aae033d262b1a030101ecdf887d1be4ee621"
+  },
+  {
+    "kind": "bhav",
+    "date": "2026-10-13",
+    "url": "https://nsearchives.nseindia.com/products/content/sec_bhavdata_full_13102026.csv",
+    "http_status": 200,
+    "retrieved_at": "2026-10-13T20:23:34.030816+05:30",
+    "internal_date_verified": true,
+    "rows": 3518,
+    "path": "/Users/khritik/workspace/StartupIdea/MomentumEngine/research/inputs/2026-10-13_2000/bhav_2026-10-13.csv",
+    "sha256": "94494192a5657cc4854117bdca22a8f36d32080025dc24539c00553b340d2d38"
+  },
+  {
+    "kind": "index",
+    "date": "2026-10-13",
+    "url": "https://nsearchives.nseindia.com/content/indices/ind_close_all_13102026.csv",
+    "http_status": 200,
+    "retrieved_at": "2026-10-13T20:23:34.241579+05:30",
+    "internal_date_verified": true,
+    "rows": 146,
+    "path": "/Users/khritik/workspace/StartupIdea/MomentumEngine/research/inputs/2026-10-13_2000/index_2026-10-13.csv",
+    "sha256": "a402bb454057bc4497239e134d01fa920784acb740d67231bb3a1aee36271ecd"
+  }
+]

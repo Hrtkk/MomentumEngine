@@ -1,0 +1,14 @@
+{
+  "status": "BLOCKED",
+  "result": "NOT_EVALUATED",
+  "items": [],
+  "editorial_executed": false,
+  "executor": "Codex health fallback",
+  "prior_news_registry_ref": {
+    "routine_id": "routine_04",
+    "path": "research/runs/2026-10-05_to_2026-10-11_news_v01/routine_04/routine_04_a01",
+    "manifest_sha256": "ec584ecd10f502a1505593032547080c9947b72ce17f880cade50979b08364fe",
+    "status": "PARTIAL",
+    "production_eligible": false
+  }
+}

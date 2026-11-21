@@ -1,0 +1,9 @@
+{
+  "checked_at": "2026-10-13T23:03:03.130542+05:30",
+  "status": "AUTHENTICATED",
+  "logged_in_in_current_context": true,
+  "auth_method": "claude.ai",
+  "subscription_type": "max",
+  "execution_context": "approved normal context read-only CLI auth status",
+  "model_call_made": false
+}

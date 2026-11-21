@@ -1,0 +1,38 @@
+{
+  "status": "PARTIAL",
+  "stock_count": 603,
+  "editorial_executed": true,
+  "editorial_executed_this_pass": true,
+  "analysis_reused": false,
+  "author": "Claude",
+  "economic_review": "PENDING",
+  "items": [
+    {
+      "symbol": "ITC",
+      "mechanism": "Fact: ITC Limited filed financial results for the period ended September 30, 2026 with the Exchange (primary exchange metadata only). Hypothesis: the filing may update segment, margin and cash-conversion data relevant to the investment view; no direction can be inferred from metadata.",
+      "uncertainty": "High. Only cover-letter OCR is available; quarter table is unverified and no financial figures may be adopted.",
+      "next_check": "Verify original quarter table, sector metrics, cash conversion and valuation from the source PDF; no price trigger required.",
+      "evidence_ids": [
+        "nse-announcement-106840268"
+      ]
+    },
+    {
+      "symbol": "UPL",
+      "mechanism": "Fact: UPL Limited filed unaudited consolidated and standalone results for the quarter and half year ended September 30, 2026 (primary exchange metadata only). Hypothesis: consolidated vs standalone tables may inform revenue, margin and working-capital trends; direction is unknown.",
+      "uncertainty": "High. Cover-letter OCR only; tables unverified and no numbers adopted.",
+      "next_check": "Verify original consolidated and standalone quarter tables, sector metrics, cash conversion and valuation; no price trigger required.",
+      "evidence_ids": [
+        "nse-announcement-106839494"
+      ]
+    },
+    {
+      "symbol": "POWERGRID",
+      "mechanism": "Fact: Power Grid Corporation of India Limited filed unaudited results for the quarter and half year ended September 30, 2026 (primary exchange metadata only). Hypothesis: results may update regulated-asset and earnings data; direction is unknown.",
+      "uncertainty": "Very high. Document retrieval/parsing failed (ValueError); no text or table content available.",
+      "next_check": "Re-fetch and parse the source PDF, then verify original quarter table, sector metrics, cash conversion and valuation; no price trigger required.",
+      "evidence_ids": [
+        "nse-announcement-106838847"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "status": "BLOCKED",
+  "result": "NOT_EVALUATED",
+  "screened_universe": null,
+  "selected_count": null,
+  "reason": "Source/readiness/runtime not certified",
+  "independent_discovery_executed": false,
+  "existing_leads_are_not_screen_output": true
+}

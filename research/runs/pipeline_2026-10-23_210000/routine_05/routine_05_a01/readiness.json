@@ -1,0 +1,30 @@
+{
+  "current_eod_batch_present": false,
+  "isolated_official_eod_available": true,
+  "official_session_internally_verified": "2026-10-23",
+  "raw_and_udiff_prices_reconciled": true,
+  "identity_scope": "current EQ/STK INE identities only",
+  "calendar_certified": false,
+  "phase0_certified": false,
+  "budget_accounting_available": true,
+  "claude": {
+    "status": "NOT_CHECKED",
+    "checked_at": null
+  },
+  "claude_analysis_available": false,
+  "claude_executed": false,
+  "claude_analysis_reused": false,
+  "financial_tables_verified": 0,
+  "independent_results_candidates": 62,
+  "provisional_dossiers": 0,
+  "metadata_deferred": 0,
+  "monitor_baselines": 0,
+  "paper_positions_inventoried": 15,
+  "unknown_real_holdings": true,
+  "reconciliation_mode": "ORDINARY",
+  "limitations": [
+    "Historical calendar/identity/entitlement/sector coverage remains uncertified",
+    "Results metadata does not pass financial/valuation gates; unverified tables remain unknown",
+    "No production qualification or paper-book mutation"
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "committed": true,
+  "schema_version": "1.1",
+  "artifacts": [
+    {
+      "path": "assessments.jsonl",
+      "sha256": "d06c5834c039bf45bf930d7bd7d37c3fd625434bee54e333140505be1a3d7c1a"
+    },
+    {
+      "path": "budget_snapshot.json",
+      "sha256": "d2801b6565a2575806dc8eab58f8135e13315c133a845d30e511eb0dfd2467c7"
+    },
+    {
+      "path": "claude_receipt.json",
+      "sha256": "e95bfba9b7e17361393bf5f76862de7ea5a78b2a6761fd1dc9a695c82ee0f67e"
+    },
+    {
+      "path": "cutoff_exclusions.jsonl",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "events.jsonl",
+      "sha256": "aa05eaef817c4f150c40d52bb8701b30edb8ebae3b47ee5f9d9ee901ea8b133f"
+    },
+    {
+      "path": "open_tasks.jsonl",
+      "sha256": "2651bf33122b87d685a4c5518c2d4e9ebdfdbba37a464f2cc0bb9e76bb3f4460"
+    },
+    {
+      "path": "readiness.json",
+      "sha256": "3175eb1e24bc2dfdf1bcd42e0de60b50190f99f810c7c20f00e80493dd63515b"
+    },
+    {
+      "path": "registry_ref.json",
+      "sha256": "5eceefe2089c12f48e2d78a77a00cb7b509153bbab583bba907bec8dcd258b11"
+    },
+    {
+      "path": "report.md",
+      "sha256": "e9fbf1e656fbefa31a76688e7408c0981da817309ac3a1f7bba70b6a57171a90"
+    },
+    {
+      "path": "source_health.json",
+      "sha256": "9bda86047ed9fd97c257fbe33f889ad445242b75d7a19b134df31d2c66655f68"
+    },
+    {
+      "path": "handoff.json",
+      "sha256": "a79668d89a41a2d8e0794c58c64502c1810217e40213782e6850b7a337ab12cd"
+    }
+  ]
+}

@@ -1,0 +1,8 @@
+{
+  "request_id": "claude-6e1e44a027c2b1531a87b97d",
+  "pricing_sha256": "fda139fb62b10e22aaffc6d8f51c015dbbcfc152dfe8129537dea6250e96cad0",
+  "reserved_usd": 1.1,
+  "input_bound": 20000,
+  "output_bound": 4000,
+  "reserved_at": "2026-10-20T21:00:57.372532+05:30"
+}

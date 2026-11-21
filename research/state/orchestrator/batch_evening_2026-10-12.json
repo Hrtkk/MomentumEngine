@@ -1,0 +1,13 @@
+{
+  "batch_id": "2026-10-12_evening_health_v01",
+  "scheduled_slot": "2026-10-12T21:00:00+05:30",
+  "runs": [
+    "research/runs/2026-10-12_evening_health_v01/routine_01/routine_01_a01",
+    "research/runs/2026-10-12_evening_health_v01/routine_02/routine_02_a01",
+    "research/runs/2026-10-12_evening_health_v01/routine_03/routine_03_a01",
+    "research/runs/2026-10-12_evening_health_v01/routine_04/routine_04_a01",
+    "research/runs/2026-10-12_evening_health_v01/routine_05/routine_05_a01"
+  ],
+  "status": "BLOCKED",
+  "deadline_missed": true
+}

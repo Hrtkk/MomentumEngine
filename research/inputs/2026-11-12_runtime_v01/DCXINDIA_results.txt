@@ -1,0 +1,846 @@
+                                                                           DCX SYSTEMS LIMITED
+                                                                      CIN: L31908KA2011PLC061686
+
+An AS 9100D Certified
+Regd. Off. Add.: Aerospace SEZ Sector, Plot Nos. 29,30 and                      Email:cs@dcxindia.com
+107, Hitech Defence and Aerospace Park, Kavadadasanahalli,                          Tel: 080-67119555
+Bengaluru Rural – 562110, Karnataka, India.                                       Web:www.dcxindia.com
+
+
+November 11, 2026
+
+BSE Limited                                         National Stock Exchange of India Ltd
+P J Towers                                          Exchange Plaza, C-1, Block G
+Dalal Street, Fort                                  Bandra Kurla Complex, Bandra (E)
+Mumbai – 400001                                     Mumbai – 400051
+
+Scrip Code – 543650                                 Symbol – DCXINDIA
+
+Dear Sir/Madam,
+
+Sub: Outcome of the Board Meeting
+
+We wish to inform you that, pursuant to Regulations 30 and 33 of SEBI (Listing Obligations and Disclosure
+Requirements) Regulations, 2015, the Board of Directors of the Company at their meeting held today,
+i.e., on Wednesday, November 11, 2026, inter alia, have considered and approved the following business
+item:
+
+Un-Audited Financial Results:
+
+Approved the Un-Audited Financial Results (both Standalone and Consolidated) for the quarter and half
+year ended September 30, 2026, along with Limited Review Report issued by the Statutory Auditors of
+the Company.
+
+A copy of the Un-Audited Financial Results (both Standalone and Consolidated) in the prescribed format,
+reviewed by the Audit Committee and approved by the Board of Directors along with Limited Review
+Report issued by the Statutory Auditors of the Company for the quarter and half year ended September
+30, 2026, is enclosed herewith.
+
+The Un-Audited Financial Results of the Company for the quarter and half year ended September 30,
+2026, is also available on the Company's website at www.dcxindia.com.
+
+The meeting of the Board of Directors commenced at 3:30 P.M. IST and concluded at 3:58 P.M. IST.
+
+Please take the same on your records.
+
+Thanking you,
+
+Yours Sincerely,
+For DCX Systems Limited
+GURUMU Digitally
+       GURUMURTHY
+                 signed by
+
+RTHY   HEGDE
+       Date: 2026.11.11
+HEGDE 17:10:36 +05'30'
+Gurumurthy Hegde
+Company Secretary, Legal and Compliance Officer
+              NBS & CO.
+              Chartered Accountants
+              14/2, Western India House, Sir P. M. Road, Fort,
+              Mumbai – 400001.Tel: (91-22) 22870588 / 0939 / 4140,
+              22885229
+              Fax: (91-22) 22884910. Email id: admin@nbsandco.in. Web:
+              www.nbsandco.in.
+
+
+Independent Auditor’s Limited Review Report on the Unaudited Standalone
+Financial Results for Quarter and Six Months Ended September 30, 2026 of DCX
+Systems Limited pursuant to the Regulation 33 of the SEBI (Listing Obligations and
+Disclosure Requirements) Regulations, 2015, as amended.
+
+
+
+To
+The Board of Directors
+DCX Systems Limited
+
+
+
+1. We have reviewed the accompanying Statement of Standalone Unaudited Financial
+   Results of DCX Systems Limited (“the Company”) for the quarter ended September
+   30, 2026 and year to date from April 1, 2026 to September 30, 2026 (“the
+   Statement”) attached herewith, being submitted by the Company pursuant to the
+   requirements of Regulation 33 of the Securities and Exchange Board of India (the
+   “SEBI”) (Listing Obligations and Disclosure Requirements) Regulations, 2015, as
+   amended (the “Listing Regulations”).
+
+2. This Statement, which is the responsibility of the Company’s Management and
+   approved by the Board of Directors, has been prepared in accordance with the
+   recognition and measurement principles laid down in Indian Accounting Standard
+   34 ‘Interim Financial Reporting’ (‘Ind AS 34’), prescribed under Section 133 of the
+   Companies Act, 2013 as amended, read with relevant rules issued thereunder (“the
+   Act”) and other accounting principles generally accepted in India and in compliance
+   with Regulation 33 of the Listing Regulations. Our responsibility is to express a
+   conclusion on the Statement based on our review.
+
+3. We conducted our review of the Statement in accordance with the Standard on
+   Review Engagements (SRE) 2410 “Review of Interim Financial Information
+   Performed by the Independent Auditor of the Entity”, issued by the Institute of
+   Chartered Accountants of India. This Standard requires that we plan and perform
+   the review to obtain moderate assurance as to whether the Statement is free of
+   material misstatement.
+
+
+
+
+                     BANGALORE  CHENNAI  MANGALORE
+     NBS & CO.
+     Chartered Accountants
+   A review of interim financial information consists of making inquiries, primarily of
+   persons responsible for financial and accounting matters, and applying analytical
+   and other review procedures. A review is substantially less in scope than an audit
+   conducted in accordance with Standards on Auditing and consequently does not
+   enable us to obtain assurance that we would become aware of all significant matters
+   that might be identified in an audit. Accordingly, we do not express an audit opinion.
+
+   Based on our review conducted as above, nothing has come to our attention that
+   causes us to believe that the accompanying Statement, prepared in accordance with
+   applicable Indian Accounting Standards and other accounting principles generally
+   accepted in India, has not disclosed the information required to be disclosed in
+   terms of the Listing Regulations including the manner in which it is to be disclosed,
+   or that it contains any material misstatement.
+
+
+
+NBS & CO.
+Chartered Accountants
+Firm Registration No.110100W
+Pradeep Digitally
+          Pradeep
+                   signed by
+
+Jagannath Jagannath Shetty
+          Date: 2026.11.11
+Shetty    16:47:29 +05'30'
+Pradeep Shetty
+Partner
+Membership No. 046940
+UDIN: 26046940SVRGNJ9927
+Place: Mumbai
+Date: November 11, 2026.
+                                                                           DCX SYSTEMS LIMITED
+Reg. Off. Address: AEROSPACE SEZ SECTOR,PLOT NOS.29,30 AND 107,HITECH DEFENCE AND AEROSPACE PARK,KAVADADASANAHALLI, KIADB INDUSTRIAL AREA BENGALURU RURAL, KARNATAKA, INDIA,
+                                                                                     562110.
+                                                              CIN: L31908KA2011PLC061686, Website : www.dcxindia.com
+                                                       STANDALONE STATEMENT OF ASSETS AND LIABILITIES
+                                                                                                                                                  (₹ in Millions, unless otherwise stated)
+Sl.No   Particulars                                                                                                         As at 30th September 2026             As at 31st March 2026
+
+                                                                                                                                         (UNAUDITED)                          (AUDITED)
+  I     ASSETS
+          1 Non - Current Assets
+              (a) Property, Plant & Equipment                                                                                                    234.85                           254.06
+              (b) Capital work-in-progress                                                                                                            -                                -
+              (c) Right of use Assets                                                                                                             43.00                            43.00
+              (d) Other Intangible Assets                                                                                                          1.81                             2.26
+              (e) Financial Assets
+                  (i) Investment                                                                                                             3,269.78                           2,426.56
+                  (ii) Other Financial Assets                                                                                                   23.91                              22.08
+              (f) Deferred Tax Assets (net)                                                                                                     21.02                              18.23
+              (g) Other non -Current Assets                                                                                                      0.50                               0.50
+                                                                                          Total-Non-Current Assets                           3,594.87                           2,766.68
+
+           2 Current Assets
+              (a) Inventories                                                                                                                5,765.11                           4,234.09
+              (b) Financial Assets
+                  (i) Trade Receivables                                                                                                        505.76                           1,329.80
+                  (ii) Cash and cash equivalents                                                                                             1,112.32                           1,091.33
+                  (iii) Bank balances other than (ii) above                                                                                  4,848.02                           5,556.01
+                  (iv) Other financial assets                                                                                                   19.73                              14.35
+              (c) Current tax assets (net)                                                                                                        -                                  -
+              (d) Other Current Assets                                                                                                       2,648.72                           2,393.15
+                                                                                              Total-Current Assets                          14,899.66                          14,618.73
+
+                                                              TOTAL ASSETS                                                                 18,494.53                         17,385.41
+
+ II.    EQUITY AND LIABILITIES
+        EQUITY
+             (a) Equity Share Capital                                                                                                          222.78                            222.78
+             (b) Other Equity                                                                                                               11,734.96                         11,647.27
+                                                                                                       Total-Equity                         11,957.74                         11,870.05
+        LIABILITIES
+          1 Non Current Liabilities
+              (a) Financial liabilities
+                    (i) Long Term Borrowings                                                                                                       -                                 -
+              (b) Provisions                                                                                                                     38.80                             33.16
+                                                                                      Total -Non-Current Liabilities                             38.80                             33.16
+
+          2   Current Liabilities
+              (a) Financial Liabilities
+                  (i) Borrowings                                                                                                                    -                                -
+                  (ii) Lease Liabilities
+                  (iii) Trade Payables -
+                         Total outstanding dues of MSME                                                                                          9.69                              25.51
+                         Total outstanding dues of creditors other than MSME                                                                 2,355.49                           1,779.67
+                  (iv) Other financial liabilities                                                                                              31.71                              24.10
+              (b) Other Current Liabilities                                                                                                  4,061.71                           3,520.41
+              (c) Provisions                                                                                                                     1.25                               1.38
+              (d) Current tax liabilities (net)                                                                                                 38.14                             131.13
+                                                                                           Total-Current Liabilities                         6,497.99                           5,482.20
+
+                                                    Total EQUITY AND LIABILITIES                                                           18,494.53                         17,385.41
+
+                      For                                                                                              For DCX Systems Limited
+                      NBS & Co.
+                      Chartered Accountants                                                                            HS       Digitally signed by
+                                                                                                                                H S RAGHAVENDRA
+                      FRN : 110100W
+                                                                                                                       RAGHAVE RAO
+                                                                                                                                Date: 2026.11.11
+                      Pradeep Digitally signed                                                                         NDRA RAO 16:37:22 +05'30'
+                      Jaganna by    Pradeep
+                                 Jagannath
+
+                      th         Shetty
+                                 Date: 2026.11.11
+                                                                                                                       Dr. H.S. Raghavendra Rao
+                      FRN : 110100W                                                                                    Chairman & Managing Director
+                      Shetty 16:48:17 +05'30'
+                      CA.Pradeep Shetty
+                      Partner
+                      M No: 046940
+                      Place: Mumbai
+                      Date:11-11-2026
+                      UDIN:26046940SVRGNJ9927
+                                                                                                                                                              DCX SYSTEMS LIMITED
+                                                                                     Reg. Off. Address: AEROSPACE SEZ SECTOR,PLOT NOS.29,30 AND 107,HITECH DEFENCE AND AEROSPACE PARK,KAVADADASANAHALLI, KIADB INDUSTRIAL AREA BENGALURU RURAL,
+                                                                                                                               KARNATAKA, INDIA, 562110, CIN: L31908KA2011PLC061686, Website : www.dcxindia.com
+                                                                                                                  STATEMENT OF STANDALONE FINANCIAL RESULTS FOR THE QUARTER AND HALF YEAR ENDED 30th SEPTEMBER 2026
+                                                                                                                                                                                                                                                                                             (₹ in Millions, unless otherwise stated)
+                                                                                                                                                                    Quarter ended                                                               Half year ended                                                          Year ended
+ Sl.No. Particulars                                                                                                                               30-Sep-26                      30-Jun-26                     30-Sep-25                      30-Sep-26                          30-Sep-25                            March 31, 2026
+                                                                                                                                               (UNAUDITED)                    (UNAUDITED)                   (UNAUDITED)                    (UNAUDITED)                        (UNAUDITED)                                 (AUDITED)
+    1      INCOME
+           Revenue from operations                                                                                                                 1,382.25                      1,011.19                       1,923.48                          2,393.44                       4,123.72                                 7,398.72
+           Other income                                                                                                                               73.83                         89.94                          99.57                            163.77                         279.78                                   429.04
+           Total income                                                                                                                            1,456.08                      1,101.13                       2,023.05                          2,557.22                       4,403.50                                 7,827.76
+    2      Expenses:
+           Cost of materials consumed                                                                                                                579.94                      1,335.15                       1,813.82                          1,915.09                       3,919.19                                  8,413.50
+           Changes in inventories of finished goods, by-products and work in progress                                                                674.57                       (407.55)                           -                              267.02                            -                                   (1,537.33)
+           Employee benefits expense                                                                                                                  51.31                         50.43                          45.77                            101.74                          87.04                                    184.99
+           Finance costs                                                                                                                               8.96                          7.81                           6.65                             16.77                          14.50                                     29.57
+           Depreciation and amortization expense                                                                                                      13.03                         12.72                          15.96                             25.75                          31.02                                     64.05
+           Other expenses                                                                                                                             64.22                         36.13                          32.16                            100.35                          74.74                                    173.74
+           Total expenses                                                                                                                          1,392.03                      1,034.69                       1,914.36                          2,426.72                       4,126.49                                  7,328.51
+
+    3      Profit before exceptional Items and Tax (1-2)                                                                                             64.05                          66.44                         108.69                           130.50                          277.01                                   499.25
+    4      Exceptional Items                                                                                                                           -                              -                              -                                                                                                         -
+    5      Profit before Tax (3-4)                                                                                                                   64.05                          66.44                         108.69                           130.50                          277.01                                   499.25
+    6      Tax expense :
+           Current tax                                                                                                                               22.38                          23.22                          37.98                            45.60                           96.80                                   174.36
+           Deferred tax                                                                                                                              (1.24)                         (1.56)                         (0.95)                           (2.80)                          (2.72)                                   (6.73)
+           MAT                                                                                                                                         -                              -                              -                                -                               -                                        -
+                                                                                                                                                     21.14                          21.66                          37.03                            42.80                           94.08                                   167.63
+
+    7      Profit for the Period from continuing operations (5-6)                                                                                    42.91                          44.78                          71.66                            87.70                          182.93                                   331.62
+    8      Profit /(Loss) for the period discontinued operations                                                                                       -                              -                              -                                -                               -
+    9      Tax Expenses of discontinued operations                                                                                                     -                              -                              -                                -                               -                                        -
+   10      Profit from discontinued operations (after tax) (8-9)                                                                                       -                              -                              -                                -                               -                                        -
+   11      Profit for the Period (7+10)                                                                                                              42.91                          44.78                          71.66                            87.70                          182.93                                   331.62
+   12      Other comprehensive (loss)/ income
+           Items that will not be reclassified subsequently to profit or loss
+           (i) Remeasurements of defined benefit liability / (asset)                                                                                    -                             -                              -                                 -                                 -                                    (0.02)
+           (i) Income tax relating to remeasurements of defined benefit liability / (asset)                                                             -                             -                              -                                 -                                 -                                     0.01
+                                                                                                                                                        -                             -                              -                                 -                                 -                                    (0.01)
+           ii. Items that will be reclassified subsequently to profit or loss ;
+           (i) The effective portion of gains and loss on hedging instruments in a cash flow hedge                                                     -                              -                              -                                -                               -                                        -
+           (ii) Income tax relating to items that will be reclassified to profit or loss                                                               -                              -                              -                                -                               -                                        -
+                                                                                                                                                       -                              -                              -                                -                               -                                        -
+           Total Other comprehensive income                                                                                                            -                              -                              -                                -                               -                                      (0.01)
+   13      Total comprehensive income for the period (11+12)                                                                                         42.91                          44.78                          71.66                            87.70                          182.93                                   331.61
+   14      Paid-up Equity share Capital (Face Value of Rs 2/-)                                                                                      222.78                         222.78                         222.78                           222.78                          222.78                                   222.78
+   15      Other Equity                                                                                                                                                                                                                                                                                                  11,647.27
+   16      Earnings per equity share for Continuing operations (Not Annualized)
+                    - Basic (Rs.)                                                                                                                      0.39                          0.40                           0.64                              0.79                           1.64                                      2.98
+                    - Diluted (Rs.)                                                                                                                    0.39                          0.40                           0.64                              0.79                           1.64                                      2.98
+   17      Earnings per equity share for discontinued operations (Not Annualized)
+                    - Basic (Rs.)                                                                                                                       -                             -                              -                                 -                                 -                                      -
+                    - Diluted (Rs.)                                                                                                                     -                             -                              -                                 -                                 -                                      -
+   18      Earnings per equity share for discontinued and continuing operations (Not Annualized)
+                    - Basic (Rs.)                                                                                                                      0.39                          0.40                           0.64                              0.79                           1.64                                      2.98
+                    - Diluted (Rs.)                                                                                                                    0.39                          0.40                           0.64                              0.79                           1.64                                      2.98
+
+
+
+For
+NBS & Co.
+Chartered Accountants                                                                                                                                                                                                                                          For DCX Systems Limited
+FRN : 110100W
+                                                                                                                                                                                                                                                           HS       Digitally signed by H
+                                                                                                                                                                                                                                                                    S RAGHAVENDRA
+Pradeep Digitally
+                                                                                                                                                                                                                                                           RAGHAVEN RAO
+                   signed
+          by Pradeep
+Jaganna Jagannath     Shetty
+          Date: 2026.11.11                                                                                                                                                                                                                                          Date: 2026.11.11
+th Shetty 16:48:48 +05'30'                                                                                                                                                                                                                                 DRA RAO 16:37:47 +05'30'
+CA.Pradeep Shetty                                                                                                                                                                                                                                              Dr. H.S. Raghavendra Rao
+Partner                                                                                                                                                                                                                                                      Chairman & Managing Director
+M No: 046940
+Place: Mumbai
+Date: 11-11-2026
+UDIN:26046940SVRGNJ9927
+                                                                  DCX SYSTEMS LIMITED
+ Reg. Off. Address: AEROSPACE SEZ SECTOR,PLOT NOS.29,30 AND 107,HITECH DEFENCE AND AEROSPACE PARK,KAVADADASANAHALLI, KIADB INDUSTRIAL AREA
+                                    KARNATAKA, INDIA, 562110, CIN: L31908KA2011PLC061686, Website : www.dcxindia.com
+                                   STANDALONE CASH FLOW STATEMENT FOR THE HALF YEAR ENDED 30th SEPTEMBER 2026
+                                                                                                                    (₹ In Millions, unless otherwise stated )
+                                                                                            For the half year ended                  For the half year ended
+Particulars
+                                                                                              30th September 2026                      30th September 2025
+                                                                                                      (UNAUDITED)                              (UNAUDITED)
+A. Cash flow from operating activities
+   Profit before tax                                                                                         130.50                                   277.01
+  Adjustments to reconcile profit before tax to net cash flows:                                                                                          -
+   Interest on fixed deposits                                                                               (155.38)                                 (233.07)
+   Profit on sale of fixed assets                                                                               -                                        -
+   Interest on borrowings                                                                                       -                                        -
+   Depreciation and amortisation expense                                                                      25.75                                    31.02
+Remeasurement of defined employee benefit plan                                                                  -                                        -
+
+ Operating profit before working capital changes                                                                  0.87                                74.96
+ Movement in working capital:
+(Increase)/Decrease in trade receivables                                                                         824.04                               332.05
+(Increase)/Decrease in inventories                                                                            (1,531.02)                           (2,133.49)
+(Increase)/Decrease in other current assets                                                                      452.42                               754.07
+(Increase)/Decrease in other non current financial assets                                                         (1.83)                               23.16
+(Increase)/Decrease in other current financial assets                                                             (5.38)                               (8.85)
+Increase/(Decrease) in trade payables                                                                            560.00                             1,080.37
+Increase/(Decrease) in non current provisions                                                                      5.64                                 2.56
+Increase/(Decrease) in current provisions                                                                         (0.13)                                 -
+Increase/(Decrease) in other current financial liabilities                                                         7.61                                 8.86
+Increase/(Decrease) in other current liabilities                                                                 541.31                               279.56
+ Cash generated from operations                                                                                  853.54                               413.25
+ Net income tax (paid)                                                                                          (138.60)                             (127.19)
+ Net cash from operating activities (A)                                                                          714.94                               286.06
+
+B. Cash flows from investing activities
+Purchase of property, plant and equipment and Other Intangible assets                                            (6.10)                              (22.69)
+Proceeds from disposal of property, plant and equipment                                                            -                                    -
+Capital work in progress and capital advance                                                                       -                                    -
+Investment in Subsidiary                                                                                       (843.22)                             (839.36)
+Interest received                                                                                               155.38                               233.07
+Net cash from investing activities (B)                                                                         (693.95)                             (628.98)
+
+C. Cash flows from financing activities
+    Working Capital/Term Loan                                                                                       -                                    -
+   Net Proceeds from issue of Shares                                                                                -                                    -
+   Fund Raising Expenses                                                                                            -                                  (0.64)
+    Interest amount                                                                                                 -                                    -
+Net cash from financing activities ( C )                                                                            -                                  (0.64)
+
+ Net increase / (decrease) in Cash and cash equivalents (A+B+C)                                                  20.99                              (343.56)
+Effect of exchange differences on restatement of foreign currency Cash and cash                                                                          -
+                                                                                                                    -
+equivalents
+ Cash and cash equivalents at the beginning of the period                                                     1,091.33                             1,316.07
+ Cash and cash equivalents at the end of the period                                                           1,112.32                               972.51
+
+Notes:-
+1. Cash and cash equivalents include
+       Cash on hand                                                                                                 -                                    -
+       Balances with bank
+         - Current accounts                                                                                   1,112.32                               972.51
+                                                                                                              1,112.32                               972.51
+                                                                 DCX SYSTEMS LIMITED
+  Reg. Off. Address: AEROSPACE SEZ SECTOR,PLOT NOS.29,30 AND 107,HITECH DEFENCE AND AEROSPACE PARK,KAVADADASANAHALLI, KIADB INDUSTRIAL AREA
+                                   KARNATAKA, INDIA, 562110, CIN: L31908KA2011PLC061686, Website : www.dcxindia.com
+
+NOTES :
+
+1. The above financial results have been reviewed by the Audit Committee and approved by the Board of Directors at the meetings held on November 11, 2026
+respectively.
+2. The Company is one of the leading Indian Defence Manufacturing player offering a full service and manufacture of Electronic Subsystems and Cable Harnesses
+for both International and domestic reputed customers.
+3.The Company had invested in Raneal Advanced Systems Private Limited (RASPL) and NIART systems Limited ,which are wholly owned subsidiaries of the company.
+In furtherance of various project related initiatives, the Company has so far invested Rs. 3,269.78 Mn from time to time till September 30, 2026 in the form of equity
+(RASPL Rs 328.38 Mn and NIART Rs 2097.25 Mn). Further, the Company had also invested in ELTX Systems private limted ( Associate company) so far Rs 844.15 Mn
+and holding 37%, further ELTX has not yet commenced its operation during the period.
+4. The Statutory Auditors have carried out limited review of financial results for the quarter and half year ended September 30, 2026.
+5. The previous periods' figures have been regrouped to conform to Current period's required classification.
+6.Other expenses includes loss on account of foreign exchange fluctuation of Rs. 16.39 Mn and Rs. 9.06 Mn for the quarter and half year ended September 30,
+2026.and Other income includes loss on account of foreign exchange fluctuation of Rs. 10.59 Mn and Other income includes gain on account of foreign exchange
+fluctuation of Rs. 45.46 Mn for the quarter and half year ended September 30, 2025.
+7. The Company has only one geographic as well as manufacturing unit, in the context of the Ind AS 108 Operating Segment, is considered to constitute one single
+primary segment.
+
+For                                                                                      For DCX Systems Limited
+NBS & Co.                                                                               HS        Digitally signed by H S
+Chartered Accountants
+FRN : 110100W
+                                                                                        RAGHAVEND RAGHAVENDRA
+                                                                                                  Date: 2026.11.11
+                                                                                                                   RAO
+
+
+Pradeep
+                                                                                        RA RAO    16:38:19 +05'30'
+            Digitally signed by Pradeep
+                                                                                        Dr. H.S. Raghavendra Rao
+Jaganna     Jagannath Shetty
+            Date: 2026.11.11 16:49:46
+FRN : 110100W
+            +05'30'
+                                                                                        Chairman & Managing Director
+th Shetty
+CA.Pradeep Shetty
+Partner
+M No: 046940
+Place: Mumbai
+Date:11-11-2026
+UDIN:26046940SVRGNJ9927
+                 NBS & CO.
+                 Chartered Accountants
+                 14/2, Western India House, Sir P. M. Road, Fort, Mumbai - 400001.
+                 Tel: (91-22) 46002131 / 32 / 33
+                 Email id: admin@nbsandco.in. Web: www.nbsandco.in.
+
+
+Independent Auditor’s Review Report on the Unaudited Consolidated Financial
+Results of Quarter and Six Months ended September 30, 2026 of DCX Systems Limited
+pursuant to the Regulation 33 of the SEBI (Listing Obligations and Disclosure
+Requirements) Regulations, 2015, as amended.
+
+
+ To
+ The Board of Directors
+ DCX Systems Limited
+
+
+ 1. We have reviewed the accompanying Statement of Consolidated Unaudited Financial
+    Results of DCX Systems Limited (“the Holding Company”) and its subsidiary (the
+    Holding Company and its subsidiaries together referred to as “the Group”), for the
+    quarter ended September 30, 2026 and year to date from April 01, 2026 to September
+    30, 2026 (‘the statement”) attached herewith, being submitted by the Holding Company
+    pursuant to the requirements of Regulation 33 of the Securities and Exchange Board of
+    India (the “SEBI”) (Listing Obligations and Disclosure Requirements) Regulations,
+    2015, as amended (the “Listing Regulations”).
+
+ 2. This Statement, which is the responsibility of the Holding Company’s Management and
+    approved by the Holding Company’s Board of Directors, has been prepared in
+    accordance with the recognition and measurement principles laid down in Indian
+    Accounting Standard 34 ‘Interim Financial Reporting’ (‘Ind AS 34’), prescribed under
+    Section 133 of the Companies Act, 2013 as amended, read with relevant rules issued
+    thereunder (“the Act”) and other accounting principles generally accepted in India and
+    in compliance with Regulation 33 of the Listing Regulations. Our responsibility is to
+    express a conclusion on the statement based on our review.
+
+ 3. We conduct our review of the Statement in accordance with the standard on Review
+    Engagements (SRE) 2410 “Review of Interim Financial Information Performed by the
+    Independent Auditor of the Entity”, issued by the Institute of Chartered Accountants of
+    India. This Standard requires that we plan and perform the review to obtain moderate
+    assurance as to whether the Statement is free of material misstatement.
+
+    A review of interim financial information consists of making inquiries, primarily of
+    persons responsible for financial and accounting matters, and applying analytical and
+    other review procedures. A review is substantially less in scope than an audit conducted
+    in accordance with standards on Auditing and consequently does not enable us to obtain
+    assurance that we would become aware of all significant matters that might be identified
+    in an audit. Accordingly, we do not express an audit opinion.
+
+
+
+                    BANGALORE  CHENNAI  MANGALORE
+NBS & CO.
+Chartered Accountants
+    We also performed procedures in accordance with the circular issued by the SEBI under
+    Regulation 33 (8) of the SEBI (Listing Obligation and Requirements) Regulation 2015,
+    as amended, to the extent applicable.
+
+4. The Statement includes the Standalone financial results of the following entities:
+
+         Sr. No.       Name of the Entities
+                       Subsidiaries
+             1.        RANEAL Advanced Systems Private Limited (RASPL)
+             2.        NIART Systems LTD (NSL)
+                       Associate
+             1.        ELTX Systems Private Limited
+
+5. Based on our review conducted and procedures performed as stated in paragraph 3 above
+   and based on the consideration of the review reports of other auditors referred to in
+   paragraph 6 below, nothing has come to our attention that causes us to believe that the
+   accompanying Statement, prepared in accordance with applicable Indian Accounting
+   Standards (Ind AS’) and other accounting principles generally accepted in India, has not
+   disclosed the information required to be disclosed in term of the Listing Regulations
+   including the manner in which it is to be disclosed, or that it contains any material
+   misstatement.
+
+   Other Matters
+
+ 6. We did not review the financial results of two subsidiaries included in the Statement,
+    whose interim financial results reflect total revenues of Rs. 238.00 Mn and Rs. 437.39
+    Mn, total net loss after tax of Rs. (45.27 Mn) and Rs. (175.88 Mn) for the respective
+    quarter and half year ended September 30, 2026, total comprehensive Profit & loss of
+    Rs. (135.63 Mn) and Rs. 28.93 Mn for the respective quarter and half year ended
+    September 30, 2026, total assets of Rs. 8,289.84 Mn and net cash flow of Rs. (297.56
+    Mn) for the Half year ended September 30, 2026 as considered in the Consolidated
+    Unaudited Financial Results. These interim financial results have been reviewed by
+    other auditors whose reports have been furnished to us by the management and our
+    conclusion on the Statement, in so far as it relates to the amounts and disclosures
+    included in respect of these Subsidiaries, is based solely on the reports of the other
+    auditors and the procedures performed by us as stated in paragraph 3 above.
+
+ 7. The consolidated unaudited financial results also include the Group's share of total
+    comprehensive loss of Rs. 0.21 Mn and Rs. 0.95 Mn for the quarter and half year ended
+    September 30, 2026, in respect of one associate, whose interim financial results have
+    not been reviewed by us. These interim financial results have been prepared by the
+    Company's Management and furnished to us. Our conclusion on the consolidated
+    unaudited financial results, in so far as it relates to the amounts and disclosures included
+NBS & CO.
+Chartered Accountants
+   in respect of the associate is based solely on such unaudited interim financial results
+   furnished by the Management. According to the information and explanations given to
+   us by the Holding Company's Management, this unreviewed interim financial results /
+   financial information of the aforesaid Associate included in these unaudited
+   consolidated financial results, are not material to the Group.
+
+  Our conclusion on the statement in respect of matters stated in paragraphs 6 and 7 above
+  is not modified with respect to our reliance on the work done and the report of the other
+  auditors and the financial results and financial information certified by the Management.
+
+
+For NBS & Co.
+Chartered Accountants
+Firm registration-110100W
+ Pradeep      Digitally signed by
+              Pradeep Jagannath
+ Jagannath    Shetty
+              Date: 2026.11.11
+ Shetty       16:50:28 +05'30'
+
+CA. Pradeep J. Shetty
+Partner
+Membership No.046940
+UDIN: 26046940OPZXRU4330
+Place: Mumbai
+Date: November 11, 2026.
+                                                                                         DCX SYSTEMS LIMITED
+              Reg. Off. Address: AEROSPACE SEZ SECTOR,PLOT NOS.29,30 AND 107,HITECH DEFENCE AND AEROSPACE PARK,KAVADADASANAHALLI, KIADB INDUSTRIAL AREA BENGALURU RURAL,
+                                                               KARNATAKA, INDIA, 562110, CIN: L31908KA2011PLC061686, Website : www.dcxindia.com
+                                                                    CONSOLIDATED STATEMENT OF ASSETS AND LIABILITIES
+                                                                                                                                                                      (₹ in Millions, unless otherwise stated)
+
+Sl.No   Particulars                                                                                                                       As at 30th September 2026                   As at 31st March 2026
+
+                                                                                                                                                          (UNAUDITED)                             (AUDITED)
+  I     ASSETS
+          1 Non - Current Assets
+              (a) Property, Plant & Equipment                                                                                                                  628.99                                 637.80
+              (b) Capital work-in-progress                                                                                                                          -                                      -
+              (c) Right of use Assets                                                                                                                           57.63                                  64.84
+              (d) Other Intangible Assets                                                                                                                    4,519.81                               4,138.22
+              (e) Financial Assets
+                  (i) Investment                                                                                                                               842.71                                   0.44
+                  (ii) Other Financial Assets                                                                                                                   27.90                                  28.71
+              (f) Deferred Tax Assets (net)                                                                                                                     27.49                                  24.69
+              (g) Other non -Current Assets                                                                                                                      0.50                                   0.50
+                                                                                                      Total-Non-Current Assets                               6,105.03                               4,895.20
+
+           2 Current Assets
+              (a) Inventories                                                                                                                                6,972.59                               5,369.83
+              (b) Financial Assets
+                  (i) Trade Receivables                                                                                                                        518.63                              1,344.04
+                  (ii) Cash and cash equivalents                                                                                                             1,154.94                              1,139.80
+                  (iii) Bank balances other than (ii) above                                                                                                  5,541.42                              6,508.60
+                  (iv) Other financial assets                                                                                                                   21.76                                 16.33
+              (c) Current tax assets (net)                                                                                                                        -                                     -
+              (d) Other Current Assets                                                                                                                       1,763.65                              1,760.95
+                                                                                                           Total-Current Assets                             15,972.99                             16,139.55
+
+                                                                          TOTAL ASSETS                                                                      22,078.02                              21,034.76
+
+ II.    EQUITY AND LIABILITIES
+        EQUITY
+             (a) Equity Share Capital                                                                                                                          222.78                                222.78
+             (b) Other Equity                                                                                                                               15,050.00                             14,907.42
+                                                                                                                    Total-Equity                            15,272.78                             15,130.20
+        LIABILITIES
+          1 Non Current Liabilities
+              (a) Financial liabilities
+                    (i) Long Term Borrowings                                                                                                                     -                                       -
+              (b) Provisions                                                                                                                                   44.12                                   37.13
+              (c) Lease Liabilities                                                                                                                            19.74                                    7.57
+                                                                                                   Total -Non-Current Liabilities                              63.86                                   44.70
+
+          2    Current Liabilities
+               (a) Financial Liabilities
+                   (i) Borrowings                                                                                                                                 -                                      -
+                   (ii) Lease Liabilities
+                   (iii) Trade Payables -
+                          Total outstanding dues of MSME                                                                                                         9.69                                  28.90
+                          Total outstanding dues of creditors other than MSME                                                                                2,537.92                               2,072.10
+                   (iv) Other financial liabilities                                                                                                             80.10                                  71.59
+               (b) Other Current Liabilities                                                                                                                 4,069.41                               3,529.25
+               (c) Provisions                                                                                                                                    6.31                                   4.58
+               (d) Lease Liabilities                                                                                                                              -                                    21.64
+               (e) Current tax liabilities (net)                                                                                                                37.95                                 131.80
+                                                                                                        Total-Current Liabilities                            6,741.38                               5,859.86
+
+                                                                  Total EQUITY AND LIABILITIES                                                              22,078.02                              21,034.76
+
+                      For                                                                                                           For DCX Systems Ltd
+                      NBS & Co.                                                                                                 HS       Digitally signed by H
+                                                                                                                                         S RAGHAVENDRA
+                      Chartered Accountants
+                      FRN : 110100W
+                                                                                                                                RAGHAVEN RAO
+                                                                                                                                         Date: 2026.11.11
+                      FRN    : Jagannath
+                       Pradeep 110100W
+                                 Digitally signed by Pradeep
+                                 Jagannath Shetty
+                                                                                                                                DRA RAO  16:38:39 +05'30'
+                      Shetty     Date: 2026.11.11 16:51:23
+                                 +05'30'                                                                                            Dr. H.S. Raghavendra Rao
+                      CA.Pradeep Shetty                                                                                             Chairman & Managing Director
+                      Partner
+                      M No: 046940
+                      Place: Mumbai
+                      Date:11-11-2026
+                      UDIN: 26046940OPZXRU4330
+                                                                                                                                                       DCX SYSTEMS LIMITED
+                                                                               Reg. Off. Address: AEROSPACE SEZ SECTOR,PLOT NOS.29,30 AND 107,HITECH DEFENCE AND AEROSPACE PARK,KAVADADASANAHALLI, KIADB INDUSTRIAL AREA BENGALURU RURAL,
+                                                                                                                        KARNATAKA, INDIA, 562110, CIN: L31908KA2011PLC061686, Website : www.dcxindia.com
+                                                                                                           STATEMENT OF CONSOLIDATED FINANCIAL RESULTS FOR THE QUARTER AND HALF YEAR ENDED 30th SEPTEMBER 2026
+                                                                                                                                                                                                                                                                  (₹ in Millions, unless otherwise stated)
+                                                                                                                                                    Quarter ended                                                                   Half year ended                                           Year ended
+Sl.No. Particulars                                                                                                               30-Sep-26                       30-Jun-26                        30-Sep-25                       30-Sep-26              30-Sep-25                         March 31, 2026
+                                                                                                                              (UNAUDITED)                     (UNAUDITED)                      (UNAUDITED)                     (UNAUDITED)            (UNAUDITED)                              (AUDITED)
+  1    INCOME
+       Revenue from operations                                                                                                   1,401.72                           1,031.25                      1,928.53                        2,432.97               4,150.16                              7,433.44
+       Other income                                                                                                                 79.17                              87.84                        120.49                          167.13                 259.96                                451.33
+       Total income                                                                                                              1,480.89                           1,119.09                      2,049.02                        2,600.10               4,410.12                              7,884.77
+  2    Expenses:
+       Cost of materials consumed                                                                                                  582.47                           1,344.23                      1,798.01                        1,926.71               3,851.04                               8,322.47
+       Changes in inventories of finished goods, by-products and work in progress                                                  674.57                            (407.55)                          -                            267.02                    -                                (1,537.33)
+       Employee benefits expense                                                                                                    93.97                              92.06                        166.19                          186.03                 233.90                                 400.69
+       Finance costs                                                                                                                 9.55                               8.38                          7.47                           17.93                  16.59                                  33.08
+       Depreciation and amortization expense                                                                                        38.95                              36.80                         37.95                           75.74                  73.28                                 153.38
+       Other expenses                                                                                                               62.60                             109.33                         92.49                          172.05                 182.10                                 418.69
+       Total expenses                                                                                                            1,462.11                           1,183.25                      2,102.11                        2,645.48               4,356.91                               7,790.98
+
+  3    Profit before exceptional Items and Tax (1-2)                                                                                18.78                             (64.16)                       (53.09)                          (45.38)                53.21                                  93.79
+  4    Exceptional Items                                                                                                              -                                  -                             -
+  5    Profit before Share in Profit / (Loss) of Associate and Tax Expense                                                          18.78                             (64.16)                       (53.09)                          (45.38)                53.21                                  93.79
+  6    Share in Profit / (Loss) of Associate (net of Tax expense)                                                                   (0.21)                             (0.75)                          -                              (0.95)                  -                                    (0.48)
+  7    Profit before Tax Expense                                                                                                    18.57                             (64.92)                       (53.09)                          (46.33)                53.21                                  93.31
+
+  8    Tax expense :
+       Current tax                                                                                                                  22.38                              23.22                         39.69                           45.60                 107.81                                180.47
+       Deferred tax                                                                                                                 (1.24)                             (1.56)                        (2.38)                          (2.80)                 (4.77)                               (10.05)
+       MAT                                                                                                                                                               -                             -
+                                                                                                                                    21.14                              21.66                         37.31                           42.80                 103.04                                170.42
+
+ 9     Profit for the Period from continuing operations (7-8)                                                                        (2.57)                           (86.58)                       (90.40)                          (89.13)               (49.83)                                (77.11)
+ 10    Profit /(Loss) for the period discontinued operations                                                                           -                                 -                             -                                -                     -                                      -
+ 11    Tax Expenses of discontinued operations                                                                                         -                                 -                             -                                -                     -                                      -
+ 12    Profit from discontinued operations (after tax) (10-11)                                                                         -                                 -                             -                                -                     -                                      -
+ 13    Profit for the Period (9+12)                                                                                                  (2.57)                           (86.58)                       (90.40)                          (89.13)               (49.83)                                (77.11)
+ 14    Other comprehensive (loss)/ income
+       Items that will not be reclassified subsequently to profit or loss
+       (i) Remeasurements of defined benefit liability / (asset)                                                                      -                                  -                             -                                -                     -                                     0.18
+       (i) Income tax relating to remeasurements of defined benefit liability / (asset)                                               -                                  -                             -                                -                     -                                    (0.03)
+                                                                                                                                      -                                  -                             -                                -                     -                                     0.15
+
+       ii. Items that will be reclassified subsequently to profit or loss ;
+       (i) The effective portion of gains and loss on hedging instruments in a cash flow hedge                                        -                                 -                              -                               -                      -                                     -
+       (ii) Income tax relating to items that will be reclassified to profit or loss                                                  -                                 -                              -                               -                      -                                     -
+       (iii)Exchange differences on translating the financials                                                                     (83.06)                           295.17                         294.26                          212.11                 590.43                              1,201.43
+                                                                                                                                   (83.06)                           295.17                         294.26                          212.11                 590.43                              1,201.43
+
+       Total Other comprehensive income                                                                                            (83.06)                           295.17                         294.26                          212.11                 590.43                              1,201.58
+ 15    Total comprehensive income for the period (13+14)                                                                           (85.63)                           208.59                         203.86                          122.98                 540.60                              1,124.47
+       Profit attributable to:
+       Owners of the Company                                                                                                         (2.57)                           (86.58)                       (90.40)                          (89.13)               (49.83)                                (77.11)
+       Non-controlling interests
+       Other Comprehensive Income attributable to:
+       Owners of the Company                                                                                                       (83.06)                           295.17                         294.26                          212.11                 590.43                              1,201.58
+       Non-controlling interests
+ 16    Paid-up Equity share Capital (Face Value of Rs 2/-)                                                                         222.78                            222.78                         222.78                          222.78                 222.78                                222.78
+ 17    Other Equity                                                                                                                                                                                                                                                                           14,907.42
+ 18    Earnings per equity share for Continuing operations (Not Annualized)
+                  - Basic (Rs.)                                                                                                      (0.02)                            (0.78)                        (0.81)                           (0.80)                (0.45)                                 (0.69)
+                  - Diluted (Rs.)                                                                                                    (0.02)                            (0.78)                        (0.81)                           (0.80)                (0.45)                                 (0.69)
+ 19    Earnings per equity share for discontinued operations (Not Annualized)
+                  - Basic (Rs.)                                                                                                       -                                  -                             -                                -                     -                                      -
+                  - Diluted (Rs.)                                                                                                     -                                  -                             -                                -                     -                                      -
+ 20    Earnings per equity share for discontinued and continuing operations (Not Annualized)
+                  - Basic (Rs.)                                                                                                      (0.02)                            (0.78)                        (0.81)                           (0.80)                (0.45)                                 (0.69)
+                  - Diluted (Rs.)                                                                                                    (0.02)                            (0.78)                        (0.81)                           (0.80)                (0.45)                                 (0.69)
+                                                                                                                                                        DCX SYSTEMS LIMITED
+                                                                                Reg. Off. Address: AEROSPACE SEZ SECTOR,PLOT NOS.29,30 AND 107,HITECH DEFENCE AND AEROSPACE PARK,KAVADADASANAHALLI, KIADB INDUSTRIAL AREA BENGALURU RURAL,
+                                                                                                                         KARNATAKA, INDIA, 562110, CIN: L31908KA2011PLC061686, Website : www.dcxindia.com
+                                                                                                            STATEMENT OF CONSOLIDATED FINANCIAL RESULTS FOR THE QUARTER AND HALF YEAR ENDED 30th SEPTEMBER 2026
+
+Note
+        The consolidated financial results include the result of company, subsidiary entities and Associate company.
+                                          Quarters ended September 30th, 2026
+        Name of the Company                                                                                                     Revenue in Mn                    PAT (₹ in Millions)
+        Raneal Advanced Systems Private limited *(RASPL)                                                                              238.00                                 (19.35)
+        Niart Systems limited **(Niart)                                                                                                     -                                (25.92)
+        ELTX Systems private limted*** (Associate company)                                                                                  -                                  (0.21)
+        Total                                                                                                                          238.00                                (45.48)
+
+                                      For the half year ended September 30th, 2026
+        Name of the Company                                                                                                     Revenue in Mn                    PAT (₹ in Millions)
+        Raneal Advanced Systems Private limited *(RASPL)                                                                               437.39                                (43.45)
+        Niart systems limited **(Niart)                                                                                                     -                               (132.43)
+        ELTX Systems private limted*** (Associate company)                                                                                  -                                  (0.95)
+        Total                                                                                                                           437.39                              (176.83)
+
+        * During the quarter and half year ended under review, out of the total revenue of the Raneal, an amount of Rs. 217.89 Mn and 397.21 Mn has been billed to parent company DCX systems limited.
+        ** Niart as a research and development company incurred the cost for development of product and yet to commence the commercial production. Since the product is still under development stage the expenditure related to development project was recognised into capital expenditure as per Ind AS 38.The above loss
+        includes Rs 62.00 Mn for the half year ended, which is on account of loss on foreign currency translation as on measurement date as per Ind AS 21.
+        *** During the period ELTX has not yet commenced its operation .
+
+
+
+For
+NBS & Co.
+Chartered Accountants                                                                                                                                                                                                                                                                            For DCX Systems Limited
+FRN : 110100W
+                                                                                                                                                                                                                                                                                         HS       Digitally signed by
+                                                                                                                                                                                                                                                                                                  H S RAGHAVENDRA
+Pradeep Digitally signed by
+         Pradeep
+Jagannat Jagannath   Shetty                                                                                                                                                                                                                                                              RAGHAVE RAO
+         Date: 2026.11.11                                                                                                                                                                                                                                                                         Date: 2026.11.11
+h Shetty 16:52:20 +05'30'
+                                                                                                                                                                                                                                                                                         NDRA RAO 16:39:02 +05'30'
+CA.Pradeep Shetty                                                                                                                                                                                                                                                                                Dr. H.S. Raghavendra Rao
+Partner                                                                                                                                                                                                                                                                                          Chairman & Managing Director
+M No: 046940
+Place: Mumbai
+Date: 11-11-2026
+UDIN: 26046940OPZXRU4330
+                                                                                    DCX SYSTEMS LIMITED
+                Reg. Off. Address: AEROSPACE SEZ SECTOR,PLOT NOS.29,30 AND 107,HITECH DEFENCE AND AEROSPACE PARK,KAVADADASANAHALLI, KIADB INDUSTRIAL AREA BENGALURU RURAL,
+                                                          KARNATAKA, INDIA, 562110, CIN: L31908KA2011PLC061686, Website : www.dcxindia.com
+                                                   CONSOLIDATED CASH FLOW STATEMENT FOR THE HALF YEAR ENDED 30th SEPTEMBER 2026
+                                                                                                                                                     (₹ In Millions, unless otherwise stated )
+
+                                                                                                                           For the half year ended                   For the half year ended
+Particulars
+                                                                                                                             30th September 2026                       30th September 2025
+
+                                                                                                                                   (UNAUDITED)                                 (UNAUDITED)
+A. Cash flow from operating activities
+  Profit before tax                                                                                                                        (46.33)                                      53.21
+  Adjustments to reconcile profit before tax to net cash flows:
+   Interest on fixed deposits                                                                                                            (167.05)                                     (259.51)
+   Profit on sale of fixed assets                                                                                                                                                         -
+   Interest on borrowings                                                                                                                    -                                          15.17
+   Depreciation and amortisation expense                                                                                                   75.74                                        73.28
+Exchange differences on translating the financials                                                                                        212.11                                       590.43
+Lease liability interest expenses paid                                                                                                       -                                            -
+Remeasurements of defined benefit                                                                                                            -                                            -
+Operating profit before working capital changes                                                                                            74.47                                       472.58
+Movement in working capital:
+
+(Increase)/Decrease in trade receivables                                                                                                   825.41                                      235.53
+(Increase)/Decrease in inventories                                                                                                      (1,602.76)                                  (2,072.69)
+(Increase)/Decrease in other current assets                                                                                                964.49                                     (231.37)
+(Increase)/Decrease in other non current financial assets                                                                                    0.81                                       24.21
+(Increase)/Decrease in other current financial assets                                                                                       (5.43)                                      (4.01)
+Increase/(Decrease) in trade payables                                                                                                      446.62                                    1,051.14
+Increase/(Decrease) in non current provisions                                                                                                6.99                                        3.33
+Increase/(Decrease) in current provisions                                                                                                    1.73                                        3.81
+Increase/(Decrease) in other current financial liabilities                                                                                   8.50                                     (132.07)
+Increase/(Decrease) in other current liabilities                                                                                           540.14                                      277.10
+Increase/(Decrease) in other non current lease liabilities                                                                                  12.17                                       12.89
+Increase/(Decrease) in current lease liabilities                                                                                              -                                           -
+ Cash generated from operations                                                                                                          1,273.14                                     (359.55)
+ Net income tax (paid)                                                                                                                    (139.44)                                    (144.55)
+ Net cash from operating activities (A)                                                                                                  1,133.70                                     (504.10)
+
+B. Cash flows from investing activities
+Purchase of property, plant and equipment and Other Intangible assets                                                                    (441.30)                                    (786.64)
+Proceeds from disposal of property, plant and equipment                                                                                                                                  -
+Investment in Subsidiary/                                                                                                                (842.27)                                        -
+Interest received                                                                                                                         167.05                                      259.51
+Lease liability interest expenses paid                                                                                                       -                                           -
+Net cash from investing activities (B)                                                                                                 (1,116.52)                                    (527.13)
+
+C. Cash flows from financing activities
+    Working Capital/Term Loan                                                                                                                 -                                        (0.09)
+   Net Proceeds from issue of Shares                                                                                                                                                   (0.64)
+Fund Raising Expenses                                                                                                                         -                                          -
+   Share warrant                                                                                                                            19.60                                     236.78
+    Interest Paid                                                                                                                             -                                       (15.17)
+Increase/(Decrease) in current lease liabilities                                                                                           (21.64)                                    (15.23)
+Net cash from financing activities ( C )                                                                                                    (2.04)                                    205.65
+
+Net increase / (decrease) in Cash and cash equivalents (A+B+C)                                                                             15.14                                     (825.58)
+Effect of exchange differences on restatement of foreign currency Cash and cash equivalents
+Cash and cash equivalents at the beginning of the period                                                                                1,139.80                                    1,938.28
+Cash and cash equivalents at the end of the period                                                                                      1,154.94                                    1,112.70
+
+Notes:-
+1. Cash and cash equivalents include
+      Cash on hand                                                                                                                          0.00                                         0.00
+      Balances with bank
+         - Current accounts                                                                                                             1,154.94                                    1,112.70
+                                                                                                                                        1,154.94                                    1,112.70
+                                                                                     DCX SYSTEMS LIMITED
+                   Reg. Off. Address: AEROSPACE SEZ SECTOR,PLOT NOS.29,30 AND 107,HITECH DEFENCE AND AEROSPACE PARK,KAVADADASANAHALLI, KIADB INDUSTRIAL AREA BENGALURU RURAL,
+                                                             KARNATAKA, INDIA, 562110, CIN: L31908KA2011PLC061686, Website : www.dcxindia.com
+
+NOTES :
+
+1. The above financial results have been reviewed by the Audit Committee and approved by the Board of Directors at the meetings held on November 11, 2026 respectively.
+2. The Company is one of the leading Indian Defence Manufacturing player offering a full service and manufacture of Electronic Subsystems and Cable Harnesses for both International and domestic
+reputed customers.
+3.The Company had invested in Raneal Advanced Systems Private Limited (RASPL) and NIART systems Limited ,which are wholly owned subsidiaries of the company. In furtherance of various project
+related initiatives, the Company has so far invested Rs. 3,269.78 Mn from time to time till September 30, 2026 in the form of equity (RASPL Rs 328.38 Mn and NIART Rs 2097.25 Mn). Further, the
+Company had also invested in ELTX Systems private limted ( Associate company) so far Rs 844.15 Mn and holding 37%, further ELTX has not yet commenced its operation during the period.
+
+4. The Statutory Auditors have carried out limited review of financial results for the quarter and half year ended September 30, 2026.
+5. The previous periods' figures have been regrouped to conform to Current period's required classification.
+6.Other expnese includes gain on account of foreign exchange fluctuation of Rs. 3.19 Mn and loss on account of foreign exchange fluctuation of Rs. Rs.50.65 Mn for the quarter and half year ended
+September 30, 2026 and Other expnese includes loss on account of foreign exchange fluctuation of Rs. 31.33 Mn and Rs.65.11 Mn for the quarter and half year ended September 30, 2025.
+
+
+7. The Company has only one geographic as well as manufacturing unit, in the context of the Ind AS 108 Operating Segment, is considered to constitute one single primary segment.
+
+For                                                                                                             For DCX Systems Ltd
+NBS & Co.                                                                                                     HS          Digitally signed by H S
+                                                                                                                          RAGHAVENDRA RAO
+Chartered Accountants                                                                                         RAGHAVENDRA Date: 2026.11.11
+FRN : 110100W                                                                                                 RAO         16:39:26 +05'30'
+                                                                                                               Dr. H.S. Raghavendra Rao
+ Pradeep Digitally signed
+           by Pradeep                                                                                          Chairman & Managing Director
+ Jagannat Jagannath   Shetty
+FRN : 110100W
+           Date: 2026.11.11
+ h Shetty 16:53:01 +05'30'
+CA.Pradeep Shetty
+Partner
+M No: 046940
+Place: Mumbai
+Date:11-11-2026
+UDIN: 26046940OPZXRU4330
+

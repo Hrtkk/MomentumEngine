@@ -1,0 +1,1 @@
+{"symbol": "ADANIENSOL", "security_id": "INE931S01010", "session": "2026-10-13", "close_inr": 1296.9, "return_pct": 1.3203124999999982, "relative_volume": 0.4295037973503451, "events": ["CROSSED_ABOVE_SMA200"], "production_eligible": false, "calculation_version": "r1-cutoff-20261013-1", "event_type": "CROSSED_ABOVE_SMA200", "finding_id": "6c5a77a295794754c3ff"}
